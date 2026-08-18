@@ -1,3 +1,132 @@
+## 2026-08-18 01:51 PM CDT
+
+**Movies added:**
+- AMC Screen Unseen: August 31
+- Dune: Part Three Insider Screenings
+- Dune: Part Three
+- Oasis: Don't Look Back in Anger
+- Oasis: Don’t Look Back In Anger IMAX Early Access
+
+**Showtime changes:**
+- The End of Oak Street
+  - + AMC Lincoln Square 13 @ 2026-08-24T09:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-24T12:10:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-24T14:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-24T17:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-24T20:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-24T23:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-25T13:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-25T16:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-25T19:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-25T22:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-26T09:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-26T12:10:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-26T14:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-26T17:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-26T20:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-26T23:00:00 (Standard)
+- Tony
+  - + AMC Lincoln Square 13 @ 2026-08-24T18:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-25T18:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-26T10:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-26T13:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-26T16:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-26T18:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-26T19:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-26T22:15:00 (Standard)
+- Harry Potter And The Philosopher's Stone: 25th Anniversary 
+  - + AMC 34th Street 14 @ 2026-08-27T21:40:00 (RealD 3D)
+- AMC Scream Unseen: August 24
+  - + AMC Lincoln Square 13 @ 2026-08-24T19:30:00 (Standard)
+- The Odyssey
+  - + AMC 34th Street 14 @ 2026-08-18T22:25:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-24T11:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-24T15:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-24T21:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-25T11:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-25T15:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-25T21:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-26T11:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-26T15:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-26T19:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-26T21:45:00 (Standard)
+- The Magic Faraway Tree
+  - + AMC Lincoln Square 13 @ 2026-08-24T10:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-24T13:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-24T16:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-25T10:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-25T13:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-25T16:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-26T10:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-26T13:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-26T16:30:00 (Standard)
+- Spa Weekend
+  - + AMC Lincoln Square 13 @ 2026-08-24T09:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-24T22:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-25T09:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-25T22:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-26T09:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-26T11:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-26T14:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-26T16:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-26T19:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-26T22:15:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-08-24T09:00:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-08-24T21:45:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-08-25T09:00:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-08-25T21:45:00 (Standard)
+- Insidious: Out of the Further
+  - + AMC Lincoln Square 13 @ 2026-08-24T22:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-25T22:15:00 (Standard)
+- Texas Chainsaw Day (2026)
+  - − AMC 34th Street 14 @ 2026-08-18T22:30:00 (Standard)
+- The Dog Stars
+  - − AMC 34th Street 14 @ 2026-08-27T22:40:00 (Standard)
+- Spider-Man: Brand New Day
+  - + AMC Lincoln Square 13 @ 2026-08-24T10:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-24T13:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-24T17:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-24T20:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-25T10:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-25T13:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-25T17:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-25T20:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-26T10:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-26T13:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-26T17:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-26T20:30:00 (Standard)
+- The Rivals of Amziah King
+  - + AMC Lincoln Square 13 @ 2026-08-24T14:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-25T14:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-26T14:45:00 (Standard)
+- One Night Only
+  - + AMC Lincoln Square 13 @ 2026-08-24T12:05:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-24T21:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-25T12:05:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-25T21:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-26T12:05:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-26T19:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-26T22:30:00 (Standard)
+- Teenage Sex and Death at Camp Miasma
+  - + AMC Lincoln Square 13 @ 2026-08-24T11:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-24T14:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-24T17:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-24T20:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-24T21:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-24T23:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-25T10:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-25T14:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-25T17:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-25T20:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-25T21:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-25T23:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-26T11:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-26T14:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-26T17:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-26T20:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-26T21:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-26T23:00:00 (Standard)
+
 ## 2026-08-18 05:32 AM CDT
 
 No changes.
