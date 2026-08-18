@@ -1,0 +1,136 @@
+"""
+config.py
+
+Global configuration for the Movie Calendar project.
+"""
+
+import os
+from pathlib import Path
+
+# ============================================================
+# Project directories
+# ============================================================
+
+ROOT = Path(__file__).resolve().parent
+
+FETCHERS_DIR = ROOT / "fetchers"
+
+CACHE_DIR = ROOT / "cache"
+
+DOCS_DIR = ROOT / "docs"
+
+CACHE_DIR.mkdir(exist_ok=True)
+
+DOCS_DIR.mkdir(exist_ok=True)
+
+# ============================================================
+# Generated files
+# ============================================================
+
+MOVIES_JSON = DOCS_DIR / "movies.json"
+
+OMDB_CACHE = CACHE_DIR / "omdb_cache.json"
+
+# ============================================================
+# API Keys
+# ============================================================
+
+AMC_API_KEY = os.getenv("AMC_API_KEY")
+
+OMDB_API_KEY = os.getenv("OMDB_API_KEY")
+
+# ============================================================
+# API Endpoints
+# ============================================================
+
+AMC_BASE_URL = "https://api.amctheatres.com/v2"
+
+OMDB_BASE_URL = "https://www.omdbapi.com/"
+
+# ============================================================
+# Request settings
+# ============================================================
+
+REQUEST_TIMEOUT = 30
+
+USER_AGENT = (
+    "MovieCalendar/1.0 "
+    "(https://github.com/yourusername/movie-calendar)"
+)
+
+SHOWTIME_PAGE_SIZE = 100
+
+OMDB_DELAY = 0.25
+
+# ============================================================
+# New York City Theaters
+# ============================================================
+
+AMC_THEATERS = {
+    2116: {
+        "name": "AMC Lincoln Square 13",
+        "city": "New York",
+    },
+    2102: {
+        "name": "AMC 84th Street 6",
+        "city": "New York",
+    },
+    2120: {
+        "name": "AMC 34th Street 14",
+        "city": "New York",
+    },
+}
+
+TARGET_THEATERS = [
+    AMC_THEATERS[2116]["name"],
+    AMC_THEATERS[2102]["name"],
+    AMC_THEATERS[2120]["name"],
+]
+
+# ============================================================
+# Poster settings
+# ============================================================
+
+POSTER_PRIORITY = [
+    "posterDynamic",
+    "posterAlternateDynamic",
+    "poster3DDynamic",
+    "posterIMAXDynamic",
+    "posterDynamic180X74",
+]
+
+# ============================================================
+# OMDb fields
+# ============================================================
+
+OMDB_RATINGS = {
+    "Internet Movie Database": "imdb",
+    "Rotten Tomatoes": "rotten",
+    "Metacritic": "metacritic",
+}
+
+# ============================================================
+# Helpers
+# ============================================================
+
+def require_api_key(name: str) -> str:
+    """
+    Raises a helpful exception if an API key is missing.
+    """
+
+    value = os.getenv(name)
+
+    if not value:
+        raise RuntimeError(
+            f"{name} environment variable is not set."
+        )
+
+    return value
+
+
+def get_amc_key() -> str:
+    return require_api_key("AMC_API_KEY")
+
+
+def get_omdb_key() -> str:
+    return require_api_key("OMDB_API_KEY")
