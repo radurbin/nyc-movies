@@ -1,11 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-08-19T11:39:39.948401-05:00",
-    "movie_count": 61,
-    "showtime_count": 2681,
+    "generated_at": "2026-08-19T17:32:34.901891-05:00",
+    "movie_count": 60,
+    "showtime_count": 2701,
     "theaters": {
       "AMC 34th Street 14": 1223,
-      "AMC Lincoln Square 13": 1088,
+      "AMC Lincoln Square 13": 1108,
       "AMC 84th Street 6": 370
     }
   },
@@ -513,7 +513,7 @@
           "showtime_id": 145900266,
           "datetime": "2026-08-31T19:00:00",
           "datetime_utc": "2026-08-31T23:00:00Z",
-          "auditorium": 12,
+          "auditorium": 9,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-31/lincolnsquare/all/145900266",
           "sold_out": false,
@@ -12835,7 +12835,7 @@
           "premium_format": "Dolby Cinema at AMC",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-23/lincolnsquare/all/145283778",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": true,
@@ -32037,48 +32037,6 @@
         },
         {
           "source": "AMC",
-          "theater_id": 2116,
-          "theater": "AMC Lincoln Square 13",
-          "showtime_id": 146172601,
-          "datetime": "2026-12-18T01:00:00",
-          "datetime_utc": "2026-12-18T06:00:00Z",
-          "auditorium": 13,
-          "premium_format": "70mm",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-18/lincolnsquare/all/146172601",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "70mm",
-            "AMC Artisan Films",
-            "AMC Club Rockers",
-            "IMAX at AMC",
-            "IMAX 70MM",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 31.49,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 28.49,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 29.99,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
           "theater_id": 2120,
           "theater": "AMC 34th Street 14",
           "showtime_id": 146329619,
@@ -32116,48 +32074,6 @@
             {
               "type": "SENIOR",
               "price": 28.99,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 2116,
-          "theater": "AMC Lincoln Square 13",
-          "showtime_id": 146172606,
-          "datetime": "2026-12-18T06:00:00",
-          "datetime_utc": "2026-12-18T11:00:00Z",
-          "auditorium": 13,
-          "premium_format": "70mm",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-18/lincolnsquare/all/146172606",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": true,
-          "discount_message": "UP TO 15% OFF",
-          "attributes": [
-            "70mm",
-            "AMC Artisan Films",
-            "AMC Club Rockers",
-            "IMAX at AMC",
-            "IMAX 70MM",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 26.79,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 24.39,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 25.59,
               "tax": 0.0
             }
           ]
@@ -32207,48 +32123,6 @@
         },
         {
           "source": "AMC",
-          "theater_id": 2116,
-          "theater": "AMC Lincoln Square 13",
-          "showtime_id": 146172604,
-          "datetime": "2026-12-18T09:15:00",
-          "datetime_utc": "2026-12-18T14:15:00Z",
-          "auditorium": 13,
-          "premium_format": "70mm",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-18/lincolnsquare/all/146172604",
-          "sold_out": false,
-          "almost_sold_out": true,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": true,
-          "discount_message": "UP TO 15% OFF",
-          "attributes": [
-            "70mm",
-            "AMC Artisan Films",
-            "AMC Club Rockers",
-            "IMAX at AMC",
-            "IMAX 70MM",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 26.79,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 24.39,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 25.59,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
           "theater_id": 2120,
           "theater": "AMC 34th Street 14",
           "showtime_id": 145971310,
@@ -32292,48 +32166,6 @@
         },
         {
           "source": "AMC",
-          "theater_id": 2116,
-          "theater": "AMC Lincoln Square 13",
-          "showtime_id": 146172603,
-          "datetime": "2026-12-18T12:30:00",
-          "datetime_utc": "2026-12-18T17:30:00Z",
-          "auditorium": 13,
-          "premium_format": "70mm",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-18/lincolnsquare/all/146172603",
-          "sold_out": false,
-          "almost_sold_out": true,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": true,
-          "discount_message": "UP TO 15% OFF",
-          "attributes": [
-            "70mm",
-            "AMC Artisan Films",
-            "AMC Club Rockers",
-            "IMAX at AMC",
-            "IMAX 70MM",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 26.79,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 24.39,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 25.59,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
           "theater_id": 2120,
           "theater": "AMC 34th Street 14",
           "showtime_id": 145971311,
@@ -32371,48 +32203,6 @@
             {
               "type": "SENIOR",
               "price": 24.79,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 2116,
-          "theater": "AMC Lincoln Square 13",
-          "showtime_id": 146172602,
-          "datetime": "2026-12-18T16:00:00",
-          "datetime_utc": "2026-12-18T21:00:00Z",
-          "auditorium": 13,
-          "premium_format": "70mm",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-18/lincolnsquare/all/146172602",
-          "sold_out": false,
-          "almost_sold_out": true,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "70mm",
-            "AMC Artisan Films",
-            "AMC Club Rockers",
-            "IMAX at AMC",
-            "IMAX 70MM",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 31.49,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 28.49,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 29.99,
               "tax": 0.0
             }
           ]
@@ -32548,90 +32338,6 @@
         },
         {
           "source": "AMC",
-          "theater_id": 2116,
-          "theater": "AMC Lincoln Square 13",
-          "showtime_id": 146172605,
-          "datetime": "2026-12-19T02:30:00",
-          "datetime_utc": "2026-12-19T07:30:00Z",
-          "auditorium": 13,
-          "premium_format": "70mm",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-19/lincolnsquare/all/146172605",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "70mm",
-            "AMC Artisan Films",
-            "AMC Club Rockers",
-            "IMAX at AMC",
-            "IMAX 70MM",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 31.49,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 28.49,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 29.99,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 2116,
-          "theater": "AMC Lincoln Square 13",
-          "showtime_id": 146172073,
-          "datetime": "2026-12-19T06:00:00",
-          "datetime_utc": "2026-12-19T11:00:00Z",
-          "auditorium": 13,
-          "premium_format": "70mm",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-19/lincolnsquare/all/146172073",
-          "sold_out": false,
-          "almost_sold_out": true,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": true,
-          "discount_message": "UP TO 15% OFF",
-          "attributes": [
-            "70mm",
-            "AMC Artisan Films",
-            "AMC Club Rockers",
-            "IMAX at AMC",
-            "IMAX 70MM",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 26.79,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 24.39,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 25.59,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
           "theater_id": 2120,
           "theater": "AMC 34th Street 14",
           "showtime_id": 145971299,
@@ -32675,48 +32381,6 @@
         },
         {
           "source": "AMC",
-          "theater_id": 2116,
-          "theater": "AMC Lincoln Square 13",
-          "showtime_id": 146172032,
-          "datetime": "2026-12-19T09:15:00",
-          "datetime_utc": "2026-12-19T14:15:00Z",
-          "auditorium": 13,
-          "premium_format": "70mm",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-19/lincolnsquare/all/146172032",
-          "sold_out": false,
-          "almost_sold_out": true,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": true,
-          "discount_message": "UP TO 15% OFF",
-          "attributes": [
-            "70mm",
-            "AMC Artisan Films",
-            "AMC Club Rockers",
-            "IMAX at AMC",
-            "IMAX 70MM",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 26.79,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 24.39,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 25.59,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
           "theater_id": 2120,
           "theater": "AMC 34th Street 14",
           "showtime_id": 145971300,
@@ -32754,48 +32418,6 @@
             {
               "type": "SENIOR",
               "price": 24.79,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 2116,
-          "theater": "AMC Lincoln Square 13",
-          "showtime_id": 146172031,
-          "datetime": "2026-12-19T12:30:00",
-          "datetime_utc": "2026-12-19T17:30:00Z",
-          "auditorium": 13,
-          "premium_format": "70mm",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-19/lincolnsquare/all/146172031",
-          "sold_out": false,
-          "almost_sold_out": true,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": true,
-          "discount_message": "UP TO 15% OFF",
-          "attributes": [
-            "70mm",
-            "AMC Artisan Films",
-            "AMC Club Rockers",
-            "IMAX at AMC",
-            "IMAX 70MM",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 26.79,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 24.39,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 25.59,
               "tax": 0.0
             }
           ]
@@ -32974,90 +32596,6 @@
         },
         {
           "source": "AMC",
-          "theater_id": 2116,
-          "theater": "AMC Lincoln Square 13",
-          "showtime_id": 146172033,
-          "datetime": "2026-12-20T02:30:00",
-          "datetime_utc": "2026-12-20T07:30:00Z",
-          "auditorium": 13,
-          "premium_format": "70mm",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-20/lincolnsquare/all/146172033",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "70mm",
-            "AMC Artisan Films",
-            "AMC Club Rockers",
-            "IMAX at AMC",
-            "IMAX 70MM",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 31.49,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 28.49,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 29.99,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 2116,
-          "theater": "AMC Lincoln Square 13",
-          "showtime_id": 146172062,
-          "datetime": "2026-12-20T06:00:00",
-          "datetime_utc": "2026-12-20T11:00:00Z",
-          "auditorium": 13,
-          "premium_format": "70mm",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-20/lincolnsquare/all/146172062",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": true,
-          "discount_message": "UP TO 15% OFF",
-          "attributes": [
-            "70mm",
-            "AMC Artisan Films",
-            "AMC Club Rockers",
-            "IMAX at AMC",
-            "IMAX 70MM",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 26.79,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 24.39,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 25.59,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
           "theater_id": 2120,
           "theater": "AMC 34th Street 14",
           "showtime_id": 145971296,
@@ -33095,48 +32633,6 @@
             {
               "type": "SENIOR",
               "price": 24.79,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 2116,
-          "theater": "AMC Lincoln Square 13",
-          "showtime_id": 146172080,
-          "datetime": "2026-12-20T09:15:00",
-          "datetime_utc": "2026-12-20T14:15:00Z",
-          "auditorium": 13,
-          "premium_format": "70mm",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-20/lincolnsquare/all/146172080",
-          "sold_out": false,
-          "almost_sold_out": true,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": true,
-          "discount_message": "UP TO 15% OFF",
-          "attributes": [
-            "70mm",
-            "AMC Artisan Films",
-            "AMC Club Rockers",
-            "IMAX at AMC",
-            "IMAX 70MM",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 26.79,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 24.39,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 25.59,
               "tax": 0.0
             }
           ]
@@ -33186,48 +32682,6 @@
         },
         {
           "source": "AMC",
-          "theater_id": 2116,
-          "theater": "AMC Lincoln Square 13",
-          "showtime_id": 146172035,
-          "datetime": "2026-12-20T12:30:00",
-          "datetime_utc": "2026-12-20T17:30:00Z",
-          "auditorium": 13,
-          "premium_format": "70mm",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-20/lincolnsquare/all/146172035",
-          "sold_out": false,
-          "almost_sold_out": true,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": true,
-          "discount_message": "UP TO 15% OFF",
-          "attributes": [
-            "70mm",
-            "AMC Artisan Films",
-            "AMC Club Rockers",
-            "IMAX at AMC",
-            "IMAX 70MM",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 26.79,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 24.39,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 25.59,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
           "theater_id": 2120,
           "theater": "AMC 34th Street 14",
           "showtime_id": 145971293,
@@ -33265,48 +32719,6 @@
             {
               "type": "SENIOR",
               "price": 24.79,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 2116,
-          "theater": "AMC Lincoln Square 13",
-          "showtime_id": 146172034,
-          "datetime": "2026-12-20T16:00:00",
-          "datetime_utc": "2026-12-20T21:00:00Z",
-          "auditorium": 13,
-          "premium_format": "70mm",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-20/lincolnsquare/all/146172034",
-          "sold_out": false,
-          "almost_sold_out": true,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "70mm",
-            "AMC Artisan Films",
-            "AMC Club Rockers",
-            "IMAX at AMC",
-            "IMAX 70MM",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 31.49,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 28.49,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 29.99,
               "tax": 0.0
             }
           ]
@@ -33408,7 +32820,7 @@
           "premium_format": "70mm",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-21/lincolnsquare/all/146174286",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": true,
@@ -33493,7 +32905,7 @@
           "premium_format": "70mm",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-21/lincolnsquare/all/146174285",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": true,
@@ -33706,7 +33118,7 @@
           "premium_format": "70mm",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-21/lincolnsquare/all/146174287",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -33834,7 +33246,7 @@
           "premium_format": "70mm",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-22/lincolnsquare/all/146174311",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": true,
@@ -33921,7 +33333,7 @@
           "premium_format": "70mm",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-22/lincolnsquare/all/146174310",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": true,
@@ -34008,7 +33420,7 @@
           "premium_format": "70mm",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-22/lincolnsquare/all/146174289",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -34086,49 +33498,6 @@
         },
         {
           "source": "AMC",
-          "theater_id": 2116,
-          "theater": "AMC Lincoln Square 13",
-          "showtime_id": 146174288,
-          "datetime": "2026-12-22T19:30:00",
-          "datetime_utc": "2026-12-23T00:30:00Z",
-          "auditorium": 13,
-          "premium_format": "70mm",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-22/lincolnsquare/all/146174288",
-          "sold_out": false,
-          "almost_sold_out": true,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "70mm",
-            "AMC Artisan Films",
-            "AMC Club Rockers",
-            "Excluded from 50% off Discount",
-            "IMAX at AMC",
-            "IMAX 70MM",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 31.49,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 28.49,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 29.99,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
           "theater_id": 2120,
           "theater": "AMC 34th Street 14",
           "showtime_id": 145971283,
@@ -34138,7 +33507,7 @@
           "premium_format": "IMAX at AMC",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-22/34thstreet/all/145971283",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -34182,7 +33551,7 @@
           "premium_format": "70mm",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-22/lincolnsquare/all/146174312",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -34312,7 +33681,7 @@
           "premium_format": "70mm",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-23/lincolnsquare/all/146174304",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": true,
@@ -34399,7 +33768,7 @@
           "premium_format": "70mm",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-23/lincolnsquare/all/146174315",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": true,
@@ -34486,7 +33855,7 @@
           "premium_format": "70mm",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-23/lincolnsquare/all/146174314",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -34660,7 +34029,7 @@
           "premium_format": "70mm",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-23/lincolnsquare/all/146174305",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -34832,7 +34201,7 @@
           "premium_format": "70mm",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-24/lincolnsquare/all/146172083",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": true,
@@ -34917,7 +34286,7 @@
           "premium_format": "70mm",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-24/lincolnsquare/all/146172082",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -35002,7 +34371,7 @@
           "premium_format": "70mm",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-24/lincolnsquare/all/146172081",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -35257,7 +34626,7 @@
           "premium_format": "70mm",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-25/lincolnsquare/all/146172074",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": true,
@@ -35342,7 +34711,7 @@
           "premium_format": "70mm",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-25/lincolnsquare/all/146172075",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -35427,7 +34796,7 @@
           "premium_format": "70mm",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-25/lincolnsquare/all/146172076",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -35724,7 +35093,7 @@
           "premium_format": "70mm",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-26/lincolnsquare/all/146172079",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": true,
@@ -35809,7 +35178,7 @@
           "premium_format": "70mm",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-26/lincolnsquare/all/146172068",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -35979,7 +35348,7 @@
           "premium_format": "70mm",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-26/lincolnsquare/all/146172070",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -36106,7 +35475,7 @@
           "premium_format": "70mm",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-27/lincolnsquare/all/146172063",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": true,
@@ -36182,48 +35551,6 @@
         },
         {
           "source": "AMC",
-          "theater_id": 2116,
-          "theater": "AMC Lincoln Square 13",
-          "showtime_id": 146172064,
-          "datetime": "2026-12-27T12:30:00",
-          "datetime_utc": "2026-12-27T17:30:00Z",
-          "auditorium": 13,
-          "premium_format": "70mm",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-27/lincolnsquare/all/146172064",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": true,
-          "discount_message": "UP TO 15% OFF",
-          "attributes": [
-            "70mm",
-            "AMC Artisan Films",
-            "AMC Club Rockers",
-            "IMAX at AMC",
-            "IMAX 70MM",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 26.79,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 24.39,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 25.59,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
           "theater_id": 2120,
           "theater": "AMC 34th Street 14",
           "showtime_id": 145971254,
@@ -36276,7 +35603,7 @@
           "premium_format": "70mm",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-27/lincolnsquare/all/146172065",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -36361,7 +35688,7 @@
           "premium_format": "70mm",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-27/lincolnsquare/all/146172066",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -36658,7 +35985,7 @@
           "premium_format": "70mm",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-28/lincolnsquare/all/146174308",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -36743,7 +36070,7 @@
           "premium_format": "70mm",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-28/lincolnsquare/all/146174309",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -37087,7 +36414,7 @@
           "premium_format": "70mm",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-29/lincolnsquare/all/146174301",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -37174,7 +36501,7 @@
           "premium_format": "70mm",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-29/lincolnsquare/all/146174302",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -38333,7 +37660,7 @@
           "premium_format": "70mm",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-01/lincolnsquare/all/146172052",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -38503,7 +37830,7 @@
           "premium_format": "70mm",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-02/lincolnsquare/all/146172054",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": true,
@@ -38579,48 +37906,6 @@
         },
         {
           "source": "AMC",
-          "theater_id": 2116,
-          "theater": "AMC Lincoln Square 13",
-          "showtime_id": 146172055,
-          "datetime": "2027-01-02T12:30:00",
-          "datetime_utc": "2027-01-02T17:30:00Z",
-          "auditorium": 13,
-          "premium_format": "70mm",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-02/lincolnsquare/all/146172055",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": true,
-          "discount_message": "UP TO 15% OFF",
-          "attributes": [
-            "70mm",
-            "AMC Artisan Films",
-            "AMC Club Rockers",
-            "IMAX at AMC",
-            "IMAX 70MM",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 26.79,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 24.39,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 25.59,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
           "theater_id": 2120,
           "theater": "AMC 34th Street 14",
           "showtime_id": 145971226,
@@ -38658,48 +37943,6 @@
             {
               "type": "SENIOR",
               "price": 24.79,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 2116,
-          "theater": "AMC Lincoln Square 13",
-          "showtime_id": 146172044,
-          "datetime": "2027-01-02T16:00:00",
-          "datetime_utc": "2027-01-02T21:00:00Z",
-          "auditorium": 13,
-          "premium_format": "70mm",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-02/lincolnsquare/all/146172044",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "70mm",
-            "AMC Artisan Films",
-            "AMC Club Rockers",
-            "IMAX at AMC",
-            "IMAX 70MM",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 31.49,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 28.49,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 29.99,
               "tax": 0.0
             }
           ]
@@ -38758,7 +38001,7 @@
           "premium_format": "70mm",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-02/lincolnsquare/all/146172045",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -38843,7 +38086,7 @@
           "premium_format": "70mm",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-02/lincolnsquare/all/146172046",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -38919,6 +38162,48 @@
         },
         {
           "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 146172047,
+          "datetime": "2027-01-03T09:00:00",
+          "datetime_utc": "2027-01-03T14:00:00Z",
+          "auditorium": 13,
+          "premium_format": "70mm",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-03/lincolnsquare/all/146172047",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "UP TO 15% OFF",
+          "attributes": [
+            "70mm",
+            "AMC Artisan Films",
+            "AMC Club Rockers",
+            "IMAX at AMC",
+            "IMAX 70MM",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 26.79,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 24.39,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 25.59,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
           "theater_id": 2120,
           "theater": "AMC 34th Street 14",
           "showtime_id": 145971220,
@@ -38956,6 +38241,48 @@
             {
               "type": "SENIOR",
               "price": 24.79,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 146172048,
+          "datetime": "2027-01-03T12:30:00",
+          "datetime_utc": "2027-01-03T17:30:00Z",
+          "auditorium": 13,
+          "premium_format": "70mm",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-03/lincolnsquare/all/146172048",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "UP TO 15% OFF",
+          "attributes": [
+            "70mm",
+            "AMC Artisan Films",
+            "AMC Club Rockers",
+            "IMAX at AMC",
+            "IMAX 70MM",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 26.79,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 24.39,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 25.59,
               "tax": 0.0
             }
           ]
@@ -39005,6 +38332,48 @@
         },
         {
           "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 146172049,
+          "datetime": "2027-01-03T16:00:00",
+          "datetime_utc": "2027-01-03T21:00:00Z",
+          "auditorium": 13,
+          "premium_format": "70mm",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-03/lincolnsquare/all/146172049",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "70mm",
+            "AMC Artisan Films",
+            "AMC Club Rockers",
+            "IMAX at AMC",
+            "IMAX 70MM",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 31.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 28.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 29.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
           "theater_id": 2120,
           "theater": "AMC 34th Street 14",
           "showtime_id": 145971223,
@@ -39042,6 +38411,48 @@
             {
               "type": "SENIOR",
               "price": 28.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 146172039,
+          "datetime": "2027-01-03T19:30:00",
+          "datetime_utc": "2027-01-04T00:30:00Z",
+          "auditorium": 13,
+          "premium_format": "70mm",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-03/lincolnsquare/all/146172039",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "70mm",
+            "AMC Artisan Films",
+            "AMC Club Rockers",
+            "IMAX at AMC",
+            "IMAX 70MM",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 31.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 28.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 29.99,
               "tax": 0.0
             }
           ]
@@ -39091,6 +38502,48 @@
         },
         {
           "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 146172040,
+          "datetime": "2027-01-03T23:00:00",
+          "datetime_utc": "2027-01-04T04:00:00Z",
+          "auditorium": 13,
+          "premium_format": "70mm",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-03/lincolnsquare/all/146172040",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "70mm",
+            "AMC Artisan Films",
+            "AMC Club Rockers",
+            "IMAX at AMC",
+            "IMAX 70MM",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 31.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 28.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 29.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
           "theater_id": 2120,
           "theater": "AMC 34th Street 14",
           "showtime_id": 145971221,
@@ -39128,6 +38581,90 @@
             {
               "type": "SENIOR",
               "price": 28.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 146171961,
+          "datetime": "2027-01-04T09:00:00",
+          "datetime_utc": "2027-01-04T14:00:00Z",
+          "auditorium": 13,
+          "premium_format": "70mm",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-04/lincolnsquare/all/146171961",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "UP TO 15% OFF",
+          "attributes": [
+            "70mm",
+            "AMC Artisan Films",
+            "AMC Club Rockers",
+            "IMAX at AMC",
+            "IMAX 70MM",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 26.79,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 24.39,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 25.59,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 146171962,
+          "datetime": "2027-01-04T12:30:00",
+          "datetime_utc": "2027-01-04T17:30:00Z",
+          "auditorium": 13,
+          "premium_format": "70mm",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-04/lincolnsquare/all/146171962",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "UP TO 15% OFF",
+          "attributes": [
+            "70mm",
+            "AMC Artisan Films",
+            "AMC Club Rockers",
+            "IMAX at AMC",
+            "IMAX 70MM",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 26.79,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 24.39,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 25.59,
               "tax": 0.0
             }
           ]
@@ -39177,6 +38714,48 @@
         },
         {
           "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 146171963,
+          "datetime": "2027-01-04T16:00:00",
+          "datetime_utc": "2027-01-04T21:00:00Z",
+          "auditorium": 13,
+          "premium_format": "70mm",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-04/lincolnsquare/all/146171963",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "70mm",
+            "AMC Artisan Films",
+            "AMC Club Rockers",
+            "IMAX at AMC",
+            "IMAX 70MM",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 31.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 28.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 29.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
           "theater_id": 2120,
           "theater": "AMC 34th Street 14",
           "showtime_id": 145971214,
@@ -39214,6 +38793,48 @@
             {
               "type": "SENIOR",
               "price": 28.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 146171964,
+          "datetime": "2027-01-04T19:30:00",
+          "datetime_utc": "2027-01-05T00:30:00Z",
+          "auditorium": 13,
+          "premium_format": "70mm",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-04/lincolnsquare/all/146171964",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "70mm",
+            "AMC Artisan Films",
+            "AMC Club Rockers",
+            "IMAX at AMC",
+            "IMAX 70MM",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 31.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 28.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 29.99,
               "tax": 0.0
             }
           ]
@@ -39263,6 +38884,48 @@
         },
         {
           "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 146171965,
+          "datetime": "2027-01-04T23:00:00",
+          "datetime_utc": "2027-01-05T04:00:00Z",
+          "auditorium": 13,
+          "premium_format": "70mm",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-04/lincolnsquare/all/146171965",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "70mm",
+            "AMC Artisan Films",
+            "AMC Club Rockers",
+            "IMAX at AMC",
+            "IMAX 70MM",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 31.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 28.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 29.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
           "theater_id": 2120,
           "theater": "AMC 34th Street 14",
           "showtime_id": 145971212,
@@ -39300,6 +38963,48 @@
             {
               "type": "SENIOR",
               "price": 28.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 146171966,
+          "datetime": "2027-01-05T09:00:00",
+          "datetime_utc": "2027-01-05T14:00:00Z",
+          "auditorium": 13,
+          "premium_format": "70mm",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-05/lincolnsquare/all/146171966",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "UP TO 15% OFF",
+          "attributes": [
+            "70mm",
+            "AMC Artisan Films",
+            "AMC Club Rockers",
+            "IMAX at AMC",
+            "IMAX 70MM",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 26.79,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 24.39,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 25.59,
               "tax": 0.0
             }
           ]
@@ -39349,6 +39054,48 @@
         },
         {
           "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 146172000,
+          "datetime": "2027-01-05T12:30:00",
+          "datetime_utc": "2027-01-05T17:30:00Z",
+          "auditorium": 13,
+          "premium_format": "70mm",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-05/lincolnsquare/all/146172000",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "UP TO 15% OFF",
+          "attributes": [
+            "70mm",
+            "AMC Artisan Films",
+            "AMC Club Rockers",
+            "IMAX at AMC",
+            "IMAX 70MM",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 26.79,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 24.39,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 25.59,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
           "theater_id": 2120,
           "theater": "AMC 34th Street 14",
           "showtime_id": 145971217,
@@ -39386,6 +39133,48 @@
             {
               "type": "SENIOR",
               "price": 24.79,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 146172001,
+          "datetime": "2027-01-05T16:00:00",
+          "datetime_utc": "2027-01-05T21:00:00Z",
+          "auditorium": 13,
+          "premium_format": "70mm",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-05/lincolnsquare/all/146172001",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "70mm",
+            "AMC Artisan Films",
+            "AMC Club Rockers",
+            "IMAX at AMC",
+            "IMAX 70MM",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 31.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 28.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 29.99,
               "tax": 0.0
             }
           ]
@@ -39435,6 +39224,48 @@
         },
         {
           "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 146172002,
+          "datetime": "2027-01-05T19:30:00",
+          "datetime_utc": "2027-01-06T00:30:00Z",
+          "auditorium": 13,
+          "premium_format": "70mm",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-05/lincolnsquare/all/146172002",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "70mm",
+            "AMC Artisan Films",
+            "AMC Club Rockers",
+            "IMAX at AMC",
+            "IMAX 70MM",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 31.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 28.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 29.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
           "theater_id": 2120,
           "theater": "AMC 34th Street 14",
           "showtime_id": 145971215,
@@ -39472,6 +39303,48 @@
             {
               "type": "SENIOR",
               "price": 28.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 146172003,
+          "datetime": "2027-01-05T23:00:00",
+          "datetime_utc": "2027-01-06T04:00:00Z",
+          "auditorium": 13,
+          "premium_format": "70mm",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-05/lincolnsquare/all/146172003",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "70mm",
+            "AMC Artisan Films",
+            "AMC Club Rockers",
+            "IMAX at AMC",
+            "IMAX 70MM",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 31.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 28.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 29.99,
               "tax": 0.0
             }
           ]
@@ -39521,6 +39394,90 @@
         },
         {
           "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 146172004,
+          "datetime": "2027-01-06T09:00:00",
+          "datetime_utc": "2027-01-06T14:00:00Z",
+          "auditorium": 13,
+          "premium_format": "70mm",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-06/lincolnsquare/all/146172004",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "UP TO 15% OFF",
+          "attributes": [
+            "70mm",
+            "AMC Artisan Films",
+            "AMC Club Rockers",
+            "IMAX at AMC",
+            "IMAX 70MM",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 26.79,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 24.39,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 25.59,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 146172005,
+          "datetime": "2027-01-06T12:30:00",
+          "datetime_utc": "2027-01-06T17:30:00Z",
+          "auditorium": 13,
+          "premium_format": "70mm",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-06/lincolnsquare/all/146172005",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "UP TO 15% OFF",
+          "attributes": [
+            "70mm",
+            "AMC Artisan Films",
+            "AMC Club Rockers",
+            "IMAX at AMC",
+            "IMAX 70MM",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 26.79,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 24.39,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 25.59,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
           "theater_id": 2120,
           "theater": "AMC 34th Street 14",
           "showtime_id": 146196820,
@@ -39558,6 +39515,48 @@
             {
               "type": "SENIOR",
               "price": 24.79,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 146171994,
+          "datetime": "2027-01-06T16:00:00",
+          "datetime_utc": "2027-01-06T21:00:00Z",
+          "auditorium": 13,
+          "premium_format": "70mm",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-06/lincolnsquare/all/146171994",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "70mm",
+            "AMC Artisan Films",
+            "AMC Club Rockers",
+            "IMAX at AMC",
+            "IMAX 70MM",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 31.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 28.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 29.99,
               "tax": 0.0
             }
           ]
@@ -39607,6 +39606,48 @@
         },
         {
           "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 146171995,
+          "datetime": "2027-01-06T19:30:00",
+          "datetime_utc": "2027-01-07T00:30:00Z",
+          "auditorium": 13,
+          "premium_format": "70mm",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-06/lincolnsquare/all/146171995",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "70mm",
+            "AMC Artisan Films",
+            "AMC Club Rockers",
+            "IMAX at AMC",
+            "IMAX 70MM",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 31.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 28.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 29.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
           "theater_id": 2120,
           "theater": "AMC 34th Street 14",
           "showtime_id": 146196822,
@@ -39650,6 +39691,48 @@
         },
         {
           "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 146171996,
+          "datetime": "2027-01-06T23:00:00",
+          "datetime_utc": "2027-01-07T04:00:00Z",
+          "auditorium": 13,
+          "premium_format": "70mm",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-06/lincolnsquare/all/146171996",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "70mm",
+            "AMC Artisan Films",
+            "AMC Club Rockers",
+            "IMAX at AMC",
+            "IMAX 70MM",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 31.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 28.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 29.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
           "theater_id": 2120,
           "theater": "AMC 34th Street 14",
           "showtime_id": 146196823,
@@ -39687,6 +39770,426 @@
             {
               "type": "SENIOR",
               "price": 28.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 146171997,
+          "datetime": "2027-01-07T09:00:00",
+          "datetime_utc": "2027-01-07T14:00:00Z",
+          "auditorium": 13,
+          "premium_format": "70mm",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-07/lincolnsquare/all/146171997",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "UP TO 15% OFF",
+          "attributes": [
+            "70mm",
+            "AMC Artisan Films",
+            "AMC Club Rockers",
+            "IMAX at AMC",
+            "IMAX 70MM",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 26.79,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 24.39,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 25.59,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 146171998,
+          "datetime": "2027-01-07T12:30:00",
+          "datetime_utc": "2027-01-07T17:30:00Z",
+          "auditorium": 13,
+          "premium_format": "70mm",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-07/lincolnsquare/all/146171998",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "UP TO 15% OFF",
+          "attributes": [
+            "70mm",
+            "AMC Artisan Films",
+            "AMC Club Rockers",
+            "IMAX at AMC",
+            "IMAX 70MM",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 26.79,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 24.39,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 25.59,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 146171999,
+          "datetime": "2027-01-07T16:00:00",
+          "datetime_utc": "2027-01-07T21:00:00Z",
+          "auditorium": 13,
+          "premium_format": "70mm",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-07/lincolnsquare/all/146171999",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "70mm",
+            "AMC Artisan Films",
+            "AMC Club Rockers",
+            "IMAX at AMC",
+            "IMAX 70MM",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 31.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 28.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 29.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 146171988,
+          "datetime": "2027-01-07T19:30:00",
+          "datetime_utc": "2027-01-08T00:30:00Z",
+          "auditorium": 13,
+          "premium_format": "70mm",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-07/lincolnsquare/all/146171988",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "70mm",
+            "AMC Artisan Films",
+            "AMC Club Rockers",
+            "IMAX at AMC",
+            "IMAX 70MM",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 31.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 28.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 29.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 146171989,
+          "datetime": "2027-01-07T23:00:00",
+          "datetime_utc": "2027-01-08T04:00:00Z",
+          "auditorium": 13,
+          "premium_format": "70mm",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-07/lincolnsquare/all/146171989",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "70mm",
+            "AMC Artisan Films",
+            "AMC Club Rockers",
+            "IMAX at AMC",
+            "IMAX 70MM",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 31.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 28.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 29.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 146171990,
+          "datetime": "2027-01-08T09:00:00",
+          "datetime_utc": "2027-01-08T14:00:00Z",
+          "auditorium": 13,
+          "premium_format": "70mm",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-08/lincolnsquare/all/146171990",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "UP TO 15% OFF",
+          "attributes": [
+            "70mm",
+            "AMC Artisan Films",
+            "AMC Club Rockers",
+            "IMAX at AMC",
+            "IMAX 70MM",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 26.79,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 24.39,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 25.59,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 146171991,
+          "datetime": "2027-01-08T12:30:00",
+          "datetime_utc": "2027-01-08T17:30:00Z",
+          "auditorium": 13,
+          "premium_format": "70mm",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-08/lincolnsquare/all/146171991",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "UP TO 15% OFF",
+          "attributes": [
+            "70mm",
+            "AMC Artisan Films",
+            "AMC Club Rockers",
+            "IMAX at AMC",
+            "IMAX 70MM",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 26.79,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 24.39,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 25.59,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 146171992,
+          "datetime": "2027-01-08T16:00:00",
+          "datetime_utc": "2027-01-08T21:00:00Z",
+          "auditorium": 13,
+          "premium_format": "70mm",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-08/lincolnsquare/all/146171992",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "70mm",
+            "AMC Artisan Films",
+            "AMC Club Rockers",
+            "IMAX at AMC",
+            "IMAX 70MM",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 31.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 28.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 29.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 146171993,
+          "datetime": "2027-01-08T19:30:00",
+          "datetime_utc": "2027-01-09T00:30:00Z",
+          "auditorium": 13,
+          "premium_format": "70mm",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-08/lincolnsquare/all/146171993",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "70mm",
+            "AMC Artisan Films",
+            "AMC Club Rockers",
+            "IMAX at AMC",
+            "IMAX 70MM",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 31.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 28.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 29.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 146171982,
+          "datetime": "2027-01-08T23:00:00",
+          "datetime_utc": "2027-01-09T04:00:00Z",
+          "auditorium": 13,
+          "premium_format": "70mm",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-08/lincolnsquare/all/146171982",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "70mm",
+            "AMC Artisan Films",
+            "AMC Club Rockers",
+            "IMAX at AMC",
+            "IMAX 70MM",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 31.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 28.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 29.99,
               "tax": 0.0
             }
           ]
@@ -40329,6 +40832,47 @@
       "showtimes": [
         {
           "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 146372640,
+          "datetime": "2026-08-27T14:00:00",
+          "datetime_utc": "2026-08-27T18:00:00Z",
+          "auditorium": 9,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-27/lincolnsquare/all/146372640",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Club Rockers",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 17.19,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 14.79,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 15.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
           "theater_id": 2120,
           "theater": "AMC 34th Street 14",
           "showtime_id": 145563535,
@@ -40364,6 +40908,47 @@
             {
               "type": "SENIOR",
               "price": 15.19,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 146372637,
+          "datetime": "2026-08-27T16:45:00",
+          "datetime_utc": "2026-08-27T20:45:00Z",
+          "auditorium": 9,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-27/lincolnsquare/all/146372637",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Club Rockers",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 21.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 18.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 19.99,
               "tax": 0.0
             }
           ]
@@ -40452,6 +41037,47 @@
         },
         {
           "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 146372638,
+          "datetime": "2026-08-27T19:45:00",
+          "datetime_utc": "2026-08-27T23:45:00Z",
+          "auditorium": 9,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-27/lincolnsquare/all/146372638",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Club Rockers",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 21.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 18.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 19.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
           "theater_id": 2120,
           "theater": "AMC 34th Street 14",
           "showtime_id": 145563538,
@@ -40487,6 +41113,47 @@
             {
               "type": "SENIOR",
               "price": 18.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 146372639,
+          "datetime": "2026-08-27T22:45:00",
+          "datetime_utc": "2026-08-28T02:45:00Z",
+          "auditorium": 9,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-27/lincolnsquare/all/146372639",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Club Rockers",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 21.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 18.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 19.99,
               "tax": 0.0
             }
           ]
@@ -42222,90 +42889,6 @@
       ]
     },
     {
-      "sort_index": "ice cream man",
-      "source": "AMC",
-      "movie_id": 83358,
-      "title": "Ice Cream Man",
-      "release_year": 1995,
-      "runtime": 86,
-      "rating": "NR",
-      "genres": [
-        "Horror"
-      ],
-      "poster": "posters/ice-cream-man-1995.jpg",
-      "backdrop": null,
-      "short_description": null,
-      "plot": "Poor Gregory. After being released from the Wishing Well Sanatorium, all he wants to do is make the children happy. So Gregory reopens the old ice cream factory, and all the unappreciative brats are reprocessed into the flavor of ...",
-      "directors": [
-        "Norman Apstein"
-      ],
-      "writers": [
-        "David Dobkin",
-        "Sven Davison"
-      ],
-      "actors": [
-        "Clint Howard",
-        "Justin Isfeld",
-        "Anndi McAfee"
-      ],
-      "imdb_id": "tt0113376",
-      "imdb_rating": "4.8",
-      "imdb_votes": "5,051",
-      "rotten_tomatoes": null,
-      "metacritic": null,
-      "awards": "N/A",
-      "language": "English",
-      "country": "United States",
-      "box_office": "N/A",
-      "website": null,
-      "movie_url": "https://www.amctheatres.com/movies/ice-cream-man-83358",
-      "trailer_url": null,
-      "showtimes": [
-        {
-          "source": "AMC",
-          "theater_id": 2120,
-          "theater": "AMC 34th Street 14",
-          "showtime_id": 145971339,
-          "datetime": "2026-08-19T22:40:00",
-          "datetime_utc": "2026-08-20T02:40:00Z",
-          "auditorium": 14,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-19/34thstreet/all/145971339",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Laser at AMC",
-            "Open Caption (On-screen Subtitles)",
-            "AMC Signature Recliners",
-            "Reserved Seating",
-            "Thrills & Chills",
-            "ID Required"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 20.49,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 17.49,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 18.99,
-              "tax": 0.0
-            }
-          ]
-        }
-      ]
-    },
-    {
       "sort_index": "idiots early access",
       "source": "AMC",
       "movie_id": 84783,
@@ -42391,15 +42974,15 @@
       ]
     },
     {
-      "sort_index": "idiots q&a w/ dave franco, o'shae jackson jr., & mason thames",
+      "sort_index": "idiots q&a w/ dave franco, o’shea jackson jr., & mason thames",
       "source": "AMC",
       "movie_id": 84691,
-      "title": "Idiots Q&A w/ Dave Franco, O'Shae Jackson Jr., & Mason Thames",
+      "title": "Idiots Q&A w/ Dave Franco, O’Shea Jackson Jr., & Mason Thames",
       "release_year": null,
       "runtime": 129,
       "rating": "R",
       "genres": [],
-      "poster": "posters/idiots-qa-w-dave-franco-oshae-jackson-jr-mason-thames.jpg",
+      "poster": "posters/idiots-qa-w-dave-franco-oshea-jackson-jr-mason-thames.jpg",
       "backdrop": null,
       "short_description": null,
       "plot": null,
@@ -50121,48 +50704,6 @@
         },
         {
           "source": "AMC",
-          "theater_id": 2116,
-          "theater": "AMC Lincoln Square 13",
-          "showtime_id": 146218809,
-          "datetime": "2026-08-25T09:30:00",
-          "datetime_utc": "2026-08-25T13:30:00Z",
-          "auditorium": 1,
-          "premium_format": "Dolby Cinema at AMC",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-25/lincolnsquare/all/146218809",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": true,
-          "discount_message": "UP TO 15% OFF",
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Dolby Cinema at AMC",
-            "Event",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 25.19,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 22.79,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 23.99,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
           "theater_id": 2120,
           "theater": "AMC 34th Street 14",
           "showtime_id": 146259607,
@@ -54428,47 +54969,6 @@
         },
         {
           "source": "AMC",
-          "theater_id": 2116,
-          "theater": "AMC Lincoln Square 13",
-          "showtime_id": 146172278,
-          "datetime": "2026-09-10T23:15:00",
-          "datetime_utc": "2026-09-11T03:15:00Z",
-          "auditorium": 9,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-10/lincolnsquare/all/146172278",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "AMC Club Rockers",
-            "Closed Caption",
-            "Audio Description",
-            "Laser at AMC",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 21.49,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 18.49,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 19.99,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
           "theater_id": 2120,
           "theater": "AMC 34th Street 14",
           "showtime_id": 145970943,
@@ -54931,7 +55431,7 @@
           "showtime_id": 146172306,
           "datetime": "2026-09-12T10:15:00",
           "datetime_utc": "2026-09-12T14:15:00Z",
-          "auditorium": 9,
+          "auditorium": 8,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-12/lincolnsquare/all/146172306",
           "sold_out": false,
@@ -55013,7 +55513,7 @@
           "showtime_id": 146172307,
           "datetime": "2026-09-12T13:15:00",
           "datetime_utc": "2026-09-12T17:15:00Z",
-          "auditorium": 9,
+          "auditorium": 8,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-12/lincolnsquare/all/146172307",
           "sold_out": false,
@@ -55053,7 +55553,7 @@
           "showtime_id": 146172308,
           "datetime": "2026-09-12T16:15:00",
           "datetime_utc": "2026-09-12T20:15:00Z",
-          "auditorium": 9,
+          "auditorium": 8,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-12/lincolnsquare/all/146172308",
           "sold_out": false,
@@ -55136,7 +55636,7 @@
           "showtime_id": 146172297,
           "datetime": "2026-09-12T19:15:00",
           "datetime_utc": "2026-09-12T23:15:00Z",
-          "auditorium": 9,
+          "auditorium": 8,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-12/lincolnsquare/all/146172297",
           "sold_out": false,
@@ -55261,7 +55761,7 @@
           "showtime_id": 146172298,
           "datetime": "2026-09-12T22:15:00",
           "datetime_utc": "2026-09-13T02:15:00Z",
-          "auditorium": 9,
+          "auditorium": 8,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-12/lincolnsquare/all/146172298",
           "sold_out": false,
@@ -55344,7 +55844,7 @@
           "showtime_id": 146172299,
           "datetime": "2026-09-13T10:15:00",
           "datetime_utc": "2026-09-13T14:15:00Z",
-          "auditorium": 9,
+          "auditorium": 8,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-13/lincolnsquare/all/146172299",
           "sold_out": false,
@@ -55426,7 +55926,7 @@
           "showtime_id": 146172300,
           "datetime": "2026-09-13T13:15:00",
           "datetime_utc": "2026-09-13T17:15:00Z",
-          "auditorium": 9,
+          "auditorium": 8,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-13/lincolnsquare/all/146172300",
           "sold_out": false,
@@ -55466,7 +55966,7 @@
           "showtime_id": 146172301,
           "datetime": "2026-09-13T16:15:00",
           "datetime_utc": "2026-09-13T20:15:00Z",
-          "auditorium": 9,
+          "auditorium": 8,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-13/lincolnsquare/all/146172301",
           "sold_out": false,
@@ -55549,7 +56049,7 @@
           "showtime_id": 146172302,
           "datetime": "2026-09-13T19:15:00",
           "datetime_utc": "2026-09-13T23:15:00Z",
-          "auditorium": 9,
+          "auditorium": 8,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-13/lincolnsquare/all/146172302",
           "sold_out": false,
@@ -55674,7 +56174,7 @@
           "showtime_id": 146172291,
           "datetime": "2026-09-13T22:15:00",
           "datetime_utc": "2026-09-14T02:15:00Z",
-          "auditorium": 9,
+          "auditorium": 8,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-13/lincolnsquare/all/146172291",
           "sold_out": false,
@@ -55715,7 +56215,7 @@
           "showtime_id": 146172292,
           "datetime": "2026-09-14T10:15:00",
           "datetime_utc": "2026-09-14T14:15:00Z",
-          "auditorium": 9,
+          "auditorium": 8,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-14/lincolnsquare/all/146172292",
           "sold_out": false,
@@ -55797,7 +56297,7 @@
           "showtime_id": 146172293,
           "datetime": "2026-09-14T13:15:00",
           "datetime_utc": "2026-09-14T17:15:00Z",
-          "auditorium": 9,
+          "auditorium": 8,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-14/lincolnsquare/all/146172293",
           "sold_out": false,
@@ -55837,7 +56337,7 @@
           "showtime_id": 146172294,
           "datetime": "2026-09-14T16:15:00",
           "datetime_utc": "2026-09-14T20:15:00Z",
-          "auditorium": 9,
+          "auditorium": 8,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-14/lincolnsquare/all/146172294",
           "sold_out": false,
@@ -55920,7 +56420,7 @@
           "showtime_id": 146172295,
           "datetime": "2026-09-14T19:15:00",
           "datetime_utc": "2026-09-14T23:15:00Z",
-          "auditorium": 9,
+          "auditorium": 8,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-14/lincolnsquare/all/146172295",
           "sold_out": false,
@@ -56045,7 +56545,7 @@
           "showtime_id": 146172296,
           "datetime": "2026-09-14T22:15:00",
           "datetime_utc": "2026-09-15T02:15:00Z",
-          "auditorium": 9,
+          "auditorium": 8,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-14/lincolnsquare/all/146172296",
           "sold_out": false,
@@ -56128,7 +56628,7 @@
           "showtime_id": 146172285,
           "datetime": "2026-09-15T10:15:00",
           "datetime_utc": "2026-09-15T14:15:00Z",
-          "auditorium": 9,
+          "auditorium": 8,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-15/lincolnsquare/all/146172285",
           "sold_out": false,
@@ -56211,7 +56711,7 @@
           "showtime_id": 146172286,
           "datetime": "2026-09-15T13:15:00",
           "datetime_utc": "2026-09-15T17:15:00Z",
-          "auditorium": 9,
+          "auditorium": 8,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-15/lincolnsquare/all/146172286",
           "sold_out": false,
@@ -56252,7 +56752,7 @@
           "showtime_id": 146172287,
           "datetime": "2026-09-15T16:15:00",
           "datetime_utc": "2026-09-15T20:15:00Z",
-          "auditorium": 9,
+          "auditorium": 8,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-15/lincolnsquare/all/146172287",
           "sold_out": false,
@@ -56335,7 +56835,7 @@
           "showtime_id": 146172288,
           "datetime": "2026-09-15T19:15:00",
           "datetime_utc": "2026-09-15T23:15:00Z",
-          "auditorium": 9,
+          "auditorium": 8,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-15/lincolnsquare/all/146172288",
           "sold_out": false,
@@ -56460,7 +56960,7 @@
           "showtime_id": 146172289,
           "datetime": "2026-09-15T22:15:00",
           "datetime_utc": "2026-09-16T02:15:00Z",
-          "auditorium": 9,
+          "auditorium": 8,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-15/lincolnsquare/all/146172289",
           "sold_out": false,
@@ -56501,7 +57001,7 @@
           "showtime_id": 146172290,
           "datetime": "2026-09-16T10:15:00",
           "datetime_utc": "2026-09-16T14:15:00Z",
-          "auditorium": 9,
+          "auditorium": 8,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-16/lincolnsquare/all/146172290",
           "sold_out": false,
@@ -56583,7 +57083,7 @@
           "showtime_id": 146172281,
           "datetime": "2026-09-16T13:15:00",
           "datetime_utc": "2026-09-16T17:15:00Z",
-          "auditorium": 9,
+          "auditorium": 8,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-16/lincolnsquare/all/146172281",
           "sold_out": false,
@@ -56666,7 +57166,7 @@
           "showtime_id": 146172282,
           "datetime": "2026-09-16T16:15:00",
           "datetime_utc": "2026-09-16T20:15:00Z",
-          "auditorium": 9,
+          "auditorium": 8,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-16/lincolnsquare/all/146172282",
           "sold_out": false,
@@ -56749,7 +57249,7 @@
           "showtime_id": 146172283,
           "datetime": "2026-09-16T19:15:00",
           "datetime_utc": "2026-09-16T23:15:00Z",
-          "auditorium": 9,
+          "auditorium": 8,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-16/lincolnsquare/all/146172283",
           "sold_out": false,
@@ -56831,7 +57331,7 @@
           "showtime_id": 146172284,
           "datetime": "2026-09-16T22:15:00",
           "datetime_utc": "2026-09-17T02:15:00Z",
-          "auditorium": 9,
+          "auditorium": 8,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-16/lincolnsquare/all/146172284",
           "sold_out": false,
@@ -62496,6 +62996,48 @@
         },
         {
           "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 146372620,
+          "datetime": "2026-09-10T18:00:00",
+          "datetime_utc": "2026-09-10T22:00:00Z",
+          "auditorium": 6,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-10/lincolnsquare/all/146372620",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Club Rockers",
+            "AOneLive",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 21.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 18.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 19.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
           "theater_id": 2102,
           "theater": "AMC 84th Street 6",
           "showtime_id": 145785845,
@@ -65175,6 +65717,47 @@
           "source": "AMC",
           "theater_id": 2116,
           "theater": "AMC Lincoln Square 13",
+          "showtime_id": 146372607,
+          "datetime": "2026-09-14T10:00:00",
+          "datetime_utc": "2026-09-14T14:00:00Z",
+          "auditorium": 1,
+          "premium_format": "Dolby Cinema at AMC",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-14/lincolnsquare/all/146372607",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "UP TO 15% OFF",
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Dolby Cinema at AMC",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 25.19,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 22.79,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 23.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
           "showtime_id": 145889818,
           "datetime": "2026-09-14T12:00:00",
           "datetime_utc": "2026-09-14T16:00:00Z",
@@ -65249,6 +65832,47 @@
             {
               "type": "SENIOR",
               "price": 16.79,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 146372608,
+          "datetime": "2026-09-14T13:00:00",
+          "datetime_utc": "2026-09-14T17:00:00Z",
+          "auditorium": 1,
+          "premium_format": "Dolby Cinema at AMC",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-14/lincolnsquare/all/146372608",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "UP TO 15% OFF",
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Dolby Cinema at AMC",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 25.19,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 22.79,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 23.99,
               "tax": 0.0
             }
           ]
@@ -65340,6 +65964,47 @@
           "source": "AMC",
           "theater_id": 2116,
           "theater": "AMC Lincoln Square 13",
+          "showtime_id": 146372604,
+          "datetime": "2026-09-14T16:00:00",
+          "datetime_utc": "2026-09-14T20:00:00Z",
+          "auditorium": 1,
+          "premium_format": "Dolby Cinema at AMC",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-14/lincolnsquare/all/146372604",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Dolby Cinema at AMC",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 29.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 26.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 27.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
           "showtime_id": 145889812,
           "datetime": "2026-09-14T18:00:00",
           "datetime_utc": "2026-09-14T22:00:00Z",
@@ -65414,6 +66079,47 @@
             {
               "type": "SENIOR",
               "price": 20.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 146372605,
+          "datetime": "2026-09-14T19:00:00",
+          "datetime_utc": "2026-09-14T23:00:00Z",
+          "auditorium": 1,
+          "premium_format": "Dolby Cinema at AMC",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-14/lincolnsquare/all/146372605",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Dolby Cinema at AMC",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 29.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 26.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 27.99,
               "tax": 0.0
             }
           ]
@@ -65497,6 +66203,47 @@
             {
               "type": "SENIOR",
               "price": 20.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 146372606,
+          "datetime": "2026-09-14T22:00:00",
+          "datetime_utc": "2026-09-15T02:00:00Z",
+          "auditorium": 1,
+          "premium_format": "Dolby Cinema at AMC",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-14/lincolnsquare/all/146372606",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Dolby Cinema at AMC",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 29.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 26.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 27.99,
               "tax": 0.0
             }
           ]
@@ -72682,7 +73429,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-19/34thstreet/all/145356584",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": true,
@@ -98300,7 +99047,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-19/84thstreet/all/145955251",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -108638,7 +109385,7 @@
           "premium_format": "70mm",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-14/lincolnsquare/all/146369655",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": true,
@@ -108680,7 +109427,7 @@
           "premium_format": "70mm",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-14/lincolnsquare/all/146369654",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -108722,7 +109469,7 @@
           "premium_format": "70mm",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-14/lincolnsquare/all/146369656",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -108806,7 +109553,7 @@
           "premium_format": "70mm",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-15/lincolnsquare/all/146369659",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": true,
@@ -108848,7 +109595,7 @@
           "premium_format": "70mm",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-15/lincolnsquare/all/146369657",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -108890,7 +109637,7 @@
           "premium_format": "70mm",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-15/lincolnsquare/all/146369660",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -111496,7 +112243,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-20/lincolnsquare/all/146172172",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -114803,6 +115550,47 @@
           "auditorium": 12,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-19/34thstreet/all/146207881",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "International Films",
+            "Japanese Spoken with English Subtitles",
+            "Laser at AMC",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 20.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 17.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 18.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
+          "showtime_id": 145971339,
+          "datetime": "2026-08-19T22:40:00",
+          "datetime_utc": "2026-08-20T02:40:00Z",
+          "auditorium": 14,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-19/34thstreet/all/145971339",
           "sold_out": false,
           "almost_sold_out": false,
           "cancelled": false,

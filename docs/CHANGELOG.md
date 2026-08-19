@@ -1,3 +1,81 @@
+## 2026-08-19 05:32 PM CDT
+
+**Movies added:**
+- Idiots Q&A w/ Dave Franco, O’Shea Jackson Jr., & Mason Thames
+
+**Movies removed:**
+- Ice Cream Man
+- Idiots Q&A w/ Dave Franco, O'Shae Jackson Jr., & Mason Thames
+
+**Showtime changes:**
+- La La Land 10th Anniversary
+  - − AMC Lincoln Square 13 @ 2026-08-25T09:30:00 (Dolby Cinema at AMC)
+- Oasis: Don't Look Back in Anger
+  - − AMC Lincoln Square 13 @ 2026-09-10T23:15:00 (Standard)
+- Your Name. 10th Anniversary
+  - + AMC 34th Street 14 @ 2026-08-19T22:40:00 (Standard)
+- Finding Emily
+  - + AMC Lincoln Square 13 @ 2026-08-27T14:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-27T16:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-27T19:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-27T22:45:00 (Standard)
+- Dune: Part Three
+  - + AMC Lincoln Square 13 @ 2027-01-03T09:00:00 (70mm)
+  - + AMC Lincoln Square 13 @ 2027-01-03T12:30:00 (70mm)
+  - + AMC Lincoln Square 13 @ 2027-01-03T16:00:00 (70mm)
+  - + AMC Lincoln Square 13 @ 2027-01-03T19:30:00 (70mm)
+  - + AMC Lincoln Square 13 @ 2027-01-03T23:00:00 (70mm)
+  - + AMC Lincoln Square 13 @ 2027-01-04T09:00:00 (70mm)
+  - + AMC Lincoln Square 13 @ 2027-01-04T12:30:00 (70mm)
+  - + AMC Lincoln Square 13 @ 2027-01-04T16:00:00 (70mm)
+  - + AMC Lincoln Square 13 @ 2027-01-04T19:30:00 (70mm)
+  - + AMC Lincoln Square 13 @ 2027-01-04T23:00:00 (70mm)
+  - + AMC Lincoln Square 13 @ 2027-01-05T09:00:00 (70mm)
+  - + AMC Lincoln Square 13 @ 2027-01-05T12:30:00 (70mm)
+  - + AMC Lincoln Square 13 @ 2027-01-05T16:00:00 (70mm)
+  - + AMC Lincoln Square 13 @ 2027-01-05T19:30:00 (70mm)
+  - + AMC Lincoln Square 13 @ 2027-01-05T23:00:00 (70mm)
+  - + AMC Lincoln Square 13 @ 2027-01-06T09:00:00 (70mm)
+  - + AMC Lincoln Square 13 @ 2027-01-06T12:30:00 (70mm)
+  - + AMC Lincoln Square 13 @ 2027-01-06T16:00:00 (70mm)
+  - + AMC Lincoln Square 13 @ 2027-01-06T19:30:00 (70mm)
+  - + AMC Lincoln Square 13 @ 2027-01-06T23:00:00 (70mm)
+  - + AMC Lincoln Square 13 @ 2027-01-07T09:00:00 (70mm)
+  - + AMC Lincoln Square 13 @ 2027-01-07T12:30:00 (70mm)
+  - + AMC Lincoln Square 13 @ 2027-01-07T16:00:00 (70mm)
+  - + AMC Lincoln Square 13 @ 2027-01-07T19:30:00 (70mm)
+  - + AMC Lincoln Square 13 @ 2027-01-07T23:00:00 (70mm)
+  - + AMC Lincoln Square 13 @ 2027-01-08T09:00:00 (70mm)
+  - + AMC Lincoln Square 13 @ 2027-01-08T12:30:00 (70mm)
+  - + AMC Lincoln Square 13 @ 2027-01-08T16:00:00 (70mm)
+  - + AMC Lincoln Square 13 @ 2027-01-08T19:30:00 (70mm)
+  - + AMC Lincoln Square 13 @ 2027-01-08T23:00:00 (70mm)
+  - − AMC Lincoln Square 13 @ 2026-12-18T01:00:00 (70mm)
+  - − AMC Lincoln Square 13 @ 2026-12-18T06:00:00 (70mm)
+  - − AMC Lincoln Square 13 @ 2026-12-18T09:15:00 (70mm)
+  - − AMC Lincoln Square 13 @ 2026-12-18T12:30:00 (70mm)
+  - − AMC Lincoln Square 13 @ 2026-12-18T16:00:00 (70mm)
+  - − AMC Lincoln Square 13 @ 2026-12-19T02:30:00 (70mm)
+  - − AMC Lincoln Square 13 @ 2026-12-19T06:00:00 (70mm)
+  - − AMC Lincoln Square 13 @ 2026-12-19T09:15:00 (70mm)
+  - − AMC Lincoln Square 13 @ 2026-12-19T12:30:00 (70mm)
+  - − AMC Lincoln Square 13 @ 2026-12-20T02:30:00 (70mm)
+  - − AMC Lincoln Square 13 @ 2026-12-20T06:00:00 (70mm)
+  - − AMC Lincoln Square 13 @ 2026-12-20T09:15:00 (70mm)
+  - − AMC Lincoln Square 13 @ 2026-12-20T12:30:00 (70mm)
+  - − AMC Lincoln Square 13 @ 2026-12-20T16:00:00 (70mm)
+  - − AMC Lincoln Square 13 @ 2026-12-22T19:30:00 (70mm)
+  - − AMC Lincoln Square 13 @ 2026-12-27T12:30:00 (70mm)
+  - − AMC Lincoln Square 13 @ 2027-01-02T12:30:00 (70mm)
+  - − AMC Lincoln Square 13 @ 2027-01-02T16:00:00 (70mm)
+- Practical Magic 2
+  - + AMC Lincoln Square 13 @ 2026-09-10T18:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-14T10:00:00 (Dolby Cinema at AMC)
+  - + AMC Lincoln Square 13 @ 2026-09-14T13:00:00 (Dolby Cinema at AMC)
+  - + AMC Lincoln Square 13 @ 2026-09-14T16:00:00 (Dolby Cinema at AMC)
+  - + AMC Lincoln Square 13 @ 2026-09-14T19:00:00 (Dolby Cinema at AMC)
+  - + AMC Lincoln Square 13 @ 2026-09-14T22:00:00 (Dolby Cinema at AMC)
+
 ## 2026-08-19 11:39 AM CDT
 
 No changes.
