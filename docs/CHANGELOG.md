@@ -1,3 +1,35 @@
+## 2026-08-20 11:43 AM CDT
+
+**Movies added:**
+- Akira
+- HOPE Premium Early Access
+- HOPE: Q&A with director Na Hong-jin and cast
+- Hope
+- Onslaught
+- The Uprising: Early Access Live Q&A with Paul Greengrass and Andrew Garfield
+
+**Showtime changes:**
+- Teenage Sex and Death at Camp Miasma
+  - + AMC Lincoln Square 13 @ 2026-08-27T12:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-27T15:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-27T18:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-27T21:45:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-08-27T13:15:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-08-27T16:15:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-08-27T19:15:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-08-27T22:15:00 (Standard)
+- Coyote vs. Acme
+  - + AMC Lincoln Square 13 @ 2026-08-27T13:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-27T16:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-27T19:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-27T22:15:00 (Standard)
+- Spider-Man: Brand New Day
+  - − AMC Lincoln Square 13 @ 2026-08-27T23:00:00 (Standard)
+- La La Land 10th Anniversary
+  - + AMC Lincoln Square 13 @ 2026-08-25T09:30:00 (Dolby Cinema at AMC)
+- Tony
+  - − AMC Lincoln Square 13 @ 2026-08-27T18:00:00 (Standard)
+
 ## 2026-08-20 05:38 AM CDT
 
 No changes.

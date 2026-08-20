@@ -1,15 +1,508 @@
 {
   "metadata": {
-    "generated_at": "2026-08-20T05:38:26.897446-05:00",
-    "movie_count": 57,
-    "showtime_count": 2591,
+    "generated_at": "2026-08-20T11:43:02.814581-05:00",
+    "movie_count": 63,
+    "showtime_count": 2695,
     "theaters": {
-      "AMC 34th Street 14": 1168,
-      "AMC Lincoln Square 13": 1078,
-      "AMC 84th Street 6": 345
+      "AMC 34th Street 14": 1225,
+      "AMC Lincoln Square 13": 1124,
+      "AMC 84th Street 6": 346
     }
   },
   "movies": [
+    {
+      "sort_index": "akira",
+      "source": "AMC",
+      "movie_id": 84498,
+      "title": "Akira",
+      "release_year": 1988,
+      "runtime": 124,
+      "rating": "R",
+      "genres": [
+        "ANIMATION"
+      ],
+      "poster": "posters/akira-1988.jpg",
+      "backdrop": null,
+      "short_description": null,
+      "plot": "A secret military project endangers Neo-Tokyo when it turns a teenage biker gang member into a rampaging psychic psychopath who can only be stopped by his best friend.",
+      "directors": [
+        "Katsuhiro Ôtomo"
+      ],
+      "writers": [
+        "Katsuhiro Ôtomo",
+        "Izô Hashimoto"
+      ],
+      "actors": [
+        "Mitsuo Iwata",
+        "Nozomu Sasaki",
+        "Mami Koyama"
+      ],
+      "imdb_id": "tt0094625",
+      "imdb_rating": "8.0",
+      "imdb_votes": "223,673",
+      "rotten_tomatoes": "91%",
+      "metacritic": "68/100",
+      "awards": "1 win total",
+      "language": "Japanese",
+      "country": "Japan",
+      "box_office": "$553,171",
+      "website": null,
+      "movie_url": "https://www.amctheatres.com/movies/akira-84498",
+      "trailer_url": null,
+      "showtimes": [
+        {
+          "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
+          "showtime_id": 146259758,
+          "datetime": "2026-09-03T18:45:00",
+          "datetime_utc": "2026-09-03T22:45:00Z",
+          "auditorium": 13,
+          "premium_format": "IMAX at AMC",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-03/34thstreet/all/146259758",
+          "sold_out": false,
+          "almost_sold_out": true,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Club Rockers",
+            "IMAX at AMC",
+            "IMAX with Laser at AMC",
+            "Japanese Spoken with English Subtitles",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 28.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 25.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 26.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
+          "showtime_id": 146259759,
+          "datetime": "2026-09-04T19:30:00",
+          "datetime_utc": "2026-09-04T23:30:00Z",
+          "auditorium": 13,
+          "premium_format": "IMAX at AMC",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-04/34thstreet/all/146259759",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Club Rockers",
+            "IMAX at AMC",
+            "IMAX with Laser at AMC",
+            "Japanese Spoken with English Subtitles",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 28.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 25.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 26.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
+          "showtime_id": 146259760,
+          "datetime": "2026-09-04T22:30:00",
+          "datetime_utc": "2026-09-05T02:30:00Z",
+          "auditorium": 13,
+          "premium_format": "IMAX at AMC",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-04/34thstreet/all/146259760",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Club Rockers",
+            "IMAX at AMC",
+            "IMAX with Laser at AMC",
+            "Japanese Spoken with English Subtitles",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 28.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 25.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 26.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
+          "showtime_id": 146259761,
+          "datetime": "2026-09-05T19:30:00",
+          "datetime_utc": "2026-09-05T23:30:00Z",
+          "auditorium": 13,
+          "premium_format": "IMAX at AMC",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-05/34thstreet/all/146259761",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Club Rockers",
+            "IMAX at AMC",
+            "IMAX with Laser at AMC",
+            "Japanese Spoken with English Subtitles",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 28.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 25.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 26.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
+          "showtime_id": 146259762,
+          "datetime": "2026-09-05T22:30:00",
+          "datetime_utc": "2026-09-06T02:30:00Z",
+          "auditorium": 13,
+          "premium_format": "IMAX at AMC",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-05/34thstreet/all/146259762",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Club Rockers",
+            "IMAX at AMC",
+            "IMAX with Laser at AMC",
+            "Japanese Spoken with English Subtitles",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 28.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 25.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 26.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
+          "showtime_id": 146259752,
+          "datetime": "2026-09-06T19:30:00",
+          "datetime_utc": "2026-09-06T23:30:00Z",
+          "auditorium": 13,
+          "premium_format": "IMAX at AMC",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-06/34thstreet/all/146259752",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Club Rockers",
+            "IMAX at AMC",
+            "IMAX with Laser at AMC",
+            "Japanese Spoken with English Subtitles",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 28.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 25.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 26.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
+          "showtime_id": 146259753,
+          "datetime": "2026-09-06T22:30:00",
+          "datetime_utc": "2026-09-07T02:30:00Z",
+          "auditorium": 13,
+          "premium_format": "IMAX at AMC",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-06/34thstreet/all/146259753",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Club Rockers",
+            "IMAX at AMC",
+            "IMAX with Laser at AMC",
+            "Japanese Spoken with English Subtitles",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 28.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 25.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 26.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
+          "showtime_id": 146259754,
+          "datetime": "2026-09-07T19:00:00",
+          "datetime_utc": "2026-09-07T23:00:00Z",
+          "auditorium": 13,
+          "premium_format": "IMAX at AMC",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-07/34thstreet/all/146259754",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Club Rockers",
+            "IMAX at AMC",
+            "IMAX with Laser at AMC",
+            "Japanese Spoken with English Subtitles",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 28.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 25.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 26.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
+          "showtime_id": 146259755,
+          "datetime": "2026-09-07T22:00:00",
+          "datetime_utc": "2026-09-08T02:00:00Z",
+          "auditorium": 13,
+          "premium_format": "IMAX at AMC",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-07/34thstreet/all/146259755",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Club Rockers",
+            "IMAX at AMC",
+            "IMAX with Laser at AMC",
+            "Japanese Spoken with English Subtitles",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 28.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 25.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 26.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
+          "showtime_id": 146259756,
+          "datetime": "2026-09-08T19:30:00",
+          "datetime_utc": "2026-09-08T23:30:00Z",
+          "auditorium": 13,
+          "premium_format": "IMAX at AMC",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-08/34thstreet/all/146259756",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Club Rockers",
+            "IMAX at AMC",
+            "IMAX with Laser at AMC",
+            "Japanese Spoken with English Subtitles",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 28.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 25.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 26.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
+          "showtime_id": 146259757,
+          "datetime": "2026-09-08T22:30:00",
+          "datetime_utc": "2026-09-09T02:30:00Z",
+          "auditorium": 13,
+          "premium_format": "IMAX at AMC",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-08/34thstreet/all/146259757",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Club Rockers",
+            "IMAX at AMC",
+            "IMAX with Laser at AMC",
+            "Japanese Spoken with English Subtitles",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 28.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 25.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 26.99,
+              "tax": 0.0
+            }
+          ]
+        }
+      ]
+    },
     {
       "sort_index": "all wishes come true!",
       "source": "AMC",
@@ -29018,6 +29511,47 @@
           "source": "AMC",
           "theater_id": 2116,
           "theater": "AMC Lincoln Square 13",
+          "showtime_id": 146379727,
+          "datetime": "2026-08-27T13:30:00",
+          "datetime_utc": "2026-08-27T17:30:00Z",
+          "auditorium": 4,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-27/lincolnsquare/all/146379727",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Club Rockers",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 17.19,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 14.79,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 15.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
           "showtime_id": 145480807,
           "datetime": "2026-08-27T14:45:00",
           "datetime_utc": "2026-08-27T18:45:00Z",
@@ -29093,6 +29627,47 @@
             {
               "type": "SENIOR",
               "price": 18.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 146379726,
+          "datetime": "2026-08-27T16:30:00",
+          "datetime_utc": "2026-08-27T20:30:00Z",
+          "auditorium": 4,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-27/lincolnsquare/all/146379726",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Club Rockers",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 21.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 18.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 19.99,
               "tax": 0.0
             }
           ]
@@ -29184,6 +29759,47 @@
           "source": "AMC",
           "theater_id": 2116,
           "theater": "AMC Lincoln Square 13",
+          "showtime_id": 146379724,
+          "datetime": "2026-08-27T19:15:00",
+          "datetime_utc": "2026-08-27T23:15:00Z",
+          "auditorium": 4,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-27/lincolnsquare/all/146379724",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Club Rockers",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 21.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 18.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 19.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
           "showtime_id": 145480809,
           "datetime": "2026-08-27T20:15:00",
           "datetime_utc": "2026-08-28T00:15:00Z",
@@ -29191,7 +29807,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-27/lincolnsquare/all/145480809",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -29259,6 +29875,47 @@
             {
               "type": "SENIOR",
               "price": 18.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 146379725,
+          "datetime": "2026-08-27T22:15:00",
+          "datetime_utc": "2026-08-28T02:15:00Z",
+          "auditorium": 4,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-27/lincolnsquare/all/146379725",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Club Rockers",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 21.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 18.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 19.99,
               "tax": 0.0
             }
           ]
@@ -32176,7 +32833,7 @@
           "premium_format": "IMAX at AMC",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-18/34thstreet/all/145971309",
           "sold_out": false,
-          "almost_sold_out": true,
+          "almost_sold_out": false,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": true,
@@ -34585,7 +35242,7 @@
           "premium_format": "70mm",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-24/lincolnsquare/all/146172036",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -35944,7 +36601,7 @@
           "premium_format": "70mm",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-27/lincolnsquare/all/146172067",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -36498,7 +37155,7 @@
           "premium_format": "70mm",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-29/lincolnsquare/all/146174300",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": true,
@@ -38554,7 +39211,7 @@
           "premium_format": "70mm",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-03/lincolnsquare/all/146172049",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -43095,6 +43752,902 @@
             {
               "type": "SENIOR",
               "price": 18.99,
+              "tax": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sort_index": "hope",
+      "source": "AMC",
+      "movie_id": 84082,
+      "title": "Hope",
+      "release_year": 2013,
+      "runtime": 157,
+      "rating": "Not Rated",
+      "genres": [
+        "SUSPENSE"
+      ],
+      "poster": "posters/hope-2013.jpg",
+      "backdrop": null,
+      "short_description": null,
+      "plot": "Story of an 8-year-old girl who faces a horrible rape that damages her internally and affects her emotionally, trying to overcome all the obstacles following the incident with the good support of those around her.",
+      "directors": [
+        "Lee Joon-ik"
+      ],
+      "writers": [
+        "Ji-hye Kim"
+      ],
+      "actors": [
+        "Lee Re",
+        "Sul Kyung-gu",
+        "Uhm Ji-won"
+      ],
+      "imdb_id": "tt3153634",
+      "imdb_rating": "8.2",
+      "imdb_votes": "11,399",
+      "rotten_tomatoes": null,
+      "metacritic": null,
+      "awards": "9 wins & 14 nominations total",
+      "language": "Korean",
+      "country": "South Korea",
+      "box_office": "N/A",
+      "website": null,
+      "movie_url": "https://www.amctheatres.com/movies/hope-84082",
+      "trailer_url": null,
+      "showtimes": [
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 146372626,
+          "datetime": "2026-09-09T18:00:00",
+          "datetime_utc": "2026-09-09T22:00:00Z",
+          "auditorium": 7,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-09/lincolnsquare/all/146372626",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "AMC Club Rockers",
+            "AOneLive",
+            "Korean Spoken with English Subtitles",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 21.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 18.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 19.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
+          "showtime_id": 146259612,
+          "datetime": "2026-09-09T18:00:00",
+          "datetime_utc": "2026-09-09T22:00:00Z",
+          "auditorium": 8,
+          "premium_format": "Dolby Cinema at AMC",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-09/34thstreet/all/146259612",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Dolby Cinema at AMC",
+            "Korean Spoken with English Subtitles",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 28.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 25.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 26.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 146372627,
+          "datetime": "2026-09-09T21:45:00",
+          "datetime_utc": "2026-09-10T01:45:00Z",
+          "auditorium": 7,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-09/lincolnsquare/all/146372627",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "AMC Club Rockers",
+            "AOneLive",
+            "Korean Spoken with English Subtitles",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 21.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 18.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 19.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
+          "showtime_id": 146259653,
+          "datetime": "2026-09-10T18:00:00",
+          "datetime_utc": "2026-09-10T22:00:00Z",
+          "auditorium": 10,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-10/34thstreet/all/146259653",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Korean Spoken with English Subtitles",
+            "Laser at AMC",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 20.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 17.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 18.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 146372628,
+          "datetime": "2026-09-10T18:15:00",
+          "datetime_utc": "2026-09-10T22:15:00Z",
+          "auditorium": 7,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-10/lincolnsquare/all/146372628",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "AMC Club Rockers",
+            "AOneLive",
+            "Korean Spoken with English Subtitles",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 21.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 18.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 19.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
+          "showtime_id": 146259652,
+          "datetime": "2026-09-11T18:00:00",
+          "datetime_utc": "2026-09-11T22:00:00Z",
+          "auditorium": 10,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-11/34thstreet/all/146259652",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Korean Spoken with English Subtitles",
+            "Laser at AMC",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 20.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 17.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 18.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 146372622,
+          "datetime": "2026-09-11T18:15:00",
+          "datetime_utc": "2026-09-11T22:15:00Z",
+          "auditorium": 7,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-11/lincolnsquare/all/146372622",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "AMC Club Rockers",
+            "AOneLive",
+            "Korean Spoken with English Subtitles",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 21.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 18.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 19.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
+          "showtime_id": 146259635,
+          "datetime": "2026-09-12T18:00:00",
+          "datetime_utc": "2026-09-12T22:00:00Z",
+          "auditorium": 10,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-12/34thstreet/all/146259635",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Korean Spoken with English Subtitles",
+            "Laser at AMC",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 20.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 17.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 18.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 146372623,
+          "datetime": "2026-09-12T18:15:00",
+          "datetime_utc": "2026-09-12T22:15:00Z",
+          "auditorium": 7,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-12/lincolnsquare/all/146372623",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "AMC Club Rockers",
+            "AOneLive",
+            "Korean Spoken with English Subtitles",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 21.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 18.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 19.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
+          "showtime_id": 146259634,
+          "datetime": "2026-09-13T18:00:00",
+          "datetime_utc": "2026-09-13T22:00:00Z",
+          "auditorium": 10,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-13/34thstreet/all/146259634",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Korean Spoken with English Subtitles",
+            "Laser at AMC",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 20.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 17.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 18.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 146372624,
+          "datetime": "2026-09-13T18:15:00",
+          "datetime_utc": "2026-09-13T22:15:00Z",
+          "auditorium": 7,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-13/lincolnsquare/all/146372624",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "AMC Club Rockers",
+            "AOneLive",
+            "Korean Spoken with English Subtitles",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 21.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 18.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 19.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
+          "showtime_id": 146259636,
+          "datetime": "2026-09-14T18:00:00",
+          "datetime_utc": "2026-09-14T22:00:00Z",
+          "auditorium": 10,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-14/34thstreet/all/146259636",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Korean Spoken with English Subtitles",
+            "Laser at AMC",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 20.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 17.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 18.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 146372625,
+          "datetime": "2026-09-14T18:15:00",
+          "datetime_utc": "2026-09-14T22:15:00Z",
+          "auditorium": 7,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-14/lincolnsquare/all/146372625",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "AMC Club Rockers",
+            "AOneLive",
+            "Korean Spoken with English Subtitles",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 21.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 18.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 19.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
+          "showtime_id": 146259633,
+          "datetime": "2026-09-15T18:00:00",
+          "datetime_utc": "2026-09-15T22:00:00Z",
+          "auditorium": 10,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-15/34thstreet/all/146259633",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Korean Spoken with English Subtitles",
+            "Laser at AMC",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 20.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 17.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 18.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 146372621,
+          "datetime": "2026-09-15T18:15:00",
+          "datetime_utc": "2026-09-15T22:15:00Z",
+          "auditorium": 6,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-15/lincolnsquare/all/146372621",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "AMC Club Rockers",
+            "AOneLive",
+            "Korean Spoken with English Subtitles",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 21.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 18.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 19.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
+          "showtime_id": 146259632,
+          "datetime": "2026-09-16T18:00:00",
+          "datetime_utc": "2026-09-16T22:00:00Z",
+          "auditorium": 10,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-16/34thstreet/all/146259632",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Korean Spoken with English Subtitles",
+            "Laser at AMC",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 20.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 17.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 18.99,
+              "tax": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sort_index": "hope premium early access",
+      "source": "AMC",
+      "movie_id": 84769,
+      "title": "HOPE Premium Early Access",
+      "release_year": null,
+      "runtime": 157,
+      "rating": null,
+      "genres": [],
+      "poster": "posters/hope-premium-early-access.jpg",
+      "backdrop": null,
+      "short_description": null,
+      "plot": null,
+      "directors": [],
+      "writers": [],
+      "actors": [],
+      "imdb_id": null,
+      "imdb_rating": null,
+      "imdb_votes": null,
+      "rotten_tomatoes": null,
+      "metacritic": null,
+      "awards": null,
+      "language": null,
+      "country": null,
+      "box_office": null,
+      "website": null,
+      "movie_url": "https://www.amctheatres.com/movies/hope-premium-early-access-84769",
+      "trailer_url": null,
+      "showtimes": [
+        {
+          "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
+          "showtime_id": 146211245,
+          "datetime": "2026-09-07T18:30:00",
+          "datetime_utc": "2026-09-07T22:30:00Z",
+          "auditorium": 8,
+          "premium_format": "Dolby Cinema at AMC",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-07/34thstreet/all/146211245",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Dolby Cinema at AMC",
+            "Event",
+            "International Films",
+            "Korean Spoken with English Subtitles",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 28.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 25.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 26.99,
+              "tax": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sort_index": "hope: q&a with director na hong-jin and cast",
+      "source": "AMC",
+      "movie_id": 84832,
+      "title": "HOPE: Q&A with director Na Hong-jin and cast",
+      "release_year": null,
+      "runtime": 187,
+      "rating": "NR",
+      "genres": [],
+      "poster": "posters/hope-qa-with-directorna-hong-jin-and-cast.jpg",
+      "backdrop": null,
+      "short_description": null,
+      "plot": null,
+      "directors": [],
+      "writers": [],
+      "actors": [],
+      "imdb_id": null,
+      "imdb_rating": null,
+      "imdb_votes": null,
+      "rotten_tomatoes": null,
+      "metacritic": null,
+      "awards": null,
+      "language": null,
+      "country": null,
+      "box_office": null,
+      "website": null,
+      "movie_url": "https://www.amctheatres.com/movies/hope-q-a-with-director-na-hong-jin-and-cast-84832",
+      "trailer_url": null,
+      "showtimes": [
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 146377389,
+          "datetime": "2026-09-07T18:30:00",
+          "datetime_utc": "2026-09-07T22:30:00Z",
+          "auditorium": 1,
+          "premium_format": "Dolby Cinema at AMC",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-07/lincolnsquare/all/146377389",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Dolby Cinema at AMC",
+            "Special Guest In-Person Q&A",
+            "Korean Spoken with English Subtitles",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 29.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 26.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 27.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 146377390,
+          "datetime": "2026-09-07T19:00:00",
+          "datetime_utc": "2026-09-07T23:00:00Z",
+          "auditorium": 3,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-07/lincolnsquare/all/146377390",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "AMC Club Rockers",
+            "AOneLive",
+            "Closed Caption",
+            "Audio Description",
+            "Special Guest In-Person Q&A",
+            "Korean Spoken with English Subtitles",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 21.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 18.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 19.99,
               "tax": 0.0
             }
           ]
@@ -50002,7 +51555,7 @@
           "premium_format": "Dolby Cinema at AMC",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-20/34thstreet/all/146259613",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -50659,6 +52212,48 @@
             {
               "type": "SENIOR",
               "price": 26.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 146218809,
+          "datetime": "2026-08-25T09:30:00",
+          "datetime_utc": "2026-08-25T13:30:00Z",
+          "auditorium": 1,
+          "premium_format": "Dolby Cinema at AMC",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-25/lincolnsquare/all/146218809",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "UP TO 15% OFF",
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Dolby Cinema at AMC",
+            "Event",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 25.19,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 22.79,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 23.99,
               "tax": 0.0
             }
           ]
@@ -58564,6 +60159,2980 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 20.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 17.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 18.99,
+              "tax": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sort_index": "onslaught",
+      "source": "AMC",
+      "movie_id": 84108,
+      "title": "Onslaught",
+      "release_year": 2016,
+      "runtime": 92,
+      "rating": "R",
+      "genres": [
+        "ACTION"
+      ],
+      "poster": "posters/onslaught-2016.jpg",
+      "backdrop": null,
+      "short_description": null,
+      "plot": "A taunting look at contemporary Greece centered on Aris, a young film director who tries to find balance between two worlds; the society of the spectacle and a society in turmoil.",
+      "directors": [
+        "Vasilis Vafeas"
+      ],
+      "writers": [
+        "Vasilis Vafeas"
+      ],
+      "actors": [
+        "Nikos Poursanidis",
+        "Amalia Arseni",
+        "Takis Papamattheou"
+      ],
+      "imdb_id": "tt6858778",
+      "imdb_rating": "N/A",
+      "imdb_votes": "17",
+      "rotten_tomatoes": null,
+      "metacritic": null,
+      "awards": "N/A",
+      "language": "Greek",
+      "country": "Greece",
+      "box_office": "N/A",
+      "website": null,
+      "movie_url": "https://www.amctheatres.com/movies/onslaught-84108",
+      "trailer_url": null,
+      "showtimes": [
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 146293632,
+          "datetime": "2026-09-03T16:00:00",
+          "datetime_utc": "2026-09-03T20:00:00Z",
+          "auditorium": 3,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-03/lincolnsquare/all/146293632",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Club Rockers",
+            "AOneLive",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 21.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 18.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 19.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
+          "showtime_id": 146259424,
+          "datetime": "2026-09-03T16:00:00",
+          "datetime_utc": "2026-09-03T20:00:00Z",
+          "auditorium": 1,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-03/34thstreet/all/146259424",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AOneLive",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 20.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 17.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 18.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 146293633,
+          "datetime": "2026-09-03T18:30:00",
+          "datetime_utc": "2026-09-03T22:30:00Z",
+          "auditorium": 3,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-03/lincolnsquare/all/146293633",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Club Rockers",
+            "AOneLive",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 21.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 18.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 19.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
+          "showtime_id": 146259425,
+          "datetime": "2026-09-03T18:30:00",
+          "datetime_utc": "2026-09-03T22:30:00Z",
+          "auditorium": 1,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-03/34thstreet/all/146259425",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AOneLive",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 20.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 17.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 18.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 146293634,
+          "datetime": "2026-09-03T21:00:00",
+          "datetime_utc": "2026-09-04T01:00:00Z",
+          "auditorium": 3,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-03/lincolnsquare/all/146293634",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Club Rockers",
+            "AOneLive",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 21.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 18.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 19.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
+          "showtime_id": 146259426,
+          "datetime": "2026-09-03T21:00:00",
+          "datetime_utc": "2026-09-04T01:00:00Z",
+          "auditorium": 1,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-03/34thstreet/all/146259426",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AOneLive",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 20.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 17.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 18.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 146293657,
+          "datetime": "2026-09-04T10:00:00",
+          "datetime_utc": "2026-09-04T14:00:00Z",
+          "auditorium": 3,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-04/lincolnsquare/all/146293657",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Club Rockers",
+            "AOneLive",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 17.19,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 14.79,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 15.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
+          "showtime_id": 146259423,
+          "datetime": "2026-09-04T10:00:00",
+          "datetime_utc": "2026-09-04T14:00:00Z",
+          "auditorium": 1,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-04/34thstreet/all/146259423",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AOneLive",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.39,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 13.99,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 15.19,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 146293656,
+          "datetime": "2026-09-04T12:30:00",
+          "datetime_utc": "2026-09-04T16:30:00Z",
+          "auditorium": 3,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-04/lincolnsquare/all/146293656",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Club Rockers",
+            "AOneLive",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 17.19,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 14.79,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 15.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
+          "showtime_id": 146259422,
+          "datetime": "2026-09-04T12:30:00",
+          "datetime_utc": "2026-09-04T16:30:00Z",
+          "auditorium": 1,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-04/34thstreet/all/146259422",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AOneLive",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.39,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 13.99,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 15.19,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 146293637,
+          "datetime": "2026-09-04T15:00:00",
+          "datetime_utc": "2026-09-04T19:00:00Z",
+          "auditorium": 3,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-04/lincolnsquare/all/146293637",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Club Rockers",
+            "AOneLive",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 17.19,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 14.79,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 15.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
+          "showtime_id": 146259421,
+          "datetime": "2026-09-04T15:00:00",
+          "datetime_utc": "2026-09-04T19:00:00Z",
+          "auditorium": 1,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-04/34thstreet/all/146259421",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AOneLive",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.39,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 13.99,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 15.19,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 146293636,
+          "datetime": "2026-09-04T17:30:00",
+          "datetime_utc": "2026-09-04T21:30:00Z",
+          "auditorium": 3,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-04/lincolnsquare/all/146293636",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Club Rockers",
+            "AOneLive",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 21.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 18.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 19.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
+          "showtime_id": 146259429,
+          "datetime": "2026-09-04T17:30:00",
+          "datetime_utc": "2026-09-04T21:30:00Z",
+          "auditorium": 1,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-04/34thstreet/all/146259429",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AOneLive",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 20.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 17.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 18.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
+          "showtime_id": 146259427,
+          "datetime": "2026-09-04T20:00:00",
+          "datetime_utc": "2026-09-05T00:00:00Z",
+          "auditorium": 1,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-04/34thstreet/all/146259427",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AOneLive",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 20.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 17.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 18.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 146293635,
+          "datetime": "2026-09-04T20:15:00",
+          "datetime_utc": "2026-09-05T00:15:00Z",
+          "auditorium": 3,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-04/lincolnsquare/all/146293635",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Club Rockers",
+            "AOneLive",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 21.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 18.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 19.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
+          "showtime_id": 146259428,
+          "datetime": "2026-09-04T22:30:00",
+          "datetime_utc": "2026-09-05T02:30:00Z",
+          "auditorium": 1,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-04/34thstreet/all/146259428",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AOneLive",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 20.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 17.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 18.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 146293658,
+          "datetime": "2026-09-04T23:00:00",
+          "datetime_utc": "2026-09-05T03:00:00Z",
+          "auditorium": 3,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-04/lincolnsquare/all/146293658",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Club Rockers",
+            "AOneLive",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 21.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 18.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 19.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 146293662,
+          "datetime": "2026-09-05T10:00:00",
+          "datetime_utc": "2026-09-05T14:00:00Z",
+          "auditorium": 5,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-05/lincolnsquare/all/146293662",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Club Rockers",
+            "AOneLive",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 17.19,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 14.79,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 15.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
+          "showtime_id": 146259406,
+          "datetime": "2026-09-05T10:00:00",
+          "datetime_utc": "2026-09-05T14:00:00Z",
+          "auditorium": 1,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-05/34thstreet/all/146259406",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AOneLive",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.39,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 13.99,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 15.19,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 146293663,
+          "datetime": "2026-09-05T12:30:00",
+          "datetime_utc": "2026-09-05T16:30:00Z",
+          "auditorium": 5,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-05/lincolnsquare/all/146293663",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Club Rockers",
+            "AOneLive",
+            "Laser at AMC",
+            "Open Caption (On-screen Subtitles)",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 17.19,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 14.79,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 15.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
+          "showtime_id": 146259405,
+          "datetime": "2026-09-05T12:30:00",
+          "datetime_utc": "2026-09-05T16:30:00Z",
+          "auditorium": 1,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-05/34thstreet/all/146259405",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AOneLive",
+            "Laser at AMC",
+            "Open Caption (On-screen Subtitles)",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.39,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 13.99,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 15.19,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 146293664,
+          "datetime": "2026-09-05T15:00:00",
+          "datetime_utc": "2026-09-05T19:00:00Z",
+          "auditorium": 5,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-05/lincolnsquare/all/146293664",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Club Rockers",
+            "AOneLive",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 17.19,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 14.79,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 15.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
+          "showtime_id": 146259414,
+          "datetime": "2026-09-05T15:00:00",
+          "datetime_utc": "2026-09-05T19:00:00Z",
+          "auditorium": 1,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-05/34thstreet/all/146259414",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AOneLive",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.39,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 13.99,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 15.19,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 146293659,
+          "datetime": "2026-09-05T17:30:00",
+          "datetime_utc": "2026-09-05T21:30:00Z",
+          "auditorium": 5,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-05/lincolnsquare/all/146293659",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Club Rockers",
+            "AOneLive",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 21.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 18.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 19.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
+          "showtime_id": 146259413,
+          "datetime": "2026-09-05T17:30:00",
+          "datetime_utc": "2026-09-05T21:30:00Z",
+          "auditorium": 1,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-05/34thstreet/all/146259413",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AOneLive",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 20.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 17.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 18.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
+          "showtime_id": 146259411,
+          "datetime": "2026-09-05T20:00:00",
+          "datetime_utc": "2026-09-06T00:00:00Z",
+          "auditorium": 1,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-05/34thstreet/all/146259411",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AOneLive",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 20.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 17.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 18.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 146293660,
+          "datetime": "2026-09-05T20:15:00",
+          "datetime_utc": "2026-09-06T00:15:00Z",
+          "auditorium": 5,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-05/lincolnsquare/all/146293660",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Club Rockers",
+            "AOneLive",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 21.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 18.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 19.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
+          "showtime_id": 146259412,
+          "datetime": "2026-09-05T22:30:00",
+          "datetime_utc": "2026-09-06T02:30:00Z",
+          "auditorium": 1,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-05/34thstreet/all/146259412",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AOneLive",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 20.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 17.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 18.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 146293661,
+          "datetime": "2026-09-05T23:00:00",
+          "datetime_utc": "2026-09-06T03:00:00Z",
+          "auditorium": 5,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-05/lincolnsquare/all/146293661",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Club Rockers",
+            "AOneLive",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 21.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 18.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 19.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 146293648,
+          "datetime": "2026-09-06T10:00:00",
+          "datetime_utc": "2026-09-06T14:00:00Z",
+          "auditorium": 3,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-06/lincolnsquare/all/146293648",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Club Rockers",
+            "AOneLive",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 17.19,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 14.79,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 15.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
+          "showtime_id": 146259387,
+          "datetime": "2026-09-06T10:00:00",
+          "datetime_utc": "2026-09-06T14:00:00Z",
+          "auditorium": 1,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-06/34thstreet/all/146259387",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AOneLive",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.39,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 13.99,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 15.19,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 146293647,
+          "datetime": "2026-09-06T12:30:00",
+          "datetime_utc": "2026-09-06T16:30:00Z",
+          "auditorium": 3,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-06/lincolnsquare/all/146293647",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Club Rockers",
+            "AOneLive",
+            "Laser at AMC",
+            "Open Caption (On-screen Subtitles)",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 17.19,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 14.79,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 15.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
+          "showtime_id": 146259398,
+          "datetime": "2026-09-06T12:30:00",
+          "datetime_utc": "2026-09-06T16:30:00Z",
+          "auditorium": 1,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-06/34thstreet/all/146259398",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AOneLive",
+            "Laser at AMC",
+            "Open Caption (On-screen Subtitles)",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.39,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 13.99,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 15.19,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 146293655,
+          "datetime": "2026-09-06T15:00:00",
+          "datetime_utc": "2026-09-06T19:00:00Z",
+          "auditorium": 3,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-06/lincolnsquare/all/146293655",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Club Rockers",
+            "AOneLive",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 17.19,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 14.79,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 15.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
+          "showtime_id": 146259397,
+          "datetime": "2026-09-06T15:00:00",
+          "datetime_utc": "2026-09-06T19:00:00Z",
+          "auditorium": 1,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-06/34thstreet/all/146259397",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AOneLive",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.39,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 13.99,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 15.19,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 146293654,
+          "datetime": "2026-09-06T17:30:00",
+          "datetime_utc": "2026-09-06T21:30:00Z",
+          "auditorium": 3,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-06/lincolnsquare/all/146293654",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Club Rockers",
+            "AOneLive",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 21.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 18.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 19.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
+          "showtime_id": 146259396,
+          "datetime": "2026-09-06T17:30:00",
+          "datetime_utc": "2026-09-06T21:30:00Z",
+          "auditorium": 1,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-06/34thstreet/all/146259396",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AOneLive",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 20.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 17.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 18.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
+          "showtime_id": 146259394,
+          "datetime": "2026-09-06T20:00:00",
+          "datetime_utc": "2026-09-07T00:00:00Z",
+          "auditorium": 1,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-06/34thstreet/all/146259394",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AOneLive",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 20.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 17.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 18.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 146293653,
+          "datetime": "2026-09-06T20:15:00",
+          "datetime_utc": "2026-09-07T00:15:00Z",
+          "auditorium": 3,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-06/lincolnsquare/all/146293653",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Club Rockers",
+            "AOneLive",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 21.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 18.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 19.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
+          "showtime_id": 146259395,
+          "datetime": "2026-09-06T22:30:00",
+          "datetime_utc": "2026-09-07T02:30:00Z",
+          "auditorium": 1,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-06/34thstreet/all/146259395",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AOneLive",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 20.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 17.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 18.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 146293649,
+          "datetime": "2026-09-06T23:00:00",
+          "datetime_utc": "2026-09-07T03:00:00Z",
+          "auditorium": 3,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-06/lincolnsquare/all/146293649",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Club Rockers",
+            "AOneLive",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 21.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 18.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 19.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 146293642,
+          "datetime": "2026-09-07T10:00:00",
+          "datetime_utc": "2026-09-07T14:00:00Z",
+          "auditorium": 5,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-07/lincolnsquare/all/146293642",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Club Rockers",
+            "AOneLive",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 17.19,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 14.79,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 15.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 146293641,
+          "datetime": "2026-09-07T12:30:00",
+          "datetime_utc": "2026-09-07T16:30:00Z",
+          "auditorium": 5,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-07/lincolnsquare/all/146293641",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Club Rockers",
+            "AOneLive",
+            "Laser at AMC",
+            "Open Caption (On-screen Subtitles)",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 17.19,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 14.79,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 15.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
+          "showtime_id": 146259399,
+          "datetime": "2026-09-07T12:30:00",
+          "datetime_utc": "2026-09-07T16:30:00Z",
+          "auditorium": 1,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-07/34thstreet/all/146259399",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AOneLive",
+            "Laser at AMC",
+            "Open Caption (On-screen Subtitles)",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.39,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 13.99,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 15.19,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 146293652,
+          "datetime": "2026-09-07T15:00:00",
+          "datetime_utc": "2026-09-07T19:00:00Z",
+          "auditorium": 5,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-07/lincolnsquare/all/146293652",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Club Rockers",
+            "AOneLive",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 17.19,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 14.79,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 15.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
+          "showtime_id": 146259410,
+          "datetime": "2026-09-07T15:00:00",
+          "datetime_utc": "2026-09-07T19:00:00Z",
+          "auditorium": 1,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-07/34thstreet/all/146259410",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AOneLive",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.39,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 13.99,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 15.19,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 146293651,
+          "datetime": "2026-09-07T17:30:00",
+          "datetime_utc": "2026-09-07T21:30:00Z",
+          "auditorium": 5,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-07/lincolnsquare/all/146293651",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Club Rockers",
+            "AOneLive",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 21.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 18.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 19.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
+          "showtime_id": 146259409,
+          "datetime": "2026-09-07T17:30:00",
+          "datetime_utc": "2026-09-07T21:30:00Z",
+          "auditorium": 1,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-07/34thstreet/all/146259409",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AOneLive",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 20.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 17.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 18.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 146293650,
+          "datetime": "2026-09-07T20:00:00",
+          "datetime_utc": "2026-09-08T00:00:00Z",
+          "auditorium": 5,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-07/lincolnsquare/all/146293650",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Club Rockers",
+            "AOneLive",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 21.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 18.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 19.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
+          "showtime_id": 146259407,
+          "datetime": "2026-09-07T20:00:00",
+          "datetime_utc": "2026-09-08T00:00:00Z",
+          "auditorium": 1,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-07/34thstreet/all/146259407",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AOneLive",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 20.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 17.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 18.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
+          "showtime_id": 146259408,
+          "datetime": "2026-09-07T22:30:00",
+          "datetime_utc": "2026-09-08T02:30:00Z",
+          "auditorium": 1,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-07/34thstreet/all/146259408",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AOneLive",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 20.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 17.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 18.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 146293643,
+          "datetime": "2026-09-07T22:45:00",
+          "datetime_utc": "2026-09-08T02:45:00Z",
+          "auditorium": 5,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-07/lincolnsquare/all/146293643",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Club Rockers",
+            "AOneLive",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 21.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 18.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 19.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 146293639,
+          "datetime": "2026-09-08T10:00:00",
+          "datetime_utc": "2026-09-08T14:00:00Z",
+          "auditorium": 3,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-08/lincolnsquare/all/146293639",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Club Rockers",
+            "AOneLive",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 17.19,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 14.79,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 15.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
+          "showtime_id": 146259393,
+          "datetime": "2026-09-08T10:00:00",
+          "datetime_utc": "2026-09-08T14:00:00Z",
+          "auditorium": 1,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-08/34thstreet/all/146259393",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AOneLive",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.39,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 13.99,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 15.19,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 146293638,
+          "datetime": "2026-09-08T12:30:00",
+          "datetime_utc": "2026-09-08T16:30:00Z",
+          "auditorium": 3,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-08/lincolnsquare/all/146293638",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Club Rockers",
+            "AOneLive",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 17.19,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 14.79,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 15.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
+          "showtime_id": 146259404,
+          "datetime": "2026-09-08T12:30:00",
+          "datetime_utc": "2026-09-08T16:30:00Z",
+          "auditorium": 1,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-08/34thstreet/all/146259404",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AOneLive",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.39,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 13.99,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 15.19,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 146293646,
+          "datetime": "2026-09-08T15:00:00",
+          "datetime_utc": "2026-09-08T19:00:00Z",
+          "auditorium": 3,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-08/lincolnsquare/all/146293646",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Club Rockers",
+            "AOneLive",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 17.19,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 14.79,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 15.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
+          "showtime_id": 146259403,
+          "datetime": "2026-09-08T15:00:00",
+          "datetime_utc": "2026-09-08T19:00:00Z",
+          "auditorium": 1,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-08/34thstreet/all/146259403",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AOneLive",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.39,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 13.99,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 15.19,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 146293645,
+          "datetime": "2026-09-08T17:30:00",
+          "datetime_utc": "2026-09-08T21:30:00Z",
+          "auditorium": 3,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-08/lincolnsquare/all/146293645",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Club Rockers",
+            "AOneLive",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 21.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 18.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 19.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
+          "showtime_id": 146259402,
+          "datetime": "2026-09-08T17:30:00",
+          "datetime_utc": "2026-09-08T21:30:00Z",
+          "auditorium": 1,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-08/34thstreet/all/146259402",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AOneLive",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 20.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 17.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 18.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 146293644,
+          "datetime": "2026-09-08T20:00:00",
+          "datetime_utc": "2026-09-09T00:00:00Z",
+          "auditorium": 3,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-08/lincolnsquare/all/146293644",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Club Rockers",
+            "AOneLive",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 21.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 18.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 19.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
+          "showtime_id": 146259400,
+          "datetime": "2026-09-08T20:00:00",
+          "datetime_utc": "2026-09-09T00:00:00Z",
+          "auditorium": 1,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-08/34thstreet/all/146259400",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AOneLive",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 20.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 17.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 18.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
+          "showtime_id": 146259401,
+          "datetime": "2026-09-08T22:30:00",
+          "datetime_utc": "2026-09-09T02:30:00Z",
+          "auditorium": 1,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-08/34thstreet/all/146259401",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AOneLive",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 20.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 17.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 18.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 146293640,
+          "datetime": "2026-09-08T22:45:00",
+          "datetime_utc": "2026-09-09T02:45:00Z",
+          "auditorium": 3,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-08/lincolnsquare/all/146293640",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Club Rockers",
+            "AOneLive",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 21.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 18.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 19.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
+          "showtime_id": 146259388,
+          "datetime": "2026-09-09T12:30:00",
+          "datetime_utc": "2026-09-09T16:30:00Z",
+          "auditorium": 1,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-09/34thstreet/all/146259388",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AOneLive",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.39,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 13.99,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 15.19,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
+          "showtime_id": 146259391,
+          "datetime": "2026-09-09T15:00:00",
+          "datetime_utc": "2026-09-09T19:00:00Z",
+          "auditorium": 1,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-09/34thstreet/all/146259391",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AOneLive",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.39,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 13.99,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 15.19,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
+          "showtime_id": 146259390,
+          "datetime": "2026-09-09T17:30:00",
+          "datetime_utc": "2026-09-09T21:30:00Z",
+          "auditorium": 1,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-09/34thstreet/all/146259390",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AOneLive",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 20.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 17.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 18.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
+          "showtime_id": 146259392,
+          "datetime": "2026-09-09T20:00:00",
+          "datetime_utc": "2026-09-10T00:00:00Z",
+          "auditorium": 1,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-09/34thstreet/all/146259392",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AOneLive",
+            "Laser at AMC",
+            "Open Caption (On-screen Subtitles)",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 20.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 17.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 18.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
+          "showtime_id": 146259389,
+          "datetime": "2026-09-09T22:30:00",
+          "datetime_utc": "2026-09-10T02:30:00Z",
+          "auditorium": 1,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-09/34thstreet/all/146259389",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AOneLive",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -73376,7 +77945,7 @@
           "premium_format": "Dolby Cinema at AMC",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-21/lincolnsquare/all/145939069",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -79817,47 +84386,6 @@
               "tax": 0.0
             }
           ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 2116,
-          "theater": "AMC Lincoln Square 13",
-          "showtime_id": 146376806,
-          "datetime": "2026-08-27T23:00:00",
-          "datetime_utc": "2026-08-28T03:00:00Z",
-          "auditorium": 12,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-27/lincolnsquare/all/146376806",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "AMC Club Rockers",
-            "Closed Caption",
-            "Audio Description",
-            "Laser at AMC",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 23.49,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 20.49,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 21.99,
-              "tax": 0.0
-            }
-          ]
         }
       ]
     },
@@ -83675,9 +88203,9 @@
           "theater_id": 2116,
           "theater": "AMC Lincoln Square 13",
           "showtime_id": 146376789,
-          "datetime": "2026-08-27T13:15:00",
-          "datetime_utc": "2026-08-27T17:15:00Z",
-          "auditorium": 4,
+          "datetime": "2026-08-27T12:45:00",
+          "datetime_utc": "2026-08-27T16:45:00Z",
+          "auditorium": 8,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-27/lincolnsquare/all/146376789",
           "sold_out": false,
@@ -83717,17 +88245,17 @@
           "theater_id": 2116,
           "theater": "AMC Lincoln Square 13",
           "showtime_id": 146376793,
-          "datetime": "2026-08-27T16:15:00",
-          "datetime_utc": "2026-08-27T20:15:00Z",
-          "auditorium": 4,
+          "datetime": "2026-08-27T15:45:00",
+          "datetime_utc": "2026-08-27T19:45:00Z",
+          "auditorium": 8,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-27/lincolnsquare/all/146376793",
           "sold_out": false,
           "almost_sold_out": false,
           "cancelled": false,
           "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
           "attributes": [
             "AMC Club Rockers",
             "Closed Caption",
@@ -83739,17 +88267,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 21.49,
+              "price": 17.19,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 18.49,
+              "price": 14.79,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 19.99,
+              "price": 15.99,
               "tax": 0.0
             }
           ]
@@ -83759,9 +88287,9 @@
           "theater_id": 2116,
           "theater": "AMC Lincoln Square 13",
           "showtime_id": 146376792,
-          "datetime": "2026-08-27T19:15:00",
-          "datetime_utc": "2026-08-27T23:15:00Z",
-          "auditorium": 4,
+          "datetime": "2026-08-27T18:45:00",
+          "datetime_utc": "2026-08-27T22:45:00Z",
+          "auditorium": 8,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-27/lincolnsquare/all/146376792",
           "sold_out": false,
@@ -83801,9 +88329,9 @@
           "theater_id": 2116,
           "theater": "AMC Lincoln Square 13",
           "showtime_id": 146376791,
-          "datetime": "2026-08-27T22:15:00",
-          "datetime_utc": "2026-08-28T02:15:00Z",
-          "auditorium": 4,
+          "datetime": "2026-08-27T21:45:00",
+          "datetime_utc": "2026-08-28T01:45:00Z",
+          "auditorium": 8,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-27/lincolnsquare/all/146376791",
           "sold_out": false,
@@ -91973,7 +96501,7 @@
           "showtime_id": 146376800,
           "datetime": "2026-08-27T20:45:00",
           "datetime_utc": "2026-08-28T00:45:00Z",
-          "auditorium": 8,
+          "auditorium": 6,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-27/lincolnsquare/all/146376800",
           "sold_out": false,
@@ -91984,6 +96512,7 @@
           "discount_message": null,
           "attributes": [
             "AMC Club Rockers",
+            "AOneLive",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -107233,6 +111762,81 @@
       ]
     },
     {
+      "sort_index": "the uprising: early access live q&a with paul greengrass and andrew garfield",
+      "source": "AMC",
+      "movie_id": 84821,
+      "title": "The Uprising: Early Access Live Q&A with Paul Greengrass and Andrew Garfield",
+      "release_year": null,
+      "runtime": 165,
+      "rating": "R",
+      "genres": [],
+      "poster": "posters/the-uprising-early-access-live-qa-with-paul-greengrass-and-andrew-garfield.jpg",
+      "backdrop": null,
+      "short_description": null,
+      "plot": null,
+      "directors": [],
+      "writers": [],
+      "actors": [],
+      "imdb_id": null,
+      "imdb_rating": null,
+      "imdb_votes": null,
+      "rotten_tomatoes": null,
+      "metacritic": null,
+      "awards": null,
+      "language": null,
+      "country": null,
+      "box_office": null,
+      "website": null,
+      "movie_url": "https://www.amctheatres.com/movies/the-uprising-early-access-live-q-a-with-paul-greengrass-and-andrew-garfield-84821",
+      "trailer_url": null,
+      "showtimes": [
+        {
+          "source": "AMC",
+          "theater_id": 2102,
+          "theater": "AMC 84th Street 6",
+          "showtime_id": 146375657,
+          "datetime": "2026-09-03T21:00:00",
+          "datetime_utc": "2026-09-04T01:00:00Z",
+          "auditorium": 5,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-03/84thstreet/all/146375657",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "DCDC Live",
+            "Event",
+            "Laser at AMC",
+            "Livestream - Q&A",
+            "No Trailers",
+            "NoTrailers",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 22.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 19.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 20.99,
+              "tax": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    {
       "sort_index": "the wrong girls",
       "source": "AMC",
       "movie_id": 83781,
@@ -110732,48 +115336,6 @@
             "AMC Artisan Films",
             "AMC Club Rockers",
             "AOneLive",
-            "Closed Caption",
-            "Audio Description",
-            "Laser at AMC",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 21.49,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 18.49,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 19.99,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 2116,
-          "theater": "AMC Lincoln Square 13",
-          "showtime_id": 146376799,
-          "datetime": "2026-08-27T18:00:00",
-          "datetime_utc": "2026-08-27T22:00:00Z",
-          "auditorium": 8,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-27/lincolnsquare/all/146376799",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "AMC Artisan Films",
-            "AMC Club Rockers",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
