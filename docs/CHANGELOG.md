@@ -1,3 +1,42 @@
+## 2026-08-20 05:36 PM CDT
+
+**Showtime changes:**
+- Mutiny
+  - + AMC 34th Street 14 @ 2026-08-20T18:00:00 (Standard)
+- PAW Patrol: The Dino Movie
+  - − AMC 34th Street 14 @ 2026-08-20T18:00:00 (Standard)
+- Dune: Part Three
+  - + AMC Lincoln Square 13 @ 2027-01-09T09:00:00 (70mm)
+  - + AMC Lincoln Square 13 @ 2027-01-09T12:30:00 (70mm)
+  - + AMC Lincoln Square 13 @ 2027-01-09T16:00:00 (70mm)
+  - + AMC Lincoln Square 13 @ 2027-01-09T19:30:00 (70mm)
+  - + AMC Lincoln Square 13 @ 2027-01-09T23:00:00 (70mm)
+  - + AMC Lincoln Square 13 @ 2027-01-10T09:00:00 (70mm)
+  - + AMC Lincoln Square 13 @ 2027-01-10T12:30:00 (70mm)
+  - + AMC Lincoln Square 13 @ 2027-01-10T16:00:00 (70mm)
+  - + AMC Lincoln Square 13 @ 2027-01-10T19:30:00 (70mm)
+  - + AMC Lincoln Square 13 @ 2027-01-10T23:00:00 (70mm)
+  - + AMC Lincoln Square 13 @ 2027-01-11T09:00:00 (70mm)
+  - + AMC Lincoln Square 13 @ 2027-01-11T12:30:00 (70mm)
+  - + AMC Lincoln Square 13 @ 2027-01-11T16:00:00 (70mm)
+  - + AMC Lincoln Square 13 @ 2027-01-11T19:30:00 (70mm)
+  - + AMC Lincoln Square 13 @ 2027-01-11T23:00:00 (70mm)
+  - + AMC Lincoln Square 13 @ 2027-01-13T09:00:00 (70mm)
+  - + AMC Lincoln Square 13 @ 2027-01-13T12:30:00 (70mm)
+  - + AMC Lincoln Square 13 @ 2027-01-13T16:00:00 (70mm)
+  - + AMC Lincoln Square 13 @ 2027-01-13T19:30:00 (70mm)
+  - + AMC Lincoln Square 13 @ 2027-01-13T23:00:00 (70mm)
+- Akira
+  - + AMC 34th Street 14 @ 2026-09-03T21:45:00 (IMAX at AMC)
+- The Magic Faraway Tree
+  - − AMC 34th Street 14 @ 2026-08-23T13:15:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-08-23T13:30:00 (Standard)
+- The Odyssey
+  - + AMC Lincoln Square 13 @ 2026-09-05T06:00:00 (70mm)
+- Coyote vs. Acme Early Access
+  - + AMC 34th Street 14 @ 2026-08-23T13:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-23T13:45:00 (Standard)
+
 ## 2026-08-20 11:43 AM CDT
 
 **Movies added:**
