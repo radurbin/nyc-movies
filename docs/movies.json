@@ -1,15 +1,88 @@
 {
   "metadata": {
-    "generated_at": "2026-08-21T05:38:16.564649-05:00",
-    "movie_count": 59,
-    "showtime_count": 2597,
+    "generated_at": "2026-08-21T11:43:03.908860-05:00",
+    "movie_count": 60,
+    "showtime_count": 2598,
     "theaters": {
+      "AMC Lincoln Square 13": 1088,
       "AMC 34th Street 14": 1189,
-      "AMC Lincoln Square 13": 1087,
       "AMC 84th Street 6": 321
     }
   },
   "movies": [
+    {
+      "sort_index": " the fix special in-person introduction with liam neeson",
+      "source": "AMC",
+      "movie_id": 84844,
+      "title": " The Fix Special In-Person Introduction with Liam Neeson",
+      "release_year": null,
+      "runtime": 172,
+      "rating": "R",
+      "genres": [
+        "Action"
+      ],
+      "poster": "posters/the-fix-special-in-person-introduction-with-liam-neeson.jpg",
+      "backdrop": null,
+      "short_description": null,
+      "plot": null,
+      "directors": [],
+      "writers": [],
+      "actors": [],
+      "imdb_id": null,
+      "imdb_rating": null,
+      "imdb_votes": null,
+      "rotten_tomatoes": null,
+      "metacritic": null,
+      "awards": null,
+      "language": null,
+      "country": null,
+      "box_office": null,
+      "website": null,
+      "movie_url": "https://www.amctheatres.com/movies/the-fix-special-in-person-introduction-with-liam-neeson-84844",
+      "trailer_url": null,
+      "showtimes": [
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 146382849,
+          "datetime": "2026-09-10T19:00:00",
+          "datetime_utc": "2026-09-10T23:00:00Z",
+          "auditorium": 4,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-10/lincolnsquare/all/146382849",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Club Rockers",
+            "Special Guest In-Person Intro",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 21.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 18.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 19.99,
+              "tax": 0.0
+            }
+          ]
+        }
+      ]
+    },
     {
       "sort_index": "akira",
       "source": "AMC",
@@ -38489,7 +38562,7 @@
           "premium_format": "70mm",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-30/lincolnsquare/all/146174293",
           "sold_out": false,
-          "almost_sold_out": true,
+          "almost_sold_out": false,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": true,
@@ -38879,7 +38952,7 @@
           "premium_format": "70mm",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-31/lincolnsquare/all/146172057",
           "sold_out": false,
-          "almost_sold_out": true,
+          "almost_sold_out": false,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": true,
@@ -41046,7 +41119,7 @@
           "premium_format": "70mm",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-05/lincolnsquare/all/146172002",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -59662,7 +59735,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-21/lincolnsquare/all/146240439",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -66071,7 +66144,7 @@
       "movie_id": 77331,
       "title": "Practical Magic 2",
       "release_year": 2026,
-      "runtime": 110,
+      "runtime": 130,
       "rating": null,
       "genres": [
         "COMEDY"
@@ -76489,7 +76562,7 @@
           "premium_format": "IMAX at AMC",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-21/34thstreet/all/146259776",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -83596,7 +83669,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-21/34thstreet/all/146259569",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -91833,7 +91906,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-21/lincolnsquare/all/146240408",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -96831,7 +96904,7 @@
           "premium_format": "70mm",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-21/lincolnsquare/all/145711587",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": true,
@@ -108596,7 +108669,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-21/34thstreet/all/146259533",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
