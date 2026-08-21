@@ -1,3 +1,42 @@
+## 2026-08-21 05:32 PM CDT
+
+**Movies added:**
+- Batman (1989)
+- Batman: Mask of the Phantasm (2026BD)
+- The Lego Batman Movie
+
+**Showtime changes:**
+- The Odyssey
+  - + AMC 34th Street 14 @ 2026-08-27T14:10:00 (IMAX at AMC)
+  - + AMC 34th Street 14 @ 2026-08-28T11:00:00 (IMAX at AMC)
+  - + AMC 34th Street 14 @ 2026-08-28T15:00:00 (IMAX at AMC)
+  - + AMC 34th Street 14 @ 2026-08-28T22:00:00 (IMAX at AMC)
+  - + AMC 34th Street 14 @ 2026-08-29T11:00:00 (IMAX at AMC)
+  - + AMC 34th Street 14 @ 2026-08-29T15:00:00 (IMAX at AMC)
+  - + AMC 34th Street 14 @ 2026-08-29T22:00:00 (IMAX at AMC)
+  - + AMC 34th Street 14 @ 2026-08-30T11:00:00 (IMAX at AMC)
+  - + AMC 34th Street 14 @ 2026-08-30T15:00:00 (IMAX at AMC)
+  - + AMC 34th Street 14 @ 2026-08-30T22:00:00 (IMAX at AMC)
+- Insidious: Out of the Further
+  - + AMC 34th Street 14 @ 2026-08-21T23:00:00 (Standard)
+- Mutiny
+  - + AMC 34th Street 14 @ 2026-08-21T18:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-08-22T13:30:00 (Standard)
+- Teenage Sex and Death at Camp Miasma
+  - − AMC 34th Street 14 @ 2026-08-21T22:40:00 (Standard)
+- PAW Patrol: The Dino Movie
+  - − AMC 34th Street 14 @ 2026-08-21T18:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-08-22T13:35:00 (Standard)
+- Spider-Man: Brand New Day
+  - + AMC 34th Street 14 @ 2026-08-22T21:45:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-08-28T18:00:00 (Dolby Cinema at AMC)
+  - + AMC 34th Street 14 @ 2026-08-28T21:20:00 (Dolby Cinema at AMC)
+  - + AMC 34th Street 14 @ 2026-08-29T18:00:00 (Dolby Cinema at AMC)
+  - + AMC 34th Street 14 @ 2026-08-29T21:20:00 (Dolby Cinema at AMC)
+  - + AMC 34th Street 14 @ 2026-08-30T18:00:00 (Dolby Cinema at AMC)
+  - + AMC 34th Street 14 @ 2026-08-30T21:20:00 (Dolby Cinema at AMC)
+  - − AMC 34th Street 14 @ 2026-08-22T21:45:00 (RealD 3D)
+
 ## 2026-08-21 11:43 AM CDT
 
 **Movies added:**
