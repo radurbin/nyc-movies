@@ -1,3 +1,60 @@
+## 2026-08-22 11:34 AM CDT
+
+**Movies added:**
+- Buddy
+
+**Showtime changes:**
+- The Dog Stars
+  - + AMC Lincoln Square 13 @ 2026-08-27T22:30:00 (Dolby Cinema at AMC)
+- Dune: Part Three
+  - + AMC Lincoln Square 13 @ 2026-12-17T14:00:00 (70mm)
+  - + AMC Lincoln Square 13 @ 2026-12-17T21:30:00 (70mm)
+  - + AMC Lincoln Square 13 @ 2026-12-18T01:00:00 (70mm)
+- Tony
+  - + AMC Lincoln Square 13 @ 2026-08-28T10:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-28T13:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-28T16:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-28T19:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-28T22:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-29T10:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-29T13:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-29T16:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-29T19:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-29T22:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-30T10:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-30T13:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-30T16:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-30T19:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-30T22:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-31T10:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-31T13:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-31T16:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-31T19:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-31T22:15:00 (Standard)
+- Coyote vs. Acme
+  - + AMC Lincoln Square 13 @ 2026-08-27T13:15:00 (Dolby Cinema at AMC)
+  - + AMC Lincoln Square 13 @ 2026-08-28T10:00:00 (Dolby Cinema at AMC)
+  - + AMC Lincoln Square 13 @ 2026-08-28T13:00:00 (Dolby Cinema at AMC)
+  - + AMC Lincoln Square 13 @ 2026-08-29T10:00:00 (Dolby Cinema at AMC)
+  - + AMC Lincoln Square 13 @ 2026-08-29T13:00:00 (Dolby Cinema at AMC)
+  - + AMC Lincoln Square 13 @ 2026-08-30T10:00:00 (Dolby Cinema at AMC)
+  - + AMC Lincoln Square 13 @ 2026-08-30T13:00:00 (Dolby Cinema at AMC)
+  - + AMC Lincoln Square 13 @ 2026-08-31T10:00:00 (Dolby Cinema at AMC)
+  - + AMC Lincoln Square 13 @ 2026-08-31T13:00:00 (Dolby Cinema at AMC)
+- Spider-Man: Brand New Day
+  - + AMC Lincoln Square 13 @ 2026-08-27T09:45:00 (Dolby Cinema at AMC)
+  - + AMC Lincoln Square 13 @ 2026-08-27T16:00:00 (Dolby Cinema at AMC)
+  - + AMC 34th Street 14 @ 2026-08-27T19:00:00 (Dolby Cinema at AMC)
+  - + AMC 34th Street 14 @ 2026-08-27T22:20:00 (Dolby Cinema at AMC)
+  - + AMC Lincoln Square 13 @ 2026-08-28T16:00:00 (Dolby Cinema at AMC)
+  - + AMC Lincoln Square 13 @ 2026-08-28T22:30:00 (Dolby Cinema at AMC)
+  - + AMC Lincoln Square 13 @ 2026-08-29T16:00:00 (Dolby Cinema at AMC)
+  - + AMC Lincoln Square 13 @ 2026-08-29T22:30:00 (Dolby Cinema at AMC)
+  - + AMC Lincoln Square 13 @ 2026-08-30T16:00:00 (Dolby Cinema at AMC)
+  - + AMC Lincoln Square 13 @ 2026-08-30T22:30:00 (Dolby Cinema at AMC)
+  - + AMC Lincoln Square 13 @ 2026-08-31T16:00:00 (Dolby Cinema at AMC)
+  - + AMC Lincoln Square 13 @ 2026-08-31T22:30:00 (Dolby Cinema at AMC)
+
 ## 2026-08-22 05:32 AM CDT
 
 No changes.
