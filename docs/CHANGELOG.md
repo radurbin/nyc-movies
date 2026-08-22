@@ -1,3 +1,20 @@
+## 2026-08-21 09:36 PM CDT
+
+**Showtime changes:**
+- The Odyssey
+  - + AMC Lincoln Square 13 @ 2026-09-08T10:00:00 (70mm)
+  - + AMC Lincoln Square 13 @ 2026-09-08T14:00:00 (70mm)
+  - + AMC Lincoln Square 13 @ 2026-09-08T18:00:00 (70mm)
+  - + AMC Lincoln Square 13 @ 2026-09-08T22:00:00 (70mm)
+- Avengers: Doomsday
+  - + AMC Lincoln Square 13 @ 2026-12-17T19:15:00 (Standard)
+- Dune: Part Three
+  - + AMC Lincoln Square 13 @ 2026-12-18T06:00:00 (70mm)
+  - + AMC Lincoln Square 13 @ 2026-12-19T02:30:00 (70mm)
+  - + AMC Lincoln Square 13 @ 2026-12-19T06:00:00 (70mm)
+  - + AMC Lincoln Square 13 @ 2026-12-20T02:30:00 (70mm)
+  - + AMC Lincoln Square 13 @ 2026-12-20T06:00:00 (70mm)
+
 ## 2026-08-21 05:32 PM CDT
 
 **Movies added:**
