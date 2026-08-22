@@ -36,6 +36,7 @@ from config import (
 )
 
 from fetchers.amc import AMCFetcher
+from fetchers.letterboxd import LetterboxdFetcher
 from fetchers.omdb import OMDbFetcher
 
 from models import Movie
@@ -97,6 +98,26 @@ class MoviePipeline:
         print()
 
         print("Finished OMDb enrichment.")
+
+    # ---------------------------------------------------------
+
+    def enrich_letterboxd(self):
+
+        print()
+
+        print("=" * 60)
+        print("Enriching with Letterboxd")
+        print("=" * 60)
+
+        letterboxd = LetterboxdFetcher()
+
+        self.movies = letterboxd.enrich(
+            self.movies
+        )
+
+        print()
+
+        print("Finished Letterboxd enrichment.")
 
     # ---------------------------------------------------------
 
@@ -595,6 +616,8 @@ class MoviePipeline:
         self.fetch_movies()
 
         self.enrich_movies()
+
+        self.enrich_letterboxd()
 
         self.download_posters()
 
