@@ -1,3 +1,97 @@
+## 2026-08-21 10:05 PM CDT
+
+**Movies added:**
+-  The Fix Special In-Person Introduction with Liam Neeson
+- AMC Scream Unseen: August 24
+- AMC Screen Unseen: August 31
+- Akira
+- All Wishes Come True!
+- Batman (1989)
+- Batman: Mask of the Phantasm (2026BD)
+- By Any Means
+- Castle in the Sky 40th Anniversary - Studio Ghibli Fest 2026
+- Crunchyroll Anime Nights Sneak Peek - September '26
+- Dune: Part Three Insider Screenings
+- F1 on Apple TV Live in IMAX: Italy Race
+- Fall 2: Deadpoint
+- Fallen Angels by Noël Coward
+- GHOST: 2 Big To Rig
+- HOPE Premium Early Access
+- HOPE: Q&A with director Na Hong-jin and cast
+- Harry Potter And The Philosopher's Stone: 25th Anniversary 
+- Harry Potter and the Sorcerer’s Stone: 25th Anniversary
+- Hope
+- Idiots Early Access
+- Idiots Q&A w/ Dave Franco, O’Shea Jackson Jr., & Mason Thames
+- It Ends
+- La La Land 10th Anniversary
+- Mutiny
+- Oasis: Don't Look Back in Anger
+- Oasis: Don’t Look Back In Anger IMAX Early Access
+- Onslaught
+- Princess Mononoke - Studio Ghibli Fest 2026
+- Runner
+- Spa Weekend
+- Spirited Away 25th Anniversary - Studio Ghibli Fest 2026
+- Terminator 2: Judgment Day 35th Anniversary
+- The Fast and the Furious 25th Anniversary
+- The Hunger Games (2026)
+- The Hunger Games: Catching Fire (2026)
+- The Hunger Games: Mockingjay - Part 1 (2026)
+- The Hunger Games: Mockingjay - Part 2 (2026)
+- The Hunger Games: The Ballad of Songbirds & Snakes (2026)
+- The Lego Batman Movie
+- The Transformers: The Movie 40th Anniversary
+- The Uprising: Early Access Live Q&A with Paul Greengrass and Andrew Garfield
+- Tony
+- Your Name. 10th Anniversary
+
+**Movies removed:**
+-  The Fix Special In-Person Introduction with Liam Neeson
+- AMC Scream Unseen: August 24
+- AMC Screen Unseen: August 31
+- Akira
+- All Wishes Come True!
+- Batman (1989)
+- Batman: Mask of the Phantasm (2026BD)
+- By Any Means
+- Castle in the Sky 40th Anniversary - Studio Ghibli Fest 2026
+- Crunchyroll Anime Nights Sneak Peek - September '26
+- Dune: Part Three Insider Screenings
+- F1 on Apple TV Live in IMAX: Italy Race
+- Fall 2: Deadpoint
+- Fallen Angels by Noël Coward
+- GHOST: 2 Big To Rig
+- HOPE Premium Early Access
+- HOPE: Q&A with director Na Hong-jin and cast
+- Harry Potter And The Philosopher's Stone: 25th Anniversary 
+- Harry Potter and the Sorcerer’s Stone: 25th Anniversary
+- Hope
+- Idiots Early Access
+- Idiots Q&A w/ Dave Franco, O’Shea Jackson Jr., & Mason Thames
+- It Ends
+- La La Land 10th Anniversary
+- Mutiny
+- Oasis: Don't Look Back in Anger
+- Oasis: Don’t Look Back In Anger IMAX Early Access
+- Onslaught
+- Princess Mononoke - Studio Ghibli Fest 2026
+- Runner
+- Spa Weekend
+- Spirited Away 25th Anniversary - Studio Ghibli Fest 2026
+- Terminator 2: Judgment Day 35th Anniversary
+- The Fast and the Furious 25th Anniversary
+- The Hunger Games (2026)
+- The Hunger Games: Catching Fire (2026)
+- The Hunger Games: Mockingjay - Part 1 (2026)
+- The Hunger Games: Mockingjay - Part 2 (2026)
+- The Hunger Games: The Ballad of Songbirds & Snakes (2026)
+- The Lego Batman Movie
+- The Transformers: The Movie 40th Anniversary
+- The Uprising: Early Access Live Q&A with Paul Greengrass and Andrew Garfield
+- Tony
+- Your Name. 10th Anniversary
+
 ## 2026-08-21 09:36 PM CDT
 
 **Showtime changes:**
