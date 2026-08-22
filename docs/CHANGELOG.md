@@ -1,3 +1,25 @@
+## 2026-08-22 05:30 PM CDT
+
+**Showtime changes:**
+- The Odyssey
+  - + AMC 34th Street 14 @ 2026-08-23T20:40:00 (Standard)
+- The Fast and the Furious 25th Anniversary
+  - − AMC 34th Street 14 @ 2026-08-22T19:15:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-08-23T19:45:00 (Standard)
+- PAW Patrol: The Dino Movie
+  - − AMC 84th Street 6 @ 2026-08-23T11:30:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-08-23T14:00:00 (Standard)
+- Teenage Sex and Death at Camp Miasma
+  - − AMC 34th Street 14 @ 2026-08-22T22:40:00 (Standard)
+- Insidious: Out of the Further
+  - + AMC 34th Street 14 @ 2026-08-22T22:50:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-08-23T20:45:00 (Standard)
+- Coyote vs. Acme Early Access
+  - + AMC 84th Street 6 @ 2026-08-23T13:30:00 (Standard)
+- The End of Oak Street
+  - + AMC 34th Street 14 @ 2026-08-22T19:20:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-08-23T20:00:00 (Standard)
+
 ## 2026-08-22 11:34 AM CDT
 
 **Movies added:**
