@@ -1,3 +1,16 @@
+## 2026-08-25 11:48 AM CDT
+
+**Movies added:**
+- Avengers Endgame: Encore
+- Queen Budapest
+
+**Showtime changes:**
+- Spa Weekend
+  - + AMC Lincoln Square 13 @ 2026-08-28T12:30:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-08-28T12:45:00 (Standard)
+- The Odyssey
+  - − AMC Lincoln Square 13 @ 2026-08-28T11:00:00 (Standard)
+
 ## 2026-08-25 05:41 AM CDT
 
 No changes.

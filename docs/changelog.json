@@ -13739,5 +13739,43 @@
     "movies_added": [],
     "movies_removed": [],
     "showtime_changes": []
+  },
+  {
+    "date": "2026-08-25 11:48 AM CDT",
+    "movies_added": [
+      "Avengers Endgame: Encore",
+      "Queen Budapest"
+    ],
+    "movies_removed": [],
+    "showtime_changes": [
+      {
+        "title": "Spa Weekend",
+        "added": [
+          {
+            "theater": "AMC Lincoln Square 13",
+            "datetime": "2026-08-28T12:30:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": [
+          {
+            "theater": "AMC Lincoln Square 13",
+            "datetime": "2026-08-28T12:45:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "The Odyssey",
+        "added": [],
+        "removed": [
+          {
+            "theater": "AMC Lincoln Square 13",
+            "datetime": "2026-08-28T11:00:00",
+            "format": "Standard"
+          }
+        ]
+      }
+    ]
   }
 ]
