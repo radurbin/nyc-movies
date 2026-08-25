@@ -1,3 +1,111 @@
+## 2026-08-25 05:36 PM CDT
+
+**Movies added:**
+- Cars: 20th Anniversary
+- Primetime
+
+**Showtime changes:**
+- Juan Gabriel: Mi Primer Bellas Artes
+  - + AMC 34th Street 14 @ 2026-09-15T19:00:00 (Standard)
+- The Fast and the Furious 25th Anniversary
+  - − AMC 34th Street 14 @ 2026-08-25T22:00:00 (Standard)
+- Teenage Sex and Death at Camp Miasma
+  - + AMC Lincoln Square 13 @ 2026-09-01T10:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-01T13:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-01T16:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-01T19:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-01T21:30:00 (Standard)
+- Finding Emily
+  - + AMC Lincoln Square 13 @ 2026-09-01T12:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-01T15:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-01T18:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-01T21:00:00 (Standard)
+- The Odyssey
+  - + AMC Lincoln Square 13 @ 2026-09-01T11:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-01T12:30:00 (70mm)
+  - + AMC Lincoln Square 13 @ 2026-09-01T16:30:00 (70mm)
+  - + AMC Lincoln Square 13 @ 2026-09-01T20:30:00 (70mm)
+- Terminator 2: Judgment Day 35th Anniversary
+  - + AMC Lincoln Square 13 @ 2026-09-01T22:00:00 (Standard)
+- Insidious: Out of the Further
+  - + AMC Lincoln Square 13 @ 2026-09-01T11:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-01T14:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-01T17:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-01T20:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-01T22:45:00 (Standard)
+- The Dog Stars
+  - + AMC Lincoln Square 13 @ 2026-09-01T22:45:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-09-01T22:30:00 (Standard)
+- Practical Magic 2
+  - + AMC Lincoln Square 13 @ 2026-09-10T22:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-10T23:15:00 (Dolby Cinema at AMC)
+  - + AMC Lincoln Square 13 @ 2026-09-11T22:15:00 (Dolby Cinema at AMC)
+  - + AMC Lincoln Square 13 @ 2026-09-11T23:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-12T22:15:00 (Dolby Cinema at AMC)
+  - + AMC Lincoln Square 13 @ 2026-09-12T23:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-13T21:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-13T22:15:00 (Dolby Cinema at AMC)
+  - + AMC Lincoln Square 13 @ 2026-09-14T21:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-14T22:15:00 (Dolby Cinema at AMC)
+  - + AMC Lincoln Square 13 @ 2026-09-15T21:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-15T22:15:00 (Dolby Cinema at AMC)
+  - + AMC Lincoln Square 13 @ 2026-09-16T21:15:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-09-10T22:00:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-09-10T23:00:00 (Dolby Cinema at AMC)
+  - − AMC Lincoln Square 13 @ 2026-09-11T22:00:00 (Dolby Cinema at AMC)
+  - − AMC Lincoln Square 13 @ 2026-09-11T23:00:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-09-12T22:00:00 (Dolby Cinema at AMC)
+  - − AMC Lincoln Square 13 @ 2026-09-12T23:00:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-09-13T21:00:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-09-13T22:00:00 (Dolby Cinema at AMC)
+  - − AMC Lincoln Square 13 @ 2026-09-14T21:00:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-09-14T22:00:00 (Dolby Cinema at AMC)
+  - − AMC Lincoln Square 13 @ 2026-09-15T21:00:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-09-15T22:00:00 (Dolby Cinema at AMC)
+  - − AMC Lincoln Square 13 @ 2026-09-16T21:00:00 (Standard)
+- Castle in the Sky 40th Anniversary - Studio Ghibli Fest 2026
+  - + AMC 34th Street 14 @ 2026-08-25T22:00:00 (Standard)
+- Coyote vs. Acme
+  - + AMC Lincoln Square 13 @ 2026-09-01T11:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-01T14:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-01T14:50:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-01T16:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-01T19:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-01T22:15:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-02T13:20:00 (Dolby Cinema at AMC)
+  - − AMC 34th Street 14 @ 2026-09-02T13:20:00 (Standard)
+- Buddy
+  - + AMC Lincoln Square 13 @ 2026-09-01T13:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-01T20:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-01T22:30:00 (Standard)
+- Spider-Man: Brand New Day
+  - + AMC Lincoln Square 13 @ 2026-09-01T10:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-01T11:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-01T14:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-01T18:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-01T21:30:00 (Standard)
+- Spa Weekend
+  - + AMC 34th Street 14 @ 2026-08-25T22:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-01T10:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-01T12:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-01T15:30:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-08-25T22:50:00 (Standard)
+- PAW Patrol: The Dino Movie
+  - + AMC 34th Street 14 @ 2026-08-26T15:25:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-08-26T15:30:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-08-26T18:00:00 (Standard)
+- The End of Oak Street
+  - + AMC 34th Street 14 @ 2026-08-26T17:50:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-01T18:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-01T22:45:00 (Standard)
+- Tony
+  - + AMC Lincoln Square 13 @ 2026-09-01T10:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-01T12:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-01T15:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-01T17:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-01T18:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-01T21:15:00 (Standard)
+
 ## 2026-08-25 11:48 AM CDT
 
 **Movies added:**
