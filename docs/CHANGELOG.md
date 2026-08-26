@@ -1,3 +1,9 @@
+## 2026-08-26 11:53 AM CDT
+
+**Movies added:**
+- AMC Screen Unseen: September 7
+- The Uprising
+
 ## 2026-08-26 05:43 AM CDT
 
 No changes.
