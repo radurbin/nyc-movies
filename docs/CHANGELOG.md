@@ -1,3 +1,62 @@
+## 2026-08-26 10:03 PM CDT
+
+**Showtime changes:**
+- Fall 2: Deadpoint
+  - + AMC 34th Street 14 @ 2026-09-02T12:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-02T19:45:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-03T17:00:00 (Standard)
+- It Ends
+  - + AMC 34th Street 14 @ 2026-09-02T12:15:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-02T22:30:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-02T12:25:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-02T20:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-02T22:25:00 (Standard)
+- Primetime
+  - + AMC 34th Street 14 @ 2026-09-24T18:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-02T11:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-02T13:45:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-02T16:30:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-02T19:15:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-02T22:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-03T11:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-03T13:45:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-03T16:30:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-03T22:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-04T13:45:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-04T16:30:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-04T19:15:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-04T22:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-05T13:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-05T16:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-05T19:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-05T22:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-06T11:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-06T13:45:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-06T16:30:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-06T19:15:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-06T22:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-07T13:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-07T16:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-07T19:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-07T22:00:00 (Standard)
+- Insidious: Out of the Further
+  - + AMC 34th Street 14 @ 2026-09-02T14:40:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-02T17:20:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-02T20:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-02T22:40:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-02T14:15:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-02T17:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-02T19:45:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-02T22:30:00 (Standard)
+- Buddy
+  - + AMC 34th Street 14 @ 2026-08-27T19:45:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-02T17:15:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-02T17:30:00 (Standard)
+- Mutiny
+  - + AMC 34th Street 14 @ 2026-09-02T14:45:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-08-27T19:45:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-02T15:00:00 (Standard)
+
 ## 2026-08-26 11:53 AM CDT
 
 **Movies added:**

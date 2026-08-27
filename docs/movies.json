@@ -1,11 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-08-26T11:53:56.450166-05:00",
+    "generated_at": "2026-08-26T22:03:52.378524-05:00",
     "movie_count": 68,
-    "showtime_count": 2775,
+    "showtime_count": 2752,
     "theaters": {
       "AMC Lincoln Square 13": 1127,
-      "AMC 34th Street 14": 1275,
+      "AMC 34th Street 14": 1252,
       "AMC 84th Street 6": 373
     }
   },
@@ -1868,7 +1868,7 @@
       "title": "Avengers Endgame: Encore",
       "release_year": 2026,
       "runtime": 185,
-      "rating": "PG13",
+      "rating": null,
       "genres": [
         "ACTION"
       ],
@@ -15542,7 +15542,7 @@
           "premium_format": "Dolby Cinema at AMC",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-23/lincolnsquare/all/145283785",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -27879,7 +27879,7 @@
       "rotten_tomatoes": null,
       "metacritic": "64/100",
       "letterboxd_rating": 3.47,
-      "letterboxd_rating_count": 7880,
+      "letterboxd_rating_count": 7999,
       "letterboxd_url": "https://letterboxd.com/film/buddy-2026/",
       "awards": "1 nomination total",
       "language": "English",
@@ -27996,6 +27996,49 @@
           "attributes": [
             "AMC Artisan Films",
             "AOneLive",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "AMC Signature Recliners",
+            "Reserved Seating",
+            "Thrills & Chills"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 20.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 17.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 18.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
+          "showtime_id": 146461619,
+          "datetime": "2026-08-27T19:45:00",
+          "datetime_utc": "2026-08-27T23:45:00Z",
+          "auditorium": 14,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-27/34thstreet/all/146461619",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -30015,8 +30058,8 @@
           "theater_id": 2120,
           "theater": "AMC 34th Street 14",
           "showtime_id": 146461577,
-          "datetime": "2026-09-02T17:30:00",
-          "datetime_utc": "2026-09-02T21:30:00Z",
+          "datetime": "2026-09-02T17:15:00",
+          "datetime_utc": "2026-09-02T21:15:00Z",
           "auditorium": 11,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-02/34thstreet/all/146461577",
@@ -33943,7 +33986,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.84,
-      "letterboxd_rating_count": 16684,
+      "letterboxd_rating_count": 17578,
       "letterboxd_url": "https://letterboxd.com/film/coyote-vs-acme/",
       "awards": "1 win total",
       "language": "English",
@@ -34541,7 +34584,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-27/lincolnsquare/all/145480809",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -37260,7 +37303,7 @@
           "auditorium": 8,
           "premium_format": "Dolby Cinema at AMC",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-31/34thstreet/all/145693664",
-          "sold_out": false,
+          "sold_out": true,
           "almost_sold_out": false,
           "cancelled": false,
           "has_trailers": false,
@@ -44345,7 +44388,7 @@
           "premium_format": "70mm",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-28/lincolnsquare/all/146174298",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -48689,7 +48732,7 @@
           "premium_format": "70mm",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-10/lincolnsquare/all/146171977",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": true,
@@ -49675,6 +49718,48 @@
           "source": "AMC",
           "theater_id": 2120,
           "theater": "AMC 34th Street 14",
+          "showtime_id": 146591868,
+          "datetime": "2026-09-02T12:00:00",
+          "datetime_utc": "2026-09-02T16:00:00Z",
+          "auditorium": 1,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-02/34thstreet/all/146591868",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AOneLive",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.39,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 13.99,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 15.19,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
           "showtime_id": 146284995,
           "datetime": "2026-09-02T19:15:00",
           "datetime_utc": "2026-09-02T23:15:00Z",
@@ -49716,12 +49801,94 @@
           "source": "AMC",
           "theater_id": 2120,
           "theater": "AMC 34th Street 14",
+          "showtime_id": 146259674,
+          "datetime": "2026-09-02T19:45:00",
+          "datetime_utc": "2026-09-02T23:45:00Z",
+          "auditorium": 11,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-02/34thstreet/all/146259674",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 20.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 17.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 18.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
           "showtime_id": 146461543,
           "datetime": "2026-09-02T22:00:00",
           "datetime_utc": "2026-09-03T02:00:00Z",
           "auditorium": 10,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-02/34thstreet/all/146461543",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 20.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 17.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 18.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
+          "showtime_id": 146591871,
+          "datetime": "2026-09-03T17:00:00",
+          "datetime_utc": "2026-09-03T21:00:00Z",
+          "auditorium": 10,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-03/34thstreet/all/146591871",
           "sold_out": false,
           "almost_sold_out": false,
           "cancelled": false,
@@ -49948,7 +50115,7 @@
       "rotten_tomatoes": null,
       "metacritic": "71/100",
       "letterboxd_rating": 3.8,
-      "letterboxd_rating_count": 76567,
+      "letterboxd_rating_count": 76869,
       "letterboxd_url": "https://letterboxd.com/film/finding-emily/",
       "awards": "N/A",
       "language": "English",
@@ -52808,7 +52975,7 @@
           "premium_format": "RealD 3D",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-27/34thstreet/all/145563429",
           "sold_out": false,
-          "almost_sold_out": true,
+          "almost_sold_out": false,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -53099,7 +53266,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-30/34thstreet/all/145563396",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -53204,7 +53371,7 @@
       "rotten_tomatoes": null,
       "metacritic": "68/100",
       "letterboxd_rating": 3.33,
-      "letterboxd_rating_count": 7425,
+      "letterboxd_rating_count": 7448,
       "letterboxd_url": "https://letterboxd.com/film/hope-2026/",
       "awards": "1 nomination total",
       "language": "Korean, English",
@@ -54194,7 +54361,7 @@
       "rotten_tomatoes": null,
       "metacritic": "47/100",
       "letterboxd_rating": 2.76,
-      "letterboxd_rating_count": 96763,
+      "letterboxd_rating_count": 103737,
       "letterboxd_url": "https://letterboxd.com/film/insidious-out-of-the-further/",
       "awards": "N/A",
       "language": "English",
@@ -58883,8 +59050,8 @@
           "theater_id": 2120,
           "theater": "AMC 34th Street 14",
           "showtime_id": 146461370,
-          "datetime": "2026-09-02T14:15:00",
-          "datetime_utc": "2026-09-02T18:15:00Z",
+          "datetime": "2026-09-02T14:40:00",
+          "datetime_utc": "2026-09-02T18:40:00Z",
           "auditorium": 1,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-02/34thstreet/all/146461370",
@@ -59009,8 +59176,8 @@
           "theater_id": 2120,
           "theater": "AMC 34th Street 14",
           "showtime_id": 146461369,
-          "datetime": "2026-09-02T17:00:00",
-          "datetime_utc": "2026-09-02T21:00:00Z",
+          "datetime": "2026-09-02T17:20:00",
+          "datetime_utc": "2026-09-02T21:20:00Z",
           "auditorium": 1,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-02/34thstreet/all/146461369",
@@ -59136,8 +59303,8 @@
           "theater_id": 2120,
           "theater": "AMC 34th Street 14",
           "showtime_id": 145352115,
-          "datetime": "2026-09-02T19:45:00",
-          "datetime_utc": "2026-09-02T23:45:00Z",
+          "datetime": "2026-09-02T20:00:00",
+          "datetime_utc": "2026-09-03T00:00:00Z",
           "auditorium": 1,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-02/34thstreet/all/145352115",
@@ -59262,8 +59429,8 @@
           "theater_id": 2120,
           "theater": "AMC 34th Street 14",
           "showtime_id": 146461371,
-          "datetime": "2026-09-02T22:30:00",
-          "datetime_utc": "2026-09-03T02:30:00Z",
+          "datetime": "2026-09-02T22:40:00",
+          "datetime_utc": "2026-09-03T02:40:00Z",
           "auditorium": 1,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-02/34thstreet/all/146461371",
@@ -60019,8 +60186,8 @@
           "theater_id": 2120,
           "theater": "AMC 34th Street 14",
           "showtime_id": 146259676,
-          "datetime": "2026-09-02T12:25:00",
-          "datetime_utc": "2026-09-02T16:25:00Z",
+          "datetime": "2026-09-02T12:15:00",
+          "datetime_utc": "2026-09-02T16:15:00Z",
           "auditorium": 11,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-02/34thstreet/all/146259676",
@@ -60060,50 +60227,9 @@
           "source": "AMC",
           "theater_id": 2120,
           "theater": "AMC 34th Street 14",
-          "showtime_id": 146259674,
-          "datetime": "2026-09-02T20:00:00",
-          "datetime_utc": "2026-09-03T00:00:00Z",
-          "auditorium": 11,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-02/34thstreet/all/146259674",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Laser at AMC",
-            "Open Caption (On-screen Subtitles)",
-            "AMC Signature Recliners",
-            "Reserved Seating",
-            "Thrills & Chills"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 20.49,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 17.49,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 18.99,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 2120,
-          "theater": "AMC 34th Street 14",
           "showtime_id": 146259675,
-          "datetime": "2026-09-02T22:25:00",
-          "datetime_utc": "2026-09-03T02:25:00Z",
+          "datetime": "2026-09-02T22:30:00",
+          "datetime_utc": "2026-09-03T02:30:00Z",
           "auditorium": 11,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-02/34thstreet/all/146259675",
@@ -60277,7 +60403,7 @@
       "title": "Katy Perry: The Lifetimes Tour - Live From Paris",
       "release_year": 2026,
       "runtime": 132,
-      "rating": "NR",
+      "rating": null,
       "genres": [
         "ROCK/POP CONCERT"
       ],
@@ -60753,8 +60879,8 @@
       "imdb_votes": "N/A",
       "rotten_tomatoes": null,
       "metacritic": null,
-      "letterboxd_rating": 2.61,
-      "letterboxd_rating_count": 25898,
+      "letterboxd_rating": 2.6,
+      "letterboxd_rating_count": 27456,
       "letterboxd_url": "https://letterboxd.com/film/mutiny-2026/",
       "awards": "N/A",
       "language": "English",
@@ -61496,47 +61622,6 @@
             {
               "type": "SENIOR",
               "price": 20.99,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 2120,
-          "theater": "AMC 34th Street 14",
-          "showtime_id": 146461619,
-          "datetime": "2026-08-27T19:45:00",
-          "datetime_utc": "2026-08-27T23:45:00Z",
-          "auditorium": 14,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-27/34thstreet/all/146461619",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Laser at AMC",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 20.49,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 17.49,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 18.99,
               "tax": 0.0
             }
           ]
@@ -63762,8 +63847,8 @@
           "theater_id": 2120,
           "theater": "AMC 34th Street 14",
           "showtime_id": 146461579,
-          "datetime": "2026-09-02T15:00:00",
-          "datetime_utc": "2026-09-02T19:00:00Z",
+          "datetime": "2026-09-02T14:45:00",
+          "datetime_utc": "2026-09-02T18:45:00Z",
           "auditorium": 11,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-02/34thstreet/all/146461579",
@@ -66796,8 +66881,8 @@
       "imdb_votes": "1,318",
       "rotten_tomatoes": null,
       "metacritic": "43/100",
-      "letterboxd_rating": 2.83,
-      "letterboxd_rating_count": 99231,
+      "letterboxd_rating": 2.84,
+      "letterboxd_rating_count": 100862,
       "letterboxd_url": "https://letterboxd.com/film/one-night-only-2026/",
       "awards": "N/A",
       "language": "English",
@@ -70108,8 +70193,8 @@
       "imdb_votes": "1,038",
       "rotten_tomatoes": null,
       "metacritic": "47/100",
-      "letterboxd_rating": 2.87,
-      "letterboxd_rating_count": 8178,
+      "letterboxd_rating": 2.86,
+      "letterboxd_rating_count": 8299,
       "letterboxd_url": "https://letterboxd.com/film/paw-patrol-the-dino-movie/",
       "awards": "N/A",
       "language": "English",
@@ -76461,6 +76546,47 @@
           "source": "AMC",
           "theater_id": 2120,
           "theater": "AMC 34th Street 14",
+          "showtime_id": 146592709,
+          "datetime": "2026-09-24T18:00:00",
+          "datetime_utc": "2026-09-24T22:00:00Z",
+          "auditorium": 7,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-24/34thstreet/all/146592709",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 20.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 17.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 18.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
           "showtime_id": 146538190,
           "datetime": "2026-09-24T18:45:00",
           "datetime_utc": "2026-09-24T22:45:00Z",
@@ -78145,381 +78271,13 @@
           "source": "AMC",
           "theater_id": 2120,
           "theater": "AMC 34th Street 14",
-          "showtime_id": 146538129,
-          "datetime": "2026-10-02T11:00:00",
-          "datetime_utc": "2026-10-02T15:00:00Z",
-          "auditorium": 7,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-02/34thstreet/all/146538129",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": true,
-          "discount_message": "20% OFF",
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Laser at AMC",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 16.39,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 13.99,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 15.19,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 2120,
-          "theater": "AMC 34th Street 14",
-          "showtime_id": 146538148,
-          "datetime": "2026-10-02T13:45:00",
-          "datetime_utc": "2026-10-02T17:45:00Z",
-          "auditorium": 7,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-02/34thstreet/all/146538148",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": true,
-          "discount_message": "20% OFF",
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Laser at AMC",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 16.39,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 13.99,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 15.19,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 2120,
-          "theater": "AMC 34th Street 14",
-          "showtime_id": 146538130,
-          "datetime": "2026-10-02T16:30:00",
-          "datetime_utc": "2026-10-02T20:30:00Z",
-          "auditorium": 7,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-02/34thstreet/all/146538130",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Laser at AMC",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 20.49,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 17.49,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 18.99,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 2120,
-          "theater": "AMC 34th Street 14",
-          "showtime_id": 146538131,
-          "datetime": "2026-10-02T19:15:00",
-          "datetime_utc": "2026-10-02T23:15:00Z",
-          "auditorium": 7,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-02/34thstreet/all/146538131",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Laser at AMC",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 20.49,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 17.49,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 18.99,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 2120,
-          "theater": "AMC 34th Street 14",
-          "showtime_id": 146538132,
-          "datetime": "2026-10-02T22:00:00",
-          "datetime_utc": "2026-10-03T02:00:00Z",
-          "auditorium": 7,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-02/34thstreet/all/146538132",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Laser at AMC",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 20.49,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 17.49,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 18.99,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 2120,
-          "theater": "AMC 34th Street 14",
-          "showtime_id": 146538138,
-          "datetime": "2026-10-03T11:00:00",
-          "datetime_utc": "2026-10-03T15:00:00Z",
-          "auditorium": 7,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-03/34thstreet/all/146538138",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": true,
-          "discount_message": "20% OFF",
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Laser at AMC",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 16.39,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 13.99,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 15.19,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 2120,
-          "theater": "AMC 34th Street 14",
-          "showtime_id": 146538139,
-          "datetime": "2026-10-03T13:45:00",
-          "datetime_utc": "2026-10-03T17:45:00Z",
-          "auditorium": 7,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-03/34thstreet/all/146538139",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": true,
-          "discount_message": "20% OFF",
-          "attributes": [
-            "Laser at AMC",
-            "Open Caption (On-screen Subtitles)",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 16.39,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 13.99,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 15.19,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 2120,
-          "theater": "AMC 34th Street 14",
-          "showtime_id": 146538140,
-          "datetime": "2026-10-03T16:30:00",
-          "datetime_utc": "2026-10-03T20:30:00Z",
-          "auditorium": 7,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-03/34thstreet/all/146538140",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Laser at AMC",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 20.49,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 17.49,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 18.99,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 2120,
-          "theater": "AMC 34th Street 14",
           "showtime_id": 146538141,
           "datetime": "2026-10-03T19:15:00",
           "datetime_utc": "2026-10-03T23:15:00Z",
           "auditorium": 7,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-03/34thstreet/all/146538141",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Laser at AMC",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 20.49,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 17.49,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 18.99,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 2120,
-          "theater": "AMC 34th Street 14",
-          "showtime_id": 146538142,
-          "datetime": "2026-10-03T22:00:00",
-          "datetime_utc": "2026-10-04T02:00:00Z",
-          "auditorium": 7,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-03/34thstreet/all/146538142",
-          "sold_out": false,
+          "sold_out": true,
           "almost_sold_out": false,
           "cancelled": false,
           "has_trailers": false,
@@ -78560,7 +78318,7 @@
           "auditorium": 7,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-04/34thstreet/all/146538143",
-          "sold_out": false,
+          "sold_out": true,
           "almost_sold_out": false,
           "cancelled": false,
           "has_trailers": false,
@@ -78587,700 +78345,6 @@
             {
               "type": "SENIOR",
               "price": 15.19,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 2120,
-          "theater": "AMC 34th Street 14",
-          "showtime_id": 146538144,
-          "datetime": "2026-10-04T13:45:00",
-          "datetime_utc": "2026-10-04T17:45:00Z",
-          "auditorium": 7,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-04/34thstreet/all/146538144",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": true,
-          "discount_message": "20% OFF",
-          "attributes": [
-            "Laser at AMC",
-            "Open Caption (On-screen Subtitles)",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 16.39,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 13.99,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 15.19,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 2120,
-          "theater": "AMC 34th Street 14",
-          "showtime_id": 146538145,
-          "datetime": "2026-10-04T16:30:00",
-          "datetime_utc": "2026-10-04T20:30:00Z",
-          "auditorium": 7,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-04/34thstreet/all/146538145",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Laser at AMC",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 20.49,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 17.49,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 18.99,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 2120,
-          "theater": "AMC 34th Street 14",
-          "showtime_id": 146538146,
-          "datetime": "2026-10-04T19:15:00",
-          "datetime_utc": "2026-10-04T23:15:00Z",
-          "auditorium": 7,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-04/34thstreet/all/146538146",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Laser at AMC",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 20.49,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 17.49,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 18.99,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 2120,
-          "theater": "AMC 34th Street 14",
-          "showtime_id": 146538147,
-          "datetime": "2026-10-04T22:00:00",
-          "datetime_utc": "2026-10-05T02:00:00Z",
-          "auditorium": 7,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-04/34thstreet/all/146538147",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Laser at AMC",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 20.49,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 17.49,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 18.99,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 2120,
-          "theater": "AMC 34th Street 14",
-          "showtime_id": 146538149,
-          "datetime": "2026-10-05T13:00:00",
-          "datetime_utc": "2026-10-05T17:00:00Z",
-          "auditorium": 7,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-05/34thstreet/all/146538149",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": true,
-          "discount_message": "20% OFF",
-          "attributes": [
-            "Laser at AMC",
-            "Open Caption (On-screen Subtitles)",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 16.39,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 13.99,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 15.19,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 2120,
-          "theater": "AMC 34th Street 14",
-          "showtime_id": 146538150,
-          "datetime": "2026-10-05T16:00:00",
-          "datetime_utc": "2026-10-05T20:00:00Z",
-          "auditorium": 7,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-05/34thstreet/all/146538150",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Laser at AMC",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 20.49,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 17.49,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 18.99,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 2120,
-          "theater": "AMC 34th Street 14",
-          "showtime_id": 146538151,
-          "datetime": "2026-10-05T19:00:00",
-          "datetime_utc": "2026-10-05T23:00:00Z",
-          "auditorium": 7,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-05/34thstreet/all/146538151",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Laser at AMC",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 20.49,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 17.49,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 18.99,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 2120,
-          "theater": "AMC 34th Street 14",
-          "showtime_id": 146538152,
-          "datetime": "2026-10-05T22:00:00",
-          "datetime_utc": "2026-10-06T02:00:00Z",
-          "auditorium": 7,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-05/34thstreet/all/146538152",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Laser at AMC",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 20.49,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 17.49,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 18.99,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 2120,
-          "theater": "AMC 34th Street 14",
-          "showtime_id": 146538133,
-          "datetime": "2026-10-06T11:00:00",
-          "datetime_utc": "2026-10-06T15:00:00Z",
-          "auditorium": 7,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-06/34thstreet/all/146538133",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": true,
-          "discount_message": "20% OFF",
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Laser at AMC",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 16.39,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 13.99,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 15.19,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 2120,
-          "theater": "AMC 34th Street 14",
-          "showtime_id": 146538134,
-          "datetime": "2026-10-06T13:45:00",
-          "datetime_utc": "2026-10-06T17:45:00Z",
-          "auditorium": 7,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-06/34thstreet/all/146538134",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": true,
-          "discount_message": "20% OFF",
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Laser at AMC",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 16.39,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 13.99,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 15.19,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 2120,
-          "theater": "AMC 34th Street 14",
-          "showtime_id": 146538135,
-          "datetime": "2026-10-06T16:30:00",
-          "datetime_utc": "2026-10-06T20:30:00Z",
-          "auditorium": 7,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-06/34thstreet/all/146538135",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Laser at AMC",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 20.49,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 17.49,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 18.99,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 2120,
-          "theater": "AMC 34th Street 14",
-          "showtime_id": 146538136,
-          "datetime": "2026-10-06T19:15:00",
-          "datetime_utc": "2026-10-06T23:15:00Z",
-          "auditorium": 7,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-06/34thstreet/all/146538136",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Laser at AMC",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 20.49,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 17.49,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 18.99,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 2120,
-          "theater": "AMC 34th Street 14",
-          "showtime_id": 146538137,
-          "datetime": "2026-10-06T22:00:00",
-          "datetime_utc": "2026-10-07T02:00:00Z",
-          "auditorium": 7,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-06/34thstreet/all/146538137",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Laser at AMC",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 20.49,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 17.49,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 18.99,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 2120,
-          "theater": "AMC 34th Street 14",
-          "showtime_id": 146538153,
-          "datetime": "2026-10-07T13:00:00",
-          "datetime_utc": "2026-10-07T17:00:00Z",
-          "auditorium": 7,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-07/34thstreet/all/146538153",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": true,
-          "discount_message": "20% OFF",
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Laser at AMC",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 16.39,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 13.99,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 15.19,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 2120,
-          "theater": "AMC 34th Street 14",
-          "showtime_id": 146538154,
-          "datetime": "2026-10-07T16:00:00",
-          "datetime_utc": "2026-10-07T20:00:00Z",
-          "auditorium": 7,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-07/34thstreet/all/146538154",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Laser at AMC",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 20.49,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 17.49,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 18.99,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 2120,
-          "theater": "AMC 34th Street 14",
-          "showtime_id": 146538155,
-          "datetime": "2026-10-07T19:00:00",
-          "datetime_utc": "2026-10-07T23:00:00Z",
-          "auditorium": 7,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-07/34thstreet/all/146538155",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Laser at AMC",
-            "Open Caption (On-screen Subtitles)",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 20.49,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 17.49,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 18.99,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 2120,
-          "theater": "AMC 34th Street 14",
-          "showtime_id": 146538156,
-          "datetime": "2026-10-07T22:00:00",
-          "datetime_utc": "2026-10-08T02:00:00Z",
-          "auditorium": 7,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-07/34thstreet/all/146538156",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Laser at AMC",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 20.49,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 17.49,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 18.99,
               "tax": 0.0
             }
           ]
@@ -81326,7 +80390,7 @@
       "title": "Sara Bareilles: Good Grief",
       "release_year": 2026,
       "runtime": 91,
-      "rating": "NR",
+      "rating": null,
       "genres": [
         "Documentary"
       ],
@@ -81442,7 +80506,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 2.49,
-      "letterboxd_rating_count": 8135,
+      "letterboxd_rating_count": 8793,
       "letterboxd_url": "https://letterboxd.com/film/spa-weekend-2026/",
       "awards": "N/A",
       "language": "English",
@@ -84070,7 +83134,7 @@
       "rotten_tomatoes": null,
       "metacritic": "66/100",
       "letterboxd_rating": 4.06,
-      "letterboxd_rating_count": 3636961,
+      "letterboxd_rating_count": 3655609,
       "letterboxd_url": "https://letterboxd.com/film/spider-man-brand-new-day/",
       "awards": "1 nomination total",
       "language": "English",
@@ -84793,7 +83857,7 @@
           "premium_format": "Dolby Cinema at AMC",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-26/lincolnsquare/all/146218816",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -90807,7 +89871,7 @@
       "rotten_tomatoes": null,
       "metacritic": "89/100",
       "letterboxd_rating": 3.83,
-      "letterboxd_rating_count": 177512,
+      "letterboxd_rating_count": 185091,
       "letterboxd_url": "https://letterboxd.com/film/teenage-sex-and-death-at-camp-miasma/",
       "awards": "2 wins & 2 nominations total",
       "language": "English",
@@ -91378,7 +90442,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-27/lincolnsquare/all/146376792",
           "sold_out": false,
-          "almost_sold_out": true,
+          "almost_sold_out": false,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -94089,8 +93153,8 @@
       "imdb_votes": "N/A",
       "rotten_tomatoes": null,
       "metacritic": null,
-      "letterboxd_rating": 3.04,
-      "letterboxd_rating_count": 2380,
+      "letterboxd_rating": 3,
+      "letterboxd_rating_count": 7303,
       "letterboxd_url": "https://letterboxd.com/film/the-dog-stars/",
       "awards": "N/A",
       "language": "English",
@@ -94324,7 +93388,7 @@
           "premium_format": "IMAX at AMC",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-27/34thstreet/all/145693687",
           "sold_out": false,
-          "almost_sold_out": true,
+          "almost_sold_out": false,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -98780,7 +97844,7 @@
       "rotten_tomatoes": "86%",
       "metacritic": "69/100",
       "letterboxd_rating": 3.08,
-      "letterboxd_rating_count": 363152,
+      "letterboxd_rating_count": 370563,
       "letterboxd_url": "https://letterboxd.com/film/the-end-of-oak-street/",
       "awards": "N/A",
       "language": "English",
@@ -102230,7 +101294,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.04,
-      "letterboxd_rating_count": 33876,
+      "letterboxd_rating_count": 34057,
       "letterboxd_url": "https://letterboxd.com/film/the-magic-faraway-tree/",
       "awards": "1 win & 4 nominations total",
       "language": "English",
@@ -102519,8 +101583,8 @@
       "imdb_votes": "377,702",
       "rotten_tomatoes": null,
       "metacritic": "88/100",
-      "letterboxd_rating": 4.37,
-      "letterboxd_rating_count": 3925832,
+      "letterboxd_rating": 4.36,
+      "letterboxd_rating_count": 3939451,
       "letterboxd_url": "https://letterboxd.com/film/the-odyssey-2026/",
       "awards": "2 wins total",
       "language": "English, Greek",
@@ -112220,7 +111284,7 @@
       "rotten_tomatoes": "89%",
       "metacritic": "65/100",
       "letterboxd_rating": 3.47,
-      "letterboxd_rating_count": 17045,
+      "letterboxd_rating_count": 17403,
       "letterboxd_url": "https://letterboxd.com/film/the-rivals-of-amziah-king/",
       "awards": "1 nomination total",
       "language": "English",
@@ -115803,8 +114867,8 @@
       "imdb_votes": "156",
       "rotten_tomatoes": null,
       "metacritic": "75/100",
-      "letterboxd_rating": 3.87,
-      "letterboxd_rating_count": 141864,
+      "letterboxd_rating": 3.88,
+      "letterboxd_rating_count": 148035,
       "letterboxd_url": "https://letterboxd.com/film/tony-2026/",
       "awards": "N/A",
       "language": "English",
@@ -119342,7 +118406,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-08-26/34thstreet/all/146259659",
           "sold_out": false,
-          "almost_sold_out": true,
+          "almost_sold_out": false,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
