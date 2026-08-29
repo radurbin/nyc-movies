@@ -1,3 +1,45 @@
+## 2026-08-29 02:22 PM CDT
+
+**Showtime changes:**
+- Terminator 2: Judgment Day 35th Anniversary
+  - + AMC Lincoln Square 13 @ 2026-09-02T22:00:00 (Standard)
+- Spider-Man: Brand New Day
+  - + AMC 84th Street 6 @ 2026-08-30T22:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-08-31T21:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-07T19:00:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-08-30T22:45:00 (Standard)
+- Tony
+  - + AMC Lincoln Square 13 @ 2026-09-03T10:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-03T13:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-03T16:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-03T19:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-03T22:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-04T10:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-04T13:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-04T16:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-04T19:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-04T22:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-05T10:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-05T13:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-05T16:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-05T19:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-05T22:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-06T10:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-06T13:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-06T16:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-06T19:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-06T22:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-07T10:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-07T13:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-07T16:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-07T19:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-07T22:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-08T10:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-08T13:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-08T16:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-08T19:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-08T22:15:00 (Standard)
+
 ## 2026-08-29 06:00 AM CDT
 
 **Showtime changes:**
