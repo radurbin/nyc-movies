@@ -20309,5 +20309,51 @@
     "movies_added": [],
     "movies_removed": [],
     "showtime_changes": []
+  },
+  {
+    "date": "2026-08-30 04:43 PM CDT",
+    "movies_added": [],
+    "movies_removed": [],
+    "showtime_changes": [
+      {
+        "title": "Coyote vs. Acme",
+        "added": [],
+        "removed": [
+          {
+            "theater": "AMC 34th Street 14",
+            "datetime": "2026-08-30T22:00:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Harry Potter and the Sorcerer’s Stone: 25th Anniversary",
+        "added": [
+          {
+            "theater": "AMC 34th Street 14",
+            "datetime": "2026-08-30T21:15:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": []
+      },
+      {
+        "title": "Finding Emily",
+        "added": [
+          {
+            "theater": "AMC 34th Street 14",
+            "datetime": "2026-08-30T22:00:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": [
+          {
+            "theater": "AMC 34th Street 14",
+            "datetime": "2026-08-30T21:20:00",
+            "format": "Standard"
+          }
+        ]
+      }
+    ]
   }
 ]

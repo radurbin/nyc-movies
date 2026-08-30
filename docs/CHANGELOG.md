@@ -1,3 +1,14 @@
+## 2026-08-30 04:43 PM CDT
+
+**Showtime changes:**
+- Coyote vs. Acme
+  - − AMC 34th Street 14 @ 2026-08-30T22:00:00 (Standard)
+- Harry Potter and the Sorcerer’s Stone: 25th Anniversary
+  - + AMC 34th Street 14 @ 2026-08-30T21:15:00 (Standard)
+- Finding Emily
+  - + AMC 34th Street 14 @ 2026-08-30T22:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-08-30T21:20:00 (Standard)
+
 ## 2026-08-30 09:47 AM CDT
 
 No changes.
