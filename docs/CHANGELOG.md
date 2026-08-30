@@ -1,3 +1,33 @@
+## 2026-08-29 07:05 PM CDT
+
+**Showtime changes:**
+- Mutiny
+  - + AMC 34th Street 14 @ 2026-08-30T14:55:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-08-31T22:15:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-08-30T14:50:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-08-30T20:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-08-31T19:30:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-08-31T22:00:00 (Standard)
+- Buddy
+  - + AMC 34th Street 14 @ 2026-08-30T12:25:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-08-30T22:30:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-08-31T13:35:00 (Standard)
+- Spider-Man: Brand New Day
+  - − AMC 34th Street 14 @ 2026-08-30T11:00:00 (RealD 3D)
+- Spa Weekend
+  - − AMC 34th Street 14 @ 2026-08-30T21:55:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-08-31T13:35:00 (Standard)
+- It Ends
+  - − AMC 34th Street 14 @ 2026-08-30T12:30:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-08-30T22:25:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-08-31T12:25:00 (Standard)
+- Coyote vs. Acme
+  - + AMC 34th Street 14 @ 2026-08-30T11:30:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-08-30T19:50:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-08-30T22:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-08-31T11:45:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-08-31T19:30:00 (Standard)
+
 ## 2026-08-29 02:22 PM CDT
 
 **Showtime changes:**
