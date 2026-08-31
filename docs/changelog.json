@@ -21290,5 +21290,51 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-08-31 04:25 PM CDT",
+    "movies_added": [],
+    "movies_removed": [],
+    "showtime_changes": [
+      {
+        "title": "Coyote vs. Acme",
+        "added": [
+          {
+            "theater": "AMC 34th Street 14",
+            "datetime": "2026-08-31T22:15:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": []
+      },
+      {
+        "title": "Spider-Man: Brand New Day",
+        "added": [
+          {
+            "theater": "AMC 34th Street 14",
+            "datetime": "2026-09-03T20:15:00",
+            "format": "Dolby Cinema at AMC"
+          }
+        ],
+        "removed": [
+          {
+            "theater": "AMC 34th Street 14",
+            "datetime": "2026-09-03T20:00:00",
+            "format": "Dolby Cinema at AMC"
+          }
+        ]
+      },
+      {
+        "title": "Spa Weekend",
+        "added": [],
+        "removed": [
+          {
+            "theater": "AMC 34th Street 14",
+            "datetime": "2026-08-31T22:15:00",
+            "format": "Standard"
+          }
+        ]
+      }
+    ]
   }
 ]

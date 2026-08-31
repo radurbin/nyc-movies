@@ -1,3 +1,14 @@
+## 2026-08-31 04:25 PM CDT
+
+**Showtime changes:**
+- Coyote vs. Acme
+  - + AMC 34th Street 14 @ 2026-08-31T22:15:00 (Standard)
+- Spider-Man: Brand New Day
+  - + AMC 34th Street 14 @ 2026-09-03T20:15:00 (Dolby Cinema at AMC)
+  - − AMC 34th Street 14 @ 2026-09-03T20:00:00 (Dolby Cinema at AMC)
+- Spa Weekend
+  - − AMC 34th Street 14 @ 2026-08-31T22:15:00 (Standard)
+
 ## 2026-08-31 05:46 AM CDT
 
 **Movies added:**
