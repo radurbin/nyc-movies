@@ -1,3 +1,29 @@
+## 2026-09-01 09:43 AM CDT
+
+**Movies added:**
+- Resident Evil
+- The Weight Early Access
+- The Weight
+
+**Showtime changes:**
+- Fall 2: Deadpoint
+  - + AMC 34th Street 14 @ 2026-09-02T15:30:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-02T17:00:00 (Standard)
+- Spider-Man: Brand New Day
+  - + AMC 34th Street 14 @ 2026-09-02T16:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-02T16:15:00 (RealD 3D)
+- Coyote vs. Acme
+  - + AMC 34th Street 14 @ 2026-09-01T13:00:00 (Standard)
+- Tony
+  - − AMC 34th Street 14 @ 2026-09-02T15:35:00 (Standard)
+- Buddy
+  - + AMC 34th Street 14 @ 2026-09-02T16:30:00 (Standard)
+- Terminator 2: Judgment Day 35th Anniversary
+  - − AMC 34th Street 14 @ 2026-09-02T16:00:00 (Standard)
+- Spa Weekend
+  - − AMC 34th Street 14 @ 2026-09-01T13:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-02T16:15:00 (Standard)
+
 ## 2026-09-01 04:21 AM CDT
 
 **Movies removed:**
