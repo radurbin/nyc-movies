@@ -1,3 +1,13 @@
+## 2026-09-01 06:58 PM CDT
+
+**Showtime changes:**
+- Spider-Man: Brand New Day
+  - + AMC 34th Street 14 @ 2026-09-02T16:30:00 (Dolby Cinema at AMC)
+- Oasis: Don’t Look Back In Anger IMAX Early Access
+  - − AMC 34th Street 14 @ 2026-09-09T22:20:00 (IMAX at AMC)
+- Spa Weekend
+  - + AMC Lincoln Square 13 @ 2026-09-03T11:00:00 (Standard)
+
 ## 2026-09-01 02:21 PM CDT
 
 **Movies added:**
