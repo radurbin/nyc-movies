@@ -1,3 +1,90 @@
+## 2026-09-01 02:21 PM CDT
+
+**Movies added:**
+- AMC Screen Unseen: September 13
+- AMC Screen Unseen: September 14
+
+**Showtime changes:**
+- Buddy
+  - + AMC Lincoln Square 13 @ 2026-09-07T12:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-07T14:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-07T17:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-07T19:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-07T22:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-08T12:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-08T14:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-08T17:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-08T19:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-08T23:00:00 (Standard)
+- PAW Patrol: The Dino Movie
+  - + AMC Lincoln Square 13 @ 2026-09-07T10:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-07T13:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-08T10:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-08T13:15:00 (Standard)
+- The Dog Stars
+  - + AMC Lincoln Square 13 @ 2026-09-07T10:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-07T13:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-07T16:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-07T19:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-07T22:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-08T10:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-08T13:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-08T16:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-08T19:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-08T22:45:00 (Standard)
+- Finding Emily
+  - + AMC Lincoln Square 13 @ 2026-09-07T12:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-07T15:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-08T12:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-08T15:30:00 (Standard)
+- Teenage Sex and Death at Camp Miasma
+  - + AMC Lincoln Square 13 @ 2026-09-07T10:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-07T13:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-07T16:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-07T22:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-08T11:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-08T14:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-08T17:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-08T20:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-08T23:00:00 (Standard)
+- Coyote vs. Acme
+  - + AMC Lincoln Square 13 @ 2026-09-07T10:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-07T13:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-07T16:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-07T18:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-07T22:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-08T10:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-08T13:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-08T16:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-08T18:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-08T22:15:00 (Standard)
+- Akira
+  - + AMC Lincoln Square 13 @ 2026-09-07T16:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-07T19:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-07T21:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-07T22:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-08T16:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-08T19:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-08T21:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-08T22:30:00 (Standard)
+- The Odyssey
+  - + AMC Lincoln Square 13 @ 2026-09-07T11:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-07T15:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-08T11:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-08T15:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-08T19:00:00 (Standard)
+- Spider-Man: Brand New Day
+  - + AMC Lincoln Square 13 @ 2026-09-07T10:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-07T11:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-07T14:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-07T18:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-07T21:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-08T10:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-08T11:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-08T14:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-08T18:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-08T21:30:00 (Standard)
+
 ## 2026-09-01 09:43 AM CDT
 
 **Movies added:**
