@@ -1,3 +1,49 @@
+## 2026-09-02 02:21 PM CDT
+
+**Showtime changes:**
+- Primetime
+  - + AMC Lincoln Square 13 @ 2026-09-24T17:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-24T18:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-24T21:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-24T23:00:00 (Standard)
+- Resident Evil
+  - + AMC Lincoln Square 13 @ 2026-09-19T11:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-19T14:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-19T16:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-19T19:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-20T11:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-20T14:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-20T16:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-20T19:15:00 (Standard)
+- Dune: Part Three
+  - + AMC Lincoln Square 13 @ 2026-12-18T23:00:00 (70mm)
+- Avengers Endgame: Encore
+  - + AMC Lincoln Square 13 @ 2026-09-24T14:00:00 (RealD 3D)
+  - + AMC Lincoln Square 13 @ 2026-09-24T15:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-24T18:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-24T19:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-24T22:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-25T11:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-25T15:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-25T19:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-25T23:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-26T11:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-26T15:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-26T19:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-26T23:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-27T11:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-27T15:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-27T19:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-27T23:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-28T11:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-28T15:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-28T19:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-28T23:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-30T11:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-30T15:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-30T19:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-30T23:00:00 (Standard)
+
 ## 2026-09-02 09:37 AM CDT
 
 **Movies added:**
