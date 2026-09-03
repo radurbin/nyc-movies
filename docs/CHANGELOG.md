@@ -1,3 +1,25 @@
+## 2026-09-02 07:00 PM CDT
+
+**Showtime changes:**
+- Primetime
+  - + AMC 34th Street 14 @ 2026-09-24T20:45:00 (Standard)
+- Sara Bareilles: Good Grief
+  - + AMC 34th Street 14 @ 2026-09-02T22:30:00 (Standard)
+- Coyote vs. Acme
+  - + AMC 34th Street 14 @ 2026-09-02T22:40:00 (Standard)
+- The Dog Stars
+  - − AMC 34th Street 14 @ 2026-09-02T22:30:00 (Standard)
+- Fall 2: Deadpoint
+  - + AMC 34th Street 14 @ 2026-09-03T13:15:00 (Standard)
+- Spider-Man: Brand New Day
+  - − AMC 34th Street 14 @ 2026-09-03T12:30:00 (Standard)
+- Buddy
+  - + AMC 34th Street 14 @ 2026-09-04T22:30:00 (Standard)
+- Onslaught
+  - − AMC 34th Street 14 @ 2026-09-04T22:30:00 (Standard)
+- Insidious: Out of the Further
+  - − AMC 34th Street 14 @ 2026-09-02T22:40:00 (Standard)
+
 ## 2026-09-02 02:21 PM CDT
 
 **Showtime changes:**
