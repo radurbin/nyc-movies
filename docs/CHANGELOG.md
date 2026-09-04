@@ -1,3 +1,83 @@
+## 2026-09-04 06:55 PM CDT
+
+**Showtime changes:**
+- Insidious: Out of the Further
+  - + AMC 34th Street 14 @ 2026-09-09T22:10:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-09T20:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-09T22:40:00 (Standard)
+- Akira
+  - + AMC 34th Street 14 @ 2026-09-04T23:15:00 (Standard)
+- Fall 2: Deadpoint
+  - + AMC 84th Street 6 @ 2026-09-04T22:30:00 (Standard)
+  - + AMC 84th Street 6 @ 2026-09-05T22:30:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-04T22:00:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-09-04T22:45:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-09-05T22:45:00 (Standard)
+- Dear You
+  - + AMC 34th Street 14 @ 2026-09-04T22:00:00 (Standard)
+- The Dog Stars
+  - − AMC 34th Street 14 @ 2026-09-04T22:10:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-09T22:10:00 (Standard)
+- Buddy
+  - + AMC 34th Street 14 @ 2026-09-04T23:10:00 (Standard)
+- The Uprising
+  - + AMC Lincoln Square 13 @ 2026-09-15T22:30:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-09-15T22:00:00 (Standard)
+- Tony
+  - + AMC Lincoln Square 13 @ 2026-09-10T10:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-10T13:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-10T16:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-11T10:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-11T13:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-11T16:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-11T19:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-11T22:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-12T10:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-12T13:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-12T16:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-12T19:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-12T22:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-13T10:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-13T13:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-13T16:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-13T19:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-13T22:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-14T10:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-14T13:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-14T16:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-14T19:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-14T22:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-15T10:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-15T13:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-15T16:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-15T19:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-15T22:45:00 (Standard)
+- Hope
+  - + AMC 34th Street 14 @ 2026-09-09T15:15:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-09T20:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-10T12:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-10T14:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-10T21:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-11T11:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-11T15:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-11T19:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-11T22:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-12T22:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-13T22:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-14T11:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-14T15:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-14T19:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-14T22:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-15T11:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-15T15:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-15T19:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-15T22:00:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-09-10T22:00:00 (Standard)
+- The Hunger Games: Catching Fire (2026)
+  - + AMC 34th Street 14 @ 2026-09-04T22:15:00 (Standard)
+- Spider-Man: Brand New Day
+  - − AMC 34th Street 14 @ 2026-09-09T15:20:00 (RealD 3D)
+
 ## 2026-09-04 01:57 PM CDT
 
 **Movies added:**
