@@ -1,3 +1,108 @@
+## 2026-09-04 01:57 PM CDT
+
+**Movies added:**
+- Verity Early Access
+- Verity
+
+**Showtime changes:**
+- Coyote vs. Acme
+  - + AMC Lincoln Square 13 @ 2026-09-09T10:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-09T12:35:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-09T15:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-09T18:00:00 (Standard)
+- Teenage Sex and Death at Camp Miasma
+  - + AMC Lincoln Square 13 @ 2026-09-09T12:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-09T15:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-09T21:00:00 (Standard)
+- Fall 2: Deadpoint
+  - − AMC 34th Street 14 @ 2026-09-09T12:20:00 (Standard)
+- The Odyssey
+  - − AMC 34th Street 14 @ 2026-09-09T13:25:00 (Standard)
+- The Dog Stars
+  - + AMC Lincoln Square 13 @ 2026-09-09T10:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-09T12:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-09T16:00:00 (Standard)
+- Akira
+  - + AMC Lincoln Square 13 @ 2026-09-09T14:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-09T22:30:00 (Standard)
+- Onslaught
+  - + AMC Lincoln Square 13 @ 2026-09-09T10:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-09T12:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-09T15:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-09T18:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-09T21:45:00 (Standard)
+- Tony
+  - + AMC Lincoln Square 13 @ 2026-09-09T10:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-09T13:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-09T16:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-09T19:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-09T22:00:00 (Standard)
+- Practical Magic 2
+  - + AMC 34th Street 14 @ 2026-09-10T17:15:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-10T20:20:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-11T12:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-11T15:15:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-11T18:20:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-11T21:30:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-12T12:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-12T15:15:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-12T18:20:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-12T21:30:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-13T12:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-13T15:15:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-13T18:20:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-13T21:30:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-14T12:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-14T15:15:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-14T18:20:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-14T21:30:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-15T12:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-15T15:15:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-15T18:20:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-15T21:30:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-16T12:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-16T15:15:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-16T18:20:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-16T21:30:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-09-15T12:00:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-09-17T12:00:00 (Standard)
+- Finding Emily
+  - + AMC Lincoln Square 13 @ 2026-09-09T15:15:00 (Standard)
+- Hope
+  - + AMC Lincoln Square 13 @ 2026-09-09T10:30:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-09T11:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-09T12:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-09T13:40:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-09T14:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-09T19:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-09T20:45:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-10T14:30:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-10T21:30:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-11T10:45:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-11T14:20:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-11T21:35:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-12T10:45:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-12T14:20:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-12T21:35:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-13T10:45:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-13T14:30:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-13T21:35:00 (Standard)
+- Buddy
+  - + AMC Lincoln Square 13 @ 2026-09-09T12:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-09T15:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-09T22:30:00 (Standard)
+- Spider-Man: Brand New Day
+  - + AMC Lincoln Square 13 @ 2026-09-09T11:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-09T15:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-09T18:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-09T22:00:00 (Standard)
+- Juan Gabriel: Mi Primer Bellas Artes
+  - + AMC 34th Street 14 @ 2026-09-15T18:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-16T19:00:00 (Standard)
+- PAW Patrol: The Dino Movie
+  - + AMC Lincoln Square 13 @ 2026-09-09T10:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-09T12:25:00 (Standard)
+
 ## 2026-09-04 09:11 AM CDT
 
 No changes.
