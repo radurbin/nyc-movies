@@ -1,3 +1,55 @@
+## 2026-09-05 01:07 PM CDT
+
+**Movies added:**
+- F1 on Apple TV Live in IMAX: US Race
+
+**Showtime changes:**
+- Fall 2: Deadpoint
+  - + AMC 34th Street 14 @ 2026-09-09T17:10:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-09T22:30:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-06T13:50:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-07T21:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-08T19:15:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-09T16:50:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-09T19:35:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-09T22:20:00 (Standard)
+- Spider-Man: Brand New Day
+  - − AMC 34th Street 14 @ 2026-09-06T20:40:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-08T20:40:00 (Standard)
+- Akira
+  - − AMC 34th Street 14 @ 2026-09-05T21:30:00 (Standard)
+- Tony
+  - + AMC 34th Street 14 @ 2026-09-06T13:50:00 (Standard)
+- The Odyssey
+  - + AMC Lincoln Square 13 @ 2026-09-19T02:00:00 (70mm)
+  - + AMC Lincoln Square 13 @ 2026-09-21T10:00:00 (70mm)
+  - − AMC 34th Street 14 @ 2026-09-06T16:15:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-07T16:15:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-08T16:15:00 (Standard)
+- Buddy
+  - + AMC 34th Street 14 @ 2026-09-05T23:15:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-06T20:40:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-08T19:30:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-08T20:40:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-09T20:00:00 (Standard)
+- Coyote vs. Acme
+  - + AMC 34th Street 14 @ 2026-09-05T23:10:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-06T20:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-07T20:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-08T19:10:00 (Standard)
+- Cars: 20th Anniversary
+  - + AMC 34th Street 14 @ 2026-09-05T21:30:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-06T17:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-07T17:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-07T21:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-08T17:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-08T21:45:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-08T18:45:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-08T21:40:00 (Standard)
+- Insidious: Out of the Further
+  - − AMC 34th Street 14 @ 2026-09-06T20:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-07T20:00:00 (Standard)
+
 ## 2026-09-05 08:22 AM CDT
 
 No changes.
