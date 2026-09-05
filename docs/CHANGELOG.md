@@ -1,3 +1,30 @@
+## 2026-09-05 06:45 PM CDT
+
+**Movies added:**
+- The Fix
+
+**Showtime changes:**
+- Coyote vs. Acme
+  - + AMC Lincoln Square 13 @ 2026-09-10T10:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-10T13:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-10T15:30:00 (Standard)
+- Teenage Sex and Death at Camp Miasma
+  - + AMC Lincoln Square 13 @ 2026-09-10T12:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-10T15:00:00 (Standard)
+- The Odyssey
+  - + AMC Lincoln Square 13 @ 2026-09-22T10:00:00 (70mm)
+- Primetime
+  - + AMC Lincoln Square 13 @ 2026-09-25T18:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-26T18:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-27T18:30:00 (Standard)
+- Spider-Man: Brand New Day
+  - + AMC Lincoln Square 13 @ 2026-09-10T10:00:00 (Dolby Cinema at AMC)
+  - + AMC Lincoln Square 13 @ 2026-09-10T11:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-10T14:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-10T19:30:00 (Standard)
+- Tony
+  - + AMC Lincoln Square 13 @ 2026-09-10T19:45:00 (Standard)
+
 ## 2026-09-05 01:07 PM CDT
 
 **Movies added:**
