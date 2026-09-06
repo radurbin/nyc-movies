@@ -1,3 +1,11 @@
+## 2026-09-06 06:44 PM CDT
+
+**Showtime changes:**
+- Coyote vs. Acme
+  - − AMC 34th Street 14 @ 2026-09-07T20:00:00 (Standard)
+- AMC Screen Unseen: September 7
+  - + AMC 34th Street 14 @ 2026-09-07T19:50:00 (Standard)
+
 ## 2026-09-06 01:13 PM CDT
 
 **Showtime changes:**
