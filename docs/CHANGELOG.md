@@ -1,3 +1,19 @@
+## 2026-09-06 01:13 PM CDT
+
+**Showtime changes:**
+- The Odyssey
+  - + AMC Lincoln Square 13 @ 2026-09-23T10:00:00 (70mm)
+- Coyote vs. Acme
+  - + AMC 34th Street 14 @ 2026-09-07T21:55:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-07T22:25:00 (Standard)
+- The Dog Stars
+  - − AMC Lincoln Square 13 @ 2026-09-07T19:45:00 (Standard)
+- AMC Screen Unseen: September 7
+  - + AMC Lincoln Square 13 @ 2026-09-07T19:45:00 (Standard)
+- Spider-Man: Brand New Day
+  - + AMC 34th Street 14 @ 2026-09-07T22:25:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-07T22:00:00 (Standard)
+
 ## 2026-09-06 08:33 AM CDT
 
 No changes.

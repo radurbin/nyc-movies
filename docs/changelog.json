@@ -32754,5 +32754,79 @@
     "movies_added": [],
     "movies_removed": [],
     "showtime_changes": []
+  },
+  {
+    "date": "2026-09-06 01:13 PM CDT",
+    "movies_added": [],
+    "movies_removed": [],
+    "showtime_changes": [
+      {
+        "title": "The Odyssey",
+        "added": [
+          {
+            "theater": "AMC Lincoln Square 13",
+            "datetime": "2026-09-23T10:00:00",
+            "format": "70mm"
+          }
+        ],
+        "removed": []
+      },
+      {
+        "title": "Coyote vs. Acme",
+        "added": [
+          {
+            "theater": "AMC 34th Street 14",
+            "datetime": "2026-09-07T21:55:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": [
+          {
+            "theater": "AMC 34th Street 14",
+            "datetime": "2026-09-07T22:25:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "The Dog Stars",
+        "added": [],
+        "removed": [
+          {
+            "theater": "AMC Lincoln Square 13",
+            "datetime": "2026-09-07T19:45:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "AMC Screen Unseen: September 7",
+        "added": [
+          {
+            "theater": "AMC Lincoln Square 13",
+            "datetime": "2026-09-07T19:45:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": []
+      },
+      {
+        "title": "Spider-Man: Brand New Day",
+        "added": [
+          {
+            "theater": "AMC 34th Street 14",
+            "datetime": "2026-09-07T22:25:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": [
+          {
+            "theater": "AMC 34th Street 14",
+            "datetime": "2026-09-07T22:00:00",
+            "format": "Standard"
+          }
+        ]
+      }
+    ]
   }
 ]
