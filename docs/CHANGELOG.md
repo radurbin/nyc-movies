@@ -1,3 +1,37 @@
+## 2026-09-07 07:09 PM CDT
+
+**Showtime changes:**
+- Insidious: Out of the Further
+  - − AMC 34th Street 14 @ 2026-09-08T20:00:00 (Standard)
+- By Any Means
+  - + AMC 84th Street 6 @ 2026-09-07T22:40:00 (Standard)
+  - + AMC 84th Street 6 @ 2026-09-08T22:30:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-09-07T22:15:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-09-08T22:15:00 (Standard)
+- The Odyssey
+  - + AMC 84th Street 6 @ 2026-09-07T21:45:00 (Standard)
+  - + AMC 84th Street 6 @ 2026-09-08T21:45:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-09-07T22:00:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-09-08T22:00:00 (Standard)
+- Oasis: Don't Look Back in Anger
+  - − AMC 34th Street 14 @ 2026-09-10T22:45:00 (Standard)
+- Coyote vs. Acme
+  - + AMC 34th Street 14 @ 2026-09-08T20:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-09T20:15:00 (Standard)
+- Spider-Man: Brand New Day
+  - + AMC 84th Street 6 @ 2026-09-07T22:15:00 (Standard)
+  - + AMC 84th Street 6 @ 2026-09-08T22:10:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-09-07T22:30:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-09-08T22:30:00 (Standard)
+- Fall 2: Deadpoint
+  - + AMC 84th Street 6 @ 2026-09-07T22:30:00 (Standard)
+  - + AMC 84th Street 6 @ 2026-09-08T22:30:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-09-07T22:45:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-09-08T22:45:00 (Standard)
+- Akira
+  - + AMC 34th Street 14 @ 2026-09-10T22:45:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-09T20:15:00 (Standard)
+
 ## 2026-09-07 02:50 PM CDT
 
 **Showtime changes:**
