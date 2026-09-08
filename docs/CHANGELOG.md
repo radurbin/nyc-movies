@@ -1,3 +1,9 @@
+## 2026-09-08 09:22 AM CDT
+
+**Movies added:**
+- Forgotten Island - Friendship Opening Night Event
+- Forgotten Island
+
 ## 2026-09-08 03:48 AM CDT
 
 **Movies removed:**
