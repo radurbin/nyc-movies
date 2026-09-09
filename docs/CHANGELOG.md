@@ -1,3 +1,19 @@
+## 2026-09-09 02:13 PM CDT
+
+**Showtime changes:**
+- The Weight
+  - − AMC Lincoln Square 13 @ 2026-09-18T19:30:00 (Standard)
+- Spider-Man: Brand New Day
+  - + AMC 34th Street 14 @ 2026-09-10T12:00:00 (Dolby Cinema at AMC)
+- THE WEIGHT + Special In-Person Q&A with 5-Time Academy Award® Nominee Ethan Hawke 
+  - + AMC Lincoln Square 13 @ 2026-09-18T19:30:00 (Standard)
+- Hope
+  - + AMC 34th Street 14 @ 2026-09-09T22:30:00 (Standard)
+- Resident Evil
+  - − AMC Lincoln Square 13 @ 2026-09-18T21:15:00 (Standard)
+- Buddy
+  - − AMC 34th Street 14 @ 2026-09-09T22:40:00 (Standard)
+
 ## 2026-09-09 09:23 AM CDT
 
 **Showtime changes:**
