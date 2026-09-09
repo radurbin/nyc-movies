@@ -39389,5 +39389,51 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-09-09 09:23 AM CDT",
+    "movies_added": [],
+    "movies_removed": [],
+    "showtime_changes": [
+      {
+        "title": "Primetime",
+        "added": [
+          {
+            "theater": "AMC Lincoln Square 13",
+            "datetime": "2026-09-30T18:30:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": []
+      },
+      {
+        "title": "Spider-Man: Brand New Day",
+        "added": [
+          {
+            "theater": "AMC 34th Street 14",
+            "datetime": "2026-09-10T12:40:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": [
+          {
+            "theater": "AMC 34th Street 14",
+            "datetime": "2026-09-10T12:35:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "The Odyssey",
+        "added": [
+          {
+            "theater": "AMC Lincoln Square 13",
+            "datetime": "2026-09-19T18:00:00",
+            "format": "70mm"
+          }
+        ],
+        "removed": []
+      }
+    ]
   }
 ]

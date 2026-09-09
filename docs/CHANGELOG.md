@@ -1,3 +1,14 @@
+## 2026-09-09 09:23 AM CDT
+
+**Showtime changes:**
+- Primetime
+  - + AMC Lincoln Square 13 @ 2026-09-30T18:30:00 (Standard)
+- Spider-Man: Brand New Day
+  - + AMC 34th Street 14 @ 2026-09-10T12:40:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-10T12:35:00 (Standard)
+- The Odyssey
+  - + AMC Lincoln Square 13 @ 2026-09-19T18:00:00 (70mm)
+
 ## 2026-09-09 03:54 AM CDT
 
 **Showtime changes:**
