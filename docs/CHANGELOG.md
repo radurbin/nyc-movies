@@ -1,3 +1,31 @@
+## 2026-09-10 09:15 AM CDT
+
+**Movies added:**
+- Your Mother Your Mother Your Mother Early Access
+- Your Mother Your Mother Your Mother Live Q&A with Mahershala Ali & Dir Bassam Tariq
+- Your Mother Your Mother Your Mother
+
+**Showtime changes:**
+- Primetime
+  - + AMC Lincoln Square 13 @ 2026-09-24T16:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-24T19:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-24T22:30:00 (Standard)
+- Avengers Endgame: Encore
+  - + AMC Lincoln Square 13 @ 2026-09-25T12:00:00 (Dolby Cinema at AMC)
+  - + AMC Lincoln Square 13 @ 2026-09-26T12:00:00 (Dolby Cinema at AMC)
+  - + AMC Lincoln Square 13 @ 2026-09-27T12:00:00 (Dolby Cinema at AMC)
+  - + AMC Lincoln Square 13 @ 2026-09-28T12:00:00 (Dolby Cinema at AMC)
+  - + AMC Lincoln Square 13 @ 2026-09-30T10:00:00 (Dolby Cinema at AMC)
+  - + AMC Lincoln Square 13 @ 2026-09-30T14:00:00 (Dolby Cinema at AMC)
+- Coyote vs. Acme
+  - − AMC Lincoln Square 13 @ 2026-09-15T21:45:00 (Standard)
+- Verity Early Access
+  - + AMC Lincoln Square 13 @ 2026-09-30T20:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-30T22:00:00 (Dolby Cinema at AMC)
+- The Odyssey
+  - + AMC Lincoln Square 13 @ 2026-09-24T20:30:00 (70mm)
+  - + AMC Lincoln Square 13 @ 2026-09-30T10:00:00 (70mm)
+
 ## 2026-09-10 03:53 AM CDT
 
 **Movies removed:**
