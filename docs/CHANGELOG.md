@@ -1,3 +1,21 @@
+## 2026-09-10 06:58 PM CDT
+
+**Showtime changes:**
+- Spider-Man: Brand New Day
+  - + AMC Lincoln Square 13 @ 2026-09-10T22:45:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-09-10T22:15:00 (Standard)
+- Practical Magic 2
+  - + AMC 34th Street 14 @ 2026-09-11T19:45:00 (Standard)
+- The Odyssey
+  - + AMC 84th Street 6 @ 2026-09-10T21:30:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-09-10T21:45:00 (Standard)
+- The Fix
+  - − AMC 34th Street 14 @ 2026-09-11T19:30:00 (Standard)
+- Buddy
+  - − AMC 34th Street 14 @ 2026-09-11T21:45:00 (Standard)
+- Hope
+  - + AMC 34th Street 14 @ 2026-09-11T22:00:00 (Standard)
+
 ## 2026-09-10 02:05 PM CDT
 
 **Showtime changes:**

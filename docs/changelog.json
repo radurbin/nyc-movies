@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-08-18 05:32 AM CDT",
-    "movies_added": [],
-    "movies_removed": [],
-    "showtime_changes": []
-  },
-  {
     "date": "2026-08-18 01:51 PM CDT",
     "movies_added": [
       "AMC Screen Unseen: August 31",
@@ -40684,6 +40678,91 @@
             "format": "Standard"
           }
         ]
+      }
+    ]
+  },
+  {
+    "date": "2026-09-10 06:58 PM CDT",
+    "movies_added": [],
+    "movies_removed": [],
+    "showtime_changes": [
+      {
+        "title": "Spider-Man: Brand New Day",
+        "added": [
+          {
+            "theater": "AMC Lincoln Square 13",
+            "datetime": "2026-09-10T22:45:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": [
+          {
+            "theater": "AMC Lincoln Square 13",
+            "datetime": "2026-09-10T22:15:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Practical Magic 2",
+        "added": [
+          {
+            "theater": "AMC 34th Street 14",
+            "datetime": "2026-09-11T19:45:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": []
+      },
+      {
+        "title": "The Odyssey",
+        "added": [
+          {
+            "theater": "AMC 84th Street 6",
+            "datetime": "2026-09-10T21:30:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": [
+          {
+            "theater": "AMC 84th Street 6",
+            "datetime": "2026-09-10T21:45:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "The Fix",
+        "added": [],
+        "removed": [
+          {
+            "theater": "AMC 34th Street 14",
+            "datetime": "2026-09-11T19:30:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Buddy",
+        "added": [],
+        "removed": [
+          {
+            "theater": "AMC 34th Street 14",
+            "datetime": "2026-09-11T21:45:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Hope",
+        "added": [
+          {
+            "theater": "AMC 34th Street 14",
+            "datetime": "2026-09-11T22:00:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": []
       }
     ]
   }
