@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-09-10T09:15:42.632254-05:00",
+    "generated_at": "2026-09-10T14:05:17.286454-05:00",
     "movie_count": 55,
-    "showtime_count": 2657,
+    "showtime_count": 2643,
     "theaters": {
-      "AMC Lincoln Square 13": 1067,
+      "AMC Lincoln Square 13": 1053,
       "AMC 34th Street 14": 1234,
       "AMC 84th Street 6": 356
     }
@@ -1747,7 +1747,6 @@
           "discount_message": "20% OFF",
           "attributes": [
             "AMC Club Rockers",
-            "AOneLive",
             "Closed Caption",
             "Audio Description",
             "Pay with Disney Rewards Redemption Card",
@@ -1875,7 +1874,6 @@
           "discount_message": null,
           "attributes": [
             "AMC Club Rockers",
-            "AOneLive",
             "Closed Caption",
             "Audio Description",
             "Pay with Disney Rewards Redemption Card",
@@ -2030,49 +2028,6 @@
         },
         {
           "source": "AMC",
-          "theater_id": 2116,
-          "theater": "AMC Lincoln Square 13",
-          "showtime_id": 146805537,
-          "datetime": "2026-09-25T11:00:00",
-          "datetime_utc": "2026-09-25T15:00:00Z",
-          "auditorium": 7,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-25/lincolnsquare/all/146805537",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": true,
-          "discount_message": "20% OFF",
-          "attributes": [
-            "AMC Club Rockers",
-            "AOneLive",
-            "Closed Caption",
-            "Audio Description",
-            "Pay with Disney Rewards Redemption Card",
-            "Laser at AMC",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 17.19,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 14.79,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 15.99,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
           "theater_id": 2120,
           "theater": "AMC 34th Street 14",
           "showtime_id": 146777002,
@@ -2154,49 +2109,6 @@
             {
               "type": "SENIOR",
               "price": 23.99,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 2116,
-          "theater": "AMC Lincoln Square 13",
-          "showtime_id": 146805536,
-          "datetime": "2026-09-25T15:00:00",
-          "datetime_utc": "2026-09-25T19:00:00Z",
-          "auditorium": 7,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-25/lincolnsquare/all/146805536",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": true,
-          "discount_message": "20% OFF",
-          "attributes": [
-            "AMC Club Rockers",
-            "AOneLive",
-            "Closed Caption",
-            "Audio Description",
-            "Pay with Disney Rewards Redemption Card",
-            "Laser at AMC",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 17.19,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 14.79,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 15.99,
               "tax": 0.0
             }
           ]
@@ -2548,91 +2460,6 @@
         },
         {
           "source": "AMC",
-          "theater_id": 2116,
-          "theater": "AMC Lincoln Square 13",
-          "showtime_id": 146805535,
-          "datetime": "2026-09-25T23:00:00",
-          "datetime_utc": "2026-09-26T03:00:00Z",
-          "auditorium": 7,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-25/lincolnsquare/all/146805535",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "AMC Club Rockers",
-            "AOneLive",
-            "Closed Caption",
-            "Audio Description",
-            "Pay with Disney Rewards Redemption Card",
-            "Laser at AMC",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 21.49,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 18.49,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 19.99,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 2116,
-          "theater": "AMC Lincoln Square 13",
-          "showtime_id": 146805522,
-          "datetime": "2026-09-26T11:00:00",
-          "datetime_utc": "2026-09-26T15:00:00Z",
-          "auditorium": 4,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-26/lincolnsquare/all/146805522",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": true,
-          "discount_message": "20% OFF",
-          "attributes": [
-            "AMC Club Rockers",
-            "Closed Caption",
-            "Audio Description",
-            "Pay with Disney Rewards Redemption Card",
-            "Laser at AMC",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 17.19,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 14.79,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 15.99,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
           "theater_id": 2120,
           "theater": "AMC 34th Street 14",
           "showtime_id": 146776995,
@@ -2714,48 +2541,6 @@
             {
               "type": "SENIOR",
               "price": 23.99,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 2116,
-          "theater": "AMC Lincoln Square 13",
-          "showtime_id": 146805521,
-          "datetime": "2026-09-26T15:00:00",
-          "datetime_utc": "2026-09-26T19:00:00Z",
-          "auditorium": 4,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-26/lincolnsquare/all/146805521",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": true,
-          "discount_message": "20% OFF",
-          "attributes": [
-            "AMC Club Rockers",
-            "Closed Caption",
-            "Audio Description",
-            "Pay with Disney Rewards Redemption Card",
-            "Laser at AMC",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 17.19,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 14.79,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 15.99,
               "tax": 0.0
             }
           ]
@@ -2934,49 +2719,6 @@
         },
         {
           "source": "AMC",
-          "theater_id": 2116,
-          "theater": "AMC Lincoln Square 13",
-          "showtime_id": 146805523,
-          "datetime": "2026-09-26T18:45:00",
-          "datetime_utc": "2026-09-26T22:45:00Z",
-          "auditorium": 6,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-26/lincolnsquare/all/146805523",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "AMC Club Rockers",
-            "AOneLive",
-            "Closed Caption",
-            "Audio Description",
-            "Pay with Disney Rewards Redemption Card",
-            "Laser at AMC",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 21.49,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 18.49,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 19.99,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
           "theater_id": 2120,
           "theater": "AMC 34th Street 14",
           "showtime_id": 146776996,
@@ -3107,92 +2849,6 @@
         },
         {
           "source": "AMC",
-          "theater_id": 2116,
-          "theater": "AMC Lincoln Square 13",
-          "showtime_id": 146805524,
-          "datetime": "2026-09-26T23:00:00",
-          "datetime_utc": "2026-09-27T03:00:00Z",
-          "auditorium": 6,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-26/lincolnsquare/all/146805524",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "AMC Club Rockers",
-            "AOneLive",
-            "Closed Caption",
-            "Audio Description",
-            "Pay with Disney Rewards Redemption Card",
-            "Laser at AMC",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 21.49,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 18.49,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 19.99,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 2116,
-          "theater": "AMC Lincoln Square 13",
-          "showtime_id": 146805530,
-          "datetime": "2026-09-27T11:00:00",
-          "datetime_utc": "2026-09-27T15:00:00Z",
-          "auditorium": 7,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-27/lincolnsquare/all/146805530",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": true,
-          "discount_message": "20% OFF",
-          "attributes": [
-            "AMC Club Rockers",
-            "AOneLive",
-            "Closed Caption",
-            "Audio Description",
-            "Pay with Disney Rewards Redemption Card",
-            "Laser at AMC",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 17.19,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 14.79,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 15.99,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
           "theater_id": 2120,
           "theater": "AMC 34th Street 14",
           "showtime_id": 146777000,
@@ -3273,49 +2929,6 @@
             {
               "type": "SENIOR",
               "price": 23.99,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 2116,
-          "theater": "AMC Lincoln Square 13",
-          "showtime_id": 146805531,
-          "datetime": "2026-09-27T15:00:00",
-          "datetime_utc": "2026-09-27T19:00:00Z",
-          "auditorium": 7,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-27/lincolnsquare/all/146805531",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": true,
-          "discount_message": "20% OFF",
-          "attributes": [
-            "AMC Club Rockers",
-            "AOneLive",
-            "Closed Caption",
-            "Audio Description",
-            "Pay with Disney Rewards Redemption Card",
-            "Laser at AMC",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 17.19,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 14.79,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 15.99,
               "tax": 0.0
             }
           ]
@@ -3495,49 +3108,6 @@
         },
         {
           "source": "AMC",
-          "theater_id": 2116,
-          "theater": "AMC Lincoln Square 13",
-          "showtime_id": 146805532,
-          "datetime": "2026-09-27T19:00:00",
-          "datetime_utc": "2026-09-27T23:00:00Z",
-          "auditorium": 7,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-27/lincolnsquare/all/146805532",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "AMC Club Rockers",
-            "AOneLive",
-            "Closed Caption",
-            "Audio Description",
-            "Pay with Disney Rewards Redemption Card",
-            "Laser at AMC",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 21.49,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 18.49,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 19.99,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
           "theater_id": 2120,
           "theater": "AMC 34th Street 14",
           "showtime_id": 146777005,
@@ -3618,49 +3188,6 @@
             {
               "type": "SENIOR",
               "price": 26.99,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 2116,
-          "theater": "AMC Lincoln Square 13",
-          "showtime_id": 146805533,
-          "datetime": "2026-09-27T23:00:00",
-          "datetime_utc": "2026-09-28T03:00:00Z",
-          "auditorium": 7,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-27/lincolnsquare/all/146805533",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "AMC Club Rockers",
-            "AOneLive",
-            "Closed Caption",
-            "Audio Description",
-            "Pay with Disney Rewards Redemption Card",
-            "Laser at AMC",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 21.49,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 18.49,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 19.99,
               "tax": 0.0
             }
           ]
@@ -4488,12 +4015,12 @@
           "source": "AMC",
           "theater_id": 2116,
           "theater": "AMC Lincoln Square 13",
-          "showtime_id": 147000423,
+          "showtime_id": 147000736,
           "datetime": "2026-09-30T10:00:00",
           "datetime_utc": "2026-09-30T14:00:00Z",
           "auditorium": 1,
           "premium_format": "Dolby Cinema at AMC",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-30/lincolnsquare/all/147000423",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-30/lincolnsquare/all/147000736",
           "sold_out": false,
           "almost_sold_out": false,
           "cancelled": false,
@@ -4531,55 +4058,12 @@
           "source": "AMC",
           "theater_id": 2116,
           "theater": "AMC Lincoln Square 13",
-          "showtime_id": 146805528,
-          "datetime": "2026-09-30T11:00:00",
-          "datetime_utc": "2026-09-30T15:00:00Z",
-          "auditorium": 7,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-30/lincolnsquare/all/146805528",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": true,
-          "discount_message": "20% OFF",
-          "attributes": [
-            "AMC Club Rockers",
-            "AOneLive",
-            "Closed Caption",
-            "Audio Description",
-            "Pay with Disney Rewards Redemption Card",
-            "Laser at AMC",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 17.19,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 14.79,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 15.99,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 2116,
-          "theater": "AMC Lincoln Square 13",
-          "showtime_id": 147000422,
+          "showtime_id": 147000737,
           "datetime": "2026-09-30T14:00:00",
           "datetime_utc": "2026-09-30T18:00:00Z",
           "auditorium": 1,
           "premium_format": "Dolby Cinema at AMC",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-30/lincolnsquare/all/147000422",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-30/lincolnsquare/all/147000737",
           "sold_out": false,
           "almost_sold_out": false,
           "cancelled": false,
@@ -4609,49 +4093,6 @@
             {
               "type": "SENIOR",
               "price": 23.99,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 2116,
-          "theater": "AMC Lincoln Square 13",
-          "showtime_id": 146805529,
-          "datetime": "2026-09-30T15:00:00",
-          "datetime_utc": "2026-09-30T19:00:00Z",
-          "auditorium": 7,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-30/lincolnsquare/all/146805529",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": true,
-          "discount_message": "20% OFF",
-          "attributes": [
-            "AMC Club Rockers",
-            "AOneLive",
-            "Closed Caption",
-            "Audio Description",
-            "Pay with Disney Rewards Redemption Card",
-            "Laser at AMC",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 17.19,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 14.79,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 15.99,
               "tax": 0.0
             }
           ]
@@ -4782,49 +4223,6 @@
             {
               "type": "SENIOR",
               "price": 18.99,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 2116,
-          "theater": "AMC Lincoln Square 13",
-          "showtime_id": 146805527,
-          "datetime": "2026-09-30T23:00:00",
-          "datetime_utc": "2026-10-01T03:00:00Z",
-          "auditorium": 7,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-30/lincolnsquare/all/146805527",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "AMC Club Rockers",
-            "AOneLive",
-            "Closed Caption",
-            "Audio Description",
-            "Pay with Disney Rewards Redemption Card",
-            "Laser at AMC",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 21.49,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 18.49,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 19.99,
               "tax": 0.0
             }
           ]
@@ -30193,7 +29591,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.93,
-      "letterboxd_rating_count": 35050,
+      "letterboxd_rating_count": 35220,
       "letterboxd_url": "https://letterboxd.com/film/batman-knightfall-part-1-knightfall/",
       "awards": "N/A",
       "language": "English",
@@ -30512,7 +29910,7 @@
       "rotten_tomatoes": "89%",
       "metacritic": "67/100",
       "letterboxd_rating": 3.14,
-      "letterboxd_rating_count": 150049,
+      "letterboxd_rating_count": 150974,
       "letterboxd_url": "https://letterboxd.com/film/buddy-2026/",
       "awards": "1 nomination total",
       "language": "English",
@@ -32872,7 +32270,6 @@
           "attributes": [
             "AMC Artisan Films",
             "AMC Club Rockers",
-            "AOneLive",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -33450,7 +32847,7 @@
       "rotten_tomatoes": "55%",
       "metacritic": null,
       "letterboxd_rating": 3.19,
-      "letterboxd_rating_count": 16257,
+      "letterboxd_rating_count": 16432,
       "letterboxd_url": "https://letterboxd.com/film/by-any-means-2026/",
       "awards": "N/A",
       "language": "English",
@@ -36804,7 +36201,7 @@
       "rotten_tomatoes": "96%",
       "metacritic": "77/100",
       "letterboxd_rating": 3.86,
-      "letterboxd_rating_count": 330633,
+      "letterboxd_rating_count": 332765,
       "letterboxd_url": "https://letterboxd.com/film/coyote-vs-acme/",
       "awards": "1 win total",
       "language": "English",
@@ -50656,7 +50053,7 @@
       "rotten_tomatoes": "55%",
       "metacritic": "53/100",
       "letterboxd_rating": 2.33,
-      "letterboxd_rating_count": 14058,
+      "letterboxd_rating_count": 14420,
       "letterboxd_url": "https://letterboxd.com/film/fall-2-deadpoint/",
       "awards": "N/A",
       "language": "English",
@@ -51474,7 +50871,7 @@
       "rotten_tomatoes": "89%",
       "metacritic": "71/100",
       "letterboxd_rating": 3.79,
-      "letterboxd_rating_count": 109990,
+      "letterboxd_rating_count": 110175,
       "letterboxd_url": "https://letterboxd.com/film/finding-emily/",
       "awards": "N/A",
       "language": "English",
@@ -51601,8 +50998,8 @@
       "imdb_votes": "N/A",
       "rotten_tomatoes": null,
       "metacritic": null,
-      "letterboxd_rating": 3.78,
-      "letterboxd_rating_count": 1358,
+      "letterboxd_rating": 3.79,
+      "letterboxd_rating_count": 1364,
       "letterboxd_url": "https://letterboxd.com/film/forgotten-island-2026/",
       "awards": "N/A",
       "language": "English",
@@ -58249,7 +57646,7 @@
       "rotten_tomatoes": "72%",
       "metacritic": "68/100",
       "letterboxd_rating": 3.32,
-      "letterboxd_rating_count": 23984,
+      "letterboxd_rating_count": 25057,
       "letterboxd_url": "https://letterboxd.com/film/hope-2026/",
       "awards": "2 nominations total",
       "language": "Korean, English",
@@ -60947,7 +60344,7 @@
       "rotten_tomatoes": "58%",
       "metacritic": "47/100",
       "letterboxd_rating": 2.72,
-      "letterboxd_rating_count": 208511,
+      "letterboxd_rating_count": 209167,
       "letterboxd_url": "https://letterboxd.com/film/insidious-out-of-the-further/",
       "awards": "N/A",
       "language": "English",
@@ -64743,7 +64140,7 @@
       "rotten_tomatoes": "56%",
       "metacritic": "57/100",
       "letterboxd_rating": 2.92,
-      "letterboxd_rating_count": 27312,
+      "letterboxd_rating_count": 27554,
       "letterboxd_url": "https://letterboxd.com/film/onslaught-2026/",
       "awards": "N/A",
       "language": "English",
@@ -65323,7 +64720,7 @@
       "rotten_tomatoes": "81%",
       "metacritic": "47/100",
       "letterboxd_rating": 2.86,
-      "letterboxd_rating_count": 10660,
+      "letterboxd_rating_count": 10704,
       "letterboxd_url": "https://letterboxd.com/film/paw-patrol-the-dino-movie/",
       "awards": "N/A",
       "language": "English",
@@ -65410,7 +64807,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.06,
-      "letterboxd_rating_count": 3119,
+      "letterboxd_rating_count": 3571,
       "letterboxd_url": "https://letterboxd.com/film/practical-magic-2/",
       "awards": "1 nomination total",
       "language": "English",
@@ -86995,7 +86392,7 @@
       "rotten_tomatoes": "89%",
       "metacritic": "66/100",
       "letterboxd_rating": 4.05,
-      "letterboxd_rating_count": 4024466,
+      "letterboxd_rating_count": 4028043,
       "letterboxd_url": "https://letterboxd.com/film/spider-man-brand-new-day/",
       "awards": "1 nomination total",
       "language": "English",
@@ -90882,7 +90279,7 @@
       "rotten_tomatoes": "94%",
       "metacritic": "89/100",
       "letterboxd_rating": 3.78,
-      "letterboxd_rating_count": 275493,
+      "letterboxd_rating_count": 276051,
       "letterboxd_url": "https://letterboxd.com/film/teenage-sex-and-death-at-camp-miasma/",
       "awards": "2 wins & 2 nominations total",
       "language": "English",
@@ -91441,7 +90838,7 @@
       "rotten_tomatoes": "40%",
       "metacritic": "49/100",
       "letterboxd_rating": 2.84,
-      "letterboxd_rating_count": 130352,
+      "letterboxd_rating_count": 131058,
       "letterboxd_url": "https://letterboxd.com/film/the-dog-stars/",
       "awards": "N/A",
       "language": "English",
@@ -93510,7 +92907,7 @@
       "rotten_tomatoes": "93%",
       "metacritic": "88/100",
       "letterboxd_rating": 4.36,
-      "letterboxd_rating_count": 4236101,
+      "letterboxd_rating_count": 4239047,
       "letterboxd_url": "https://letterboxd.com/film/the-odyssey-2026/",
       "awards": "3 wins total",
       "language": "English, Greek",
@@ -103016,9 +102413,9 @@
       "imdb_rating": "N/A",
       "imdb_votes": "N/A",
       "rotten_tomatoes": null,
-      "metacritic": null,
+      "metacritic": "53/100",
       "letterboxd_rating": 3.08,
-      "letterboxd_rating_count": 1276,
+      "letterboxd_rating_count": 1376,
       "letterboxd_url": "https://letterboxd.com/film/the-uprising-2026/",
       "awards": "N/A",
       "language": "English",
@@ -107038,8 +106435,8 @@
       "imdb_votes": "156",
       "rotten_tomatoes": "93%",
       "metacritic": "75/100",
-      "letterboxd_rating": 3.85,
-      "letterboxd_rating_count": 244572,
+      "letterboxd_rating": 3.84,
+      "letterboxd_rating_count": 245223,
       "letterboxd_url": "https://letterboxd.com/film/tony-2026/",
       "awards": "N/A",
       "language": "English",
@@ -109042,7 +108439,7 @@
           "showtime_id": 146805499,
           "datetime": "2026-10-02T11:00:00",
           "datetime_utc": "2026-10-02T15:00:00Z",
-          "auditorium": 2,
+          "auditorium": 9,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-02/lincolnsquare/all/146805499",
           "sold_out": false,
@@ -109169,7 +108566,7 @@
           "showtime_id": 146805498,
           "datetime": "2026-10-02T14:00:00",
           "datetime_utc": "2026-10-02T18:00:00Z",
-          "auditorium": 2,
+          "auditorium": 9,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-02/lincolnsquare/all/146805498",
           "sold_out": false,
@@ -109296,7 +108693,7 @@
           "showtime_id": 146805505,
           "datetime": "2026-10-02T17:00:00",
           "datetime_utc": "2026-10-02T21:00:00Z",
-          "auditorium": 2,
+          "auditorium": 9,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-02/lincolnsquare/all/146805505",
           "sold_out": false,
@@ -109507,7 +108904,7 @@
           "showtime_id": 146805504,
           "datetime": "2026-10-02T20:00:00",
           "datetime_utc": "2026-10-03T00:00:00Z",
-          "auditorium": 2,
+          "auditorium": 9,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-02/lincolnsquare/all/146805504",
           "sold_out": false,
@@ -109634,7 +109031,7 @@
           "showtime_id": 146805500,
           "datetime": "2026-10-02T23:00:00",
           "datetime_utc": "2026-10-03T03:00:00Z",
-          "auditorium": 2,
+          "auditorium": 9,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-02/lincolnsquare/all/146805500",
           "sold_out": false,
@@ -109719,7 +109116,7 @@
           "showtime_id": 146805492,
           "datetime": "2026-10-03T11:00:00",
           "datetime_utc": "2026-10-03T15:00:00Z",
-          "auditorium": 2,
+          "auditorium": 9,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-03/lincolnsquare/all/146805492",
           "sold_out": false,
@@ -109886,7 +109283,7 @@
           "showtime_id": 146805503,
           "datetime": "2026-10-03T14:00:00",
           "datetime_utc": "2026-10-03T18:00:00Z",
-          "auditorium": 2,
+          "auditorium": 9,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-03/lincolnsquare/all/146805503",
           "sold_out": false,
@@ -110013,7 +109410,7 @@
           "showtime_id": 146805502,
           "datetime": "2026-10-03T17:00:00",
           "datetime_utc": "2026-10-03T21:00:00Z",
-          "auditorium": 2,
+          "auditorium": 9,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-03/lincolnsquare/all/146805502",
           "sold_out": false,
@@ -110224,7 +109621,7 @@
           "showtime_id": 146805501,
           "datetime": "2026-10-03T20:00:00",
           "datetime_utc": "2026-10-04T00:00:00Z",
-          "auditorium": 2,
+          "auditorium": 9,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-03/lincolnsquare/all/146805501",
           "sold_out": false,
@@ -110351,7 +109748,7 @@
           "showtime_id": 146805493,
           "datetime": "2026-10-03T23:00:00",
           "datetime_utc": "2026-10-04T03:00:00Z",
-          "auditorium": 2,
+          "auditorium": 9,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-03/lincolnsquare/all/146805493",
           "sold_out": false,
@@ -110436,7 +109833,7 @@
           "showtime_id": 146805497,
           "datetime": "2026-10-04T11:00:00",
           "datetime_utc": "2026-10-04T15:00:00Z",
-          "auditorium": 2,
+          "auditorium": 9,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-04/lincolnsquare/all/146805497",
           "sold_out": false,
@@ -110604,7 +110001,7 @@
           "showtime_id": 146805496,
           "datetime": "2026-10-04T14:00:00",
           "datetime_utc": "2026-10-04T18:00:00Z",
-          "auditorium": 2,
+          "auditorium": 9,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-04/lincolnsquare/all/146805496",
           "sold_out": false,
@@ -110730,7 +110127,7 @@
           "showtime_id": 146805495,
           "datetime": "2026-10-04T17:00:00",
           "datetime_utc": "2026-10-04T21:00:00Z",
-          "auditorium": 2,
+          "auditorium": 9,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-04/lincolnsquare/all/146805495",
           "sold_out": false,
@@ -110941,7 +110338,7 @@
           "showtime_id": 146805494,
           "datetime": "2026-10-04T20:00:00",
           "datetime_utc": "2026-10-05T00:00:00Z",
-          "auditorium": 2,
+          "auditorium": 9,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-04/lincolnsquare/all/146805494",
           "sold_out": false,
@@ -111068,7 +110465,7 @@
           "showtime_id": 146805491,
           "datetime": "2026-10-04T23:00:00",
           "datetime_utc": "2026-10-05T03:00:00Z",
-          "auditorium": 2,
+          "auditorium": 9,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-04/lincolnsquare/all/146805491",
           "sold_out": false,
@@ -114209,7 +113606,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-26/lincolnsquare/all/146996415",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
