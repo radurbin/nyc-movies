@@ -1,3 +1,67 @@
+## 2026-09-09 07:02 PM CDT
+
+**Showtime changes:**
+- By Any Means
+  - − AMC 34th Street 14 @ 2026-09-10T22:25:00 (Standard)
+- Hope
+  - + AMC 34th Street 14 @ 2026-09-10T12:20:00 (Standard)
+- Fall 2: Deadpoint
+  - − AMC 34th Street 14 @ 2026-09-10T13:15:00 (Standard)
+- Primetime
+  - + AMC 84th Street 6 @ 2026-09-24T16:00:00 (Standard)
+  - + AMC 84th Street 6 @ 2026-09-24T19:00:00 (Standard)
+  - + AMC 84th Street 6 @ 2026-09-24T22:00:00 (Standard)
+  - + AMC 84th Street 6 @ 2026-09-25T12:00:00 (Standard)
+  - + AMC 84th Street 6 @ 2026-09-25T13:30:00 (Standard)
+  - + AMC 84th Street 6 @ 2026-09-25T16:15:00 (Standard)
+  - + AMC 84th Street 6 @ 2026-09-25T19:00:00 (Standard)
+  - + AMC 84th Street 6 @ 2026-09-25T22:00:00 (Standard)
+  - + AMC 84th Street 6 @ 2026-09-26T12:00:00 (Standard)
+  - + AMC 84th Street 6 @ 2026-09-26T13:30:00 (Standard)
+  - + AMC 84th Street 6 @ 2026-09-26T16:15:00 (Standard)
+  - + AMC 84th Street 6 @ 2026-09-26T19:00:00 (Standard)
+  - + AMC 84th Street 6 @ 2026-09-26T22:00:00 (Standard)
+  - + AMC 84th Street 6 @ 2026-09-27T12:00:00 (Standard)
+  - + AMC 84th Street 6 @ 2026-09-27T13:30:00 (Standard)
+  - + AMC 84th Street 6 @ 2026-09-27T16:15:00 (Standard)
+  - + AMC 84th Street 6 @ 2026-09-27T19:00:00 (Standard)
+  - + AMC 84th Street 6 @ 2026-09-27T22:00:00 (Standard)
+  - + AMC 84th Street 6 @ 2026-09-28T15:30:00 (Standard)
+  - + AMC 84th Street 6 @ 2026-09-28T18:30:00 (Standard)
+  - + AMC 84th Street 6 @ 2026-09-28T21:30:00 (Standard)
+  - + AMC 84th Street 6 @ 2026-09-29T15:30:00 (Standard)
+  - + AMC 84th Street 6 @ 2026-09-29T18:30:00 (Standard)
+  - + AMC 84th Street 6 @ 2026-09-29T21:30:00 (Standard)
+  - + AMC 84th Street 6 @ 2026-09-30T15:30:00 (Standard)
+  - + AMC 84th Street 6 @ 2026-09-30T18:30:00 (Standard)
+  - + AMC 84th Street 6 @ 2026-09-30T21:30:00 (Standard)
+- Avengers Endgame: Encore
+  - + AMC Lincoln Square 13 @ 2026-09-26T18:45:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-09-26T19:00:00 (Standard)
+- Buddy
+  - + AMC 34th Street 14 @ 2026-09-10T22:25:00 (Standard)
+- The Odyssey
+  - + AMC Lincoln Square 13 @ 2026-09-18T12:30:00 (70mm)
+  - + AMC Lincoln Square 13 @ 2026-09-18T16:30:00 (70mm)
+  - + AMC Lincoln Square 13 @ 2026-09-18T20:30:00 (70mm)
+  - + AMC Lincoln Square 13 @ 2026-09-19T12:30:00 (70mm)
+  - + AMC Lincoln Square 13 @ 2026-09-19T16:30:00 (70mm)
+  - + AMC Lincoln Square 13 @ 2026-09-19T20:30:00 (70mm)
+  - + AMC Lincoln Square 13 @ 2026-09-20T12:30:00 (70mm)
+  - + AMC Lincoln Square 13 @ 2026-09-20T16:30:00 (70mm)
+  - + AMC Lincoln Square 13 @ 2026-09-20T20:30:00 (70mm)
+  - + AMC Lincoln Square 13 @ 2026-09-21T12:30:00 (70mm)
+  - + AMC Lincoln Square 13 @ 2026-09-21T16:30:00 (70mm)
+  - + AMC Lincoln Square 13 @ 2026-09-21T20:30:00 (70mm)
+  - + AMC Lincoln Square 13 @ 2026-09-22T12:30:00 (70mm)
+  - + AMC Lincoln Square 13 @ 2026-09-22T16:30:00 (70mm)
+  - + AMC Lincoln Square 13 @ 2026-09-22T20:30:00 (70mm)
+  - + AMC Lincoln Square 13 @ 2026-09-23T12:30:00 (70mm)
+  - + AMC Lincoln Square 13 @ 2026-09-23T16:30:00 (70mm)
+  - + AMC Lincoln Square 13 @ 2026-09-23T20:30:00 (70mm)
+  - + AMC Lincoln Square 13 @ 2026-09-24T12:30:00 (70mm)
+  - + AMC Lincoln Square 13 @ 2026-09-24T16:30:00 (70mm)
+
 ## 2026-09-09 02:13 PM CDT
 
 **Showtime changes:**
