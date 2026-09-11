@@ -1,3 +1,8 @@
+## 2026-09-11 09:16 AM CDT
+
+**Movies added:**
+- V For Vendetta 20th Anniversary
+
 ## 2026-09-11 03:50 AM CDT
 
 **Movies removed:**
