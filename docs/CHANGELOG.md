@@ -1,3 +1,36 @@
+## 2026-09-11 02:07 PM CDT
+
+**Showtime changes:**
+- Avengers Endgame: Encore
+  - + AMC 84th Street 6 @ 2026-09-24T14:00:00 (RealD 3D)
+  - + AMC 84th Street 6 @ 2026-09-24T18:00:00 (Standard)
+  - + AMC 84th Street 6 @ 2026-09-24T22:00:00 (RealD 3D)
+  - + AMC 84th Street 6 @ 2026-09-25T12:00:00 (Standard)
+  - + AMC 84th Street 6 @ 2026-09-25T14:00:00 (RealD 3D)
+  - + AMC 84th Street 6 @ 2026-09-25T18:00:00 (RealD 3D)
+  - + AMC 84th Street 6 @ 2026-09-25T21:45:00 (Standard)
+  - + AMC 84th Street 6 @ 2026-09-26T12:00:00 (Standard)
+  - + AMC 84th Street 6 @ 2026-09-26T14:00:00 (RealD 3D)
+  - + AMC 84th Street 6 @ 2026-09-26T18:00:00 (RealD 3D)
+  - + AMC 84th Street 6 @ 2026-09-26T21:45:00 (Standard)
+  - + AMC 84th Street 6 @ 2026-09-27T12:00:00 (Standard)
+  - + AMC 84th Street 6 @ 2026-09-27T14:00:00 (RealD 3D)
+  - + AMC 84th Street 6 @ 2026-09-27T18:00:00 (RealD 3D)
+  - + AMC 84th Street 6 @ 2026-09-27T21:45:00 (Standard)
+  - + AMC 84th Street 6 @ 2026-09-28T14:00:00 (RealD 3D)
+  - + AMC 84th Street 6 @ 2026-09-28T18:00:00 (Standard)
+  - + AMC 84th Street 6 @ 2026-09-28T21:30:00 (RealD 3D)
+  - + AMC 84th Street 6 @ 2026-09-29T14:00:00 (RealD 3D)
+  - + AMC 84th Street 6 @ 2026-09-29T18:00:00 (Standard)
+  - + AMC 84th Street 6 @ 2026-09-29T21:30:00 (RealD 3D)
+- Primetime
+  - + AMC 84th Street 6 @ 2026-09-25T12:30:00 (Standard)
+  - + AMC 84th Street 6 @ 2026-09-26T12:30:00 (Standard)
+  - + AMC 84th Street 6 @ 2026-09-27T12:30:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-09-25T12:00:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-09-26T12:00:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-09-27T12:00:00 (Standard)
+
 ## 2026-09-11 09:16 AM CDT
 
 **Movies added:**
