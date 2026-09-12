@@ -1,3 +1,19 @@
+## 2026-09-12 01:17 PM CDT
+
+**Showtime changes:**
+- Buddy
+  - − AMC 34th Street 14 @ 2026-09-12T22:45:00 (Standard)
+- Akira
+  - + AMC 34th Street 14 @ 2026-09-12T22:45:00 (Standard)
+- The Odyssey
+  - + AMC Lincoln Square 13 @ 2026-09-19T22:15:00 (70mm)
+  - + AMC Lincoln Square 13 @ 2026-09-20T02:15:00 (70mm)
+  - − AMC Lincoln Square 13 @ 2026-09-19T22:30:00 (70mm)
+- Runner
+  - − AMC 34th Street 14 @ 2026-09-12T22:30:00 (Standard)
+- Hope
+  - + AMC 34th Street 14 @ 2026-09-12T22:30:00 (Standard)
+
 ## 2026-09-12 08:31 AM CDT
 
 No changes.
