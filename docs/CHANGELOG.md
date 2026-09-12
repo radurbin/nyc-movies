@@ -1,3 +1,19 @@
+## 2026-09-11 07:05 PM CDT
+
+**Showtime changes:**
+- Coyote vs. Acme
+  - + AMC 34th Street 14 @ 2026-09-11T22:45:00 (Standard)
+- Practical Magic 2
+  - + AMC Lincoln Square 13 @ 2026-09-16T21:45:00 (Dolby Cinema at AMC)
+  - − AMC Lincoln Square 13 @ 2026-09-16T22:00:00 (Dolby Cinema at AMC)
+- By Any Means
+  - − AMC 34th Street 14 @ 2026-09-11T22:45:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-12T22:45:00 (Standard)
+- Hope
+  - + AMC 34th Street 14 @ 2026-09-12T22:45:00 (Standard)
+- Verity
+  - + AMC Lincoln Square 13 @ 2026-10-01T18:45:00 (Dolby Cinema at AMC)
+
 ## 2026-09-11 02:07 PM CDT
 
 **Showtime changes:**
