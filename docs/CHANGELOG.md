@@ -1,3 +1,34 @@
+## 2026-09-12 06:55 PM CDT
+
+**Showtime changes:**
+- The Fix
+  - + AMC 34th Street 14 @ 2026-09-13T22:20:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-13T18:30:00 (Standard)
+- Verity Early Access
+  - + AMC 34th Street 14 @ 2026-09-30T22:00:00 (Dolby Cinema at AMC)
+- Hope
+  - + AMC 34th Street 14 @ 2026-09-13T18:25:00 (Standard)
+- Coyote vs. Acme
+  - + AMC 84th Street 6 @ 2026-09-12T22:30:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-09-12T22:35:00 (Standard)
+- Insidious: Out of the Further
+  - + AMC 84th Street 6 @ 2026-09-12T22:30:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-09-12T22:45:00 (Standard)
+- By Any Means
+  - + AMC 84th Street 6 @ 2026-09-12T22:30:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-09-12T22:45:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-13T22:20:00 (Standard)
+- Primetime
+  - + AMC 34th Street 14 @ 2026-09-24T17:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-24T19:45:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-24T22:00:00 (Standard)
+- Buddy
+  - + AMC 34th Street 14 @ 2026-09-13T22:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-13T21:45:00 (Standard)
+- Heart of the Beast
+  - + AMC 34th Street 14 @ 2026-09-24T22:30:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-24T22:00:00 (Standard)
+
 ## 2026-09-12 01:17 PM CDT
 
 **Showtime changes:**

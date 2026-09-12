@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-08-20 05:38 AM CDT",
-    "movies_added": [],
-    "movies_removed": [],
-    "showtime_changes": []
-  },
-  {
     "date": "2026-08-20 11:43 AM CDT",
     "movies_added": [
       "Akira",
@@ -38566,6 +38560,163 @@
           }
         ],
         "removed": []
+      }
+    ]
+  },
+  {
+    "date": "2026-09-12 06:55 PM CDT",
+    "movies_added": [],
+    "movies_removed": [],
+    "showtime_changes": [
+      {
+        "title": "The Fix",
+        "added": [
+          {
+            "theater": "AMC 34th Street 14",
+            "datetime": "2026-09-13T22:20:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": [
+          {
+            "theater": "AMC 34th Street 14",
+            "datetime": "2026-09-13T18:30:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Verity Early Access",
+        "added": [
+          {
+            "theater": "AMC 34th Street 14",
+            "datetime": "2026-09-30T22:00:00",
+            "format": "Dolby Cinema at AMC"
+          }
+        ],
+        "removed": []
+      },
+      {
+        "title": "Hope",
+        "added": [
+          {
+            "theater": "AMC 34th Street 14",
+            "datetime": "2026-09-13T18:25:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": []
+      },
+      {
+        "title": "Coyote vs. Acme",
+        "added": [
+          {
+            "theater": "AMC 84th Street 6",
+            "datetime": "2026-09-12T22:30:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": [
+          {
+            "theater": "AMC 84th Street 6",
+            "datetime": "2026-09-12T22:35:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Insidious: Out of the Further",
+        "added": [
+          {
+            "theater": "AMC 84th Street 6",
+            "datetime": "2026-09-12T22:30:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": [
+          {
+            "theater": "AMC 84th Street 6",
+            "datetime": "2026-09-12T22:45:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "By Any Means",
+        "added": [
+          {
+            "theater": "AMC 84th Street 6",
+            "datetime": "2026-09-12T22:30:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": [
+          {
+            "theater": "AMC 84th Street 6",
+            "datetime": "2026-09-12T22:45:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC 34th Street 14",
+            "datetime": "2026-09-13T22:20:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Primetime",
+        "added": [
+          {
+            "theater": "AMC 34th Street 14",
+            "datetime": "2026-09-24T17:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC 34th Street 14",
+            "datetime": "2026-09-24T19:45:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC 34th Street 14",
+            "datetime": "2026-09-24T22:00:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": []
+      },
+      {
+        "title": "Buddy",
+        "added": [
+          {
+            "theater": "AMC 34th Street 14",
+            "datetime": "2026-09-13T22:00:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": [
+          {
+            "theater": "AMC 34th Street 14",
+            "datetime": "2026-09-13T21:45:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Heart of the Beast",
+        "added": [
+          {
+            "theater": "AMC 34th Street 14",
+            "datetime": "2026-09-24T22:30:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": [
+          {
+            "theater": "AMC 34th Street 14",
+            "datetime": "2026-09-24T22:00:00",
+            "format": "Standard"
+          }
+        ]
       }
     ]
   }
