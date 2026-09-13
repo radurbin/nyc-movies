@@ -1,3 +1,15 @@
+## 2026-09-13 09:14 AM CDT
+
+**Showtime changes:**
+- Hope
+  - + AMC 34th Street 14 @ 2026-09-13T22:45:00 (Standard)
+- Akira
+  - + AMC 34th Street 14 @ 2026-09-13T22:30:00 (Standard)
+- Runner
+  - − AMC 34th Street 14 @ 2026-09-13T22:30:00 (Standard)
+- Buddy
+  - − AMC 34th Street 14 @ 2026-09-13T22:45:00 (Standard)
+
 ## 2026-09-13 04:24 AM CDT
 
 **Showtime changes:**
