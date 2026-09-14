@@ -1,3 +1,38 @@
+## 2026-09-13 07:03 PM CDT
+
+**Showtime changes:**
+- Juan Gabriel: Mi Primer Bellas Artes
+  - + AMC 34th Street 14 @ 2026-09-15T16:20:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-15T20:00:00 (Standard)
+- The Odyssey
+  - + AMC 34th Street 14 @ 2026-09-15T18:45:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-15T18:40:00 (Standard)
+- Practical Magic 2
+  - − AMC 34th Street 14 @ 2026-09-15T21:30:00 (Standard)
+- The Fix
+  - − AMC 34th Street 14 @ 2026-09-15T19:30:00 (Standard)
+- Akira
+  - + AMC 34th Street 14 @ 2026-09-15T21:25:00 (Standard)
+- Fall 2: Deadpoint
+  - − AMC 34th Street 14 @ 2026-09-15T16:00:00 (Standard)
+- Oasis: Don't Look Back in Anger
+  - − AMC 34th Street 14 @ 2026-09-15T22:25:00 (Standard)
+- By Any Means
+  - + AMC 34th Street 14 @ 2026-09-15T22:20:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-14T20:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-15T20:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-15T22:45:00 (Standard)
+- Hope
+  - + AMC 34th Street 14 @ 2026-09-14T20:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-15T19:40:00 (Standard)
+- Runner
+  - − AMC 34th Street 14 @ 2026-09-14T22:20:00 (Standard)
+- Insidious: Out of the Further
+  - + AMC 34th Street 14 @ 2026-09-14T22:20:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-15T22:25:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-14T22:45:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-15T22:45:00 (Standard)
+
 ## 2026-09-13 01:43 PM CDT
 
 No changes.
