@@ -1,3 +1,9 @@
+## 2026-09-15 09:50 AM CDT
+
+**Movies added:**
+- Blumhouse Presents: Other Mommy Fan Event Screening
+- Other Mommy
+
 ## 2026-09-15 04:21 AM CDT
 
 **Movies added:**
