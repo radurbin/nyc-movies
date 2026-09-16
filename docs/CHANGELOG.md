@@ -1,3 +1,22 @@
+## 2026-09-15 07:07 PM CDT
+
+**Movies added:**
+- Forgotten Island - Early Access Screening with Cast Member Q&A
+
+**Showtime changes:**
+- Hope
+  - + AMC 34th Street 14 @ 2026-09-15T22:20:00 (Standard)
+- Coyote vs. Acme
+  - − AMC Lincoln Square 13 @ 2026-09-20T13:15:00 (Standard)
+- Tony
+  - + AMC Lincoln Square 13 @ 2026-09-19T13:15:00 (Standard)
+- Buddy
+  - − AMC Lincoln Square 13 @ 2026-09-20T16:00:00 (Standard)
+- By Any Means
+  - − AMC 34th Street 14 @ 2026-09-15T22:20:00 (Standard)
+- Batman: Mask of the Phantasm (2026BD)
+  - + AMC Lincoln Square 13 @ 2026-09-19T16:15:00 (Standard)
+
 ## 2026-09-15 02:40 PM CDT
 
 **Showtime changes:**
