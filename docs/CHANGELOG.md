@@ -1,3 +1,69 @@
+## 2026-09-16 02:30 PM CDT
+
+**Showtime changes:**
+- Verity
+  - + AMC Lincoln Square 13 @ 2026-10-01T22:00:00 (Dolby Cinema at AMC)
+  - + AMC Lincoln Square 13 @ 2026-10-02T22:00:00 (Dolby Cinema at AMC)
+  - + AMC Lincoln Square 13 @ 2026-10-03T22:00:00 (Dolby Cinema at AMC)
+  - + AMC Lincoln Square 13 @ 2026-10-04T22:00:00 (Dolby Cinema at AMC)
+- Primetime
+  - + AMC 34th Street 14 @ 2026-09-24T18:15:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-24T20:15:00 (Standard)
+- Other Mommy
+  - + AMC Lincoln Square 13 @ 2026-10-08T14:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-08T16:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-09T10:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-09T13:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-09T16:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-09T19:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-10T10:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-10T13:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-10T16:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-10T19:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-11T10:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-11T13:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-11T16:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-11T19:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-12T10:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-12T13:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-12T16:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-12T19:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-13T22:15:00 (Dolby Cinema at AMC)
+  - + AMC Lincoln Square 13 @ 2026-10-14T10:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-14T13:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-14T16:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-14T19:45:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-13T22:00:00 (Dolby Cinema at AMC)
+  - − AMC Lincoln Square 13 @ 2026-10-14T22:00:00 (Dolby Cinema at AMC)
+- Resident Evil
+  - + AMC 84th Street 6 @ 2026-09-20T22:45:00 (Standard)
+  - + AMC 84th Street 6 @ 2026-09-21T22:45:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-22T16:30:00 (Standard)
+  - + AMC 84th Street 6 @ 2026-09-22T22:45:00 (Standard)
+  - + AMC 84th Street 6 @ 2026-09-23T22:45:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-09-20T22:40:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-09-21T22:40:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-22T16:15:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-09-22T22:40:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-09-23T22:40:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-24T20:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-24T22:30:00 (Standard)
+- Onslaught
+  - − AMC 34th Street 14 @ 2026-09-16T22:40:00 (Standard)
+- By Any Means
+  - − AMC 34th Street 14 @ 2026-09-16T20:00:00 (Standard)
+- Coyote vs. Acme
+  - + AMC 84th Street 6 @ 2026-09-19T22:45:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-09-19T22:40:00 (Standard)
+- Blumhouse Presents: Other Mommy Fan Event Screening
+  - + AMC Lincoln Square 13 @ 2026-10-08T19:15:00 (Standard)
+- Juan Gabriel: Mi Primer Bellas Artes
+  - + AMC 34th Street 14 @ 2026-09-16T20:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-16T22:20:00 (Standard)
+- The Dog Stars
+  - + AMC Lincoln Square 13 @ 2026-09-17T12:00:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-09-17T11:55:00 (Standard)
+
 ## 2026-09-16 09:47 AM CDT
 
 **Movies added:**
