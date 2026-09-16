@@ -1,3 +1,27 @@
+## 2026-09-16 09:47 AM CDT
+
+**Movies added:**
+- American Psycho - Welcome to Horrorwood Series
+- Friday The 13th - Welcome to Horrorwood Series
+- Hostel - Welcome to Horrorwood Series
+- Pet Sematary  - Welcome to Horrorwood Series
+- The Crow - Welcome to Horrorwood Series
+- Wildwood
+- Yuri!!! on ICE 10th Anniversary
+
+**Showtime changes:**
+- Resident Evil
+  - + AMC 84th Street 6 @ 2026-09-18T23:00:00 (Standard)
+  - + AMC 84th Street 6 @ 2026-09-19T23:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-24T10:00:00 (Dolby Cinema at AMC)
+  - − AMC 84th Street 6 @ 2026-09-18T22:45:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-09-19T22:30:00 (Standard)
+- The Dog Stars
+  - + AMC Lincoln Square 13 @ 2026-09-17T11:55:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-09-17T12:00:00 (Standard)
+- The Fix
+  - − AMC Lincoln Square 13 @ 2026-09-17T11:45:00 (Standard)
+
 ## 2026-09-16 04:14 AM CDT
 
 **Showtime changes:**
