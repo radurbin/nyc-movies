@@ -1,3 +1,12 @@
+## 2026-09-16 07:18 PM CDT
+
+**Showtime changes:**
+- Coyote vs. Acme
+  - + AMC Lincoln Square 13 @ 2026-09-17T11:00:00 (Standard)
+- Forgotten Island
+  - − AMC 34th Street 14 @ 2026-09-24T19:30:00 (RealD 3D)
+  - − AMC 34th Street 14 @ 2026-09-24T22:15:00 (Standard)
+
 ## 2026-09-16 02:30 PM CDT
 
 **Showtime changes:**

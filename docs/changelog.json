@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-08-23 11:35 AM CDT",
-    "movies_added": [],
-    "movies_removed": [],
-    "showtime_changes": []
-  },
-  {
     "date": "2026-08-23 05:30 PM CDT",
     "movies_added": [],
     "movies_removed": [],
@@ -43277,6 +43271,40 @@
           {
             "theater": "AMC Lincoln Square 13",
             "datetime": "2026-09-17T11:55:00",
+            "format": "Standard"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-09-16 07:18 PM CDT",
+    "movies_added": [],
+    "movies_removed": [],
+    "showtime_changes": [
+      {
+        "title": "Coyote vs. Acme",
+        "added": [
+          {
+            "theater": "AMC Lincoln Square 13",
+            "datetime": "2026-09-17T11:00:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": []
+      },
+      {
+        "title": "Forgotten Island",
+        "added": [],
+        "removed": [
+          {
+            "theater": "AMC 34th Street 14",
+            "datetime": "2026-09-24T19:30:00",
+            "format": "RealD 3D"
+          },
+          {
+            "theater": "AMC 34th Street 14",
+            "datetime": "2026-09-24T22:15:00",
             "format": "Standard"
           }
         ]
