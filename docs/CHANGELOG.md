@@ -1,3 +1,138 @@
+## 2026-09-17 04:22 AM CDT
+
+**Movies removed:**
+- Akira
+- Fall 2: Deadpoint
+- Insidious: Out of the Further
+- Juan Gabriel: Mi Primer Bellas Artes
+- The Fix
+- The Weight Early Access
+
+**Showtime changes:**
+- Cars: 20th Anniversary
+  - − AMC 34th Street 14 @ 2026-09-16T13:25:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-09-16T15:00:00 (Standard)
+- Coyote vs. Acme
+  - − AMC Lincoln Square 13 @ 2026-09-16T10:00:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-09-16T13:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-16T13:40:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-09-16T15:15:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-16T16:20:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-09-16T16:30:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-09-16T18:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-16T18:30:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-09-16T19:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-16T21:25:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-09-16T22:15:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-09-16T22:30:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-16T22:40:00 (Standard)
+- By Any Means
+  - − AMC 34th Street 14 @ 2026-09-16T13:50:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-09-16T16:15:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-16T16:45:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-09-16T20:00:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-09-16T22:45:00 (Standard)
+- Teenage Sex and Death at Camp Miasma
+  - − AMC Lincoln Square 13 @ 2026-09-16T20:45:00 (Standard)
+- Spider-Man: Brand New Day
+  - − AMC Lincoln Square 13 @ 2026-09-16T11:15:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-16T12:40:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-09-16T14:45:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-09-16T15:15:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-16T16:00:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-09-16T18:15:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-09-16T19:15:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-16T19:20:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-09-16T21:45:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-09-16T22:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-16T22:40:00 (Standard)
+- Practical Magic 2
+  - − AMC Lincoln Square 13 @ 2026-09-16T10:00:00 (Dolby Cinema at AMC)
+  - − AMC Lincoln Square 13 @ 2026-09-16T12:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-16T13:00:00 (Dolby Cinema at AMC)
+  - − AMC Lincoln Square 13 @ 2026-09-16T13:00:00 (Dolby Cinema at AMC)
+  - − AMC 84th Street 6 @ 2026-09-16T15:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-16T15:00:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-09-16T15:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-16T16:00:00 (Dolby Cinema at AMC)
+  - − AMC Lincoln Square 13 @ 2026-09-16T16:00:00 (Dolby Cinema at AMC)
+  - − AMC Lincoln Square 13 @ 2026-09-16T18:00:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-09-16T18:15:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-16T18:20:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-09-16T19:00:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-09-16T19:15:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-09-16T21:15:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-09-16T21:30:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-16T21:30:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-09-16T21:45:00 (Dolby Cinema at AMC)
+  - − AMC 34th Street 14 @ 2026-09-16T22:00:00 (Dolby Cinema at AMC)
+- Tony
+  - − AMC Lincoln Square 13 @ 2026-09-16T10:45:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-09-16T13:45:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-09-16T16:45:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-09-16T19:45:00 (Standard)
+- Buddy
+  - − AMC 34th Street 14 @ 2026-09-16T12:00:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-09-16T12:45:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-09-16T15:40:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-16T17:45:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-16T20:15:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-09-16T20:45:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-16T21:15:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-16T22:45:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-09-16T22:45:00 (Standard)
+- The Odyssey
+  - − AMC Lincoln Square 13 @ 2026-09-16T10:00:00 (70mm)
+  - − AMC 34th Street 14 @ 2026-09-16T12:20:00 (IMAX at AMC)
+  - − AMC Lincoln Square 13 @ 2026-09-16T12:30:00 (70mm)
+  - − AMC Lincoln Square 13 @ 2026-09-16T14:00:00 (70mm)
+  - − AMC 84th Street 6 @ 2026-09-16T16:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-16T16:15:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-09-16T16:30:00 (70mm)
+  - − AMC Lincoln Square 13 @ 2026-09-16T18:00:00 (70mm)
+  - − AMC 84th Street 6 @ 2026-09-16T18:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-16T18:50:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-09-16T20:30:00 (70mm)
+  - − AMC 84th Street 6 @ 2026-09-16T21:45:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-09-16T22:00:00 (70mm)
+  - − AMC 34th Street 14 @ 2026-09-16T22:15:00 (IMAX at AMC)
+- The Uprising
+  - − AMC Lincoln Square 13 @ 2026-09-16T10:30:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-16T12:30:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-09-16T13:30:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-16T15:40:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-09-16T16:30:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-16T18:45:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-09-16T19:30:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-16T21:50:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-09-16T22:30:00 (Standard)
+- Hope
+  - − AMC Lincoln Square 13 @ 2026-09-16T11:15:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-16T12:25:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-16T14:30:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-09-16T15:15:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-16T18:00:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-09-16T18:15:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-16T19:30:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-16T21:35:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-09-16T22:00:00 (Standard)
+- Oasis: Don't Look Back in Anger
+  - − AMC Lincoln Square 13 @ 2026-09-16T10:15:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-09-16T13:15:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-16T13:45:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-16T16:15:00 (IMAX at AMC)
+  - − AMC Lincoln Square 13 @ 2026-09-16T19:15:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-16T19:15:00 (IMAX at AMC)
+  - − AMC Lincoln Square 13 @ 2026-09-16T22:15:00 (Standard)
+- Runner
+  - − AMC 34th Street 14 @ 2026-09-16T12:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-16T14:35:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-16T17:10:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-16T19:45:00 (Standard)
+- The Dog Stars
+  - − AMC 34th Street 14 @ 2026-09-16T12:00:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-09-16T16:15:00 (Standard)
+
 ## 2026-09-16 07:18 PM CDT
 
 **Showtime changes:**
