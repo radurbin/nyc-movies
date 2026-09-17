@@ -1,3 +1,16 @@
+## 2026-09-17 09:50 AM CDT
+
+**Movies added:**
+- Wicker
+
+**Showtime changes:**
+- Resident Evil
+  - + AMC Lincoln Square 13 @ 2026-09-17T16:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-17T21:45:00 (Standard)
+- The Transformers: The Movie 40th Anniversary
+  - − AMC Lincoln Square 13 @ 2026-09-17T16:45:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-09-17T22:15:00 (Standard)
+
 ## 2026-09-17 04:22 AM CDT
 
 **Movies removed:**
