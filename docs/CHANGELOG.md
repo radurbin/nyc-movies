@@ -1,3 +1,18 @@
+## 2026-09-18 09:21 AM CDT
+
+**Movies added:**
+- California Schemin' Q&A with Director/Actor James McAvoy
+- Rocky 50th Anniversary
+
+**Showtime changes:**
+- Resident Evil
+  - + AMC Lincoln Square 13 @ 2026-09-18T21:45:00 (Standard)
+- Buddy
+  - + AMC Lincoln Square 13 @ 2026-09-18T16:15:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-09-18T21:45:00 (Standard)
+- The Transformers: The Movie 40th Anniversary
+  - − AMC Lincoln Square 13 @ 2026-09-18T16:45:00 (Standard)
+
 ## 2026-09-18 03:57 AM CDT
 
 **Movies added:**

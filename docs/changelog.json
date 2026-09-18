@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-08-24 11:48 AM CDT",
-    "movies_added": [],
-    "movies_removed": [],
-    "showtime_changes": []
-  },
-  {
     "date": "2026-08-24 05:35 PM CDT",
     "movies_added": [
       "Juan Gabriel: Mi Primer Bellas Artes"
@@ -46098,6 +46092,55 @@
           {
             "theater": "AMC 34th Street 14",
             "datetime": "2026-09-18T21:00:00",
+            "format": "Standard"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-09-18 09:21 AM CDT",
+    "movies_added": [
+      "California Schemin' Q&A with Director/Actor James McAvoy",
+      "Rocky 50th Anniversary"
+    ],
+    "movies_removed": [],
+    "showtime_changes": [
+      {
+        "title": "Resident Evil",
+        "added": [
+          {
+            "theater": "AMC Lincoln Square 13",
+            "datetime": "2026-09-18T21:45:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": []
+      },
+      {
+        "title": "Buddy",
+        "added": [
+          {
+            "theater": "AMC Lincoln Square 13",
+            "datetime": "2026-09-18T16:15:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": [
+          {
+            "theater": "AMC Lincoln Square 13",
+            "datetime": "2026-09-18T21:45:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "The Transformers: The Movie 40th Anniversary",
+        "added": [],
+        "removed": [
+          {
+            "theater": "AMC Lincoln Square 13",
+            "datetime": "2026-09-18T16:45:00",
             "format": "Standard"
           }
         ]
