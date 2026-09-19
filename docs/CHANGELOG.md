@@ -1,3 +1,70 @@
+## 2026-09-18 07:07 PM CDT
+
+**Movies added:**
+- MUSK Introduction with Director Alex Gibney
+- MUSK Q&A with Director Alex Gibney
+
+**Showtime changes:**
+- Buddy
+  - − AMC 34th Street 14 @ 2026-09-19T22:45:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-20T19:30:00 (Standard)
+- Coyote vs. Acme
+  - + AMC 84th Street 6 @ 2026-09-23T22:15:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-09-23T22:30:00 (Standard)
+- Resident Evil
+  - + AMC 34th Street 14 @ 2026-09-19T19:45:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-19T21:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-19T21:45:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-19T22:15:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-20T17:05:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-20T19:30:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-20T21:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-20T22:00:00 (Standard)
+  - + AMC 84th Street 6 @ 2026-09-23T22:30:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-09-23T22:45:00 (Standard)
+- Runner
+  - − AMC 34th Street 14 @ 2026-09-19T19:45:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-20T17:10:00 (Standard)
+- The Transformers: The Movie 40th Anniversary
+  - + AMC Lincoln Square 13 @ 2026-09-21T14:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-21T16:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-19T21:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-20T21:00:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-09-21T14:15:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-09-21T16:45:00 (Standard)
+- The Weight
+  - + AMC 34th Street 14 @ 2026-09-19T22:45:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-19T23:00:00 (Standard)
+- The Odyssey
+  - + AMC Lincoln Square 13 @ 2026-10-01T12:30:00 (70MM at AMC)
+  - + AMC Lincoln Square 13 @ 2026-10-01T16:30:00 (70MM at AMC)
+  - + AMC Lincoln Square 13 @ 2026-10-01T20:30:00 (70MM at AMC)
+  - + AMC Lincoln Square 13 @ 2026-10-02T12:30:00 (70MM at AMC)
+  - + AMC Lincoln Square 13 @ 2026-10-02T16:30:00 (70MM at AMC)
+  - + AMC Lincoln Square 13 @ 2026-10-02T20:30:00 (70MM at AMC)
+  - + AMC Lincoln Square 13 @ 2026-10-03T12:30:00 (70MM at AMC)
+  - + AMC Lincoln Square 13 @ 2026-10-03T16:30:00 (70MM at AMC)
+  - + AMC Lincoln Square 13 @ 2026-10-03T20:30:00 (70MM at AMC)
+  - + AMC Lincoln Square 13 @ 2026-10-04T12:30:00 (70MM at AMC)
+  - + AMC Lincoln Square 13 @ 2026-10-04T16:30:00 (70MM at AMC)
+  - + AMC Lincoln Square 13 @ 2026-10-04T20:30:00 (70MM at AMC)
+  - + AMC Lincoln Square 13 @ 2026-10-06T12:30:00 (70MM at AMC)
+  - + AMC Lincoln Square 13 @ 2026-10-06T16:30:00 (70MM at AMC)
+  - + AMC Lincoln Square 13 @ 2026-10-06T20:30:00 (70MM at AMC)
+  - − AMC 34th Street 14 @ 2026-09-19T22:15:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-20T22:00:00 (Standard)
+- Other Mommy
+  - + AMC Lincoln Square 13 @ 2026-10-09T22:30:00 (Dolby Cinema at AMC)
+  - + AMC Lincoln Square 13 @ 2026-10-10T22:30:00 (Dolby Cinema at AMC)
+  - + AMC Lincoln Square 13 @ 2026-10-11T22:30:00 (Dolby Cinema at AMC)
+  - + AMC Lincoln Square 13 @ 2026-10-12T22:30:00 (Dolby Cinema at AMC)
+  - − AMC Lincoln Square 13 @ 2026-10-09T22:00:00 (Dolby Cinema at AMC)
+  - − AMC Lincoln Square 13 @ 2026-10-10T22:00:00 (Dolby Cinema at AMC)
+  - − AMC Lincoln Square 13 @ 2026-10-11T22:00:00 (Dolby Cinema at AMC)
+  - − AMC Lincoln Square 13 @ 2026-10-12T22:00:00 (Dolby Cinema at AMC)
+- Hope
+  - − AMC 34th Street 14 @ 2026-09-19T21:40:00 (Standard)
+
 ## 2026-09-18 02:00 PM CDT
 
 No changes.
