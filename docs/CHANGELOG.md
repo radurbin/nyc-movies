@@ -1,3 +1,14 @@
+## 2026-09-19 01:33 PM CDT
+
+**Showtime changes:**
+- The Uprising
+  - − AMC Lincoln Square 13 @ 2026-09-23T19:30:00 (Standard)
+- Buddy
+  - − AMC Lincoln Square 13 @ 2026-09-23T20:45:00 (Standard)
+- Your Mother Your Mother Your Mother Early Access
+  - + AMC Lincoln Square 13 @ 2026-09-23T19:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-23T20:45:00 (Standard)
+
 ## 2026-09-19 08:51 AM CDT
 
 No changes.
