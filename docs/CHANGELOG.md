@@ -1,3 +1,10 @@
+## 2026-09-20 01:41 PM CDT
+
+**Showtime changes:**
+- Spider-Man: Brand New Day
+  - + AMC 84th Street 6 @ 2026-09-23T21:40:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-09-23T21:45:00 (Standard)
+
 ## 2026-09-20 09:05 AM CDT
 
 No changes.
