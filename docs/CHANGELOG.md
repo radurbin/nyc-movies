@@ -1,3 +1,18 @@
+## 2026-09-19 07:03 PM CDT
+
+**Showtime changes:**
+- Primetime
+  - + AMC 34th Street 14 @ 2026-09-24T19:30:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-24T22:30:00 (Standard)
+- Heart of the Beast
+  - − AMC 34th Street 14 @ 2026-09-24T22:30:00 (Standard)
+- Other Mommy
+  - + AMC 34th Street 14 @ 2026-10-08T20:00:00 (Standard)
+- Ken Russell's The Devils
+  - + AMC 34th Street 14 @ 2026-10-15T20:00:00 (Standard)
+- The Transformers: The Movie 40th Anniversary
+  - − AMC 34th Street 14 @ 2026-09-21T21:45:00 (Standard)
+
 ## 2026-09-19 01:33 PM CDT
 
 **Showtime changes:**
