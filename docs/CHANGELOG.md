@@ -1,3 +1,10 @@
+## 2026-09-21 11:23 AM CDT
+
+**Movies added:**
+- Back to the Future Day 2026
+- FJORD Q&A with Sebastian Stan
+- The Social Reckoning
+
 ## 2026-09-21 04:51 AM CDT
 
 **Movies added:**
