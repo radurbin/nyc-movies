@@ -1,3 +1,18 @@
+## 2026-09-20 07:06 PM CDT
+
+**Showtime changes:**
+- Resident Evil
+  - + AMC 34th Street 14 @ 2026-09-22T19:45:00 (Standard)
+- Hope
+  - + AMC 34th Street 14 @ 2026-09-22T15:15:00 (Standard)
+- Runner
+  - − AMC 34th Street 14 @ 2026-09-22T19:45:00 (Standard)
+- Verity Early Access
+  - + AMC 34th Street 14 @ 2026-09-30T20:00:00 (Standard)
+- The Transformers: The Movie 40th Anniversary
+  - − AMC 34th Street 14 @ 2026-09-22T15:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-22T17:00:00 (Standard)
+
 ## 2026-09-20 01:41 PM CDT
 
 **Showtime changes:**
