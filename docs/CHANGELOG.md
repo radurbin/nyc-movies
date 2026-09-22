@@ -1,3 +1,45 @@
+## 2026-09-22 02:42 PM CDT
+
+**Movies added:**
+- AMC Screen Unseen: October 5
+- Digger
+- Hostel 20th Anniversary - Welcome to Horrorwood Series
+- WILDWOOD Fan First Screening
+
+**Movies removed:**
+- Hostel - Welcome to Horrorwood Series
+
+**Showtime changes:**
+- Resident Evil
+  - + AMC 34th Street 14 @ 2026-09-22T16:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-22T18:45:00 (Standard)
+- Hope
+  - − AMC 34th Street 14 @ 2026-09-22T15:15:00 (Standard)
+- Spider-Man: Brand New Day
+  - + AMC Lincoln Square 13 @ 2026-10-01T11:00:00 (Standard)
+- Primetime
+  - + AMC Lincoln Square 13 @ 2026-10-02T10:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-02T13:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-02T16:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-02T19:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-02T22:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-03T10:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-03T13:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-03T16:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-03T19:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-03T22:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-04T10:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-04T13:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-04T16:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-04T19:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-04T22:30:00 (Standard)
+- The Transformers: The Movie 40th Anniversary
+  - − AMC 34th Street 14 @ 2026-09-22T19:00:00 (Standard)
+- Practical Magic 2
+  - + AMC Lincoln Square 13 @ 2026-09-24T11:00:00 (Standard)
+- Street Fighter
+  - − AMC 34th Street 14 @ 2026-10-19T19:00:00 (Dolby Cinema at AMC)
+
 ## 2026-09-22 09:39 AM CDT
 
 **Movies added:**
