@@ -1,3 +1,20 @@
+## 2026-09-23 09:52 AM CDT
+
+**Showtime changes:**
+- Avengers Endgame: Encore
+  - + AMC Lincoln Square 13 @ 2026-09-25T10:00:00 (Standard)
+- Resident Evil
+  - − AMC Lincoln Square 13 @ 2026-09-25T11:30:00 (Standard)
+- The Uprising
+  - + AMC Lincoln Square 13 @ 2026-09-23T22:45:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-09-23T22:30:00 (Standard)
+- Your Mother Your Mother Your Mother Early Access
+  - + AMC Lincoln Square 13 @ 2026-09-23T20:00:00 (Standard)
+- Spider-Man: Brand New Day
+  - + AMC Lincoln Square 13 @ 2026-09-23T22:15:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-09-23T18:30:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-09-23T22:00:00 (Standard)
+
 ## 2026-09-23 04:14 AM CDT
 
 **Showtime changes:**
