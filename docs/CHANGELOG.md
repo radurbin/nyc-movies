@@ -1,3 +1,20 @@
+## 2026-09-23 02:38 PM CDT
+
+**Movies added:**
+- Musk
+
+**Showtime changes:**
+- Avengers Endgame: Encore
+  - + AMC Lincoln Square 13 @ 2026-10-01T11:00:00 (Dolby Cinema at AMC)
+- Dune: Part Three
+  - + AMC Lincoln Square 13 @ 2026-12-18T09:15:00 (70MM at AMC)
+  - + AMC Lincoln Square 13 @ 2026-12-18T12:30:00 (70MM at AMC)
+  - + AMC Lincoln Square 13 @ 2026-12-18T16:00:00 (70MM at AMC)
+  - + AMC Lincoln Square 13 @ 2026-12-18T19:30:00 (70MM at AMC)
+  - + AMC Lincoln Square 13 @ 2026-12-19T09:15:00 (70MM at AMC)
+  - + AMC Lincoln Square 13 @ 2027-01-02T12:30:00 (70MM at AMC)
+  - + AMC Lincoln Square 13 @ 2027-01-02T16:00:00 (70MM at AMC)
+
 ## 2026-09-23 09:52 AM CDT
 
 **Showtime changes:**
