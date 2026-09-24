@@ -1,3 +1,11 @@
+## 2026-09-23 07:23 PM CDT
+
+**Showtime changes:**
+- Ghost in the Shell 30th Anniversary
+  - + AMC 34th Street 14 @ 2026-09-23T22:15:00 (Standard)
+- The Weight
+  - − AMC 34th Street 14 @ 2026-09-23T22:45:00 (Standard)
+
 ## 2026-09-23 02:38 PM CDT
 
 **Movies added:**

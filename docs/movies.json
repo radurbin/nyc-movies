@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-09-23T14:38:07.248304-05:00",
+    "generated_at": "2026-09-23T19:23:24.530748-05:00",
     "movie_count": 65,
     "showtime_count": 2824,
     "theaters": {
@@ -2164,7 +2164,7 @@
           "premium_format": "Dolby Cinema at AMC",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-26/34thstreet/all/146614236",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -30492,7 +30492,7 @@
       "rotten_tomatoes": "89%",
       "metacritic": "67/100",
       "letterboxd_rating": 3.09,
-      "letterboxd_rating_count": 210725,
+      "letterboxd_rating_count": 211292,
       "letterboxd_url": "https://letterboxd.com/film/buddy-2026/",
       "awards": "1 nomination total",
       "language": "English",
@@ -31609,7 +31609,7 @@
       "rotten_tomatoes": "96%",
       "metacritic": "77/100",
       "letterboxd_rating": 3.85,
-      "letterboxd_rating_count": 496883,
+      "letterboxd_rating_count": 499549,
       "letterboxd_url": "https://letterboxd.com/film/coyote-vs-acme/",
       "awards": "1 win total",
       "language": "English",
@@ -46521,7 +46521,7 @@
           "premium_format": "70MM at AMC",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-27/lincolnsquare/all/146172042",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": true,
@@ -52849,7 +52849,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.81,
-      "letterboxd_rating_count": 14747,
+      "letterboxd_rating_count": 14883,
       "letterboxd_url": "https://letterboxd.com/film/forgotten-island-2026/",
       "awards": "N/A",
       "language": "English",
@@ -57314,6 +57314,48 @@
           "source": "AMC",
           "theater_id": 2120,
           "theater": "AMC 34th Street 14",
+          "showtime_id": 147072778,
+          "datetime": "2026-09-23T22:15:00",
+          "datetime_utc": "2026-09-24T02:15:00Z",
+          "auditorium": 5,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-23/34thstreet/all/147072778",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AOneLive",
+            "Japanese Spoken with English Subtitles",
+            "Laser at AMC",
+            "AMC Signature Recliners",
+            "Reserved Seating",
+            "ID Required"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 20.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 17.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 18.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
           "showtime_id": 147243860,
           "datetime": "2026-09-24T12:45:00",
           "datetime_utc": "2026-09-24T16:45:00Z",
@@ -57787,7 +57829,7 @@
       "rotten_tomatoes": "94%",
       "metacritic": "77/100",
       "letterboxd_rating": 3.75,
-      "letterboxd_rating_count": 2519,
+      "letterboxd_rating_count": 2526,
       "letterboxd_url": "https://letterboxd.com/film/ha-chan-shake-your-booty/",
       "awards": "1 win & 1 nomination total",
       "language": "Japanese, English, Spanish",
@@ -58323,7 +58365,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-25/lincolnsquare/all/147247126",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -58386,8 +58428,8 @@
       "imdb_votes": "542",
       "rotten_tomatoes": null,
       "metacritic": null,
-      "letterboxd_rating": 3.14,
-      "letterboxd_rating_count": 3041,
+      "letterboxd_rating": 3.2,
+      "letterboxd_rating_count": 4487,
       "letterboxd_url": "https://letterboxd.com/film/heart-of-the-beast-2026/",
       "awards": "N/A",
       "language": "English",
@@ -61132,7 +61174,7 @@
       "rotten_tomatoes": "72%",
       "metacritic": "66/100",
       "letterboxd_rating": 3.23,
-      "letterboxd_rating_count": 101734,
+      "letterboxd_rating_count": 102297,
       "letterboxd_url": "https://letterboxd.com/film/hope-2026/",
       "awards": "2 nominations total",
       "language": "Korean, English",
@@ -62931,7 +62973,6 @@
           "discount_message": null,
           "attributes": [
             "AOneLive",
-            "Event",
             "Laser at AMC",
             "AMC Signature Recliners",
             "Reserved Seating"
@@ -62971,7 +63012,6 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
-            "Event",
             "Laser at AMC",
             "AMC Signature Recliners",
             "Reserved Seating"
@@ -63012,7 +63052,6 @@
           "discount_message": null,
           "attributes": [
             "AOneLive",
-            "Event",
             "Laser at AMC",
             "AMC Signature Recliners",
             "Reserved Seating"
@@ -63053,7 +63092,6 @@
           "discount_message": "20% OFF",
           "attributes": [
             "AOneLive",
-            "Event",
             "Laser at AMC",
             "AMC Signature Recliners",
             "Reserved Seating"
@@ -63094,7 +63132,6 @@
           "discount_message": "20% OFF",
           "attributes": [
             "AOneLive",
-            "Event",
             "Laser at AMC",
             "AMC Signature Recliners",
             "Reserved Seating"
@@ -63135,7 +63172,6 @@
           "discount_message": null,
           "attributes": [
             "AOneLive",
-            "Event",
             "Laser at AMC",
             "AMC Signature Recliners",
             "Reserved Seating"
@@ -63176,7 +63212,6 @@
           "discount_message": null,
           "attributes": [
             "AOneLive",
-            "Event",
             "Laser at AMC",
             "AMC Signature Recliners",
             "Reserved Seating"
@@ -63217,7 +63252,6 @@
           "discount_message": null,
           "attributes": [
             "AOneLive",
-            "Event",
             "Laser at AMC",
             "AMC Signature Recliners",
             "Reserved Seating"
@@ -63258,7 +63292,6 @@
           "discount_message": "20% OFF",
           "attributes": [
             "AOneLive",
-            "Event",
             "Laser at AMC",
             "AMC Signature Recliners",
             "Reserved Seating"
@@ -63299,7 +63332,6 @@
           "discount_message": "20% OFF",
           "attributes": [
             "AOneLive",
-            "Event",
             "Laser at AMC",
             "AMC Signature Recliners",
             "Reserved Seating"
@@ -63340,7 +63372,6 @@
           "discount_message": null,
           "attributes": [
             "AOneLive",
-            "Event",
             "Laser at AMC",
             "AMC Signature Recliners",
             "Reserved Seating"
@@ -63381,7 +63412,6 @@
           "discount_message": null,
           "attributes": [
             "AOneLive",
-            "Event",
             "Laser at AMC",
             "AMC Signature Recliners",
             "Reserved Seating"
@@ -63422,7 +63452,6 @@
           "discount_message": null,
           "attributes": [
             "AOneLive",
-            "Event",
             "Laser at AMC",
             "AMC Signature Recliners",
             "Reserved Seating"
@@ -63463,7 +63492,6 @@
           "discount_message": "20% OFF",
           "attributes": [
             "AOneLive",
-            "Event",
             "Laser at AMC",
             "AMC Signature Recliners",
             "Reserved Seating"
@@ -63504,7 +63532,6 @@
           "discount_message": "20% OFF",
           "attributes": [
             "AOneLive",
-            "Event",
             "Laser at AMC",
             "AMC Signature Recliners",
             "Reserved Seating"
@@ -63545,7 +63572,6 @@
           "discount_message": null,
           "attributes": [
             "AOneLive",
-            "Event",
             "Laser at AMC",
             "AMC Signature Recliners",
             "Reserved Seating"
@@ -63586,7 +63612,6 @@
           "discount_message": null,
           "attributes": [
             "AOneLive",
-            "Event",
             "Laser at AMC",
             "AMC Signature Recliners",
             "Reserved Seating"
@@ -63627,7 +63652,6 @@
           "discount_message": null,
           "attributes": [
             "AOneLive",
-            "Event",
             "Laser at AMC",
             "AMC Signature Recliners",
             "Reserved Seating"
@@ -63668,7 +63692,6 @@
           "discount_message": "20% OFF",
           "attributes": [
             "AOneLive",
-            "Event",
             "Laser at AMC",
             "AMC Signature Recliners",
             "Reserved Seating"
@@ -63709,7 +63732,6 @@
           "discount_message": "20% OFF",
           "attributes": [
             "AOneLive",
-            "Event",
             "Laser at AMC",
             "AMC Signature Recliners",
             "Reserved Seating"
@@ -63750,7 +63772,6 @@
           "discount_message": null,
           "attributes": [
             "AOneLive",
-            "Event",
             "Laser at AMC",
             "AMC Signature Recliners",
             "Reserved Seating"
@@ -63791,7 +63812,6 @@
           "discount_message": null,
           "attributes": [
             "AOneLive",
-            "Event",
             "Laser at AMC",
             "AMC Signature Recliners",
             "Reserved Seating"
@@ -63832,7 +63852,6 @@
           "discount_message": "20% OFF",
           "attributes": [
             "AOneLive",
-            "Event",
             "Laser at AMC",
             "AMC Signature Recliners",
             "Reserved Seating"
@@ -63873,7 +63892,6 @@
           "discount_message": "20% OFF",
           "attributes": [
             "AOneLive",
-            "Event",
             "Laser at AMC",
             "AMC Signature Recliners",
             "Reserved Seating"
@@ -63914,7 +63932,6 @@
           "discount_message": null,
           "attributes": [
             "AOneLive",
-            "Event",
             "Laser at AMC",
             "AMC Signature Recliners",
             "Reserved Seating"
@@ -63955,7 +63972,6 @@
           "discount_message": null,
           "attributes": [
             "AOneLive",
-            "Event",
             "Laser at AMC",
             "AMC Signature Recliners",
             "Reserved Seating"
@@ -63996,7 +64012,6 @@
           "discount_message": null,
           "attributes": [
             "AOneLive",
-            "Event",
             "Laser at AMC",
             "AMC Signature Recliners",
             "Reserved Seating"
@@ -64037,7 +64052,6 @@
           "discount_message": "20% OFF",
           "attributes": [
             "AOneLive",
-            "Event",
             "Laser at AMC",
             "AMC Signature Recliners",
             "Reserved Seating"
@@ -64078,7 +64092,6 @@
           "discount_message": "20% OFF",
           "attributes": [
             "AOneLive",
-            "Event",
             "Laser at AMC",
             "AMC Signature Recliners",
             "Reserved Seating"
@@ -64119,7 +64132,6 @@
           "discount_message": null,
           "attributes": [
             "AOneLive",
-            "Event",
             "Laser at AMC",
             "AMC Signature Recliners",
             "Reserved Seating"
@@ -64160,7 +64172,6 @@
           "discount_message": null,
           "attributes": [
             "AOneLive",
-            "Event",
             "Laser at AMC",
             "AMC Signature Recliners",
             "Reserved Seating"
@@ -64215,7 +64226,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.48,
-      "letterboxd_rating_count": 247,
+      "letterboxd_rating_count": 249,
       "letterboxd_url": "https://letterboxd.com/film/musk-2026/",
       "awards": "N/A",
       "language": "English",
@@ -69056,7 +69067,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 2.89,
-      "letterboxd_rating_count": 116531,
+      "letterboxd_rating_count": 117720,
       "letterboxd_url": "https://letterboxd.com/film/practical-magic-2/",
       "awards": "1 nomination total",
       "language": "English",
@@ -71777,7 +71788,7 @@
       "rotten_tomatoes": "95%",
       "metacritic": "75/100",
       "letterboxd_rating": 3.77,
-      "letterboxd_rating_count": 5240,
+      "letterboxd_rating_count": 7104,
       "letterboxd_url": "https://letterboxd.com/film/primetime-2026/",
       "awards": "1 nomination total",
       "language": "English",
@@ -71883,7 +71894,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-24/34thstreet/all/146538189",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -72222,7 +72233,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-24/34thstreet/all/147206255",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -74595,7 +74606,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-25/lincolnsquare/all/147247076",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -75401,7 +75412,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-26/lincolnsquare/all/146597599",
           "sold_out": false,
-          "almost_sold_out": true,
+          "almost_sold_out": false,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": true,
@@ -81837,7 +81848,6 @@
           "attributes": [
             "AMC Artisan Films",
             "AMC Club Rockers",
-            "AOneLive",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -81880,7 +81890,6 @@
           "attributes": [
             "AMC Artisan Films",
             "AMC Club Rockers",
-            "AOneLive",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -81965,7 +81974,6 @@
           "attributes": [
             "AMC Artisan Films",
             "AMC Club Rockers",
-            "AOneLive",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -82008,7 +82016,6 @@
           "attributes": [
             "AMC Artisan Films",
             "AMC Club Rockers",
-            "AOneLive",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -82294,7 +82301,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-26/34thstreet/all/143264386",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -82806,7 +82813,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.81,
-      "letterboxd_rating_count": 672062,
+      "letterboxd_rating_count": 692967,
       "letterboxd_url": "https://letterboxd.com/film/resident-evil-2026/",
       "awards": "N/A",
       "language": "English",
@@ -83715,7 +83722,7 @@
           "premium_format": "IMAX at AMC",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-23/34thstreet/all/147073110",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -90048,7 +90055,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.69,
-      "letterboxd_rating_count": 912,
+      "letterboxd_rating_count": 933,
       "letterboxd_url": "https://letterboxd.com/film/i-play-rocky/",
       "awards": "N/A",
       "language": "English",
@@ -90186,7 +90193,7 @@
       "rotten_tomatoes": null,
       "metacritic": "55/100",
       "letterboxd_rating": 2.9,
-      "letterboxd_rating_count": 14422,
+      "letterboxd_rating_count": 14565,
       "letterboxd_url": "https://letterboxd.com/film/runner-2026/",
       "awards": "N/A",
       "language": "English",
@@ -90273,7 +90280,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.57,
-      "letterboxd_rating_count": 8182,
+      "letterboxd_rating_count": 8440,
       "letterboxd_url": "https://letterboxd.com/film/shaun-the-sheep-the-beast-of-mossy-bottom/",
       "awards": "N/A",
       "language": "English",
@@ -90442,7 +90449,7 @@
       "rotten_tomatoes": "89%",
       "metacritic": "66/100",
       "letterboxd_rating": 4.04,
-      "letterboxd_rating_count": 4219521,
+      "letterboxd_rating_count": 4222641,
       "letterboxd_url": "https://letterboxd.com/film/spider-man-brand-new-day/",
       "awards": "1 nomination total",
       "language": "English",
@@ -101193,7 +101200,7 @@
       "rotten_tomatoes": "93%",
       "metacritic": "88/100",
       "letterboxd_rating": 4.35,
-      "letterboxd_rating_count": 4411152,
+      "letterboxd_rating_count": 4414074,
       "letterboxd_url": "https://letterboxd.com/film/the-odyssey-2026/",
       "awards": "3 wins total",
       "language": "English, Greek",
@@ -109190,7 +109197,7 @@
       "rotten_tomatoes": null,
       "metacritic": "53/100",
       "letterboxd_rating": 2.82,
-      "letterboxd_rating_count": 29350,
+      "letterboxd_rating_count": 29594,
       "letterboxd_url": "https://letterboxd.com/film/the-uprising-2026/",
       "awards": "N/A",
       "language": "English",
@@ -109479,7 +109486,7 @@
       "rotten_tomatoes": null,
       "metacritic": "94/100",
       "letterboxd_rating": 3.81,
-      "letterboxd_rating_count": 4441,
+      "letterboxd_rating_count": 4443,
       "letterboxd_url": "https://letterboxd.com/film/earth-wind-fire-to-be-celestial-vs-thats/",
       "awards": "N/A",
       "language": "English",
@@ -109822,49 +109829,6 @@
             {
               "type": "SENIOR",
               "price": 19.99,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 2120,
-          "theater": "AMC 34th Street 14",
-          "showtime_id": 147072778,
-          "datetime": "2026-09-23T22:45:00",
-          "datetime_utc": "2026-09-24T02:45:00Z",
-          "auditorium": 5,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-23/34thstreet/all/147072778",
-          "sold_out": true,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "AMC Artisan Films",
-            "AOneLive",
-            "Closed Caption",
-            "Audio Description",
-            "Laser at AMC",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 20.49,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 17.49,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 18.99,
               "tax": 0.0
             }
           ]
@@ -110787,7 +110751,7 @@
       "rotten_tomatoes": "93%",
       "metacritic": "75/100",
       "letterboxd_rating": 3.84,
-      "letterboxd_rating_count": 301427,
+      "letterboxd_rating_count": 302388,
       "letterboxd_url": "https://letterboxd.com/film/tony-2026/",
       "awards": "N/A",
       "language": "English",
@@ -116074,7 +116038,7 @@
       "rotten_tomatoes": "91%",
       "metacritic": "70/100",
       "letterboxd_rating": 3.79,
-      "letterboxd_rating_count": 1856,
+      "letterboxd_rating_count": 1857,
       "letterboxd_url": "https://letterboxd.com/film/wicker/",
       "awards": "N/A",
       "language": "English",
@@ -118301,7 +118265,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-17/lincolnsquare/all/147295827",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": true,
@@ -118342,7 +118306,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-17/lincolnsquare/all/147295826",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -119265,8 +119229,8 @@
       "imdb_votes": "N/A",
       "rotten_tomatoes": null,
       "metacritic": null,
-      "letterboxd_rating": 3.84,
-      "letterboxd_rating_count": 1581,
+      "letterboxd_rating": 3.85,
+      "letterboxd_rating_count": 1587,
       "letterboxd_url": "https://letterboxd.com/film/your-mother-your-mother-your-mother/",
       "awards": "N/A",
       "language": "English",
@@ -119921,7 +119885,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-26/lincolnsquare/all/147050005",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -121212,8 +121176,8 @@
       "imdb_votes": "N/A",
       "rotten_tomatoes": null,
       "metacritic": null,
-      "letterboxd_rating": 3.84,
-      "letterboxd_rating_count": 1581,
+      "letterboxd_rating": 3.85,
+      "letterboxd_rating_count": 1587,
       "letterboxd_url": "https://letterboxd.com/film/your-mother-your-mother-your-mother/",
       "awards": "N/A",
       "language": "English",
