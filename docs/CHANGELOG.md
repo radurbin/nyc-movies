@@ -1,3 +1,54 @@
+## 2026-09-24 09:52 AM CDT
+
+**Showtime changes:**
+- Verity Early Access
+  - + AMC Lincoln Square 13 @ 2026-09-30T21:00:00 (Standard)
+- Forgotten Island
+  - + AMC Lincoln Square 13 @ 2026-09-30T18:15:00 (RealD 3D)
+  - − AMC Lincoln Square 13 @ 2026-09-30T18:30:00 (RealD 3D)
+- Resident Evil
+  - − AMC Lincoln Square 13 @ 2026-09-30T21:15:00 (Standard)
+- Musk
+  - + AMC Lincoln Square 13 @ 2026-10-10T10:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-10T15:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-10T20:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-12T10:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-12T15:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-12T20:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-13T10:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-13T15:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-13T20:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-14T10:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-14T15:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-14T20:00:00 (Standard)
+- Heart of the Beast
+  - + AMC Lincoln Square 13 @ 2026-09-30T22:45:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-09-30T22:30:00 (Standard)
+- The Social Reckoning
+  - + AMC Lincoln Square 13 @ 2026-10-08T20:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-08T22:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-14T13:00:00 (Dolby Cinema at AMC)
+- Spider-Man: Brand New Day
+  - + AMC Lincoln Square 13 @ 2026-09-30T21:15:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-09-30T21:30:00 (Standard)
+- Digger
+  - + AMC Lincoln Square 13 @ 2026-10-16T12:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-16T15:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-16T18:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-16T21:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-17T12:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-17T15:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-17T18:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-17T21:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-18T12:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-18T15:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-18T18:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-18T21:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-21T12:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-21T15:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-21T18:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-21T21:45:00 (Standard)
+
 ## 2026-09-24 04:13 AM CDT
 
 **Movies removed:**
