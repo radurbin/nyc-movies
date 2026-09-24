@@ -1,3 +1,21 @@
+## 2026-09-24 02:57 PM CDT
+
+**Movies added:**
+- The Influencer Project
+
+**Showtime changes:**
+- Primetime
+  - + AMC 34th Street 14 @ 2026-09-25T23:05:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-09-25T12:30:00 (Standard)
+- Practical Magic 2
+  - − AMC 34th Street 14 @ 2026-09-25T23:00:00 (Standard)
+- Guillermo del Toro's Pan's Labyrinth 20th Anniversary
+  - + AMC 34th Street 14 @ 2026-10-08T19:30:00 (Standard)
+- Resident Evil
+  - − AMC Lincoln Square 13 @ 2026-09-25T10:00:00 (Standard)
+- Spider-Man: Brand New Day
+  - − AMC Lincoln Square 13 @ 2026-09-25T15:15:00 (Standard)
+
 ## 2026-09-24 09:52 AM CDT
 
 **Showtime changes:**
