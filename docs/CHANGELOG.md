@@ -1,3 +1,17 @@
+## 2026-09-25 02:58 PM CDT
+
+**Movies added:**
+- 9 to 5
+- Beware Boiuna
+- Moonlight 10th Anniversary Remastered
+- Rolling Loud: The Movie
+
+**Showtime changes:**
+- The Influencer Project
+  - + AMC 34th Street 14 @ 2026-10-06T21:45:00 (Standard)
+- Verity
+  - + AMC 34th Street 14 @ 2026-10-05T13:30:00 (Dolby Cinema at AMC)
+
 ## 2026-09-25 10:08 AM CDT
 
 **Showtime changes:**
