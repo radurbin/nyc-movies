@@ -1,3 +1,14 @@
+## 2026-09-25 10:08 AM CDT
+
+**Showtime changes:**
+- Princess Mononoke - Studio Ghibli Fest 2026
+  - + AMC 34th Street 14 @ 2026-09-26T10:00:00 (Standard)
+- The Transformers: The Movie 40th Anniversary
+  - − AMC 34th Street 14 @ 2026-09-26T10:20:00 (Standard)
+- Hope
+  - + AMC 34th Street 14 @ 2026-09-26T12:35:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-26T12:25:00 (Standard)
+
 ## 2026-09-25 04:32 AM CDT
 
 **Movies removed:**
