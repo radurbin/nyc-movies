@@ -1,3 +1,45 @@
+## 2026-09-24 07:26 PM CDT
+
+**Movies added:**
+- Fjord
+
+**Showtime changes:**
+- Spider-Man: Brand New Day
+  - − AMC 34th Street 14 @ 2026-09-25T15:35:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-09-26T11:45:00 (Standard)
+- Your Mother Your Mother Your Mother
+  - + AMC Lincoln Square 13 @ 2026-09-25T21:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-26T12:15:00 (Standard)
+- Primetime
+  - + AMC 84th Street 6 @ 2026-09-24T22:35:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-25T14:15:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-25T16:15:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-09-24T22:45:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-25T23:05:00 (Standard)
+- Coyote vs. Acme
+  - − AMC 34th Street 14 @ 2026-09-25T14:20:00 (Standard)
+- Resident Evil
+  - − AMC Lincoln Square 13 @ 2026-09-25T21:15:00 (Standard)
+- Practical Magic 2
+  - + AMC 34th Street 14 @ 2026-09-25T23:05:00 (Standard)
+- Verity
+  - + AMC 34th Street 14 @ 2026-10-02T10:20:00 (Dolby Cinema at AMC)
+  - + AMC 34th Street 14 @ 2026-10-02T13:10:00 (Dolby Cinema at AMC)
+  - + AMC 34th Street 14 @ 2026-10-03T10:20:00 (Dolby Cinema at AMC)
+  - + AMC 34th Street 14 @ 2026-10-03T13:10:00 (Dolby Cinema at AMC)
+  - + AMC 34th Street 14 @ 2026-10-04T10:20:00 (Dolby Cinema at AMC)
+  - + AMC 34th Street 14 @ 2026-10-04T13:10:00 (Dolby Cinema at AMC)
+  - + AMC 34th Street 14 @ 2026-10-06T10:20:00 (Dolby Cinema at AMC)
+  - + AMC 34th Street 14 @ 2026-10-06T13:10:00 (Dolby Cinema at AMC)
+  - − AMC 34th Street 14 @ 2026-10-02T10:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-02T12:50:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-03T10:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-03T12:50:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-04T10:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-04T12:50:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-06T10:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-06T12:50:00 (Standard)
+
 ## 2026-09-24 02:57 PM CDT
 
 **Movies added:**
