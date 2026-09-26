@@ -1,3 +1,26 @@
+## 2026-09-26 02:11 PM CDT
+
+**Showtime changes:**
+- The Weight
+  - − AMC 34th Street 14 @ 2026-09-26T20:15:00 (Standard)
+- Practical Magic 2
+  - − AMC 34th Street 14 @ 2026-09-26T23:00:00 (Standard)
+- Spider-Man: Brand New Day
+  - − AMC 34th Street 14 @ 2026-09-26T19:30:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-09-26T21:30:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-26T22:50:00 (Standard)
+- Buddy
+  - − AMC 34th Street 14 @ 2026-09-26T21:25:00 (Standard)
+- Avengers Endgame: Encore
+  - + AMC 34th Street 14 @ 2026-09-26T21:45:00 (Standard)
+- Primetime
+  - + AMC 34th Street 14 @ 2026-09-26T19:45:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-26T20:15:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-26T22:45:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-26T23:15:00 (Standard)
+- Your Mother Your Mother Your Mother
+  - + AMC Lincoln Square 13 @ 2026-09-26T21:30:00 (Standard)
+
 ## 2026-09-26 09:19 AM CDT
 
 No changes.
