@@ -1,3 +1,21 @@
+## 2026-09-25 07:30 PM CDT
+
+**Showtime changes:**
+- Digger
+  - − AMC 34th Street 14 @ 2026-10-05T15:10:00 (IMAX at AMC)
+  - − AMC 34th Street 14 @ 2026-10-05T21:30:00 (IMAX at AMC)
+- Spider-Man: Brand New Day
+  - − AMC 34th Street 14 @ 2026-09-25T22:30:00 (Standard)
+- Buddy
+  - − AMC 34th Street 14 @ 2026-09-25T22:30:00 (Standard)
+- Primetime
+  - + AMC 34th Street 14 @ 2026-09-25T22:30:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-25T22:45:00 (Standard)
+- Avengers Endgame: Encore
+  - + AMC 34th Street 14 @ 2026-09-25T22:30:00 (Standard)
+- Hope
+  - − AMC 34th Street 14 @ 2026-09-25T22:40:00 (Standard)
+
 ## 2026-09-25 02:58 PM CDT
 
 **Movies added:**
