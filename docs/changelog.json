@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-09-03 09:22 AM CDT",
-    "movies_added": [],
-    "movies_removed": [],
-    "showtime_changes": []
-  },
-  {
     "date": "2026-09-03 02:15 PM CDT",
     "movies_added": [],
     "movies_removed": [],
@@ -38494,6 +38488,94 @@
           }
         ],
         "removed": []
+      }
+    ]
+  },
+  {
+    "date": "2026-09-26 07:25 PM CDT",
+    "movies_added": [],
+    "movies_removed": [],
+    "showtime_changes": [
+      {
+        "title": "The Influencer Project",
+        "added": [
+          {
+            "theater": "AMC 34th Street 14",
+            "datetime": "2026-10-01T21:35:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": []
+      },
+      {
+        "title": "Spider-Man: Brand New Day",
+        "added": [],
+        "removed": [
+          {
+            "theater": "AMC 34th Street 14",
+            "datetime": "2026-09-27T19:30:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC 34th Street 14",
+            "datetime": "2026-09-30T20:00:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "The Weight",
+        "added": [],
+        "removed": [
+          {
+            "theater": "AMC 34th Street 14",
+            "datetime": "2026-09-27T18:00:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Primetime",
+        "added": [
+          {
+            "theater": "AMC 34th Street 14",
+            "datetime": "2026-09-27T18:15:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC 34th Street 14",
+            "datetime": "2026-09-27T19:45:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC 34th Street 14",
+            "datetime": "2026-09-27T21:15:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": []
+      },
+      {
+        "title": "Verity Early Access",
+        "added": [
+          {
+            "theater": "AMC 34th Street 14",
+            "datetime": "2026-09-30T20:30:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": []
+      },
+      {
+        "title": "Hope",
+        "added": [],
+        "removed": [
+          {
+            "theater": "AMC 34th Street 14",
+            "datetime": "2026-09-27T20:45:00",
+            "format": "Standard"
+          }
+        ]
       }
     ]
   }

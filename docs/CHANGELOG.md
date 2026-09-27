@@ -1,3 +1,22 @@
+## 2026-09-26 07:25 PM CDT
+
+**Showtime changes:**
+- The Influencer Project
+  - + AMC 34th Street 14 @ 2026-10-01T21:35:00 (Standard)
+- Spider-Man: Brand New Day
+  - − AMC 34th Street 14 @ 2026-09-27T19:30:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-30T20:00:00 (Standard)
+- The Weight
+  - − AMC 34th Street 14 @ 2026-09-27T18:00:00 (Standard)
+- Primetime
+  - + AMC 34th Street 14 @ 2026-09-27T18:15:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-27T19:45:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-27T21:15:00 (Standard)
+- Verity Early Access
+  - + AMC 34th Street 14 @ 2026-09-30T20:30:00 (Standard)
+- Hope
+  - − AMC 34th Street 14 @ 2026-09-27T20:45:00 (Standard)
+
 ## 2026-09-26 02:11 PM CDT
 
 **Showtime changes:**
