@@ -1,3 +1,34 @@
+## 2026-09-27 02:43 PM CDT
+
+**Showtime changes:**
+- The Weight
+  - − AMC 34th Street 14 @ 2026-09-28T19:30:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-29T18:00:00 (Standard)
+- Spider-Man: Brand New Day
+  - + AMC 34th Street 14 @ 2026-09-28T22:15:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-28T22:10:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-29T22:55:00 (Standard)
+- Princess Mononoke - Studio Ghibli Fest 2026
+  - + AMC 34th Street 14 @ 2026-09-28T21:45:00 (Standard)
+- The Odyssey
+  - − AMC 34th Street 14 @ 2026-09-28T18:15:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-29T19:10:00 (Standard)
+- Avengers Endgame: Encore
+  - + AMC 34th Street 14 @ 2026-09-29T22:30:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-28T21:45:00 (Standard)
+- Primetime
+  - + AMC 34th Street 14 @ 2026-09-27T22:30:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-28T18:15:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-28T19:30:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-28T21:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-29T18:05:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-29T19:45:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-29T22:45:00 (Standard)
+- Practical Magic 2
+  - − AMC 34th Street 14 @ 2026-09-27T22:50:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-28T22:20:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-09-29T22:50:00 (Standard)
+
 ## 2026-09-27 10:06 AM CDT
 
 No changes.
