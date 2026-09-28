@@ -1,3 +1,72 @@
+## 2026-09-28 04:48 PM CDT
+
+**Movies added:**
+- Dive in Wonderland
+- Ninja Scroll
+
+**Showtime changes:**
+- Forgotten Island
+  - + AMC 34th Street 14 @ 2026-10-01T19:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-01T21:45:00 (RealD 3D)
+  - + AMC 34th Street 14 @ 2026-10-05T13:35:00 (RealD 3D)
+  - + AMC 34th Street 14 @ 2026-10-05T16:25:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-05T19:15:00 (RealD 3D)
+  - + AMC 34th Street 14 @ 2026-10-05T22:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-06T11:10:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-06T14:00:00 (RealD 3D)
+  - + AMC 34th Street 14 @ 2026-10-06T16:45:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-06T19:30:00 (RealD 3D)
+  - + AMC 34th Street 14 @ 2026-10-06T22:15:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-01T18:30:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-01T21:15:00 (RealD 3D)
+  - − AMC 34th Street 14 @ 2026-10-05T12:45:00 (RealD 3D)
+  - − AMC 34th Street 14 @ 2026-10-05T15:30:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-05T18:15:00 (RealD 3D)
+  - − AMC 34th Street 14 @ 2026-10-05T21:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-06T10:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-06T12:45:00 (RealD 3D)
+  - − AMC 34th Street 14 @ 2026-10-06T15:30:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-06T18:15:00 (RealD 3D)
+  - − AMC 34th Street 14 @ 2026-10-06T21:00:00 (Standard)
+- Avengers Endgame: Encore
+  - + AMC 34th Street 14 @ 2026-10-07T12:00:00 (Standard)
+- Resident Evil
+  - − AMC Lincoln Square 13 @ 2026-09-28T19:15:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-09-28T21:15:00 (Standard)
+- Primetime
+  - + AMC Lincoln Square 13 @ 2026-09-28T19:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-09-28T21:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-08T10:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-08T13:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-08T16:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-08T19:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-08T22:30:00 (Standard)
+- Beware Boiuna
+  - + AMC 34th Street 14 @ 2026-10-02T15:35:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-04T15:35:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-02T19:45:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-03T19:45:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-04T19:45:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-05T20:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-06T19:45:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-07T20:00:00 (Standard)
+- Rolling Loud: The Movie
+  - − AMC 34th Street 14 @ 2026-10-02T20:15:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-03T20:15:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-04T20:15:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-05T19:45:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-06T20:15:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-07T19:45:00 (Standard)
+- Digger
+  - + AMC 34th Street 14 @ 2026-10-07T18:45:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-07T22:10:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-02T15:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-04T15:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-07T12:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-07T15:10:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-07T18:15:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-07T22:00:00 (Standard)
+
 ## 2026-09-28 05:47 AM CDT
 
 **Showtime changes:**
