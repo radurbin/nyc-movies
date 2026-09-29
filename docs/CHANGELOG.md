@@ -1,3 +1,43 @@
+## 2026-09-29 03:40 PM CDT
+
+**Movies added:**
+- AMC Scream Unseen: October 12
+- AMC Screen Unseen: October 12
+- Misty Green
+- Portrait of an Artist: Stephen Curry
+- Sense and Sensibility: Early Access Movie Party
+- Sense and Sensibility
+
+**Showtime changes:**
+- Avengers Endgame: Encore
+  - − AMC 34th Street 14 @ 2026-09-29T22:30:00 (Standard)
+- Digger
+  - + AMC 84th Street 6 @ 2026-10-05T22:15:00 (Standard)
+  - + AMC 84th Street 6 @ 2026-10-06T22:15:00 (Standard)
+  - + AMC 84th Street 6 @ 2026-10-07T22:15:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-10-05T22:20:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-10-06T22:20:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-10-07T22:20:00 (Standard)
+- Primetime
+  - + AMC 34th Street 14 @ 2026-09-30T21:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-09-30T22:45:00 (Standard)
+- Blumhouse Presents: Other Mommy Fan Event Screening
+  - + AMC 84th Street 6 @ 2026-10-08T18:00:00 (Standard)
+- Princess Mononoke - Studio Ghibli Fest 2026
+  - + AMC 34th Street 14 @ 2026-09-29T22:30:00 (Standard)
+- Spider-Man: Brand New Day
+  - − AMC 34th Street 14 @ 2026-09-30T22:10:00 (Standard)
+- Other Mommy
+  - + AMC 84th Street 6 @ 2026-10-08T20:45:00 (Standard)
+  - + AMC 84th Street 6 @ 2026-10-08T23:15:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-10-08T17:15:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-10-08T20:00:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-10-08T22:30:00 (Standard)
+- Resident Evil
+  - − AMC Lincoln Square 13 @ 2026-09-29T23:00:00 (Standard)
+- Practical Magic 2
+  - − AMC 34th Street 14 @ 2026-09-30T22:45:00 (Standard)
+
 ## 2026-09-29 05:36 AM CDT
 
 **Showtime changes:**
