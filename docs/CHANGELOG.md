@@ -1,3 +1,9 @@
+## 2026-09-30 03:45 PM CDT
+
+**Movies added:**
+- Training Day - 25th Anniversary
+- Whalefall
+
 ## 2026-09-30 05:25 AM CDT
 
 **Showtime changes:**
