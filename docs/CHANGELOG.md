@@ -1,3 +1,69 @@
+## 2026-09-29 08:12 PM CDT
+
+**Movies added:**
+- Musk Introduction with Director Alex Gibney and Ronan Farrow
+- Musk Q&A with Director Alex Gibney and Ronan Farrow
+
+**Showtime changes:**
+- Forgotten Island
+  - + AMC Lincoln Square 13 @ 2026-10-05T10:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-05T12:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-05T15:30:00 (RealD 3D)
+  - + AMC Lincoln Square 13 @ 2026-10-05T18:00:00 (Standard)
+- Avengers Endgame: Encore
+  - + AMC Lincoln Square 13 @ 2026-10-05T10:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-05T14:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-05T18:15:00 (Standard)
+- Primetime
+  - + AMC Lincoln Square 13 @ 2026-10-05T10:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-05T11:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-05T12:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-05T14:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-05T15:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-05T18:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-05T20:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-05T21:30:00 (Standard)
+- Resident Evil
+  - + AMC Lincoln Square 13 @ 2026-10-05T10:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-05T12:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-05T16:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-05T20:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-05T22:15:00 (Standard)
+- MUSK Introduction with Director Alex Gibney
+  - − AMC Lincoln Square 13 @ 2026-10-09T19:00:00 (Standard)
+- Verity
+  - + AMC Lincoln Square 13 @ 2026-10-05T10:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-05T12:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-05T13:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-05T15:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-05T17:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-05T18:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-05T20:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-05T21:15:00 (Standard)
+- Your Mother Your Mother Your Mother
+  - + AMC Lincoln Square 13 @ 2026-10-05T10:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-05T13:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-05T16:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-05T18:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-05T22:15:00 (Standard)
+- MUSK Q&A with Director Alex Gibney
+  - − AMC Lincoln Square 13 @ 2026-10-09T13:30:00 (Standard)
+- Digger
+  - + AMC Lincoln Square 13 @ 2026-10-05T12:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-05T15:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-05T21:45:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-05T12:00:00 (IMAX at AMC)
+- WILDWOOD Fan First Screening
+  - + AMC 34th Street 14 @ 2026-10-19T22:15:00 (Dolby Cinema at AMC)
+- Sense and Sensibility
+  - + AMC Lincoln Square 13 @ 2026-10-21T19:15:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-21T19:30:00 (Standard)
+- Heart of the Beast
+  - + AMC Lincoln Square 13 @ 2026-10-05T10:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-05T15:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-05T18:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-05T22:15:00 (Standard)
+
 ## 2026-09-29 03:40 PM CDT
 
 **Movies added:**
