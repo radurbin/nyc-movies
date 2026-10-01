@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-09-30T15:45:14.763872-05:00",
+    "generated_at": "2026-09-30T20:12:43.764782-05:00",
     "movie_count": 74,
-    "showtime_count": 2823,
+    "showtime_count": 2822,
     "theaters": {
-      "AMC Lincoln Square 13": 1084,
+      "AMC Lincoln Square 13": 1083,
       "AMC 34th Street 14": 1345,
       "AMC 84th Street 6": 394
     }
@@ -3924,48 +3924,6 @@
         },
         {
           "source": "AMC",
-          "theater_id": 2116,
-          "theater": "AMC Lincoln Square 13",
-          "showtime_id": 147549106,
-          "datetime": "2026-10-06T10:00:00",
-          "datetime_utc": "2026-10-06T14:00:00Z",
-          "auditorium": 10,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-06/lincolnsquare/all/147549106",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": true,
-          "discount_message": "20% OFF",
-          "attributes": [
-            "AMC Club Rockers",
-            "Closed Caption",
-            "Audio Description",
-            "Pay with Disney Rewards Redemption Card",
-            "Laser at AMC",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 17.19,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 14.79,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 15.99,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
           "theater_id": 2120,
           "theater": "AMC 34th Street 14",
           "showtime_id": 147428084,
@@ -4010,12 +3968,12 @@
           "source": "AMC",
           "theater_id": 2116,
           "theater": "AMC Lincoln Square 13",
-          "showtime_id": 147549107,
-          "datetime": "2026-10-06T14:00:00",
-          "datetime_utc": "2026-10-06T18:00:00Z",
+          "showtime_id": 147562033,
+          "datetime": "2026-10-06T13:45:00",
+          "datetime_utc": "2026-10-06T17:45:00Z",
           "auditorium": 10,
           "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-06/lincolnsquare/all/147549107",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-06/lincolnsquare/all/147562033",
           "sold_out": false,
           "almost_sold_out": false,
           "cancelled": false,
@@ -4024,9 +3982,10 @@
           "discount_message": "20% OFF",
           "attributes": [
             "AMC Club Rockers",
+            "Closed Caption",
+            "Audio Description",
             "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
-            "Open Caption (On-screen Subtitles)",
             "Reserved Seating"
           ],
           "ticket_prices": [
@@ -31377,7 +31336,7 @@
       "rotten_tomatoes": "89%",
       "metacritic": "67/100",
       "letterboxd_rating": 3.08,
-      "letterboxd_rating_count": 222346,
+      "letterboxd_rating_count": 222621,
       "letterboxd_url": "https://letterboxd.com/film/buddy-2026/",
       "awards": "1 nomination total",
       "language": "English",
@@ -31659,7 +31618,7 @@
       "rotten_tomatoes": "96%",
       "metacritic": "77/100",
       "letterboxd_rating": 3.84,
-      "letterboxd_rating_count": 547537,
+      "letterboxd_rating_count": 549270,
       "letterboxd_url": "https://letterboxd.com/film/coyote-vs-acme/",
       "awards": "1 win total",
       "language": "English",
@@ -31908,7 +31867,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.66,
-      "letterboxd_rating_count": 5341,
+      "letterboxd_rating_count": 6784,
       "letterboxd_url": "https://letterboxd.com/film/digger-2026/",
       "awards": "N/A",
       "language": "English",
@@ -32149,6 +32108,7 @@
             "35MM",
             "AMC Artisan Films",
             "AMC Club Rockers",
+            "No Trailers",
             "Reserved Seating",
             "VistaVision 35MM"
           ],
@@ -32403,6 +32363,7 @@
             "35MM",
             "AMC Artisan Films",
             "AMC Club Rockers",
+            "No Trailers",
             "Reserved Seating",
             "VistaVision 35MM"
           ],
@@ -32572,6 +32533,7 @@
             "35MM",
             "AMC Artisan Films",
             "AMC Club Rockers",
+            "No Trailers",
             "Reserved Seating",
             "VistaVision 35MM"
           ],
@@ -32869,6 +32831,7 @@
             "35MM",
             "AMC Artisan Films",
             "AMC Club Rockers",
+            "No Trailers",
             "Reserved Seating",
             "VistaVision 35MM"
           ],
@@ -33122,6 +33085,7 @@
             "35MM",
             "AMC Artisan Films",
             "AMC Club Rockers",
+            "No Trailers",
             "Reserved Seating",
             "VistaVision 35MM"
           ],
@@ -33374,6 +33338,7 @@
             "35MM",
             "AMC Artisan Films",
             "AMC Club Rockers",
+            "No Trailers",
             "Reserved Seating",
             "VistaVision 35MM"
           ],
@@ -33585,6 +33550,7 @@
             "35MM",
             "AMC Artisan Films",
             "AMC Club Rockers",
+            "No Trailers",
             "Reserved Seating",
             "VistaVision 35MM"
           ],
@@ -33966,6 +33932,7 @@
             "35MM",
             "AMC Artisan Films",
             "AMC Club Rockers",
+            "No Trailers",
             "Reserved Seating",
             "VistaVision 35MM"
           ],
@@ -34218,6 +34185,7 @@
             "35MM",
             "AMC Artisan Films",
             "AMC Club Rockers",
+            "No Trailers",
             "Reserved Seating",
             "VistaVision 35MM"
           ],
@@ -34512,6 +34480,7 @@
             "35MM",
             "AMC Artisan Films",
             "AMC Club Rockers",
+            "No Trailers",
             "Reserved Seating",
             "VistaVision 35MM"
           ],
@@ -34723,6 +34692,7 @@
             "35MM",
             "AMC Artisan Films",
             "AMC Club Rockers",
+            "No Trailers",
             "Reserved Seating",
             "VistaVision 35MM"
           ],
@@ -35104,6 +35074,7 @@
             "35MM",
             "AMC Artisan Films",
             "AMC Club Rockers",
+            "No Trailers",
             "Reserved Seating",
             "VistaVision 35MM"
           ],
@@ -35314,6 +35285,7 @@
             "35MM",
             "AMC Artisan Films",
             "AMC Club Rockers",
+            "No Trailers",
             "Reserved Seating",
             "VistaVision 35MM"
           ],
@@ -35567,6 +35539,7 @@
             "35MM",
             "AMC Artisan Films",
             "AMC Club Rockers",
+            "No Trailers",
             "Reserved Seating",
             "VistaVision 35MM"
           ],
@@ -35778,6 +35751,7 @@
             "35MM",
             "AMC Artisan Films",
             "AMC Club Rockers",
+            "No Trailers",
             "Reserved Seating",
             "VistaVision 35MM"
           ],
@@ -36075,6 +36049,7 @@
             "35MM",
             "AMC Artisan Films",
             "AMC Club Rockers",
+            "No Trailers",
             "Reserved Seating",
             "VistaVision 35MM"
           ],
@@ -36284,6 +36259,7 @@
             "35MM",
             "AMC Artisan Films",
             "AMC Club Rockers",
+            "No Trailers",
             "Reserved Seating",
             "VistaVision 35MM"
           ],
@@ -36536,6 +36512,7 @@
             "35MM",
             "AMC Artisan Films",
             "AMC Club Rockers",
+            "No Trailers",
             "Reserved Seating",
             "VistaVision 35MM"
           ],
@@ -36704,6 +36681,7 @@
             "35MM",
             "AMC Artisan Films",
             "AMC Club Rockers",
+            "No Trailers",
             "Reserved Seating",
             "VistaVision 35MM"
           ],
@@ -37002,6 +36980,7 @@
             "35MM",
             "AMC Artisan Films",
             "AMC Club Rockers",
+            "No Trailers",
             "Reserved Seating",
             "VistaVision 35MM"
           ],
@@ -37213,6 +37192,7 @@
             "35MM",
             "AMC Artisan Films",
             "AMC Club Rockers",
+            "No Trailers",
             "Reserved Seating",
             "VistaVision 35MM"
           ],
@@ -37465,6 +37445,7 @@
             "35MM",
             "AMC Artisan Films",
             "AMC Club Rockers",
+            "No Trailers",
             "Reserved Seating",
             "VistaVision 35MM"
           ],
@@ -37633,6 +37614,7 @@
             "35MM",
             "AMC Artisan Films",
             "AMC Club Rockers",
+            "No Trailers",
             "Reserved Seating",
             "VistaVision 35MM"
           ],
@@ -37930,6 +37912,7 @@
             "35MM",
             "AMC Artisan Films",
             "AMC Club Rockers",
+            "No Trailers",
             "Reserved Seating",
             "VistaVision 35MM"
           ],
@@ -38099,6 +38082,7 @@
             "35MM",
             "AMC Artisan Films",
             "AMC Club Rockers",
+            "No Trailers",
             "Reserved Seating",
             "VistaVision 35MM"
           ],
@@ -38352,6 +38336,7 @@
             "35MM",
             "AMC Artisan Films",
             "AMC Club Rockers",
+            "No Trailers",
             "Reserved Seating",
             "VistaVision 35MM"
           ],
@@ -38518,6 +38503,7 @@
             "35MM",
             "AMC Artisan Films",
             "AMC Club Rockers",
+            "No Trailers",
             "Reserved Seating",
             "VistaVision 35MM"
           ],
@@ -38729,6 +38715,7 @@
             "35MM",
             "AMC Artisan Films",
             "AMC Club Rockers",
+            "No Trailers",
             "Reserved Seating",
             "VistaVision 35MM"
           ],
@@ -38812,6 +38799,7 @@
             "35MM",
             "AMC Artisan Films",
             "AMC Club Rockers",
+            "No Trailers",
             "Reserved Seating",
             "VistaVision 35MM"
           ],
@@ -38895,6 +38883,7 @@
             "35MM",
             "AMC Artisan Films",
             "AMC Club Rockers",
+            "No Trailers",
             "Reserved Seating",
             "VistaVision 35MM"
           ],
@@ -38978,6 +38967,7 @@
             "35MM",
             "AMC Artisan Films",
             "AMC Club Rockers",
+            "No Trailers",
             "Reserved Seating",
             "VistaVision 35MM"
           ],
@@ -39104,6 +39094,7 @@
             "35MM",
             "AMC Artisan Films",
             "AMC Club Rockers",
+            "No Trailers",
             "Reserved Seating",
             "VistaVision 35MM"
           ],
@@ -39188,6 +39179,7 @@
             "35MM",
             "AMC Artisan Films",
             "AMC Club Rockers",
+            "No Trailers",
             "Reserved Seating",
             "VistaVision 35MM"
           ],
@@ -39272,6 +39264,7 @@
             "35MM",
             "AMC Artisan Films",
             "AMC Club Rockers",
+            "No Trailers",
             "Reserved Seating",
             "VistaVision 35MM"
           ],
@@ -39356,6 +39349,7 @@
             "35MM",
             "AMC Artisan Films",
             "AMC Club Rockers",
+            "No Trailers",
             "Reserved Seating",
             "VistaVision 35MM"
           ],
@@ -39483,6 +39477,7 @@
             "35MM",
             "AMC Artisan Films",
             "AMC Club Rockers",
+            "No Trailers",
             "Reserved Seating",
             "VistaVision 35MM"
           ],
@@ -39566,6 +39561,7 @@
             "35MM",
             "AMC Artisan Films",
             "AMC Club Rockers",
+            "No Trailers",
             "Reserved Seating",
             "VistaVision 35MM"
           ],
@@ -39650,6 +39646,7 @@
             "35MM",
             "AMC Artisan Films",
             "AMC Club Rockers",
+            "No Trailers",
             "Reserved Seating",
             "VistaVision 35MM"
           ],
@@ -39734,6 +39731,7 @@
             "35MM",
             "AMC Artisan Films",
             "AMC Club Rockers",
+            "No Trailers",
             "Reserved Seating",
             "VistaVision 35MM"
           ],
@@ -39861,6 +39859,7 @@
             "35MM",
             "AMC Artisan Films",
             "AMC Club Rockers",
+            "No Trailers",
             "Reserved Seating",
             "VistaVision 35MM"
           ],
@@ -39944,6 +39943,7 @@
             "35MM",
             "AMC Artisan Films",
             "AMC Club Rockers",
+            "No Trailers",
             "Reserved Seating",
             "VistaVision 35MM"
           ],
@@ -40028,6 +40028,7 @@
             "35MM",
             "AMC Artisan Films",
             "AMC Club Rockers",
+            "No Trailers",
             "Reserved Seating",
             "VistaVision 35MM"
           ],
@@ -40112,6 +40113,7 @@
             "35MM",
             "AMC Artisan Films",
             "AMC Club Rockers",
+            "No Trailers",
             "Reserved Seating",
             "VistaVision 35MM"
           ],
@@ -40196,6 +40198,7 @@
             "35MM",
             "AMC Artisan Films",
             "AMC Club Rockers",
+            "No Trailers",
             "Reserved Seating",
             "VistaVision 35MM"
           ],
@@ -40279,6 +40282,7 @@
             "35MM",
             "AMC Artisan Films",
             "AMC Club Rockers",
+            "No Trailers",
             "Reserved Seating",
             "VistaVision 35MM"
           ],
@@ -40363,6 +40367,7 @@
             "35MM",
             "AMC Artisan Films",
             "AMC Club Rockers",
+            "No Trailers",
             "Reserved Seating",
             "VistaVision 35MM"
           ],
@@ -40447,6 +40452,7 @@
             "35MM",
             "AMC Artisan Films",
             "AMC Club Rockers",
+            "No Trailers",
             "Reserved Seating",
             "VistaVision 35MM"
           ],
@@ -40574,6 +40580,7 @@
             "35MM",
             "AMC Artisan Films",
             "AMC Club Rockers",
+            "No Trailers",
             "Reserved Seating",
             "VistaVision 35MM"
           ],
@@ -40658,6 +40665,7 @@
             "35MM",
             "AMC Artisan Films",
             "AMC Club Rockers",
+            "No Trailers",
             "Reserved Seating",
             "VistaVision 35MM"
           ],
@@ -40742,6 +40750,7 @@
             "35MM",
             "AMC Artisan Films",
             "AMC Club Rockers",
+            "No Trailers",
             "Reserved Seating",
             "VistaVision 35MM"
           ],
@@ -40826,6 +40835,7 @@
             "35MM",
             "AMC Artisan Films",
             "AMC Club Rockers",
+            "No Trailers",
             "Reserved Seating",
             "VistaVision 35MM"
           ],
@@ -40910,6 +40920,7 @@
             "35MM",
             "AMC Artisan Films",
             "AMC Club Rockers",
+            "No Trailers",
             "Reserved Seating",
             "VistaVision 35MM"
           ],
@@ -40994,6 +41005,7 @@
             "35MM",
             "AMC Artisan Films",
             "AMC Club Rockers",
+            "No Trailers",
             "Reserved Seating",
             "VistaVision 35MM"
           ],
@@ -41078,6 +41090,7 @@
             "35MM",
             "AMC Artisan Films",
             "AMC Club Rockers",
+            "No Trailers",
             "Reserved Seating",
             "VistaVision 35MM"
           ],
@@ -41161,6 +41174,7 @@
             "35MM",
             "AMC Artisan Films",
             "AMC Club Rockers",
+            "No Trailers",
             "Reserved Seating",
             "VistaVision 35MM"
           ],
@@ -41245,6 +41259,7 @@
             "35MM",
             "AMC Artisan Films",
             "AMC Club Rockers",
+            "No Trailers",
             "Reserved Seating",
             "VistaVision 35MM"
           ],
@@ -41286,6 +41301,7 @@
             "35MM",
             "AMC Artisan Films",
             "AMC Club Rockers",
+            "No Trailers",
             "Reserved Seating",
             "VistaVision 35MM"
           ],
@@ -41327,6 +41343,7 @@
             "35MM",
             "AMC Artisan Films",
             "AMC Club Rockers",
+            "No Trailers",
             "Reserved Seating",
             "VistaVision 35MM"
           ],
@@ -41368,6 +41385,7 @@
             "35MM",
             "AMC Artisan Films",
             "AMC Club Rockers",
+            "No Trailers",
             "Reserved Seating",
             "VistaVision 35MM"
           ],
@@ -41409,6 +41427,7 @@
             "35MM",
             "AMC Artisan Films",
             "AMC Club Rockers",
+            "No Trailers",
             "Reserved Seating",
             "VistaVision 35MM"
           ],
@@ -41450,6 +41469,7 @@
             "35MM",
             "AMC Artisan Films",
             "AMC Club Rockers",
+            "No Trailers",
             "Reserved Seating",
             "VistaVision 35MM"
           ],
@@ -41491,6 +41511,7 @@
             "35MM",
             "AMC Artisan Films",
             "AMC Club Rockers",
+            "No Trailers",
             "Reserved Seating",
             "VistaVision 35MM"
           ],
@@ -41532,6 +41553,7 @@
             "35MM",
             "AMC Artisan Films",
             "AMC Club Rockers",
+            "No Trailers",
             "Reserved Seating",
             "VistaVision 35MM"
           ],
@@ -41573,6 +41595,7 @@
             "35MM",
             "AMC Artisan Films",
             "AMC Club Rockers",
+            "No Trailers",
             "Reserved Seating",
             "VistaVision 35MM"
           ],
@@ -41614,6 +41637,7 @@
             "35MM",
             "AMC Artisan Films",
             "AMC Club Rockers",
+            "No Trailers",
             "Reserved Seating",
             "VistaVision 35MM"
           ],
@@ -41655,6 +41679,7 @@
             "35MM",
             "AMC Artisan Films",
             "AMC Club Rockers",
+            "No Trailers",
             "Reserved Seating",
             "VistaVision 35MM"
           ],
@@ -41696,6 +41721,7 @@
             "35MM",
             "AMC Artisan Films",
             "AMC Club Rockers",
+            "No Trailers",
             "Reserved Seating",
             "VistaVision 35MM"
           ],
@@ -41737,6 +41763,7 @@
             "35MM",
             "AMC Artisan Films",
             "AMC Club Rockers",
+            "No Trailers",
             "Reserved Seating",
             "VistaVision 35MM"
           ],
@@ -41778,6 +41805,7 @@
             "35MM",
             "AMC Artisan Films",
             "AMC Club Rockers",
+            "No Trailers",
             "Reserved Seating",
             "VistaVision 35MM"
           ],
@@ -41819,6 +41847,7 @@
             "35MM",
             "AMC Artisan Films",
             "AMC Club Rockers",
+            "No Trailers",
             "Reserved Seating",
             "VistaVision 35MM"
           ],
@@ -41860,6 +41889,7 @@
             "35MM",
             "AMC Artisan Films",
             "AMC Club Rockers",
+            "No Trailers",
             "Reserved Seating",
             "VistaVision 35MM"
           ],
@@ -52495,7 +52525,7 @@
       "rotten_tomatoes": "90%",
       "metacritic": "81/100",
       "letterboxd_rating": 3.81,
-      "letterboxd_rating_count": 64159,
+      "letterboxd_rating_count": 64279,
       "letterboxd_url": "https://letterboxd.com/film/fjord-2026/",
       "awards": "2 nominations total",
       "language": "English, Romanian, Norwegian",
@@ -53713,7 +53743,7 @@
       "rotten_tomatoes": null,
       "metacritic": "73/100",
       "letterboxd_rating": 3.92,
-      "letterboxd_rating_count": 54940,
+      "letterboxd_rating_count": 56036,
       "letterboxd_url": "https://letterboxd.com/film/forgotten-island-2026/",
       "awards": "N/A",
       "language": "English, Tagalog",
@@ -58391,7 +58421,7 @@
       "rotten_tomatoes": "94%",
       "metacritic": "77/100",
       "letterboxd_rating": 3.79,
-      "letterboxd_rating_count": 5791,
+      "letterboxd_rating_count": 5929,
       "letterboxd_url": "https://letterboxd.com/film/ha-chan-shake-your-booty/",
       "awards": "1 win & 1 nomination total",
       "language": "Japanese, English, Spanish",
@@ -58555,7 +58585,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.3,
-      "letterboxd_rating_count": 71355,
+      "letterboxd_rating_count": 73282,
       "letterboxd_url": "https://letterboxd.com/film/heart-of-the-beast-2026/",
       "awards": "N/A",
       "language": "English",
@@ -61730,7 +61760,7 @@
       "rotten_tomatoes": "72%",
       "metacritic": "66/100",
       "letterboxd_rating": 3.21,
-      "letterboxd_rating_count": 119560,
+      "letterboxd_rating_count": 120511,
       "letterboxd_url": "https://letterboxd.com/film/hope-2026/",
       "awards": "2 nominations total",
       "language": "Korean, English",
@@ -63378,7 +63408,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.07,
-      "letterboxd_rating_count": 1038,
+      "letterboxd_rating_count": 1051,
       "letterboxd_url": "https://letterboxd.com/film/misty-green/",
       "awards": "N/A",
       "language": "English",
@@ -64882,7 +64912,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.48,
-      "letterboxd_rating_count": 482,
+      "letterboxd_rating_count": 484,
       "letterboxd_url": "https://letterboxd.com/film/musk-2026/",
       "awards": "N/A",
       "language": "English",
@@ -70883,7 +70913,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 2.88,
-      "letterboxd_rating_count": 136656,
+      "letterboxd_rating_count": 137122,
       "letterboxd_url": "https://letterboxd.com/film/practical-magic-2/",
       "awards": "1 nomination total",
       "language": "English",
@@ -71027,7 +71057,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-30/34thstreet/all/147278530",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -71255,7 +71285,7 @@
       "rotten_tomatoes": "95%",
       "metacritic": "75/100",
       "letterboxd_rating": 3.72,
-      "letterboxd_rating_count": 358290,
+      "letterboxd_rating_count": 365656,
       "letterboxd_url": "https://letterboxd.com/film/primetime-2026/",
       "awards": "1 nomination total",
       "language": "English",
@@ -71786,7 +71816,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-30/34thstreet/all/147003139",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -71913,7 +71943,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-30/lincolnsquare/all/146976172",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -73054,7 +73084,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-01/lincolnsquare/all/147457436",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -75295,7 +75325,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-03/lincolnsquare/all/147326876",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -80266,7 +80296,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.78,
-      "letterboxd_rating_count": 1077387,
+      "letterboxd_rating_count": 1087142,
       "letterboxd_url": "https://letterboxd.com/film/resident-evil-2026/",
       "awards": "N/A",
       "language": "English",
@@ -80754,7 +80784,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-30/lincolnsquare/all/147365466",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -85374,7 +85404,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.7,
-      "letterboxd_rating_count": 1060,
+      "letterboxd_rating_count": 1062,
       "letterboxd_url": "https://letterboxd.com/film/i-play-rocky/",
       "awards": "N/A",
       "language": "English",
@@ -85563,7 +85593,7 @@
           "auditorium": 11,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-01/34thstreet/all/147393211",
-          "sold_out": false,
+          "sold_out": true,
           "almost_sold_out": false,
           "cancelled": false,
           "has_trailers": false,
@@ -85872,7 +85902,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.92,
-      "letterboxd_rating_count": 23063,
+      "letterboxd_rating_count": 24246,
       "letterboxd_url": "https://letterboxd.com/film/sense-and-sensibility-2026/",
       "awards": "N/A",
       "language": "English",
@@ -88214,7 +88244,7 @@
       "rotten_tomatoes": "89%",
       "metacritic": "66/100",
       "letterboxd_rating": 4.04,
-      "letterboxd_rating_count": 4287625,
+      "letterboxd_rating_count": 4289356,
       "letterboxd_url": "https://letterboxd.com/film/spider-man-brand-new-day/",
       "awards": "1 nomination total",
       "language": "English",
@@ -88689,7 +88719,7 @@
           "auditorium": 10,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-01/34thstreet/all/147428269",
-          "sold_out": false,
+          "sold_out": true,
           "almost_sold_out": false,
           "cancelled": false,
           "has_trailers": false,
@@ -98221,7 +98251,7 @@
       "rotten_tomatoes": "93%",
       "metacritic": "88/100",
       "letterboxd_rating": 4.35,
-      "letterboxd_rating_count": 4478389,
+      "letterboxd_rating_count": 4480243,
       "letterboxd_url": "https://letterboxd.com/film/the-odyssey-2026/",
       "awards": "3 wins total",
       "language": "English, Greek",
@@ -103740,7 +103770,7 @@
       "rotten_tomatoes": null,
       "metacritic": "94/100",
       "letterboxd_rating": 3.82,
-      "letterboxd_rating_count": 4500,
+      "letterboxd_rating_count": 4501,
       "letterboxd_url": "https://letterboxd.com/film/earth-wind-fire-to-be-celestial-vs-thats/",
       "awards": "N/A",
       "language": "English",
@@ -104240,7 +104270,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 2.88,
-      "letterboxd_rating_count": 4769,
+      "letterboxd_rating_count": 7082,
       "letterboxd_url": "https://letterboxd.com/film/verity-2026/",
       "awards": "N/A",
       "language": "English",
@@ -111908,7 +111938,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 2.88,
-      "letterboxd_rating_count": 4769,
+      "letterboxd_rating_count": 7082,
       "letterboxd_url": "https://letterboxd.com/film/verity-2026/",
       "awards": "N/A",
       "language": "English",
@@ -112058,7 +112088,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-30/lincolnsquare/all/147000428",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -113729,7 +113759,7 @@
       "rotten_tomatoes": "91%",
       "metacritic": "70/100",
       "letterboxd_rating": 3.81,
-      "letterboxd_rating_count": 2133,
+      "letterboxd_rating_count": 2136,
       "letterboxd_url": "https://letterboxd.com/film/wicker/",
       "awards": "N/A",
       "language": "English",
@@ -119443,7 +119473,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-20/lincolnsquare/all/147295812",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -120079,7 +120109,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.98,
-      "letterboxd_rating_count": 5601,
+      "letterboxd_rating_count": 5701,
       "letterboxd_url": "https://letterboxd.com/film/your-mother-your-mother-your-mother/",
       "awards": "N/A",
       "language": "English",
@@ -120226,7 +120256,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-09-30/lincolnsquare/all/146976194",
           "sold_out": false,
-          "almost_sold_out": true,
+          "almost_sold_out": false,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,

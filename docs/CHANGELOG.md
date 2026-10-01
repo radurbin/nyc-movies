@@ -1,3 +1,11 @@
+## 2026-09-30 08:12 PM CDT
+
+**Showtime changes:**
+- Avengers Endgame: Encore
+  - + AMC Lincoln Square 13 @ 2026-10-06T13:45:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-06T10:00:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-06T14:00:00 (Standard)
+
 ## 2026-09-30 03:45 PM CDT
 
 **Movies added:**
