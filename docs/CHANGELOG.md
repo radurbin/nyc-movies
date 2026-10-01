@@ -1,3 +1,45 @@
+## 2026-10-01 03:58 PM CDT
+
+**Showtime changes:**
+- Verity
+  - + AMC 34th Street 14 @ 2026-10-02T19:10:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-02T21:40:00 (Standard)
+- Whalefall
+  - + AMC Lincoln Square 13 @ 2026-10-15T16:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-15T19:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-15T22:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-16T10:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-16T13:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-16T16:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-16T19:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-16T22:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-17T10:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-17T13:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-17T16:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-17T19:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-17T22:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-18T10:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-18T13:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-18T16:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-18T19:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-18T22:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-21T10:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-21T13:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-21T16:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-21T19:45:00 (Standard)
+- Sense and Sensibility
+  - + AMC Lincoln Square 13 @ 2026-10-21T19:30:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-21T19:15:00 (Standard)
+- You Can See Everything
+  - + AMC Lincoln Square 13 @ 2026-10-15T15:55:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-15T20:00:00 (Standard)
+- The Influencer Project
+  - + AMC 34th Street 14 @ 2026-10-02T22:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-02T19:15:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-02T21:45:00 (Standard)
+- Digger
+  - − AMC 34th Street 14 @ 2026-10-02T21:20:00 (Standard)
+
 ## 2026-10-01 05:52 AM CDT
 
 **Movies removed:**
