@@ -1,3 +1,71 @@
+## 2026-10-02 03:38 PM CDT
+
+**Showtime changes:**
+- Avengers Endgame: Encore
+  - + AMC Lincoln Square 13 @ 2026-10-02T22:45:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-02T18:30:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-10-02T18:45:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-02T22:30:00 (Standard)
+- Verity
+  - + AMC 84th Street 6 @ 2026-10-02T18:45:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-03T15:10:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-03T18:00:00 (Standard)
+- Primetime
+  - + AMC Lincoln Square 13 @ 2026-10-02T18:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-02T21:15:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-02T23:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-03T13:45:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-03T16:30:00 (Standard)
+- Resident Evil
+  - + AMC 84th Street 6 @ 2026-10-02T21:45:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-10-02T22:45:00 (Standard)
+- Heart of the Beast
+  - + AMC Lincoln Square 13 @ 2026-10-02T23:15:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-02T23:00:00 (Standard)
+- Beware Boiuna
+  - − AMC 34th Street 14 @ 2026-10-02T22:40:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-03T14:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-03T16:35:00 (Standard)
+- The Social Reckoning
+  - + AMC Lincoln Square 13 @ 2026-10-14T16:00:00 (Dolby Cinema at AMC)
+- Forgotten Island
+  - − AMC Lincoln Square 13 @ 2026-10-02T23:15:00 (Standard)
+- Digger
+  - − AMC 34th Street 14 @ 2026-10-03T15:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-03T18:15:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-22T10:00:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-22T12:45:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-22T15:45:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-22T18:45:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-22T21:45:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-23T10:00:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-23T12:45:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-23T15:45:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-23T18:45:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-23T21:45:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-24T10:00:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-24T12:45:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-24T15:45:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-24T18:45:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-24T21:45:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-25T10:00:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-25T12:45:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-25T15:45:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-25T18:45:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-25T21:45:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-26T10:00:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-26T12:45:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-26T15:45:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-26T18:45:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-26T21:45:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-27T10:00:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-27T12:45:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-27T15:45:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-27T18:45:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-27T21:45:00 (Standard)
+- Sense and Sensibility: Early Access Movie Party
+  - + AMC Lincoln Square 13 @ 2026-10-14T19:30:00 (Standard)
+
 ## 2026-10-02 05:26 AM CDT
 
 **Movies removed:**
