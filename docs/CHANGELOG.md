@@ -1,3 +1,11 @@
+## 2026-10-03 02:10 PM CDT
+
+**Showtime changes:**
+- Resident Evil
+  - + AMC 34th Street 14 @ 2026-10-04T21:00:00 (Standard)
+- Digger
+  - − AMC 34th Street 14 @ 2026-10-04T21:20:00 (Standard)
+
 ## 2026-10-03 09:39 AM CDT
 
 No changes.
