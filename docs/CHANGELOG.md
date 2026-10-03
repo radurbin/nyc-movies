@@ -1,3 +1,43 @@
+## 2026-10-02 08:03 PM CDT
+
+**Movies added:**
+- Trust Me, I’m A Doctor: Exclusive Early Access
+
+**Showtime changes:**
+- Beware Boiuna
+  - − AMC 34th Street 14 @ 2026-10-04T13:50:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-04T15:35:00 (Standard)
+- Digger
+  - − AMC 34th Street 14 @ 2026-10-04T18:15:00 (Standard)
+- Primetime
+  - + AMC Lincoln Square 13 @ 2026-10-03T18:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-03T21:15:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-04T13:45:00 (Standard)
+- Avengers Endgame: Encore
+  - − AMC Lincoln Square 13 @ 2026-10-03T18:30:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-03T22:30:00 (Standard)
+- Verity
+  - + AMC 34th Street 14 @ 2026-10-04T15:10:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-04T18:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-09T12:45:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-09T15:40:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-09T21:30:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-10T12:45:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-10T15:40:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-10T21:30:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-11T12:45:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-11T15:40:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-11T21:30:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-12T12:45:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-12T15:40:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-12T21:30:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-13T12:45:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-13T15:40:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-13T21:30:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-14T12:45:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-14T15:40:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-14T21:30:00 (Standard)
+
 ## 2026-10-02 03:38 PM CDT
 
 **Showtime changes:**
