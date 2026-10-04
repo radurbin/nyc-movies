@@ -1,3 +1,32 @@
+## 2026-10-04 02:30 PM CDT
+
+**Showtime changes:**
+- Verity
+  - + AMC 34th Street 14 @ 2026-10-05T16:25:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-06T21:45:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-07T16:20:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-08T12:45:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-08T15:40:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-08T21:30:00 (Standard)
+- Beware Boiuna
+  - − AMC 34th Street 14 @ 2026-10-05T16:20:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-06T22:30:00 (Standard)
+- Heart of the Beast
+  - + AMC Lincoln Square 13 @ 2026-10-04T22:45:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-04T22:30:00 (Standard)
+- Avengers Endgame: Encore
+  - − AMC Lincoln Square 13 @ 2026-10-04T18:30:00 (Standard)
+- Forgotten Island
+  - + AMC 34th Street 14 @ 2026-10-06T15:15:00 (Standard)
+- Digger
+  - − AMC Lincoln Square 13 @ 2026-10-04T22:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-06T15:00:00 (Standard)
+- Spider-Man: Brand New Day
+  - − AMC 34th Street 14 @ 2026-10-07T16:00:00 (Standard)
+- Primetime
+  - + AMC Lincoln Square 13 @ 2026-10-04T18:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-04T21:30:00 (Standard)
+
 ## 2026-10-04 05:31 AM CDT
 
 **Showtime changes:**
