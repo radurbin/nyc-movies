@@ -1,3 +1,35 @@
+## 2026-10-05 05:30 PM CDT
+
+**Showtime changes:**
+- Avengers Endgame: Encore
+  - + AMC 34th Street 14 @ 2026-10-05T22:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-05T21:45:00 (Standard)
+- Verity
+  - + AMC 34th Street 14 @ 2026-10-05T19:10:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-12T22:30:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-08T12:45:00 (Standard)
+- Primetime
+  - + AMC 34th Street 14 @ 2026-10-14T22:15:00 (Standard)
+- Digger
+  - − AMC 34th Street 14 @ 2026-10-08T18:15:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-08T21:20:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-12T21:50:00 (Standard)
+- Guillermo del Toro's Pan's Labyrinth 20th Anniversary
+  - + AMC 34th Street 14 @ 2026-10-08T20:45:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-12T14:25:00 (RealD 3D)
+  - + AMC 34th Street 14 @ 2026-10-12T16:50:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-12T19:15:00 (RealD 3D)
+  - + AMC 34th Street 14 @ 2026-10-12T21:40:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-12T14:20:00 (RealD 3D)
+  - − AMC 34th Street 14 @ 2026-10-12T16:40:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-12T19:00:00 (RealD 3D)
+  - − AMC 34th Street 14 @ 2026-10-12T21:25:00 (Standard)
+- Other Mommy
+  - + AMC 34th Street 14 @ 2026-10-08T18:15:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-14T22:15:00 (Standard)
+- Ninja Scroll
+  - − AMC 34th Street 14 @ 2026-10-05T19:15:00 (Standard)
+
 ## 2026-10-05 06:22 AM CDT
 
 **Showtime changes:**
