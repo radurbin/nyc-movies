@@ -1,3 +1,30 @@
+## 2026-10-07 04:13 PM CDT
+
+**Movies added:**
+- Clayface
+
+**Showtime changes:**
+- Primetime
+  - + AMC Lincoln Square 13 @ 2026-10-07T18:35:00 (Standard)
+- Avengers Endgame: Encore
+  - − AMC Lincoln Square 13 @ 2026-10-07T18:30:00 (Standard)
+- Resident Evil
+  - + AMC Lincoln Square 13 @ 2026-10-07T21:30:00 (Standard)
+- Heart of the Beast
+  - − AMC Lincoln Square 13 @ 2026-10-07T22:30:00 (Standard)
+- Sense and Sensibility
+  - + AMC Lincoln Square 13 @ 2026-10-15T16:00:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-15T16:15:00 (Standard)
+- Other Mommy
+  - + AMC 34th Street 14 @ 2026-10-08T14:30:00 (Standard)
+- You Can See Everything
+  - + AMC 34th Street 14 @ 2026-10-15T16:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-15T18:00:00 (Standard)
+- Verity
+  - + AMC Lincoln Square 13 @ 2026-10-08T11:05:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-08T13:10:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-08T14:00:00 (Standard)
+
 ## 2026-10-07 05:59 AM CDT
 
 **Movies removed:**
