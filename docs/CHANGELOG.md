@@ -1,3 +1,15 @@
+## 2026-10-06 08:23 PM CDT
+
+**Showtime changes:**
+- Godzilla Minus Zero - Godzilla Day IMAX Early Access
+  - + AMC Lincoln Square 13 @ 2026-11-03T15:45:00 (IMAX at AMC)
+  - + AMC 34th Street 14 @ 2026-11-03T15:45:00 (IMAX at AMC)
+- Other Mommy
+  - − AMC Lincoln Square 13 @ 2026-10-14T22:15:00 (Dolby Cinema at AMC)
+- Digger
+  - + AMC Lincoln Square 13 @ 2026-10-08T19:30:00 (IMAX at AMC)
+  - + AMC Lincoln Square 13 @ 2026-10-08T22:45:00 (IMAX at AMC)
+
 ## 2026-10-06 03:55 PM CDT
 
 **Movies added:**
