@@ -1,3 +1,31 @@
+## 2026-10-07 08:46 PM CDT
+
+**Showtime changes:**
+- Clayface
+  - + AMC Lincoln Square 13 @ 2026-10-22T14:00:00 (Dolby Cinema at AMC)
+  - + AMC Lincoln Square 13 @ 2026-10-22T16:45:00 (Dolby Cinema at AMC)
+  - + AMC Lincoln Square 13 @ 2026-10-23T10:45:00 (Dolby Cinema at AMC)
+  - + AMC Lincoln Square 13 @ 2026-10-23T13:45:00 (Dolby Cinema at AMC)
+  - + AMC Lincoln Square 13 @ 2026-10-23T16:45:00 (Dolby Cinema at AMC)
+  - + AMC Lincoln Square 13 @ 2026-10-24T10:45:00 (Dolby Cinema at AMC)
+  - + AMC Lincoln Square 13 @ 2026-10-24T13:45:00 (Dolby Cinema at AMC)
+  - + AMC Lincoln Square 13 @ 2026-10-24T16:45:00 (Dolby Cinema at AMC)
+  - + AMC Lincoln Square 13 @ 2026-10-25T10:00:00 (Dolby Cinema at AMC)
+  - + AMC Lincoln Square 13 @ 2026-10-25T13:00:00 (Dolby Cinema at AMC)
+  - + AMC Lincoln Square 13 @ 2026-10-26T10:45:00 (Dolby Cinema at AMC)
+  - + AMC Lincoln Square 13 @ 2026-10-26T13:45:00 (Dolby Cinema at AMC)
+  - + AMC Lincoln Square 13 @ 2026-10-26T16:45:00 (Dolby Cinema at AMC)
+  - + AMC Lincoln Square 13 @ 2026-10-27T10:45:00 (Dolby Cinema at AMC)
+  - + AMC Lincoln Square 13 @ 2026-10-27T13:45:00 (Dolby Cinema at AMC)
+  - + AMC Lincoln Square 13 @ 2026-10-27T16:45:00 (Dolby Cinema at AMC)
+- Digger
+  - − AMC Lincoln Square 13 @ 2026-10-15T21:45:00 (Standard)
+- The Social Reckoning
+  - + AMC Lincoln Square 13 @ 2026-10-15T10:00:00 (Dolby Cinema at AMC)
+  - + AMC Lincoln Square 13 @ 2026-10-15T13:00:00 (Dolby Cinema at AMC)
+- You Can See Everything
+  - + AMC Lincoln Square 13 @ 2026-10-15T15:30:00 (Standard)
+
 ## 2026-10-07 04:13 PM CDT
 
 **Movies added:**
