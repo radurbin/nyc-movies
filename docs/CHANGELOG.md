@@ -1,3 +1,96 @@
+## 2026-10-08 04:15 PM CDT
+
+**Movies added:**
+- Club Kid
+- I Play Rocky
+- The Only Living Pickpocket In New York
+
+**Showtime changes:**
+- Godzilla Minus Zero
+  - + AMC Lincoln Square 13 @ 2026-11-05T17:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-05T20:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-06T11:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-06T15:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-06T18:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-06T21:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-07T11:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-07T15:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-07T18:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-07T21:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-08T11:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-08T15:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-08T18:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-08T21:30:00 (Standard)
+- You Can See Everything
+  - + AMC Lincoln Square 13 @ 2026-10-15T21:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-23T11:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-23T15:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-23T19:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-23T22:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-24T11:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-24T15:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-24T19:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-24T22:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-25T11:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-25T15:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-25T19:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-25T22:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-26T10:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-26T14:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-26T18:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-26T22:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-27T10:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-27T14:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-27T18:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-27T22:00:00 (Standard)
+- Primetime
+  - + AMC 34th Street 14 @ 2026-10-08T22:30:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-09T11:40:00 (Standard)
+- Wicker
+  - + AMC Lincoln Square 13 @ 2026-10-22T22:00:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-22T22:30:00 (Standard)
+- Portrait of an Artist: Stephen Curry
+  - − AMC 34th Street 14 @ 2026-10-13T10:25:00 (IMAX at AMC)
+- Street Fighter
+  - + AMC 34th Street 14 @ 2026-10-16T16:00:00 (Dolby Cinema at AMC)
+  - + AMC 34th Street 14 @ 2026-10-16T22:00:00 (Dolby Cinema at AMC)
+  - + AMC 34th Street 14 @ 2026-10-17T16:00:00 (Dolby Cinema at AMC)
+  - + AMC 34th Street 14 @ 2026-10-17T22:00:00 (Dolby Cinema at AMC)
+  - + AMC 34th Street 14 @ 2026-10-18T16:00:00 (Dolby Cinema at AMC)
+  - + AMC 34th Street 14 @ 2026-10-18T22:00:00 (Dolby Cinema at AMC)
+  - + AMC 34th Street 14 @ 2026-10-19T16:00:00 (Dolby Cinema at AMC)
+  - + AMC 34th Street 14 @ 2026-10-20T16:00:00 (Dolby Cinema at AMC)
+  - + AMC 34th Street 14 @ 2026-10-20T22:00:00 (Dolby Cinema at AMC)
+  - + AMC 34th Street 14 @ 2026-10-21T16:00:00 (Dolby Cinema at AMC)
+  - + AMC 34th Street 14 @ 2026-10-21T22:00:00 (Dolby Cinema at AMC)
+- Guillermo del Toro's Pan's Labyrinth 20th Anniversary
+  - − AMC 34th Street 14 @ 2026-10-08T22:00:00 (Standard)
+- Other Mommy
+  - + AMC 34th Street 14 @ 2026-10-09T12:00:00 (Standard)
+- Whalefall
+  - + AMC 34th Street 14 @ 2026-10-16T10:30:00 (Dolby Cinema at AMC)
+  - + AMC 34th Street 14 @ 2026-10-16T13:15:00 (Dolby Cinema at AMC)
+  - + AMC 34th Street 14 @ 2026-10-17T10:30:00 (Dolby Cinema at AMC)
+  - + AMC 34th Street 14 @ 2026-10-17T13:15:00 (Dolby Cinema at AMC)
+  - + AMC 34th Street 14 @ 2026-10-18T10:30:00 (Dolby Cinema at AMC)
+  - + AMC 34th Street 14 @ 2026-10-18T13:15:00 (Dolby Cinema at AMC)
+  - + AMC 34th Street 14 @ 2026-10-19T13:00:00 (Dolby Cinema at AMC)
+  - + AMC 34th Street 14 @ 2026-10-19T14:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-20T10:30:00 (Dolby Cinema at AMC)
+  - + AMC 34th Street 14 @ 2026-10-20T13:15:00 (Dolby Cinema at AMC)
+  - + AMC 34th Street 14 @ 2026-10-21T13:00:00 (Dolby Cinema at AMC)
+  - + AMC 34th Street 14 @ 2026-10-21T14:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-16T10:30:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-16T13:15:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-17T10:30:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-17T13:15:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-18T10:30:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-18T13:15:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-19T13:45:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-20T10:30:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-20T13:15:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-21T13:45:00 (Standard)
+
 ## 2026-10-08 06:17 AM CDT
 
 **Movies removed:**
