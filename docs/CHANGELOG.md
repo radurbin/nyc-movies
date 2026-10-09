@@ -1,3 +1,63 @@
+## 2026-10-09 03:45 PM CDT
+
+**Movies added:**
+- Klara and the Sun
+
+**Showtime changes:**
+- Godzilla Minus Zero - Godzilla Day IMAX Early Access
+  - + AMC Lincoln Square 13 @ 2026-11-03T12:30:00 (IMAX at AMC)
+- Street Fighter
+  - + AMC Lincoln Square 13 @ 2026-10-19T20:00:00 (Dolby Cinema at AMC)
+  - + AMC Lincoln Square 13 @ 2026-10-20T20:00:00 (Dolby Cinema at AMC)
+- Whalefall
+  - + AMC Lincoln Square 13 @ 2026-10-19T10:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-19T13:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-19T16:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-19T19:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-19T22:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-20T10:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-20T13:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-20T16:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-20T19:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-20T22:45:00 (Standard)
+- Dune: Part Three
+  - + AMC Lincoln Square 13 @ 2027-01-12T09:00:00 (70MM at AMC)
+  - + AMC Lincoln Square 13 @ 2027-01-12T12:30:00 (70MM at AMC)
+  - + AMC Lincoln Square 13 @ 2027-01-12T16:00:00 (70MM at AMC)
+  - + AMC Lincoln Square 13 @ 2027-01-12T19:30:00 (70MM at AMC)
+  - + AMC Lincoln Square 13 @ 2027-01-12T23:00:00 (70MM at AMC)
+- You Can See Everything
+  - + AMC Lincoln Square 13 @ 2026-10-15T18:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-15T22:00:00 (Standard)
+- Sense and Sensibility
+  - + AMC Lincoln Square 13 @ 2026-10-19T10:00:00 (Dolby Cinema at AMC)
+  - + AMC Lincoln Square 13 @ 2026-10-19T13:15:00 (Dolby Cinema at AMC)
+  - + AMC Lincoln Square 13 @ 2026-10-19T16:30:00 (Dolby Cinema at AMC)
+  - + AMC Lincoln Square 13 @ 2026-10-19T19:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-19T22:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-20T10:00:00 (Dolby Cinema at AMC)
+  - + AMC Lincoln Square 13 @ 2026-10-20T13:15:00 (Dolby Cinema at AMC)
+  - + AMC Lincoln Square 13 @ 2026-10-20T16:30:00 (Dolby Cinema at AMC)
+  - + AMC Lincoln Square 13 @ 2026-10-20T19:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-20T22:30:00 (Standard)
+- Digger
+  - + AMC Lincoln Square 13 @ 2026-10-19T15:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-19T18:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-19T21:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-20T15:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-20T18:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-20T21:45:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-19T15:30:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-19T18:15:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-19T21:15:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-20T15:30:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-20T18:15:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-20T21:15:00 (Standard)
+- Other Mommy
+  - + AMC 34th Street 14 @ 2026-10-09T22:15:00 (Standard)
+- Heart of the Beast
+  - − AMC 34th Street 14 @ 2026-10-09T22:10:00 (Standard)
+
 ## 2026-10-09 06:15 AM CDT
 
 **Movies removed:**
