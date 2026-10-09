@@ -1,78 +1,5 @@
 [
   {
-    "date": "2026-09-12 01:17 PM CDT",
-    "movies_added": [],
-    "movies_removed": [],
-    "showtime_changes": [
-      {
-        "title": "Buddy",
-        "added": [],
-        "removed": [
-          {
-            "theater": "AMC 34th Street 14",
-            "datetime": "2026-09-12T22:45:00",
-            "format": "Standard"
-          }
-        ]
-      },
-      {
-        "title": "Akira",
-        "added": [
-          {
-            "theater": "AMC 34th Street 14",
-            "datetime": "2026-09-12T22:45:00",
-            "format": "Standard"
-          }
-        ],
-        "removed": []
-      },
-      {
-        "title": "The Odyssey",
-        "added": [
-          {
-            "theater": "AMC Lincoln Square 13",
-            "datetime": "2026-09-19T22:15:00",
-            "format": "70mm"
-          },
-          {
-            "theater": "AMC Lincoln Square 13",
-            "datetime": "2026-09-20T02:15:00",
-            "format": "70mm"
-          }
-        ],
-        "removed": [
-          {
-            "theater": "AMC Lincoln Square 13",
-            "datetime": "2026-09-19T22:30:00",
-            "format": "70mm"
-          }
-        ]
-      },
-      {
-        "title": "Runner",
-        "added": [],
-        "removed": [
-          {
-            "theater": "AMC 34th Street 14",
-            "datetime": "2026-09-12T22:30:00",
-            "format": "Standard"
-          }
-        ]
-      },
-      {
-        "title": "Hope",
-        "added": [
-          {
-            "theater": "AMC 34th Street 14",
-            "datetime": "2026-09-12T22:30:00",
-            "format": "Standard"
-          }
-        ],
-        "removed": []
-      }
-    ]
-  },
-  {
     "date": "2026-09-12 06:55 PM CDT",
     "movies_added": [],
     "movies_removed": [],
@@ -44555,6 +44482,69 @@
           {
             "theater": "AMC 34th Street 14",
             "datetime": "2026-10-21T13:45:00",
+            "format": "Standard"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-10-08 08:57 PM CDT",
+    "movies_added": [],
+    "movies_removed": [
+      "I Play Rocky"
+    ],
+    "showtime_changes": [
+      {
+        "title": "Trust Me, I’m A Doctor: Exclusive Early Access",
+        "added": [
+          {
+            "theater": "AMC 34th Street 14",
+            "datetime": "2026-10-10T16:15:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": []
+      },
+      {
+        "title": "Other Mommy",
+        "added": [
+          {
+            "theater": "AMC 34th Street 14",
+            "datetime": "2026-10-09T16:45:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC 34th Street 14",
+            "datetime": "2026-10-09T22:00:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": []
+      },
+      {
+        "title": "Forgotten Island",
+        "added": [],
+        "removed": [
+          {
+            "theater": "AMC 34th Street 14",
+            "datetime": "2026-10-09T22:00:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Spider-Man: Brand New Day",
+        "added": [],
+        "removed": [
+          {
+            "theater": "AMC 34th Street 14",
+            "datetime": "2026-10-09T16:10:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "AMC 34th Street 14",
+            "datetime": "2026-10-10T16:00:00",
             "format": "Standard"
           }
         ]

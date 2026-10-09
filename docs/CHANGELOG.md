@@ -1,3 +1,20 @@
+## 2026-10-08 08:57 PM CDT
+
+**Movies removed:**
+- I Play Rocky
+
+**Showtime changes:**
+- Trust Me, I’m A Doctor: Exclusive Early Access
+  - + AMC 34th Street 14 @ 2026-10-10T16:15:00 (Standard)
+- Other Mommy
+  - + AMC 34th Street 14 @ 2026-10-09T16:45:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-09T22:00:00 (Standard)
+- Forgotten Island
+  - − AMC 34th Street 14 @ 2026-10-09T22:00:00 (Standard)
+- Spider-Man: Brand New Day
+  - − AMC 34th Street 14 @ 2026-10-09T16:10:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-10T16:00:00 (Standard)
+
 ## 2026-10-08 04:15 PM CDT
 
 **Movies added:**
