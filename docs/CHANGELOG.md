@@ -1,3 +1,88 @@
+## 2026-10-10 02:59 PM CDT
+
+**Showtime changes:**
+- Street Fighter
+  - + AMC 34th Street 14 @ 2026-10-22T13:25:00 (IMAX at AMC)
+  - + AMC 34th Street 14 @ 2026-10-22T16:20:00 (IMAX at AMC)
+  - + AMC 34th Street 14 @ 2026-10-22T19:15:00 (IMAX at AMC)
+  - + AMC 34th Street 14 @ 2026-10-22T22:15:00 (IMAX at AMC)
+  - + AMC 34th Street 14 @ 2026-10-23T11:00:00 (IMAX at AMC)
+  - + AMC 34th Street 14 @ 2026-10-23T14:00:00 (IMAX at AMC)
+  - + AMC 34th Street 14 @ 2026-10-23T17:00:00 (IMAX at AMC)
+  - + AMC 34th Street 14 @ 2026-10-23T20:00:00 (IMAX at AMC)
+  - + AMC 34th Street 14 @ 2026-10-23T23:00:00 (IMAX at AMC)
+  - + AMC 34th Street 14 @ 2026-10-24T11:00:00 (IMAX at AMC)
+  - + AMC 34th Street 14 @ 2026-10-24T14:00:00 (IMAX at AMC)
+  - + AMC 34th Street 14 @ 2026-10-24T17:00:00 (IMAX at AMC)
+  - + AMC 34th Street 14 @ 2026-10-24T20:00:00 (IMAX at AMC)
+  - + AMC 34th Street 14 @ 2026-10-24T23:00:00 (IMAX at AMC)
+  - + AMC 34th Street 14 @ 2026-10-25T11:00:00 (IMAX at AMC)
+  - + AMC 34th Street 14 @ 2026-10-25T14:00:00 (IMAX at AMC)
+  - + AMC 34th Street 14 @ 2026-10-25T17:00:00 (IMAX at AMC)
+  - + AMC 34th Street 14 @ 2026-10-25T20:00:00 (IMAX at AMC)
+  - + AMC 34th Street 14 @ 2026-10-25T23:00:00 (IMAX at AMC)
+- Wildwood
+  - + AMC 34th Street 14 @ 2026-10-23T13:15:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-23T15:30:00 (Dolby Cinema at AMC)
+  - + AMC 34th Street 14 @ 2026-10-23T16:25:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-24T13:15:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-24T15:30:00 (Dolby Cinema at AMC)
+  - + AMC 34th Street 14 @ 2026-10-24T16:25:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-25T13:15:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-25T15:30:00 (Dolby Cinema at AMC)
+  - + AMC 34th Street 14 @ 2026-10-25T16:25:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-26T12:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-26T12:50:00 (Dolby Cinema at AMC)
+  - + AMC 34th Street 14 @ 2026-10-27T15:30:00 (Dolby Cinema at AMC)
+  - + AMC 34th Street 14 @ 2026-10-28T12:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-23T13:10:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-23T16:20:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-24T13:10:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-24T16:20:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-25T13:10:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-25T16:20:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-26T12:10:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-28T12:10:00 (Standard)
+- Misty Green
+  - − AMC Lincoln Square 13 @ 2026-10-10T22:45:00 (Standard)
+- You Can See Everything
+  - + AMC 34th Street 14 @ 2026-10-15T21:50:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-16T11:20:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-16T15:10:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-16T19:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-17T11:20:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-17T15:10:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-17T19:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-18T11:20:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-18T15:10:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-18T19:00:00 (Standard)
+- Clayface
+  - + AMC 34th Street 14 @ 2026-10-22T16:00:00 (Dolby Cinema at AMC)
+  - + AMC 34th Street 14 @ 2026-10-23T10:00:00 (Dolby Cinema at AMC)
+  - + AMC 34th Street 14 @ 2026-10-23T12:45:00 (Dolby Cinema at AMC)
+  - + AMC 34th Street 14 @ 2026-10-24T10:00:00 (Dolby Cinema at AMC)
+  - + AMC 34th Street 14 @ 2026-10-24T12:45:00 (Dolby Cinema at AMC)
+  - + AMC 34th Street 14 @ 2026-10-25T10:00:00 (Dolby Cinema at AMC)
+  - + AMC 34th Street 14 @ 2026-10-25T12:45:00 (Dolby Cinema at AMC)
+  - + AMC 34th Street 14 @ 2026-10-26T16:00:00 (Dolby Cinema at AMC)
+  - + AMC 34th Street 14 @ 2026-10-27T10:00:00 (Dolby Cinema at AMC)
+  - + AMC 34th Street 14 @ 2026-10-27T12:45:00 (Dolby Cinema at AMC)
+- Other Mommy
+  - + AMC 34th Street 14 @ 2026-10-14T21:40:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-14T22:45:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-14T22:00:00 (Dolby Cinema at AMC)
+- Primetime
+  - + AMC Lincoln Square 13 @ 2026-10-10T22:45:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-14T22:45:00 (Standard)
+- Heart of the Beast
+  - − AMC 34th Street 14 @ 2026-10-11T11:20:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-14T21:40:00 (Standard)
+- Training Day - 25th Anniversary
+  - + AMC 34th Street 14 @ 2026-10-14T22:00:00 (Dolby Cinema at AMC)
+  - + AMC Lincoln Square 13 @ 2026-10-14T22:00:00 (Dolby Cinema at AMC)
+- Verity
+  - + AMC 34th Street 14 @ 2026-10-11T11:10:00 (Standard)
+
 ## 2026-10-10 05:32 AM CDT
 
 **Movies removed:**
