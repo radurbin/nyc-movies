@@ -1,3 +1,29 @@
+## 2026-10-09 08:39 PM CDT
+
+**Showtime changes:**
+- Verity
+  - + AMC 34th Street 14 @ 2026-10-10T15:30:00 (Standard)
+- 9 to 5
+  - − AMC 34th Street 14 @ 2026-10-10T15:30:00 (Standard)
+- Digger
+  - − AMC 34th Street 14 @ 2026-10-09T22:25:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-10T21:30:00 (Standard)
+- Forgotten Island
+  - − AMC 34th Street 14 @ 2026-10-10T22:00:00 (Standard)
+- Heart of the Beast
+  - − AMC 34th Street 14 @ 2026-10-10T22:10:00 (Standard)
+- Primetime
+  - + AMC 34th Street 14 @ 2026-10-10T22:00:00 (Standard)
+- Portrait of an Artist: Stephen Curry
+  - − AMC Lincoln Square 13 @ 2026-10-12T13:30:00 (IMAX at AMC)
+- Other Mommy
+  - + AMC 84th Street 6 @ 2026-10-09T22:45:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-10T21:30:00 (Standard)
+- Resident Evil
+  - + AMC 34th Street 14 @ 2026-10-09T22:25:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-10T22:15:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-10-09T22:45:00 (Standard)
+
 ## 2026-10-09 03:45 PM CDT
 
 **Movies added:**
