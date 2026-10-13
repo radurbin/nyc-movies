@@ -1,3 +1,22 @@
+## 2026-10-13 04:09 PM CDT
+
+**Movies added:**
+- AMC Scream Unseen: October 26
+- AMC Screen Unseen: October 26
+
+**Showtime changes:**
+- Portrait of an Artist: Stephen Curry
+  - − AMC Lincoln Square 13 @ 2026-10-13T13:30:00 (IMAX at AMC)
+- Spider-Man: Brand New Day
+  - − AMC 34th Street 14 @ 2026-10-13T16:10:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-14T18:15:00 (Standard)
+- Other Mommy
+  - + AMC 34th Street 14 @ 2026-10-13T17:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-14T21:50:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-14T21:40:00 (Standard)
+- Verity
+  - + AMC 34th Street 14 @ 2026-10-14T19:00:00 (Standard)
+
 ## 2026-10-13 06:39 AM CDT
 
 **Movies removed:**

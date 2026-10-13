@@ -1,11 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-10-13T06:39:18.564635-05:00",
-    "movie_count": 58,
-    "showtime_count": 2775,
+    "generated_at": "2026-10-13T16:09:48.159562-05:00",
+    "movie_count": 60,
+    "showtime_count": 2779,
     "theaters": {
-      "AMC 34th Street 14": 1274,
-      "AMC Lincoln Square 13": 1105,
+      "AMC 34th Street 14": 1277,
+      "AMC Lincoln Square 13": 1106,
       "AMC 84th Street 6": 396
     }
   },
@@ -116,6 +116,121 @@
             "Pay with Disney Rewards Redemption Card",
             "Excluded from 50% off Discount",
             "Fan Faves",
+            "Laser at AMC",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 10.25,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 10.25,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 10.25,
+              "tax": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sort_index": "amc scream unseen: october 26",
+      "source": "AMC",
+      "movie_id": 85254,
+      "title": "AMC Scream Unseen: October 26",
+      "release_year": 2026,
+      "runtime": 100,
+      "rating": "R",
+      "genres": [],
+      "poster": "posters/amc-scream-unseen-october-26-2026.jpg",
+      "backdrop": null,
+      "short_description": null,
+      "plot": null,
+      "directors": [],
+      "writers": [],
+      "actors": [],
+      "imdb_id": null,
+      "imdb_rating": null,
+      "imdb_votes": null,
+      "rotten_tomatoes": null,
+      "metacritic": null,
+      "letterboxd_rating": null,
+      "letterboxd_rating_count": null,
+      "letterboxd_url": null,
+      "awards": null,
+      "language": null,
+      "country": null,
+      "box_office": null,
+      "website": null,
+      "movie_url": "https://www.amctheatres.com/movies/amc-scream-unseen-october-26-85254",
+      "trailer_url": null,
+      "showtimes": [
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 147740471,
+          "datetime": "2026-10-26T21:30:00",
+          "datetime_utc": "2026-10-27T01:30:00Z",
+          "auditorium": 5,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-26/lincolnsquare/all/147740471",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Club Rockers",
+            "AOneLive",
+            "Event",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 10.75,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 10.75,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 10.75,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
+          "showtime_id": 147740527,
+          "datetime": "2026-10-26T21:30:00",
+          "datetime_utc": "2026-10-27T01:30:00Z",
+          "auditorium": 2,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-26/34thstreet/all/147740527",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Event",
             "Laser at AMC",
             "AMC Signature Recliners",
             "Reserved Seating"
@@ -263,6 +378,160 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-19/34thstreet/all/147555934",
           "sold_out": true,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Event",
+            "Laser at AMC",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 10.25,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 10.25,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 10.25,
+              "tax": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sort_index": "amc screen unseen: october 26",
+      "source": "AMC",
+      "movie_id": 85232,
+      "title": "AMC Screen Unseen: October 26",
+      "release_year": 2026,
+      "runtime": 100,
+      "rating": "R",
+      "genres": [],
+      "poster": "posters/amc-screen-unseen-october-26-2026.jpg",
+      "backdrop": null,
+      "short_description": null,
+      "plot": null,
+      "directors": [],
+      "writers": [],
+      "actors": [],
+      "imdb_id": null,
+      "imdb_rating": null,
+      "imdb_votes": null,
+      "rotten_tomatoes": null,
+      "metacritic": null,
+      "letterboxd_rating": null,
+      "letterboxd_rating_count": null,
+      "letterboxd_url": null,
+      "awards": null,
+      "language": null,
+      "country": null,
+      "box_office": null,
+      "website": null,
+      "movie_url": "https://www.amctheatres.com/movies/amc-screen-unseen-october-26-85232",
+      "trailer_url": null,
+      "showtimes": [
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 147740469,
+          "datetime": "2026-10-26T19:00:00",
+          "datetime_utc": "2026-10-26T23:00:00Z",
+          "auditorium": 4,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-26/lincolnsquare/all/147740469",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Club Rockers",
+            "Event",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 10.75,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 10.75,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 10.75,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
+          "showtime_id": 147740525,
+          "datetime": "2026-10-26T19:00:00",
+          "datetime_utc": "2026-10-26T23:00:00Z",
+          "auditorium": 9,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-26/34thstreet/all/147740525",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Event",
+            "Laser at AMC",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 10.25,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 10.25,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 10.25,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
+          "showtime_id": 147740526,
+          "datetime": "2026-10-26T19:00:00",
+          "datetime_utc": "2026-10-26T23:00:00Z",
+          "auditorium": 7,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-26/34thstreet/all/147740526",
+          "sold_out": false,
           "almost_sold_out": false,
           "cancelled": false,
           "has_trailers": false,
@@ -892,7 +1161,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-17/84thstreet/all/146188156",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": true,
@@ -1835,7 +2104,7 @@
           "auditorium": 8,
           "premium_format": "Dolby Cinema at AMC",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-17/34thstreet/all/145283604",
-          "sold_out": true,
+          "sold_out": false,
           "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
@@ -31082,7 +31351,7 @@
       "rotten_tomatoes": "100%",
       "metacritic": "84/100",
       "letterboxd_rating": 4.27,
-      "letterboxd_rating_count": 9666,
+      "letterboxd_rating_count": 9723,
       "letterboxd_url": "https://letterboxd.com/film/club-kid/",
       "awards": "2 wins & 6 nominations total",
       "language": "English",
@@ -32952,7 +33221,7 @@
       "rotten_tomatoes": "52%",
       "metacritic": null,
       "letterboxd_rating": 3.89,
-      "letterboxd_rating_count": 433028,
+      "letterboxd_rating_count": 441473,
       "letterboxd_url": "https://letterboxd.com/film/digger-2026/",
       "awards": "N/A",
       "language": "English",
@@ -33314,7 +33583,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-13/34thstreet/all/147072754",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -34118,7 +34387,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-15/lincolnsquare/all/147564714",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -46483,7 +46752,7 @@
       "rotten_tomatoes": "91%",
       "metacritic": "78/100",
       "letterboxd_rating": 3.79,
-      "letterboxd_rating_count": 74068,
+      "letterboxd_rating_count": 74375,
       "letterboxd_url": "https://letterboxd.com/film/fjord-2026/",
       "awards": "3 wins & 2 nominations total",
       "language": "English, Romanian, Norwegian, Swedish",
@@ -46584,7 +46853,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-13/lincolnsquare/all/147638574",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -48055,7 +48324,7 @@
       "rotten_tomatoes": "95%",
       "metacritic": "73/100",
       "letterboxd_rating": 3.91,
-      "letterboxd_rating_count": 98874,
+      "letterboxd_rating_count": 99584,
       "letterboxd_url": "https://letterboxd.com/film/forgotten-island-2026/",
       "awards": "N/A",
       "language": "English, Tagalog",
@@ -49250,7 +49519,7 @@
       "rotten_tomatoes": "97%",
       "metacritic": null,
       "letterboxd_rating": 3.91,
-      "letterboxd_rating_count": 1161,
+      "letterboxd_rating_count": 1173,
       "letterboxd_url": "https://letterboxd.com/film/godzilla-minus-zero/",
       "awards": "N/A",
       "language": "Japanese",
@@ -53715,7 +53984,7 @@
       "runtime": 135,
       "rating": "R",
       "genres": [],
-      "poster": null,
+      "poster": "posters/godzilla-minus-zero-godzilla-day-imax-early-access-2026.jpg",
       "backdrop": null,
       "short_description": null,
       "plot": null,
@@ -54696,7 +54965,7 @@
       "rotten_tomatoes": "85%",
       "metacritic": null,
       "letterboxd_rating": 3.29,
-      "letterboxd_rating_count": 139914,
+      "letterboxd_rating_count": 141370,
       "letterboxd_url": "https://letterboxd.com/film/heart-of-the-beast-2026/",
       "awards": "N/A",
       "language": "English",
@@ -59506,8 +59775,8 @@
       "imdb_votes": "N/A",
       "rotten_tomatoes": "56%",
       "metacritic": null,
-      "letterboxd_rating": 2.96,
-      "letterboxd_rating_count": 1789,
+      "letterboxd_rating": 2.95,
+      "letterboxd_rating_count": 1811,
       "letterboxd_url": "https://letterboxd.com/film/misty-green/",
       "awards": "N/A",
       "language": "English",
@@ -60010,7 +60279,7 @@
       "rotten_tomatoes": "100%",
       "metacritic": null,
       "letterboxd_rating": 3.48,
-      "letterboxd_rating_count": 1014,
+      "letterboxd_rating_count": 1027,
       "letterboxd_url": "https://letterboxd.com/film/musk-2026/",
       "awards": "N/A",
       "language": "English",
@@ -60751,8 +61020,8 @@
       "imdb_votes": "N/A",
       "rotten_tomatoes": null,
       "metacritic": null,
-      "letterboxd_rating": 2.26,
-      "letterboxd_rating_count": 131099,
+      "letterboxd_rating": 2.25,
+      "letterboxd_rating_count": 136786,
       "letterboxd_url": "https://letterboxd.com/film/other-mommy/",
       "awards": "N/A",
       "language": "English",
@@ -61181,6 +61450,48 @@
             {
               "type": "SENIOR",
               "price": 26.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
+          "showtime_id": 147607626,
+          "datetime": "2026-10-13T17:00:00",
+          "datetime_utc": "2026-10-13T21:00:00Z",
+          "auditorium": 14,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-13/34thstreet/all/147607626",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "AMC Signature Recliners",
+            "Reserved Seating",
+            "Thrills & Chills"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 20.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 17.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 18.99,
               "tax": 0.0
             }
           ]
@@ -62205,8 +62516,8 @@
           "theater_id": 2120,
           "theater": "AMC 34th Street 14",
           "showtime_id": 147607512,
-          "datetime": "2026-10-14T21:40:00",
-          "datetime_utc": "2026-10-15T01:40:00Z",
+          "datetime": "2026-10-14T21:50:00",
+          "datetime_utc": "2026-10-15T01:50:00Z",
           "auditorium": 11,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-14/34thstreet/all/147607512",
@@ -66436,48 +66747,6 @@
           "source": "AMC",
           "theater_id": 2116,
           "theater": "AMC Lincoln Square 13",
-          "showtime_id": 147383543,
-          "datetime": "2026-10-13T13:30:00",
-          "datetime_utc": "2026-10-13T17:30:00Z",
-          "auditorium": 13,
-          "premium_format": "IMAX at AMC",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-13/lincolnsquare/all/147383543",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": true,
-          "discount_message": "UP TO 15% OFF",
-          "attributes": [
-            "AMC Club Rockers",
-            "Closed Caption",
-            "Audio Description",
-            "IMAX at AMC",
-            "IMAX with Laser at AMC",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 25.19,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 22.79,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 23.99,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 2116,
-          "theater": "AMC Lincoln Square 13",
           "showtime_id": 147383539,
           "datetime": "2026-10-14T13:30:00",
           "datetime_utc": "2026-10-14T17:30:00Z",
@@ -66550,7 +66819,7 @@
       "rotten_tomatoes": "86%",
       "metacritic": "75/100",
       "letterboxd_rating": 3.67,
-      "letterboxd_rating_count": 646278,
+      "letterboxd_rating_count": 651025,
       "letterboxd_url": "https://letterboxd.com/film/primetime-2026/",
       "awards": "1 nomination total",
       "language": "English",
@@ -69928,7 +70197,7 @@
       "rotten_tomatoes": "96%",
       "metacritic": null,
       "letterboxd_rating": 3.76,
-      "letterboxd_rating_count": 1461591,
+      "letterboxd_rating_count": 1469776,
       "letterboxd_url": "https://letterboxd.com/film/resident-evil-2026/",
       "awards": "N/A",
       "language": "English",
@@ -73121,7 +73390,7 @@
       "rotten_tomatoes": "84%",
       "metacritic": null,
       "letterboxd_rating": 3.77,
-      "letterboxd_rating_count": 1935,
+      "letterboxd_rating_count": 1952,
       "letterboxd_url": "https://letterboxd.com/film/i-play-rocky/",
       "awards": "N/A",
       "language": "English",
@@ -73259,7 +73528,7 @@
       "rotten_tomatoes": "79%",
       "metacritic": "72/100",
       "letterboxd_rating": 3.89,
-      "letterboxd_rating_count": 55709,
+      "letterboxd_rating_count": 56609,
       "letterboxd_url": "https://letterboxd.com/film/sense-and-sensibility-2026/",
       "awards": "N/A",
       "language": "English",
@@ -76576,7 +76845,7 @@
       "rotten_tomatoes": "90%",
       "metacritic": "66/100",
       "letterboxd_rating": 4.03,
-      "letterboxd_rating_count": 4475601,
+      "letterboxd_rating_count": 4482774,
       "letterboxd_url": "https://letterboxd.com/film/spider-man-brand-new-day/",
       "awards": "1 nomination total",
       "language": "English",
@@ -76664,47 +76933,6 @@
             {
               "type": "SENIOR",
               "price": 15.19,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 2120,
-          "theater": "AMC 34th Street 14",
-          "showtime_id": 147607626,
-          "datetime": "2026-10-13T16:10:00",
-          "datetime_utc": "2026-10-13T20:10:00Z",
-          "auditorium": 14,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-13/34thstreet/all/147607626",
-          "sold_out": true,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Laser at AMC",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 20.49,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 17.49,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 18.99,
               "tax": 0.0
             }
           ]
@@ -76828,46 +77056,6 @@
             {
               "type": "SENIOR",
               "price": 15.19,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 2120,
-          "theater": "AMC 34th Street 14",
-          "showtime_id": 147607515,
-          "datetime": "2026-10-14T18:15:00",
-          "datetime_utc": "2026-10-14T22:15:00Z",
-          "auditorium": 11,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-14/34thstreet/all/147607515",
-          "sold_out": true,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Laser at AMC",
-            "Open Caption (On-screen Subtitles)",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 20.49,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 17.49,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 18.99,
               "tax": 0.0
             }
           ]
@@ -77349,9 +77537,9 @@
       "imdb_votes": "N/A",
       "rotten_tomatoes": null,
       "metacritic": null,
-      "letterboxd_rating": null,
-      "letterboxd_rating_count": null,
-      "letterboxd_url": null,
+      "letterboxd_rating": 3.23,
+      "letterboxd_rating_count": 342,
+      "letterboxd_url": "https://letterboxd.com/film/street-fighter-2026/",
       "awards": "N/A",
       "language": "English",
       "country": "United States, Japan",
@@ -85282,7 +85470,7 @@
           "premium_format": "Dolby Cinema at AMC",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-15/lincolnsquare/all/147007099",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -85365,7 +85553,7 @@
           "premium_format": "Dolby Cinema at AMC",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-15/34thstreet/all/147007098",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -88004,7 +88192,7 @@
       "rotten_tomatoes": "94%",
       "metacritic": "88/100",
       "letterboxd_rating": 4.34,
-      "letterboxd_rating_count": 4567793,
+      "letterboxd_rating_count": 4570509,
       "letterboxd_url": "https://letterboxd.com/film/the-odyssey-2026/",
       "awards": "3 wins total",
       "language": "English, Greek",
@@ -89235,7 +89423,7 @@
       "rotten_tomatoes": "98%",
       "metacritic": null,
       "letterboxd_rating": 3.51,
-      "letterboxd_rating_count": 4468,
+      "letterboxd_rating_count": 4496,
       "letterboxd_url": "https://letterboxd.com/film/the-only-living-pickpocket-in-new-york/",
       "awards": "N/A",
       "language": "English",
@@ -90711,8 +90899,8 @@
       "imdb_votes": "N/A",
       "rotten_tomatoes": null,
       "metacritic": null,
-      "letterboxd_rating": 3.06,
-      "letterboxd_rating_count": 77401,
+      "letterboxd_rating": 3.05,
+      "letterboxd_rating_count": 81403,
       "letterboxd_url": "https://letterboxd.com/film/the-social-reckoning/",
       "awards": "N/A",
       "language": "English",
@@ -95774,7 +95962,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 2.66,
-      "letterboxd_rating_count": 281402,
+      "letterboxd_rating_count": 286673,
       "letterboxd_url": "https://letterboxd.com/film/verity-2026/",
       "awards": "N/A",
       "language": "English",
@@ -96795,6 +96983,47 @@
             "AOneLive",
             "Laser at AMC",
             "Open Caption (On-screen Subtitles)",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 20.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 17.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 18.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
+          "showtime_id": 147607515,
+          "datetime": "2026-10-14T19:00:00",
+          "datetime_utc": "2026-10-14T23:00:00Z",
+          "auditorium": 11,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-14/34thstreet/all/147607515",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
             "AMC Signature Recliners",
             "Reserved Seating"
           ],
@@ -102886,7 +103115,7 @@
       "rotten_tomatoes": "92%",
       "metacritic": "70/100",
       "letterboxd_rating": 3.8,
-      "letterboxd_rating_count": 3239,
+      "letterboxd_rating_count": 3280,
       "letterboxd_url": "https://letterboxd.com/film/wicker/",
       "awards": "1 nomination total",
       "language": "English",
@@ -102949,7 +103178,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-22/34thstreet/all/147381884",
           "sold_out": false,
-          "almost_sold_out": true,
+          "almost_sold_out": false,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -103076,7 +103305,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-22/lincolnsquare/all/147205134",
           "sold_out": false,
-          "almost_sold_out": true,
+          "almost_sold_out": false,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -105486,7 +105715,7 @@
       "rotten_tomatoes": "93%",
       "metacritic": null,
       "letterboxd_rating": 4.1,
-      "letterboxd_rating_count": 8577,
+      "letterboxd_rating_count": 8697,
       "letterboxd_url": "https://letterboxd.com/film/wild-horse-nine/",
       "awards": "N/A",
       "language": "English",
@@ -109646,8 +109875,8 @@
       "imdb_votes": "165",
       "rotten_tomatoes": "100%",
       "metacritic": "98/100",
-      "letterboxd_rating": 4.19,
-      "letterboxd_rating_count": 934,
+      "letterboxd_rating": 4.2,
+      "letterboxd_rating_count": 961,
       "letterboxd_url": "https://letterboxd.com/film/you-can-see-everything/",
       "awards": "N/A",
       "language": "English",
@@ -110412,7 +110641,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-15/lincolnsquare/all/147738169",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -114363,7 +114592,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-19/34thstreet/all/147550798",
           "sold_out": false,
-          "almost_sold_out": true,
+          "almost_sold_out": false,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -118295,7 +118524,7 @@
       "rotten_tomatoes": "96%",
       "metacritic": null,
       "letterboxd_rating": 3.98,
-      "letterboxd_rating_count": 15856,
+      "letterboxd_rating_count": 16024,
       "letterboxd_url": "https://letterboxd.com/film/your-mother-your-mother-your-mother/",
       "awards": "N/A",
       "language": "English",
