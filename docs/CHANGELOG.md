@@ -1,3 +1,10 @@
+## 2026-10-14 03:08 PM CDT
+
+**Showtime changes:**
+- Other Mommy
+  - + AMC 34th Street 14 @ 2026-10-14T22:35:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-14T22:45:00 (Standard)
+
 ## 2026-10-14 09:59 AM CDT
 
 **Movies added:**
