@@ -1,3 +1,16 @@
+## 2026-10-13 08:05 PM CDT
+
+**Showtime changes:**
+- The Odyssey
+  - + AMC Lincoln Square 13 @ 2026-10-20T14:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-20T18:30:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-20T14:45:00 (Standard)
+- Other Mommy
+  - + AMC Lincoln Square 13 @ 2026-10-20T22:30:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-20T23:00:00 (Standard)
+- Verity
+  - − AMC Lincoln Square 13 @ 2026-10-18T10:00:00 (Standard)
+
 ## 2026-10-13 04:09 PM CDT
 
 **Movies added:**
