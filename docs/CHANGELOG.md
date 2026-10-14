@@ -1,3 +1,30 @@
+## 2026-10-14 09:59 AM CDT
+
+**Movies added:**
+- ZERO A.D.: The Birth of Christ Early Access Event
+
+**Showtime changes:**
+- The Social Reckoning
+  - + AMC Lincoln Square 13 @ 2026-10-15T11:00:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-15T10:00:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-15T13:00:00 (Standard)
+- You Can See Everything
+  - + AMC Lincoln Square 13 @ 2026-10-15T18:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-15T22:15:00 (Standard)
+- Resident Evil
+  - + AMC Lincoln Square 13 @ 2026-10-15T11:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-15T13:30:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-15T11:15:00 (Standard)
+- Other Mommy
+  - + AMC Lincoln Square 13 @ 2026-10-15T15:45:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-15T15:30:00 (Standard)
+- Misty Green
+  - + AMC Lincoln Square 13 @ 2026-10-14T22:45:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-14T20:15:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-14T23:00:00 (Standard)
+- Sense and Sensibility: Early Access Movie Party
+  - + AMC Lincoln Square 13 @ 2026-10-14T20:00:00 (Standard)
+
 ## 2026-10-14 04:26 AM CDT
 
 **Movies removed:**
