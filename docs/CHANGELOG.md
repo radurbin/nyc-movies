@@ -1,3 +1,86 @@
+## 2026-10-15 02:49 PM CDT
+
+**Movies added:**
+- Avengers Endgame: Encore
+- Guillermo del Toro's Pan's Labyrinth 20th Anniversary
+
+**Showtime changes:**
+- Street Fighter
+  - + AMC 34th Street 14 @ 2026-10-15T14:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-15T16:00:00 (IMAX at AMC)
+  - + AMC 34th Street 14 @ 2026-10-15T16:30:00 (Dolby Cinema at AMC)
+  - + AMC 34th Street 14 @ 2026-10-15T18:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-15T21:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-15T22:00:00 (IMAX at AMC)
+  - + AMC 34th Street 14 @ 2026-10-15T22:40:00 (Dolby Cinema at AMC)
+- Other Mommy
+  - + AMC 34th Street 14 @ 2026-10-15T12:30:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-15T14:00:00 (Dolby Cinema at AMC)
+  - + AMC 34th Street 14 @ 2026-10-15T17:10:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-15T20:15:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-15T22:45:00 (Standard)
+- The Odyssey
+  - + AMC 34th Street 14 @ 2026-10-15T12:10:00 (IMAX at AMC)
+- Sense and Sensibility
+  - + AMC 34th Street 14 @ 2026-10-15T14:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-15T14:50:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-15T17:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-15T18:15:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-15T19:40:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-15T21:30:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-15T22:50:00 (Standard)
+- Resident Evil
+  - + AMC 34th Street 14 @ 2026-10-15T13:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-15T15:30:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-15T18:15:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-15T22:10:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-16T10:00:00 (Standard)
+  - + AMC 84th Street 6 @ 2026-10-16T23:00:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-10-15T22:15:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-16T10:15:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-16T12:45:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-10-16T22:50:00 (Standard)
+- Ken Russell's The Devils
+  - + AMC 34th Street 14 @ 2026-10-15T19:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-15T20:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-15T22:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-15T22:35:00 (Standard)
+- Primetime
+  - + AMC 34th Street 14 @ 2026-10-15T12:30:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-15T15:15:00 (Standard)
+- Forgotten Island
+  - + AMC 34th Street 14 @ 2026-10-15T12:40:00 (Standard)
+- The Social Reckoning
+  - + AMC 34th Street 14 @ 2026-10-15T12:45:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-15T15:45:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-15T19:45:00 (Standard)
+- Street Fighter: Bonus Round Fan Event
+  - + AMC 34th Street 14 @ 2026-10-15T19:00:00 (IMAX at AMC)
+  - + AMC 34th Street 14 @ 2026-10-15T19:30:00 (Dolby Cinema at AMC)
+- Verity
+  - + AMC 34th Street 14 @ 2026-10-15T12:15:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-15T19:15:00 (Standard)
+- Whalefall
+  - + AMC 34th Street 14 @ 2026-10-15T14:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-15T15:30:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-15T16:40:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-15T19:25:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-15T22:10:00 (Standard)
+- Digger
+  - + AMC 34th Street 14 @ 2026-10-15T12:20:00 (Standard)
+- You Can See Everything
+  - + AMC 34th Street 14 @ 2026-10-15T15:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-15T15:15:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-15T15:30:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-15T16:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-15T18:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-15T18:30:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-15T20:45:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-15T21:50:00 (Standard)
+  - + AMC 84th Street 6 @ 2026-10-15T22:15:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-15T22:20:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-15T22:50:00 (Standard)
+
 ## 2026-10-15 09:50 AM CDT
 
 **Movies added:**
