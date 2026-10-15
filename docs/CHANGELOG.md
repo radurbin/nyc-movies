@@ -1,3 +1,153 @@
+## 2026-10-15 04:04 AM CDT
+
+**Movies removed:**
+- 9 to 5
+- Portrait of an Artist: Stephen Curry
+- Sense and Sensibility: Early Access Movie Party
+- Spider-Man: Brand New Day
+- Training Day - 25th Anniversary
+
+**Showtime changes:**
+- The Social Reckoning
+  - − AMC Lincoln Square 13 @ 2026-10-14T10:00:00 (Dolby Cinema at AMC)
+  - − AMC Lincoln Square 13 @ 2026-10-14T13:00:00 (Dolby Cinema at AMC)
+  - − AMC 34th Street 14 @ 2026-10-14T13:30:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-14T16:00:00 (Dolby Cinema at AMC)
+  - − AMC 84th Street 6 @ 2026-10-14T16:15:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-14T16:20:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-10-14T19:15:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-14T19:15:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-14T19:30:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-14T22:10:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-10-14T22:15:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-14T22:30:00 (Standard)
+- Guillermo del Toro's Pan's Labyrinth 20th Anniversary
+  - − AMC 34th Street 14 @ 2026-10-14T12:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-14T14:20:00 (RealD 3D)
+  - − AMC 34th Street 14 @ 2026-10-14T16:40:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-14T19:00:00 (RealD 3D)
+  - − AMC 34th Street 14 @ 2026-10-14T21:25:00 (Standard)
+- Primetime
+  - − AMC Lincoln Square 13 @ 2026-10-14T10:30:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-14T12:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-14T13:25:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-14T13:30:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-14T14:30:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-14T16:30:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-10-14T17:15:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-14T17:15:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-14T18:30:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-10-14T19:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-14T20:00:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-14T21:30:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-14T22:15:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-10-14T22:30:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-14T22:45:00 (Standard)
+- Resident Evil
+  - − AMC Lincoln Square 13 @ 2026-10-14T10:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-14T12:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-14T13:00:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-10-14T14:45:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-14T15:30:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-10-14T16:00:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-14T16:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-14T18:10:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-10-14T20:15:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-14T21:50:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-14T22:45:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-10-14T22:45:00 (Standard)
+- Digger
+  - − AMC Lincoln Square 13 @ 2026-10-14T10:00:00 (IMAX at AMC)
+  - − AMC Lincoln Square 13 @ 2026-10-14T11:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-14T12:30:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-14T14:15:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-14T15:40:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-14T15:45:00 (IMAX at AMC)
+  - − AMC Lincoln Square 13 @ 2026-10-14T17:30:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-14T18:45:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-14T20:45:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-10-14T22:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-14T22:15:00 (Standard)
+- Clayface
+  - − AMC 34th Street 14 @ 2026-11-04T18:45:00 (Standard)
+- Fjord
+  - − AMC Lincoln Square 13 @ 2026-10-14T10:15:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-14T13:15:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-14T15:00:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-14T16:15:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-14T19:15:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-14T22:15:00 (Standard)
+- Misty Green
+  - − AMC Lincoln Square 13 @ 2026-10-14T11:15:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-14T14:15:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-14T17:15:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-14T22:45:00 (Standard)
+- Forgotten Island
+  - − AMC Lincoln Square 13 @ 2026-10-14T10:30:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-14T13:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-14T13:15:00 (RealD 3D)
+  - − AMC 34th Street 14 @ 2026-10-14T16:00:00 (RealD 3D)
+  - − AMC 34th Street 14 @ 2026-10-14T18:50:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-14T21:35:00 (Standard)
+- Musk
+  - − AMC Lincoln Square 13 @ 2026-10-14T10:00:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-14T15:00:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-14T20:00:00 (Standard)
+- Avengers Endgame: Encore
+  - − AMC 34th Street 14 @ 2026-10-14T16:10:00 (Standard)
+- The Odyssey
+  - − AMC Lincoln Square 13 @ 2026-10-14T10:45:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-14T14:45:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-14T19:00:00 (70MM at AMC)
+  - − AMC 34th Street 14 @ 2026-10-14T22:00:00 (IMAX at AMC)
+  - − AMC Lincoln Square 13 @ 2026-10-14T23:00:00 (70MM at AMC)
+- Your Mother Your Mother Your Mother
+  - − AMC Lincoln Square 13 @ 2026-10-14T13:30:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-14T16:30:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-14T21:30:00 (Standard)
+- Heart of the Beast
+  - − AMC 34th Street 14 @ 2026-10-14T12:50:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-10-14T14:30:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-14T15:35:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-10-14T17:05:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-14T19:30:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-10-14T19:45:00 (Standard)
+- Other Mommy
+  - − AMC Lincoln Square 13 @ 2026-10-14T10:45:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-14T12:15:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-14T13:45:00 (Dolby Cinema at AMC)
+  - − AMC Lincoln Square 13 @ 2026-10-14T13:45:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-14T14:45:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-10-14T15:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-14T16:20:00 (Dolby Cinema at AMC)
+  - − AMC Lincoln Square 13 @ 2026-10-14T16:45:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-14T17:15:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-10-14T17:30:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-14T19:45:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-14T19:45:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-10-14T20:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-14T20:45:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-14T21:50:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-10-14T22:30:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-14T22:35:00 (Standard)
+- Verity
+  - − AMC Lincoln Square 13 @ 2026-10-14T10:00:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-14T12:30:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-14T12:45:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-14T13:45:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-14T15:30:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-14T15:40:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-10-14T16:00:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-10-14T18:30:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-14T18:30:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-14T18:30:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-14T19:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-14T20:15:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-14T21:30:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-10-14T21:45:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-14T22:30:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-14T22:30:00 (Standard)
+
 ## 2026-10-14 07:25 PM CDT
 
 **Movies added:**
