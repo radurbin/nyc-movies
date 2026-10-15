@@ -1,11 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-10-14T15:08:45.963475-05:00",
-    "movie_count": 60,
-    "showtime_count": 2644,
+    "generated_at": "2026-10-14T19:25:34.394111-05:00",
+    "movie_count": 62,
+    "showtime_count": 2645,
     "theaters": {
       "AMC 34th Street 14": 1210,
-      "AMC Lincoln Square 13": 1059,
+      "AMC Lincoln Square 13": 1060,
       "AMC 84th Street 6": 375
     }
   },
@@ -31265,7 +31265,7 @@
       "rotten_tomatoes": "100%",
       "metacritic": "84/100",
       "letterboxd_rating": 4.27,
-      "letterboxd_rating_count": 9895,
+      "letterboxd_rating_count": 9928,
       "letterboxd_url": "https://letterboxd.com/film/club-kid/",
       "awards": "2 wins & 6 nominations total",
       "language": "English",
@@ -33135,7 +33135,7 @@
       "rotten_tomatoes": "52%",
       "metacritic": null,
       "letterboxd_rating": 3.89,
-      "letterboxd_rating_count": 463595,
+      "letterboxd_rating_count": 469253,
       "letterboxd_url": "https://letterboxd.com/film/digger-2026/",
       "awards": "N/A",
       "language": "English",
@@ -33454,7 +33454,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-14/34thstreet/all/147072773",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -46156,7 +46156,7 @@
       "rotten_tomatoes": "91%",
       "metacritic": "78/100",
       "letterboxd_rating": 3.79,
-      "letterboxd_rating_count": 75065,
+      "letterboxd_rating_count": 75393,
       "letterboxd_url": "https://letterboxd.com/film/fjord-2026/",
       "awards": "3 wins & 2 nominations total",
       "language": "English, Romanian, Norwegian, Swedish",
@@ -47528,7 +47528,7 @@
       "rotten_tomatoes": "95%",
       "metacritic": "73/100",
       "letterboxd_rating": 3.91,
-      "letterboxd_rating_count": 101626,
+      "letterboxd_rating_count": 101935,
       "letterboxd_url": "https://letterboxd.com/film/forgotten-island-2026/",
       "awards": "N/A",
       "language": "English, Tagalog",
@@ -48395,7 +48395,7 @@
       "rotten_tomatoes": "97%",
       "metacritic": null,
       "letterboxd_rating": 3.93,
-      "letterboxd_rating_count": 1317,
+      "letterboxd_rating_count": 1392,
       "letterboxd_url": "https://letterboxd.com/film/godzilla-minus-zero/",
       "awards": "N/A",
       "language": "Japanese",
@@ -53609,7 +53609,7 @@
       "rotten_tomatoes": "85%",
       "metacritic": null,
       "letterboxd_rating": 3.29,
-      "letterboxd_rating_count": 144479,
+      "letterboxd_rating_count": 145276,
       "letterboxd_url": "https://letterboxd.com/film/heart-of-the-beast-2026/",
       "awards": "N/A",
       "language": "English",
@@ -54268,6 +54268,46 @@
           "source": "AMC",
           "theater_id": 2120,
           "theater": "AMC 34th Street 14",
+          "showtime_id": 147784790,
+          "datetime": "2026-10-15T22:35:00",
+          "datetime_utc": "2026-10-16T02:35:00Z",
+          "auditorium": 1,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-15/34thstreet/all/147784790",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AOneLive",
+            "Laser at AMC",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 20.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 17.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 18.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
           "showtime_id": 147223990,
           "datetime": "2026-10-16T10:30:00",
           "datetime_utc": "2026-10-16T14:30:00Z",
@@ -54434,7 +54474,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-16/34thstreet/all/147223986",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -58092,7 +58132,7 @@
       "rotten_tomatoes": "56%",
       "metacritic": null,
       "letterboxd_rating": 2.95,
-      "letterboxd_rating_count": 1891,
+      "letterboxd_rating_count": 1910,
       "letterboxd_url": "https://letterboxd.com/film/misty-green/",
       "awards": "N/A",
       "language": "English",
@@ -58343,7 +58383,7 @@
       "rotten_tomatoes": "100%",
       "metacritic": null,
       "letterboxd_rating": 3.47,
-      "letterboxd_rating_count": 1055,
+      "letterboxd_rating_count": 1064,
       "letterboxd_url": "https://letterboxd.com/film/musk-2026/",
       "awards": "N/A",
       "language": "English",
@@ -58962,7 +59002,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 2.23,
-      "letterboxd_rating_count": 155054,
+      "letterboxd_rating_count": 158776,
       "letterboxd_url": "https://letterboxd.com/film/other-mommy/",
       "awards": "N/A",
       "language": "English",
@@ -63830,7 +63870,7 @@
       "rotten_tomatoes": "86%",
       "metacritic": "75/100",
       "letterboxd_rating": 3.67,
-      "letterboxd_rating_count": 665037,
+      "letterboxd_rating_count": 668122,
       "letterboxd_url": "https://letterboxd.com/film/primetime-2026/",
       "awards": "1 nomination total",
       "language": "English",
@@ -66442,7 +66482,7 @@
       "rotten_tomatoes": "96%",
       "metacritic": null,
       "letterboxd_rating": 3.75,
-      "letterboxd_rating_count": 1488924,
+      "letterboxd_rating_count": 1493266,
       "letterboxd_url": "https://letterboxd.com/film/resident-evil-2026/",
       "awards": "N/A",
       "language": "English",
@@ -69256,7 +69296,7 @@
       "rotten_tomatoes": "84%",
       "metacritic": null,
       "letterboxd_rating": 3.77,
-      "letterboxd_rating_count": 1974,
+      "letterboxd_rating_count": 1977,
       "letterboxd_url": "https://letterboxd.com/film/i-play-rocky/",
       "awards": "N/A",
       "language": "English",
@@ -69394,7 +69434,7 @@
       "rotten_tomatoes": "79%",
       "metacritic": "72/100",
       "letterboxd_rating": 3.89,
-      "letterboxd_rating_count": 57910,
+      "letterboxd_rating_count": 58500,
       "letterboxd_url": "https://letterboxd.com/film/sense-and-sensibility-2026/",
       "awards": "N/A",
       "language": "English",
@@ -70180,7 +70220,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-16/34thstreet/all/147381911",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -72686,7 +72726,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-14/lincolnsquare/all/147910236",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -72755,7 +72795,7 @@
       "rotten_tomatoes": "90%",
       "metacritic": "66/100",
       "letterboxd_rating": 4.03,
-      "letterboxd_rating_count": 4497060,
+      "letterboxd_rating_count": 4500115,
       "letterboxd_url": "https://letterboxd.com/film/spider-man-brand-new-day/",
       "awards": "1 nomination total",
       "language": "English",
@@ -73325,7 +73365,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 2.92,
-      "letterboxd_rating_count": 1673,
+      "letterboxd_rating_count": 2117,
       "letterboxd_url": "https://letterboxd.com/film/street-fighter-2026/",
       "awards": "N/A",
       "language": "English",
@@ -83869,6 +83909,157 @@
       ]
     },
     {
+      "sort_index": "the mosquito bowl q&a w/ dir. peter berg, ray nicholson, tom francis moderated by scott z. burns",
+      "source": "AMC",
+      "movie_id": 85426,
+      "title": "The Mosquito Bowl Q&A w/ Dir. Peter Berg, Ray Nicholson, Tom Francis Moderated by Scott Z. Burns",
+      "release_year": 2026,
+      "runtime": 157,
+      "rating": "R",
+      "genres": [],
+      "poster": "posters/the-mosquito-bowl-qa-w-dir-peter-berg-ray-nicholson-tom-francis-moderated-by-scott-z-burns-2026.jpg",
+      "backdrop": null,
+      "short_description": null,
+      "plot": null,
+      "directors": [],
+      "writers": [],
+      "actors": [],
+      "imdb_id": null,
+      "imdb_rating": null,
+      "imdb_votes": null,
+      "rotten_tomatoes": null,
+      "metacritic": null,
+      "letterboxd_rating": null,
+      "letterboxd_rating_count": null,
+      "letterboxd_url": null,
+      "awards": null,
+      "language": null,
+      "country": null,
+      "box_office": null,
+      "website": null,
+      "movie_url": "https://www.amctheatres.com/movies/the-mosquito-bowl-q-a-w-dir-peter-berg-ray-nicholson-tom-francis-moderated-by-scott-z-burns-85426",
+      "trailer_url": null,
+      "showtimes": [
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 147914377,
+          "datetime": "2026-10-30T19:30:00",
+          "datetime_utc": "2026-10-30T23:30:00Z",
+          "auditorium": 3,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-30/lincolnsquare/all/147914377",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Club Rockers",
+            "AOneLive",
+            "Special Guest In-Person Q&A",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 21.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 18.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 19.99,
+              "tax": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sort_index": "the mosquito bowl with special q&a director/writer peter berg moderated by ron howard",
+      "source": "AMC",
+      "movie_id": 85414,
+      "title": "The Mosquito Bowl with Special Q&A Director/Writer Peter Berg Moderated by Ron Howard",
+      "release_year": 2026,
+      "runtime": 157,
+      "rating": "R",
+      "genres": [],
+      "poster": "posters/the-mosquito-bowl-with-special-qa-directorwriter-peter-berg-moderated-by-ron-howard-2026.jpg",
+      "backdrop": null,
+      "short_description": null,
+      "plot": null,
+      "directors": [],
+      "writers": [],
+      "actors": [],
+      "imdb_id": null,
+      "imdb_rating": null,
+      "imdb_votes": null,
+      "rotten_tomatoes": null,
+      "metacritic": null,
+      "letterboxd_rating": null,
+      "letterboxd_rating_count": null,
+      "letterboxd_url": null,
+      "awards": null,
+      "language": null,
+      "country": null,
+      "box_office": null,
+      "website": null,
+      "movie_url": "https://www.amctheatres.com/movies/the-mosquito-bowl-with-special-q-a-director-writer-peter-berg-moderated-by-ron-howard-85414",
+      "trailer_url": null,
+      "showtimes": [
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 147914374,
+          "datetime": "2026-10-30T19:00:00",
+          "datetime_utc": "2026-10-30T23:00:00Z",
+          "auditorium": 2,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-30/lincolnsquare/all/147914374",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Club Rockers",
+            "Closed Caption",
+            "Audio Description",
+            "Special Guest In-Person Q&A",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 21.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 18.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 19.99,
+              "tax": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    {
       "sort_index": "the mosquito bowl: fan event livestream q&a with director peter berg",
       "source": "AMC",
       "movie_id": 85377,
@@ -83979,7 +84170,7 @@
       "rotten_tomatoes": "94%",
       "metacritic": "88/100",
       "letterboxd_rating": 4.34,
-      "letterboxd_rating_count": 4576391,
+      "letterboxd_rating_count": 4577807,
       "letterboxd_url": "https://letterboxd.com/film/the-odyssey-2026/",
       "awards": "3 wins total",
       "language": "English, Greek",
@@ -84998,7 +85189,7 @@
       "rotten_tomatoes": "98%",
       "metacritic": null,
       "letterboxd_rating": 3.5,
-      "letterboxd_rating_count": 4628,
+      "letterboxd_rating_count": 4655,
       "letterboxd_url": "https://letterboxd.com/film/the-only-living-pickpocket-in-new-york/",
       "awards": "N/A",
       "language": "English",
@@ -86475,7 +86666,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.04,
-      "letterboxd_rating_count": 91268,
+      "letterboxd_rating_count": 93756,
       "letterboxd_url": "https://letterboxd.com/film/the-social-reckoning/",
       "awards": "N/A",
       "language": "English",
@@ -87381,48 +87572,6 @@
             {
               "type": "SENIOR",
               "price": 19.99,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 2120,
-          "theater": "AMC 34th Street 14",
-          "showtime_id": 147784790,
-          "datetime": "2026-10-15T22:35:00",
-          "datetime_utc": "2026-10-16T02:35:00Z",
-          "auditorium": 1,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-15/34thstreet/all/147784790",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "AOneLive",
-            "Closed Caption",
-            "Audio Description",
-            "Laser at AMC",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 20.49,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 17.49,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 18.99,
               "tax": 0.0
             }
           ]
@@ -88627,9 +88776,9 @@
           "theater_id": 2116,
           "theater": "AMC Lincoln Square 13",
           "showtime_id": 147761004,
-          "datetime": "2026-10-18T10:15:00",
-          "datetime_utc": "2026-10-18T14:15:00Z",
-          "auditorium": 8,
+          "datetime": "2026-10-18T10:00:00",
+          "datetime_utc": "2026-10-18T14:00:00Z",
+          "auditorium": 12,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-18/lincolnsquare/all/147761004",
           "sold_out": true,
@@ -88742,46 +88891,6 @@
             {
               "type": "SENIOR",
               "price": 16.79,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 2116,
-          "theater": "AMC Lincoln Square 13",
-          "showtime_id": 147761003,
-          "datetime": "2026-10-18T13:15:00",
-          "datetime_utc": "2026-10-18T17:15:00Z",
-          "auditorium": 8,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-18/lincolnsquare/all/147761003",
-          "sold_out": true,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": true,
-          "discount_message": "20% OFF",
-          "attributes": [
-            "AMC Club Rockers",
-            "Laser at AMC",
-            "Open Caption (On-screen Subtitles)",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 17.19,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 14.79,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 15.99,
               "tax": 0.0
             }
           ]
@@ -90605,7 +90714,7 @@
           "premium_format": "Dolby Cinema at AMC",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-14/34thstreet/all/147204614",
           "sold_out": false,
-          "almost_sold_out": true,
+          "almost_sold_out": false,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -90921,7 +91030,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 2.65,
-      "letterboxd_rating_count": 298844,
+      "letterboxd_rating_count": 301769,
       "letterboxd_url": "https://letterboxd.com/film/verity-2026/",
       "awards": "N/A",
       "language": "English",
@@ -91272,7 +91381,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-14/84thstreet/all/147619507",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -91634,6 +91743,47 @@
         },
         {
           "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
+          "showtime_id": 147920100,
+          "datetime": "2026-10-15T12:15:00",
+          "datetime_utc": "2026-10-15T16:15:00Z",
+          "auditorium": 10,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-15/34thstreet/all/147920100",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.39,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 13.99,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 15.19,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
           "theater_id": 2116,
           "theater": "AMC Lincoln Square 13",
           "showtime_id": 147761055,
@@ -91675,47 +91825,6 @@
         },
         {
           "source": "AMC",
-          "theater_id": 2120,
-          "theater": "AMC 34th Street 14",
-          "showtime_id": 147785054,
-          "datetime": "2026-10-15T13:30:00",
-          "datetime_utc": "2026-10-15T17:30:00Z",
-          "auditorium": 10,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-15/34thstreet/all/147785054",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": true,
-          "discount_message": "20% OFF",
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Laser at AMC",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 16.39,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 13.99,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 15.19,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
           "theater_id": 2102,
           "theater": "AMC 84th Street 6",
           "showtime_id": 147786411,
@@ -91751,47 +91860,6 @@
             {
               "type": "SENIOR",
               "price": 16.79,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 2120,
-          "theater": "AMC 34th Street 14",
-          "showtime_id": 147785053,
-          "datetime": "2026-10-15T16:20:00",
-          "datetime_utc": "2026-10-15T20:20:00Z",
-          "auditorium": 10,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-15/34thstreet/all/147785053",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Laser at AMC",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 20.49,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 17.49,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 18.99,
               "tax": 0.0
             }
           ]
@@ -94491,7 +94559,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.31,
-      "letterboxd_rating_count": 2107,
+      "letterboxd_rating_count": 2828,
       "letterboxd_url": "https://letterboxd.com/film/whalefall/",
       "awards": "N/A",
       "language": "English",
@@ -97413,7 +97481,7 @@
       "rotten_tomatoes": "92%",
       "metacritic": "70/100",
       "letterboxd_rating": 3.8,
-      "letterboxd_rating_count": 3518,
+      "letterboxd_rating_count": 3578,
       "letterboxd_url": "https://letterboxd.com/film/wicker/",
       "awards": "1 nomination total",
       "language": "English",
@@ -97603,7 +97671,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-22/lincolnsquare/all/147205134",
           "sold_out": false,
-          "almost_sold_out": true,
+          "almost_sold_out": false,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -100013,7 +100081,7 @@
       "rotten_tomatoes": "93%",
       "metacritic": null,
       "letterboxd_rating": 4.1,
-      "letterboxd_rating_count": 8932,
+      "letterboxd_rating_count": 8995,
       "letterboxd_url": "https://letterboxd.com/film/wild-horse-nine/",
       "awards": "N/A",
       "language": "English",
@@ -104173,8 +104241,8 @@
       "imdb_votes": "165",
       "rotten_tomatoes": "100%",
       "metacritic": "98/100",
-      "letterboxd_rating": 4.22,
-      "letterboxd_rating_count": 1026,
+      "letterboxd_rating": 4.23,
+      "letterboxd_rating_count": 1033,
       "letterboxd_url": "https://letterboxd.com/film/you-can-see-everything/",
       "awards": "N/A",
       "language": "English",
@@ -104201,6 +104269,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "AOneLive",
             "Closed Caption",
@@ -104243,6 +104312,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -104284,7 +104354,50 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "AOneLive",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 16.39,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 13.99,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 15.19,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
+          "showtime_id": 147920101,
+          "datetime": "2026-10-15T15:15:00",
+          "datetime_utc": "2026-10-15T19:15:00Z",
+          "auditorium": 10,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-15/34thstreet/all/147920101",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -104320,12 +104433,13 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-15/lincolnsquare/all/147733318",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "Closed Caption",
             "Audio Description",
@@ -104367,6 +104481,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "AOneLive",
             "Closed Caption",
             "Audio Description",
@@ -104409,6 +104524,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "AOneLive",
             "Closed Caption",
@@ -104451,6 +104567,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -104492,6 +104609,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "Closed Caption",
             "Audio Description",
@@ -104533,6 +104651,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -104574,6 +104693,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "AOneLive",
             "Closed Caption",
@@ -104616,6 +104736,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -104657,6 +104778,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "Closed Caption",
             "Audio Description",
@@ -104698,6 +104820,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -104739,6 +104862,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "AOneLive",
             "Closed Caption",
@@ -104781,6 +104905,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -104822,6 +104947,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "AOneLive",
             "Closed Caption",
@@ -104858,12 +104984,13 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-15/34thstreet/all/147785106",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -104905,6 +105032,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "Closed Caption",
             "Audio Description",
@@ -104946,6 +105074,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -104987,6 +105116,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "Closed Caption",
             "Audio Description",
@@ -105028,6 +105158,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -105069,6 +105200,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -105110,6 +105242,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "Closed Caption",
             "Audio Description",
@@ -105151,6 +105284,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "AOneLive",
             "Closed Caption",
@@ -105193,6 +105327,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -105234,6 +105369,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "Closed Caption",
             "Audio Description",
@@ -105275,6 +105411,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -105316,6 +105453,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "AOneLive",
             "Closed Caption",
@@ -105358,6 +105496,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "AOneLive",
             "Closed Caption",
@@ -105400,6 +105539,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -105441,6 +105581,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -105482,6 +105623,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "Closed Caption",
             "Audio Description",
@@ -105523,6 +105665,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -105564,6 +105707,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -105605,6 +105749,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "AOneLive",
             "Closed Caption",
@@ -105647,6 +105792,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -105688,6 +105834,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "AOneLive",
             "Closed Caption",
@@ -105730,6 +105877,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -105771,6 +105919,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "Closed Caption",
             "Audio Description",
@@ -105812,6 +105961,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -105853,6 +106003,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -105894,6 +106045,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "AOneLive",
             "Closed Caption",
@@ -105936,6 +106088,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -105977,6 +106130,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -106018,6 +106172,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "Closed Caption",
             "Audio Description",
@@ -106059,6 +106214,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -106100,6 +106256,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -106141,6 +106298,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -106176,12 +106334,13 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-16/lincolnsquare/all/147761021",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "Closed Caption",
             "Audio Description",
@@ -106223,6 +106382,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -106264,6 +106424,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "AOneLive",
             "Closed Caption",
@@ -106306,6 +106467,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -106347,6 +106509,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -106388,6 +106551,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "Closed Caption",
             "Audio Description",
@@ -106429,6 +106593,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "AOneLive",
             "Closed Caption",
@@ -106471,6 +106636,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "AOneLive",
             "Closed Caption",
             "Audio Description",
@@ -106513,6 +106679,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -106554,6 +106721,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -106595,6 +106763,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "Closed Caption",
             "Audio Description",
@@ -106636,6 +106805,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -106677,6 +106847,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -106718,6 +106889,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "AOneLive",
             "Laser at AMC",
@@ -106759,6 +106931,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -106800,6 +106973,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "AOneLive",
             "Closed Caption",
@@ -106842,6 +107016,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "Laser at AMC",
             "Open Caption (On-screen Subtitles)",
             "AMC Signature Recliners",
@@ -106882,6 +107057,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "Closed Caption",
             "Audio Description",
@@ -106923,6 +107099,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -106964,6 +107141,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -106999,12 +107177,13 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-10-17/lincolnsquare/all/147737732",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "AOneLive",
             "Closed Caption",
@@ -107047,6 +107226,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -107088,6 +107268,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -107129,6 +107310,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "Closed Caption",
             "Audio Description",
@@ -107170,6 +107352,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -107211,6 +107394,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -107252,6 +107436,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -107293,6 +107478,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "Closed Caption",
             "Audio Description",
@@ -107334,6 +107520,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "AOneLive",
             "Closed Caption",
             "Audio Description",
@@ -107376,6 +107563,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -107417,6 +107605,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "AOneLive",
             "Closed Caption",
@@ -107459,6 +107648,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -107500,6 +107690,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "Closed Caption",
             "Audio Description",
@@ -107541,6 +107732,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "AOneLive",
             "Closed Caption",
@@ -107583,6 +107775,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -107624,6 +107817,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -107665,6 +107859,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "Closed Caption",
             "Audio Description",
@@ -107706,6 +107901,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -107747,6 +107943,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -107788,6 +107985,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "AOneLive",
             "Laser at AMC",
@@ -107829,6 +108027,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -107870,6 +108069,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "AOneLive",
             "Closed Caption",
@@ -107912,6 +108112,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "Laser at AMC",
             "Open Caption (On-screen Subtitles)",
             "AMC Signature Recliners",
@@ -107952,6 +108153,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "Closed Caption",
             "Audio Description",
@@ -107993,6 +108195,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -108034,6 +108237,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -108075,6 +108279,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "AOneLive",
             "Closed Caption",
@@ -108117,6 +108322,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -108158,6 +108364,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -108199,6 +108406,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "Closed Caption",
             "Audio Description",
@@ -108240,6 +108448,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Laser at AMC",
             "Open Caption (On-screen Subtitles)",
             "AMC Signature Recliners",
@@ -108280,6 +108489,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -108321,6 +108531,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "Closed Caption",
             "Audio Description",
@@ -108362,6 +108573,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "AOneLive",
             "Closed Caption",
             "Audio Description",
@@ -108404,6 +108616,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -108445,6 +108658,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "AOneLive",
             "Closed Caption",
@@ -108487,6 +108701,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -108528,6 +108743,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "Closed Caption",
             "Audio Description",
@@ -108569,6 +108785,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "Closed Caption",
             "Audio Description",
@@ -108610,6 +108827,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "AOneLive",
             "Laser at AMC",
@@ -108651,6 +108869,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "AOneLive",
             "Closed Caption",
@@ -108693,6 +108912,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -108734,6 +108954,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -108775,6 +108996,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "Closed Caption",
             "Audio Description",
@@ -108816,6 +109038,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "Laser at AMC",
             "Open Caption (On-screen Subtitles)",
             "AMC Signature Recliners",
@@ -108856,6 +109079,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "AOneLive",
             "Closed Caption",
@@ -108898,6 +109122,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -108939,6 +109164,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "Closed Caption",
             "Audio Description",
@@ -108980,6 +109206,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -109021,6 +109248,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -109062,6 +109290,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "AOneLive",
             "Closed Caption",
@@ -109104,6 +109333,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -109145,6 +109375,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "Closed Caption",
             "Audio Description",
@@ -109186,6 +109417,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -109227,6 +109459,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -109268,6 +109501,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "Closed Caption",
             "Audio Description",
@@ -109309,6 +109543,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "Closed Caption",
             "Audio Description",
@@ -109350,6 +109585,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -109391,6 +109627,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "AOneLive",
             "Closed Caption",
@@ -109433,6 +109670,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -109474,6 +109712,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "AOneLive",
             "Closed Caption",
@@ -109516,6 +109755,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -109557,6 +109797,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "Closed Caption",
             "Audio Description",
@@ -109598,6 +109839,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -109639,6 +109881,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "AOneLive",
             "Closed Caption",
@@ -109681,6 +109924,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -109722,6 +109966,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -109763,6 +110008,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "Closed Caption",
             "Audio Description",
@@ -109804,6 +110050,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -109845,6 +110092,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -109886,6 +110134,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "AOneLive",
             "Closed Caption",
@@ -109928,6 +110177,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -109969,6 +110219,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -110010,6 +110261,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "AOneLive",
             "Closed Caption",
             "Audio Description",
@@ -110052,6 +110304,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -110093,6 +110346,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "Closed Caption",
             "Audio Description",
@@ -110134,6 +110388,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -110175,6 +110430,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "Closed Caption",
             "Audio Description",
@@ -110216,6 +110472,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "AOneLive",
             "Closed Caption",
@@ -110258,6 +110515,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -110299,6 +110557,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -110340,6 +110599,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "Closed Caption",
             "Audio Description",
@@ -110381,6 +110641,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -110422,6 +110683,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "AOneLive",
             "Closed Caption",
@@ -110464,6 +110726,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -110505,6 +110768,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -110546,6 +110810,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "Laser at AMC",
             "Open Caption (On-screen Subtitles)",
@@ -110586,6 +110851,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Laser at AMC",
             "Open Caption (On-screen Subtitles)",
             "AMC Signature Recliners",
@@ -110626,6 +110892,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -110667,6 +110934,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "AOneLive",
             "Closed Caption",
@@ -110709,6 +110977,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Laser at AMC",
             "Open Caption (On-screen Subtitles)",
             "AMC Signature Recliners",
@@ -110749,6 +111018,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -110790,6 +111060,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -110831,6 +111102,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -110872,6 +111144,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "Closed Caption",
             "Audio Description",
@@ -110913,6 +111186,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "Closed Caption",
             "Audio Description",
@@ -110954,6 +111228,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "Closed Caption",
             "Audio Description",
@@ -110995,6 +111270,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -111036,6 +111312,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "Closed Caption",
             "Audio Description",
@@ -111077,6 +111354,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -111118,6 +111396,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -111159,6 +111438,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "Closed Caption",
             "Audio Description",
@@ -111200,6 +111480,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "AOneLive",
             "Closed Caption",
@@ -111242,6 +111523,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -111283,6 +111565,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "AOneLive",
             "Closed Caption",
@@ -111325,6 +111608,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -111366,6 +111650,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "AOneLive",
             "Closed Caption",
@@ -111408,6 +111693,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -111449,6 +111735,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -111490,6 +111777,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "Closed Caption",
             "Audio Description",
@@ -111531,6 +111819,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "AOneLive",
             "Laser at AMC",
@@ -111572,6 +111861,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -111613,6 +111903,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "AOneLive",
             "Closed Caption",
@@ -111655,6 +111946,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -111696,6 +111988,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "AOneLive",
             "Closed Caption",
@@ -111738,6 +112031,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -111779,6 +112073,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -111820,6 +112115,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "Closed Caption",
             "Audio Description",
@@ -111861,6 +112157,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "AOneLive",
             "Laser at AMC",
@@ -111902,6 +112199,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -111943,6 +112241,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "AOneLive",
             "Closed Caption",
@@ -111985,6 +112284,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -112026,6 +112326,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "AOneLive",
             "Closed Caption",
@@ -112068,6 +112369,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Laser at AMC",
             "Open Caption (On-screen Subtitles)",
             "AMC Signature Recliners",
@@ -112108,6 +112410,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -112149,6 +112452,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "Closed Caption",
             "Audio Description",
@@ -112190,6 +112494,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "AOneLive",
             "Laser at AMC",
@@ -112231,6 +112536,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "AOneLive",
             "Closed Caption",
@@ -112273,6 +112579,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -112314,6 +112621,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "AOneLive",
             "Closed Caption",
@@ -112356,6 +112664,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -112397,6 +112706,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -112438,6 +112748,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "AOneLive",
             "Closed Caption",
@@ -112480,6 +112791,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "Closed Caption",
             "Audio Description",
@@ -112521,6 +112833,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "Closed Caption",
             "Audio Description",
@@ -112562,6 +112875,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -112603,6 +112917,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "Closed Caption",
             "Audio Description",
@@ -112644,6 +112959,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -112685,6 +113001,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -112726,6 +113043,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "AMC Club Rockers",
             "Closed Caption",
             "Audio Description",
@@ -112767,6 +113085,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -112808,6 +113127,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Laser at AMC",
             "Open Caption (On-screen Subtitles)",
             "AMC Signature Recliners",
@@ -112848,6 +113168,7 @@
           "discount_matinee": false,
           "discount_message": null,
           "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -112906,7 +113227,7 @@
       "rotten_tomatoes": "96%",
       "metacritic": null,
       "letterboxd_rating": 3.98,
-      "letterboxd_rating_count": 16833,
+      "letterboxd_rating_count": 16999,
       "letterboxd_url": "https://letterboxd.com/film/your-mother-your-mother-your-mother/",
       "awards": "N/A",
       "language": "English",

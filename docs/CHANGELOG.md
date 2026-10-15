@@ -1,3 +1,24 @@
+## 2026-10-14 07:25 PM CDT
+
+**Movies added:**
+- The Mosquito Bowl Q&A w/ Dir. Peter Berg, Ray Nicholson, Tom Francis Moderated by Scott Z. Burns
+- The Mosquito Bowl with Special Q&A Director/Writer Peter Berg Moderated by Ron Howard
+
+**Showtime changes:**
+- Verity
+  - + AMC 34th Street 14 @ 2026-10-15T12:15:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-15T13:30:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-15T16:20:00 (Standard)
+- The Social Reckoning
+  - + AMC Lincoln Square 13 @ 2026-10-18T10:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-15T22:35:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-18T10:15:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-18T13:15:00 (Standard)
+- Ken Russell's The Devils
+  - + AMC 34th Street 14 @ 2026-10-15T22:35:00 (Standard)
+- You Can See Everything
+  - + AMC 34th Street 14 @ 2026-10-15T15:15:00 (Standard)
+
 ## 2026-10-14 03:08 PM CDT
 
 **Showtime changes:**
