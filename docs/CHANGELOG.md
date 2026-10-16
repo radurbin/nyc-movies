@@ -1,3 +1,14 @@
+## 2026-10-15 07:14 PM CDT
+
+**Showtime changes:**
+- Resident Evil
+  - − AMC 34th Street 14 @ 2026-10-16T15:15:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-16T18:00:00 (Standard)
+- You Can See Everything
+  - + AMC Lincoln Square 13 @ 2026-10-15T19:30:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-16T12:15:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-16T16:30:00 (Standard)
+
 ## 2026-10-15 02:49 PM CDT
 
 **Movies added:**
