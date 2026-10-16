@@ -1,3 +1,32 @@
+## 2026-10-16 02:31 PM CDT
+
+**Movies added:**
+- I Play Rocky - Early Access
+- I Play Rocky
+- Once Upon a Time… in Hollywood
+
+**Showtime changes:**
+- Verity
+  - − AMC 34th Street 14 @ 2026-10-16T22:45:00 (Standard)
+- The Social Reckoning
+  - − AMC 84th Street 6 @ 2026-10-16T22:30:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-16T22:40:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-10-17T22:30:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-17T22:40:00 (Standard)
+- You Can See Everything
+  - + AMC 84th Street 6 @ 2026-10-16T22:15:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-16T22:40:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-16T23:00:00 (Standard)
+  - + AMC 84th Street 6 @ 2026-10-17T22:15:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-17T22:40:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-18T18:00:00 (Standard)
+- Street Fighter
+  - + AMC 34th Street 14 @ 2026-10-18T22:50:00 (IMAX at AMC)
+  - − AMC 34th Street 14 @ 2026-10-18T23:00:00 (IMAX at AMC)
+- WILDWOOD Fan First Screening
+  - + AMC Lincoln Square 13 @ 2026-10-19T23:00:00 (Dolby Cinema at AMC)
+  - − AMC Lincoln Square 13 @ 2026-10-19T23:00:00 (Standard)
+
 ## 2026-10-16 09:44 AM CDT
 
 **Movies added:**
