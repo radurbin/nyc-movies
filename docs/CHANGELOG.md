@@ -1,3 +1,30 @@
+## 2026-10-16 09:44 AM CDT
+
+**Movies added:**
+- The Irregular at Magic High School The Movie -Yotsuba Succession Arc-
+
+**Showtime changes:**
+- You Can See Everything
+  - + AMC Lincoln Square 13 @ 2026-10-16T22:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-16T22:45:00 (Standard)
+- Digger
+  - + AMC Lincoln Square 13 @ 2026-10-22T15:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-22T18:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-22T21:45:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-22T15:30:00 (Standard)
+- Street Fighter
+  - + AMC Lincoln Square 13 @ 2026-10-16T23:00:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-16T22:45:00 (Standard)
+- WILDWOOD Fan First Screening
+  - + AMC Lincoln Square 13 @ 2026-10-19T23:00:00 (Standard)
+- Verity
+  - − AMC Lincoln Square 13 @ 2026-10-16T22:30:00 (Standard)
+- The Social Reckoning
+  - + AMC Lincoln Square 13 @ 2026-10-16T22:30:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-16T22:15:00 (Standard)
+- Other Mommy
+  - − AMC Lincoln Square 13 @ 2026-10-16T23:00:00 (Standard)
+
 ## 2026-10-16 03:57 AM CDT
 
 **Movies removed:**
