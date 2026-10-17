@@ -1,3 +1,27 @@
+## 2026-10-17 01:23 PM CDT
+
+**Showtime changes:**
+- Other Mommy
+  - − AMC Lincoln Square 13 @ 2026-10-19T20:00:00 (Standard)
+- Verity
+  - − AMC Lincoln Square 13 @ 2026-10-19T22:30:00 (Standard)
+- You Can See Everything
+  - + AMC Lincoln Square 13 @ 2026-10-18T10:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-19T20:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-19T22:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-22T22:00:00 (Standard)
+- Street Fighter
+  - − AMC Lincoln Square 13 @ 2026-10-19T23:00:00 (Standard)
+- Sense and Sensibility
+  - + AMC Lincoln Square 13 @ 2026-10-19T22:45:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-19T22:30:00 (Standard)
+- The Social Reckoning
+  - + AMC Lincoln Square 13 @ 2026-10-19T22:30:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-19T22:15:00 (Standard)
+- Whalefall
+  - + AMC Lincoln Square 13 @ 2026-10-19T23:00:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-19T22:45:00 (Standard)
+
 ## 2026-10-17 08:36 AM CDT
 
 No changes.
