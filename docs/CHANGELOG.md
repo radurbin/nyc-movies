@@ -1,3 +1,39 @@
+## 2026-10-17 06:56 PM CDT
+
+**Showtime changes:**
+- Fjord
+  - − AMC Lincoln Square 13 @ 2026-10-19T21:45:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-20T22:00:00 (Standard)
+- Klara and the Sun
+  - − AMC 34th Street 14 @ 2026-10-22T22:10:00 (Standard)
+- Musk
+  - − AMC Lincoln Square 13 @ 2026-10-19T15:00:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-20T15:00:00 (Standard)
+- Other Mommy
+  - + AMC Lincoln Square 13 @ 2026-10-20T23:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-18T11:30:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-20T19:30:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-20T22:30:00 (Standard)
+- Resident Evil
+  - − AMC 34th Street 14 @ 2026-10-17T22:30:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-10-18T22:45:00 (Standard)
+- The Social Reckoning
+  - + AMC 84th Street 6 @ 2026-10-18T22:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-20T22:30:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-10-18T12:15:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-10-18T22:30:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-20T22:15:00 (Standard)
+- Wicker
+  - + AMC 34th Street 14 @ 2026-10-22T22:15:00 (Standard)
+- You Can See Everything
+  - + AMC 34th Street 14 @ 2026-10-17T22:50:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-18T10:10:00 (Standard)
+  - + AMC 84th Street 6 @ 2026-10-18T11:15:00 (Standard)
+  - + AMC 84th Street 6 @ 2026-10-18T22:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-19T16:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-19T21:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-20T22:15:00 (Standard)
+
 ## 2026-10-17 01:23 PM CDT
 
 **Showtime changes:**
