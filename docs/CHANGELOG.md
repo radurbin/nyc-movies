@@ -1,3 +1,82 @@
+## 2026-10-16 07:17 PM CDT
+
+**Movies added:**
+- Street Fighter with In-person Intro by Eric André
+
+**Showtime changes:**
+- Other Mommy
+  - + AMC Lincoln Square 13 @ 2026-10-21T10:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-21T13:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-21T16:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-21T19:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-21T23:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-17T22:50:00 (Standard)
+- The Social Reckoning
+  - + AMC Lincoln Square 13 @ 2026-10-17T22:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-18T22:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-21T10:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-21T13:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-21T16:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-21T19:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-21T22:15:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-17T22:15:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-18T22:15:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-19T22:20:00 (Standard)
+- Street Fighter
+  - + AMC 34th Street 14 @ 2026-10-19T13:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-21T23:00:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-17T16:00:00 (IMAX at AMC)
+  - − AMC Lincoln Square 13 @ 2026-10-17T22:45:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-19T14:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-19T17:00:00 (Standard)
+- You Can See Everything
+  - + AMC Lincoln Square 13 @ 2026-10-17T10:30:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-17T21:40:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-17T22:15:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-17T22:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-17T22:45:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-17T23:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-18T22:15:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-19T16:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-19T19:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-19T22:20:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-21T12:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-21T21:00:00 (Standard)
+- Your Mother Your Mother Your Mother
+  - + AMC Lincoln Square 13 @ 2026-10-21T15:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-21T22:30:00 (Standard)
+- Ken Russell's The Devils
+  - − AMC 34th Street 14 @ 2026-10-17T21:30:00 (Standard)
+- Fjord
+  - + AMC Lincoln Square 13 @ 2026-10-21T10:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-21T13:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-21T16:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-21T19:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-21T22:00:00 (Standard)
+- Whalefall
+  - + AMC Lincoln Square 13 @ 2026-10-21T23:00:00 (Dolby Cinema at AMC)
+- Sense and Sensibility
+  - + AMC Lincoln Square 13 @ 2026-10-22T11:00:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-17T11:15:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-18T11:15:00 (Standard)
+- The Odyssey
+  - + AMC Lincoln Square 13 @ 2026-10-21T16:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-22T14:15:00 (Standard)
+- Musk
+  - + AMC Lincoln Square 13 @ 2026-10-21T11:00:00 (Standard)
+- Primetime
+  - + AMC Lincoln Square 13 @ 2026-10-21T10:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-21T12:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-21T16:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-21T18:15:00 (Standard)
+- Verity
+  - + AMC Lincoln Square 13 @ 2026-10-21T10:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-21T20:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-21T22:45:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-17T22:30:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-17T22:30:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-18T22:30:00 (Standard)
+
 ## 2026-10-16 02:31 PM CDT
 
 **Movies added:**
