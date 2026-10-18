@@ -1,3 +1,20 @@
+## 2026-10-18 01:34 PM CDT
+
+**Showtime changes:**
+- The Social Reckoning
+  - + AMC 34th Street 14 @ 2026-10-20T10:20:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-20T15:10:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-20T11:20:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-20T14:10:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-20T22:40:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-21T22:20:00 (Standard)
+- Whalefall
+  - − AMC 34th Street 14 @ 2026-10-20T15:15:00 (Standard)
+- You Can See Everything
+  - + AMC 34th Street 14 @ 2026-10-20T13:10:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-20T22:40:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-21T22:20:00 (Standard)
+
 ## 2026-10-18 08:54 AM CDT
 
 No changes.
