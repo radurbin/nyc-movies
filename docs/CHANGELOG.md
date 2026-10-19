@@ -1,3 +1,49 @@
+## 2026-10-19 11:55 AM CDT
+
+**Movies added:**
+- Everest: The Other Side
+- The Cat in the Hat
+
+**Showtime changes:**
+- The Social Reckoning
+  - + AMC Lincoln Square 13 @ 2026-10-21T22:45:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-10-19T15:15:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-21T22:15:00 (Standard)
+- Fjord
+  - − AMC Lincoln Square 13 @ 2026-10-21T22:00:00 (Standard)
+- Street Fighter
+  - − AMC Lincoln Square 13 @ 2026-10-21T23:00:00 (Standard)
+- Resident Evil
+  - − AMC 84th Street 6 @ 2026-10-19T22:45:00 (Standard)
+- You Can See Everything
+  - + AMC 84th Street 6 @ 2026-10-19T14:15:00 (Standard)
+  - + AMC 84th Street 6 @ 2026-10-19T22:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-20T16:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-20T19:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-21T19:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-21T22:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-23T10:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-23T14:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-23T22:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-24T10:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-24T14:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-24T18:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-24T22:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-25T20:00:00 (Standard)
+- Clayface
+  - + AMC Lincoln Square 13 @ 2026-10-25T16:30:00 (Standard)
+- Verity
+  - + AMC 84th Street 6 @ 2026-10-19T22:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-21T23:00:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-10-19T22:00:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-21T22:45:00 (Standard)
+- The Only Living Pickpocket In New York
+  - − AMC Lincoln Square 13 @ 2026-10-22T17:30:00 (Standard)
+- Other Mommy
+  - − AMC Lincoln Square 13 @ 2026-10-21T19:30:00 (Standard)
+- The Only Living Pickpocket in New York: Q&A with John Turturro
+  - + AMC Lincoln Square 13 @ 2026-10-22T17:30:00 (Standard)
+
 ## 2026-10-19 04:48 AM CDT
 
 **Showtime changes:**
