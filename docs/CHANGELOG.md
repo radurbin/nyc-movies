@@ -1,3 +1,32 @@
+## 2026-10-18 07:06 PM CDT
+
+**Showtime changes:**
+- Ken Russell's The Devils
+  - + AMC 34th Street 14 @ 2026-10-19T21:55:00 (Standard)
+- Street Fighter
+  - − AMC 34th Street 14 @ 2026-10-20T12:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-20T15:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-21T17:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-21T20:00:00 (Standard)
+- Spirited Away 25th Anniversary - Studio Ghibli Fest 2026
+  - + AMC 34th Street 14 @ 2026-10-20T11:20:00 (Standard)
+- Heart of the Beast
+  - + AMC 34th Street 14 @ 2026-10-21T14:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-21T14:25:00 (Standard)
+- Primetime
+  - + AMC 34th Street 14 @ 2026-10-19T22:50:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-19T21:55:00 (Standard)
+- Verity
+  - − AMC 34th Street 14 @ 2026-10-19T22:50:00 (Standard)
+- You Can See Everything
+  - + AMC 34th Street 14 @ 2026-10-18T22:50:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-19T20:30:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-20T14:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-21T16:40:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-21T20:30:00 (Standard)
+- Other Mommy
+  - − AMC 34th Street 14 @ 2026-10-19T20:30:00 (Standard)
+
 ## 2026-10-18 01:34 PM CDT
 
 **Showtime changes:**
