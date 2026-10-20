@@ -1,3 +1,33 @@
+## 2026-10-20 09:55 AM CDT
+
+**Movies added:**
+- Disney's Hexed
+
+**Showtime changes:**
+- You Can See Everything
+  - − AMC Lincoln Square 13 @ 2026-10-22T12:00:00 (Standard)
+- Wicker
+  - + AMC Lincoln Square 13 @ 2026-10-22T10:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-22T12:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-22T13:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-22T15:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-22T16:30:00 (Standard)
+- Wildwood
+  - + AMC Lincoln Square 13 @ 2026-10-22T11:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-22T15:45:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-22T16:00:00 (Standard)
+- Other Mommy
+  - − AMC Lincoln Square 13 @ 2026-10-22T10:00:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-22T12:30:00 (Standard)
+- Whalefall
+  - − AMC Lincoln Square 13 @ 2026-10-22T16:00:00 (Standard)
+- Musk
+  - − AMC Lincoln Square 13 @ 2026-10-22T10:00:00 (Standard)
+- Fjord
+  - + AMC Lincoln Square 13 @ 2026-10-22T11:45:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-22T11:15:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-22T14:45:00 (Standard)
+
 ## 2026-10-20 04:20 AM CDT
 
 **Movies removed:**
