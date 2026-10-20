@@ -1,3 +1,32 @@
+## 2026-10-20 02:58 PM CDT
+
+**Movies added:**
+- AMC Screen Unseen: November 2
+
+**Showtime changes:**
+- Wildwood
+  - + AMC Lincoln Square 13 @ 2026-10-22T10:15:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-22T11:30:00 (Standard)
+- Ken Russell's The Devils
+  - + AMC 34th Street 14 @ 2026-10-20T22:40:00 (Standard)
+- Verity
+  - − AMC 84th Street 6 @ 2026-10-20T22:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-20T22:45:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-10-21T22:00:00 (Standard)
+- You Can See Everything
+  - + AMC 84th Street 6 @ 2026-10-20T22:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-20T22:45:00 (Standard)
+  - + AMC 84th Street 6 @ 2026-10-21T22:00:00 (Standard)
+- Other Mommy
+  - − AMC 34th Street 14 @ 2026-10-20T22:50:00 (Standard)
+- Sense and Sensibility
+  - − AMC Lincoln Square 13 @ 2026-10-22T10:30:00 (Dolby Cinema at AMC)
+- Musk
+  - + AMC Lincoln Square 13 @ 2026-10-22T10:00:00 (Standard)
+- Wicker
+  - + AMC Lincoln Square 13 @ 2026-10-22T10:30:00 (Dolby Cinema at AMC)
+  - − AMC Lincoln Square 13 @ 2026-10-22T10:30:00 (Standard)
+
 ## 2026-10-20 09:55 AM CDT
 
 **Movies added:**
