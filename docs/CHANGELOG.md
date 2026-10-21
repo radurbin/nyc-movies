@@ -1,3 +1,20 @@
+## 2026-10-21 03:03 PM CDT
+
+**Showtime changes:**
+- Sense and Sensibility
+  - + AMC 34th Street 14 @ 2026-10-21T22:30:00 (Standard)
+- Godzilla Minus Zero - Godzilla Day IMAX Early Access
+  - + AMC 34th Street 14 @ 2026-11-04T15:45:00 (IMAX at AMC)
+  - + AMC Lincoln Square 13 @ 2026-11-04T15:45:00 (IMAX at AMC)
+  - + AMC Lincoln Square 13 @ 2026-11-04T19:00:00 (IMAX at AMC)
+- Once Upon a Time… in Hollywood
+  - − AMC 34th Street 14 @ 2026-11-04T15:00:00 (IMAX at AMC)
+- Whalefall
+  - + AMC 34th Street 14 @ 2026-10-21T22:00:00 (Dolby Cinema at AMC)
+  - − AMC 34th Street 14 @ 2026-10-21T22:30:00 (Standard)
+- Street Fighter
+  - − AMC 34th Street 14 @ 2026-10-21T22:00:00 (Dolby Cinema at AMC)
+
 ## 2026-10-21 10:02 AM CDT
 
 **Movies added:**

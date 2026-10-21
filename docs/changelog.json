@@ -1,75 +1,5 @@
 [
   {
-    "date": "2026-09-24 02:57 PM CDT",
-    "movies_added": [
-      "The Influencer Project"
-    ],
-    "movies_removed": [],
-    "showtime_changes": [
-      {
-        "title": "Primetime",
-        "added": [
-          {
-            "theater": "AMC 34th Street 14",
-            "datetime": "2026-09-25T23:05:00",
-            "format": "Standard"
-          }
-        ],
-        "removed": [
-          {
-            "theater": "AMC Lincoln Square 13",
-            "datetime": "2026-09-25T12:30:00",
-            "format": "Standard"
-          }
-        ]
-      },
-      {
-        "title": "Practical Magic 2",
-        "added": [],
-        "removed": [
-          {
-            "theater": "AMC 34th Street 14",
-            "datetime": "2026-09-25T23:00:00",
-            "format": "Standard"
-          }
-        ]
-      },
-      {
-        "title": "Guillermo del Toro's Pan's Labyrinth 20th Anniversary",
-        "added": [
-          {
-            "theater": "AMC 34th Street 14",
-            "datetime": "2026-10-08T19:30:00",
-            "format": "Standard"
-          }
-        ],
-        "removed": []
-      },
-      {
-        "title": "Resident Evil",
-        "added": [],
-        "removed": [
-          {
-            "theater": "AMC Lincoln Square 13",
-            "datetime": "2026-09-25T10:00:00",
-            "format": "Standard"
-          }
-        ]
-      },
-      {
-        "title": "Spider-Man: Brand New Day",
-        "added": [],
-        "removed": [
-          {
-            "theater": "AMC Lincoln Square 13",
-            "datetime": "2026-09-25T15:15:00",
-            "format": "Standard"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "date": "2026-09-24 07:26 PM CDT",
     "movies_added": [
       "Fjord"
@@ -45015,5 +44945,83 @@
     ],
     "movies_removed": [],
     "showtime_changes": []
+  },
+  {
+    "date": "2026-10-21 03:03 PM CDT",
+    "movies_added": [],
+    "movies_removed": [],
+    "showtime_changes": [
+      {
+        "title": "Sense and Sensibility",
+        "added": [
+          {
+            "theater": "AMC 34th Street 14",
+            "datetime": "2026-10-21T22:30:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": []
+      },
+      {
+        "title": "Godzilla Minus Zero - Godzilla Day IMAX Early Access",
+        "added": [
+          {
+            "theater": "AMC 34th Street 14",
+            "datetime": "2026-11-04T15:45:00",
+            "format": "IMAX at AMC"
+          },
+          {
+            "theater": "AMC Lincoln Square 13",
+            "datetime": "2026-11-04T15:45:00",
+            "format": "IMAX at AMC"
+          },
+          {
+            "theater": "AMC Lincoln Square 13",
+            "datetime": "2026-11-04T19:00:00",
+            "format": "IMAX at AMC"
+          }
+        ],
+        "removed": []
+      },
+      {
+        "title": "Once Upon a Time… in Hollywood",
+        "added": [],
+        "removed": [
+          {
+            "theater": "AMC 34th Street 14",
+            "datetime": "2026-11-04T15:00:00",
+            "format": "IMAX at AMC"
+          }
+        ]
+      },
+      {
+        "title": "Whalefall",
+        "added": [
+          {
+            "theater": "AMC 34th Street 14",
+            "datetime": "2026-10-21T22:00:00",
+            "format": "Dolby Cinema at AMC"
+          }
+        ],
+        "removed": [
+          {
+            "theater": "AMC 34th Street 14",
+            "datetime": "2026-10-21T22:30:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Street Fighter",
+        "added": [],
+        "removed": [
+          {
+            "theater": "AMC 34th Street 14",
+            "datetime": "2026-10-21T22:00:00",
+            "format": "Dolby Cinema at AMC"
+          }
+        ]
+      }
+    ]
   }
 ]
