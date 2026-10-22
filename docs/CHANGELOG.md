@@ -1,3 +1,51 @@
+## 2026-10-21 07:35 PM CDT
+
+**Showtime changes:**
+- You Can See Everything
+  - + AMC 84th Street 6 @ 2026-10-21T21:50:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-29T10:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-29T11:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-29T14:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-29T15:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-29T18:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-29T19:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-29T22:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-30T10:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-30T14:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-30T18:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-30T22:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-31T10:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-31T11:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-31T14:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-31T15:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-31T18:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-31T19:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-31T22:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-01T10:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-01T11:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-01T14:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-01T15:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-01T18:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-01T19:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-01T22:00:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-10-21T22:00:00 (Standard)
+- The Mosquito Bowl
+  - + AMC Lincoln Square 13 @ 2026-11-02T10:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-02T13:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-02T16:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-02T19:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-02T22:45:00 (Standard)
+- Club Kid
+  - + AMC Lincoln Square 13 @ 2026-11-05T18:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-05T21:00:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-11-07T18:00:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-11-07T21:00:00 (Standard)
+- Other Mommy
+  - + AMC 84th Street 6 @ 2026-10-21T19:20:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-10-21T19:30:00 (Standard)
+- Whalefall
+  - + AMC Lincoln Square 13 @ 2026-10-24T12:00:00 (Standard)
+
 ## 2026-10-21 03:03 PM CDT
 
 **Showtime changes:**
