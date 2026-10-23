@@ -1,3 +1,45 @@
+## 2026-10-23 09:53 AM CDT
+
+**Showtime changes:**
+- Sense and Sensibility
+  - + AMC Lincoln Square 13 @ 2026-10-28T11:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-28T14:45:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-23T23:00:00 (Standard)
+- You Can See Everything
+  - + AMC Lincoln Square 13 @ 2026-10-23T22:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-27T21:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-28T19:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-28T21:00:00 (Standard)
+- Wildwood
+  - + AMC Lincoln Square 13 @ 2026-10-28T11:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-28T14:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-28T18:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-28T22:00:00 (Standard)
+- Fjord
+  - + AMC Lincoln Square 13 @ 2026-10-28T11:30:00 (Standard)
+- Primetime
+  - + AMC Lincoln Square 13 @ 2026-10-28T15:00:00 (Standard)
+- The Only Living Pickpocket In New York
+  - + AMC Lincoln Square 13 @ 2026-10-28T11:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-28T13:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-28T16:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-28T22:15:00 (Standard)
+- Wicker
+  - + AMC Lincoln Square 13 @ 2026-10-23T23:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-27T21:45:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-27T18:00:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-27T21:30:00 (Standard)
+- Whalefall
+  - + AMC Lincoln Square 13 @ 2026-10-28T22:45:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-23T22:15:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-27T11:15:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-27T14:15:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-27T20:45:00 (Standard)
+- The Social Reckoning
+  - + AMC Lincoln Square 13 @ 2026-10-28T15:00:00 (Standard)
+- The Odyssey
+  - + AMC Lincoln Square 13 @ 2026-10-28T11:00:00 (Standard)
+
 ## 2026-10-23 04:15 AM CDT
 
 **Movies removed:**
