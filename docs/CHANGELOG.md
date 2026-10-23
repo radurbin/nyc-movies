@@ -1,3 +1,29 @@
+## 2026-10-23 02:55 PM CDT
+
+**Movies added:**
+- Heated Rivalry: Episode 1 & 2
+- Heated Rivalry: Episode 3 & 4
+- Heated Rivalry: Episode 5 & 6
+
+**Showtime changes:**
+- Wildwood
+  - + AMC 34th Street 14 @ 2026-10-24T22:10:00 (Standard)
+- Klara and the Sun
+  - − AMC 34th Street 14 @ 2026-10-23T22:10:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-24T22:10:00 (Standard)
+- Other Mommy
+  - − AMC 34th Street 14 @ 2026-10-24T22:45:00 (Standard)
+- Whalefall
+  - − AMC 34th Street 14 @ 2026-10-23T23:10:00 (Standard)
+- You Can See Everything
+  - + AMC 34th Street 14 @ 2026-10-23T22:25:00 (Standard)
+  - + AMC 84th Street 6 @ 2026-10-23T22:45:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-24T22:30:00 (Standard)
+- Wicker
+  - + AMC 34th Street 14 @ 2026-10-23T23:10:00 (Standard)
+- The Social Reckoning
+  - − AMC 84th Street 6 @ 2026-10-23T23:00:00 (Standard)
+
 ## 2026-10-23 09:53 AM CDT
 
 **Showtime changes:**
