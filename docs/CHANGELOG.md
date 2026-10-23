@@ -1,3 +1,22 @@
+## 2026-10-22 07:32 PM CDT
+
+**Showtime changes:**
+- Klara and the Sun
+  - − AMC 34th Street 14 @ 2026-10-23T16:20:00 (Standard)
+- Clayface
+  - + AMC 34th Street 14 @ 2026-10-23T16:20:00 (Standard)
+- Wicker
+  - + AMC 34th Street 14 @ 2026-10-23T15:15:00 (Standard)
+- Sense and Sensibility
+  - − AMC 34th Street 14 @ 2026-10-22T22:45:00 (Standard)
+- You Can See Everything
+  - + AMC 34th Street 14 @ 2026-10-22T22:45:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-23T22:45:00 (Standard)
+- Verity
+  - − AMC 34th Street 14 @ 2026-10-23T15:10:00 (Standard)
+- Other Mommy
+  - − AMC 34th Street 14 @ 2026-10-23T22:45:00 (Standard)
+
 ## 2026-10-22 02:57 PM CDT
 
 **Movies added:**
