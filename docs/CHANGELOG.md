@@ -1,3 +1,29 @@
+## 2026-10-24 01:44 PM CDT
+
+**Showtime changes:**
+- Whalefall
+  - − AMC 34th Street 14 @ 2026-10-24T23:10:00 (Standard)
+- Street Fighter
+  - − AMC 34th Street 14 @ 2026-10-24T22:00:00 (Standard)
+- Wicker
+  - + AMC Lincoln Square 13 @ 2026-10-25T22:45:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-25T22:30:00 (Standard)
+- Ken Russell's The Devils
+  - − AMC 34th Street 14 @ 2026-10-24T22:50:00 (Standard)
+- You Can See Everything
+  - + AMC 34th Street 14 @ 2026-10-24T21:55:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-24T22:50:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-25T18:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-25T22:15:00 (Standard)
+- The Only Living Pickpocket In New York
+  - + AMC Lincoln Square 13 @ 2026-10-25T16:15:00 (Standard)
+- Sense and Sensibility
+  - + AMC 34th Street 14 @ 2026-10-24T23:10:00 (Standard)
+- Klara and the Sun
+  - − AMC Lincoln Square 13 @ 2026-10-25T16:00:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-25T19:00:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-25T22:00:00 (Standard)
+
 ## 2026-10-24 08:57 AM CDT
 
 No changes.
