@@ -1,3 +1,21 @@
+## 2026-10-23 07:27 PM CDT
+
+**Showtime changes:**
+- You Can See Everything
+  - + AMC 34th Street 14 @ 2026-10-23T23:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-24T12:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-24T22:15:00 (Standard)
+- Sense and Sensibility
+  - − AMC Lincoln Square 13 @ 2026-10-24T23:00:00 (Standard)
+- Wicker
+  - + AMC Lincoln Square 13 @ 2026-10-24T23:00:00 (Standard)
+- Whalefall
+  - − AMC Lincoln Square 13 @ 2026-10-24T12:00:00 (Standard)
+- Klara and the Sun
+  - − AMC Lincoln Square 13 @ 2026-10-24T22:00:00 (Standard)
+- Ken Russell's The Devils
+  - − AMC 34th Street 14 @ 2026-10-23T22:50:00 (Standard)
+
 ## 2026-10-23 02:55 PM CDT
 
 **Movies added:**
