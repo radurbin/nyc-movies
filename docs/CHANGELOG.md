@@ -1,3 +1,53 @@
+## 2026-10-24 07:11 PM CDT
+
+**Showtime changes:**
+- Fjord
+  - + AMC Lincoln Square 13 @ 2026-10-25T23:00:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-25T22:15:00 (Standard)
+- The Social Reckoning
+  - − AMC 84th Street 6 @ 2026-10-24T23:00:00 (Standard)
+- Wicker
+  - + AMC 34th Street 14 @ 2026-10-25T16:20:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-27T13:00:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-25T23:00:00 (Standard)
+- You Can See Everything
+  - + AMC 84th Street 6 @ 2026-10-24T22:45:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-25T20:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-25T21:30:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-26T19:30:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-26T21:00:00 (Standard)
+- Resident Evil
+  - − AMC 34th Street 14 @ 2026-10-25T21:30:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-26T23:00:00 (Standard)
+- Wildwood
+  - + AMC Lincoln Square 13 @ 2026-10-25T10:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-25T22:00:00 (Standard)
+- Other Mommy
+  - + AMC 34th Street 14 @ 2026-10-25T22:10:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-25T20:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-25T22:45:00 (Standard)
+- Clayface
+  - + AMC 34th Street 14 @ 2026-10-27T16:00:00 (Standard)
+- Klara and the Sun
+  - + AMC Lincoln Square 13 @ 2026-10-25T13:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-10-25T22:15:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-26T22:55:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-25T10:00:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-25T13:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-25T16:20:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-25T22:10:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-26T19:15:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-26T22:10:00 (Standard)
+- Street Fighter
+  - − AMC 34th Street 14 @ 2026-10-25T22:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-26T21:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-27T13:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-27T16:00:00 (Standard)
+- The Only Living Pickpocket In New York
+  - + AMC Lincoln Square 13 @ 2026-10-25T14:00:00 (Standard)
+- Whalefall
+  - − AMC Lincoln Square 13 @ 2026-10-25T13:45:00 (Standard)
+
 ## 2026-10-24 01:44 PM CDT
 
 **Showtime changes:**
