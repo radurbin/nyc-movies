@@ -1,3 +1,24 @@
+## 2026-10-25 07:04 PM CDT
+
+**Showtime changes:**
+- Wicker
+  - + AMC Lincoln Square 13 @ 2026-10-27T22:00:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-27T21:45:00 (Standard)
+- Klara and the Sun
+  - − AMC 34th Street 14 @ 2026-10-27T16:20:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-27T19:15:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-27T22:10:00 (Standard)
+- Street Fighter
+  - − AMC 34th Street 14 @ 2026-10-27T22:00:00 (Standard)
+- Clayface
+  - + AMC 34th Street 14 @ 2026-10-27T22:00:00 (Standard)
+- Wildwood
+  - + AMC 34th Street 14 @ 2026-10-27T16:45:00 (Standard)
+- You Can See Everything
+  - + AMC 84th Street 6 @ 2026-10-25T22:20:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-27T20:00:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-10-25T22:30:00 (Standard)
+
 ## 2026-10-25 01:52 PM CDT
 
 No changes.
