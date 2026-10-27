@@ -1,3 +1,43 @@
+## 2026-10-27 03:35 PM CDT
+
+**Showtime changes:**
+- You Can See Everything
+  - + AMC Lincoln Square 13 @ 2026-11-04T10:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-04T11:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-04T12:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-04T13:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-04T14:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-04T15:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-04T16:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-04T17:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-04T18:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-04T19:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-04T20:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-04T21:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-04T22:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-05T11:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-05T12:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-05T14:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-05T16:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-05T20:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-06T11:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-06T15:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-06T18:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-06T19:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-06T21:30:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-11-05T12:30:00 (Standard)
+- Wildwood
+  - + AMC Lincoln Square 13 @ 2026-11-04T12:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-04T15:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-04T18:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-04T21:15:00 (Standard)
+- Wicker
+  - + AMC Lincoln Square 13 @ 2026-11-04T10:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-04T13:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-04T16:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-04T19:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-04T22:30:00 (Standard)
+
 ## 2026-10-27 10:50 AM CDT
 
 **Movies added:**
