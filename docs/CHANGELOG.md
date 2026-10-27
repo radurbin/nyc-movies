@@ -1,3 +1,121 @@
+## 2026-10-27 10:50 AM CDT
+
+**Movies added:**
+- AMC Screen Unseen: November 9
+- Ghost Soldier
+
+**Showtime changes:**
+- I Play Rocky
+  - + AMC Lincoln Square 13 @ 2026-11-05T23:15:00 (Dolby Cinema at AMC)
+  - − AMC Lincoln Square 13 @ 2026-11-05T23:30:00 (Dolby Cinema at AMC)
+  - − AMC Lincoln Square 13 @ 2026-11-09T09:00:00 (Dolby Cinema at AMC)
+- Digger
+  - + AMC Lincoln Square 13 @ 2026-11-02T12:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-02T15:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-02T21:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-03T11:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-03T21:45:00 (Standard)
+- Klara and the Sun
+  - + AMC Lincoln Square 13 @ 2026-11-02T10:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-03T10:00:00 (Standard)
+- The Social Reckoning
+  - + AMC Lincoln Square 13 @ 2026-11-02T10:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-03T10:30:00 (Standard)
+- Club Kid
+  - − AMC Lincoln Square 13 @ 2026-11-09T09:00:00 (Standard)
+- Street Fighter
+  - + AMC Lincoln Square 13 @ 2026-11-02T10:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-02T13:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-02T16:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-02T19:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-02T22:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-03T10:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-03T13:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-03T16:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-03T19:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-03T22:30:00 (Standard)
+- You Can See Everything
+  - + AMC Lincoln Square 13 @ 2026-11-02T10:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-02T11:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-02T12:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-02T13:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-02T14:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-02T15:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-02T16:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-02T17:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-02T18:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-02T19:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-02T20:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-02T21:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-02T22:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-03T10:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-03T11:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-03T12:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-03T13:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-03T14:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-03T15:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-03T16:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-03T17:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-03T18:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-03T19:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-03T20:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-03T21:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-03T22:00:00 (Standard)
+- Clayface
+  - + AMC Lincoln Square 13 @ 2026-11-02T13:45:00 (Dolby Cinema at AMC)
+  - + AMC Lincoln Square 13 @ 2026-11-02T16:45:00 (Dolby Cinema at AMC)
+  - + AMC Lincoln Square 13 @ 2026-11-02T19:45:00 (Dolby Cinema at AMC)
+  - + AMC Lincoln Square 13 @ 2026-11-02T22:45:00 (Dolby Cinema at AMC)
+  - + AMC Lincoln Square 13 @ 2026-11-03T13:45:00 (Dolby Cinema at AMC)
+  - + AMC Lincoln Square 13 @ 2026-11-03T16:45:00 (Dolby Cinema at AMC)
+  - + AMC Lincoln Square 13 @ 2026-11-03T19:45:00 (Dolby Cinema at AMC)
+  - + AMC Lincoln Square 13 @ 2026-11-03T22:45:00 (Dolby Cinema at AMC)
+- Wicker
+  - + AMC Lincoln Square 13 @ 2026-11-02T10:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-02T13:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-02T16:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-02T19:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-02T22:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-03T10:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-03T13:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-03T16:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-03T19:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-03T22:30:00 (Standard)
+- Sense and Sensibility
+  - + AMC Lincoln Square 13 @ 2026-11-02T11:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-02T15:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-03T14:45:00 (Standard)
+- The Only Living Pickpocket In New York
+  - + AMC Lincoln Square 13 @ 2026-11-02T10:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-02T13:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-02T16:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-02T19:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-02T21:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-03T10:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-03T13:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-03T16:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-03T19:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-03T21:45:00 (Standard)
+- Everest: The Other Side
+  - + AMC Lincoln Square 13 @ 2026-11-02T10:00:00 (IMAX at AMC)
+  - + AMC Lincoln Square 13 @ 2026-11-02T22:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-03T22:00:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-11-02T21:30:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-11-03T21:30:00 (Standard)
+- Wildwood
+  - + AMC Lincoln Square 13 @ 2026-11-02T10:15:00 (Dolby Cinema at AMC)
+  - + AMC Lincoln Square 13 @ 2026-11-02T12:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-02T15:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-02T18:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-02T21:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-03T10:15:00 (Dolby Cinema at AMC)
+  - + AMC Lincoln Square 13 @ 2026-11-03T12:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-03T15:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-03T18:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-03T21:30:00 (Standard)
+- Godzilla Minus Zero - Godzilla Day IMAX Early Access
+  - + AMC Lincoln Square 13 @ 2026-11-04T22:15:00 (IMAX at AMC)
+
 ## 2026-10-27 04:45 AM CDT
 
 **Movies added:**
