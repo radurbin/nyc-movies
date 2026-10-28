@@ -1,3 +1,66 @@
+## 2026-10-28 03:57 PM CDT
+
+**Movies added:**
+- How to Rob a Bank: Early Access Screening
+- How to Rob a Bank
+- Hunger Games: Sunrise on the Reaping Early Access
+- Hunger Games: Sunrise on the Reaping
+- I Play Rocky Special Q&A with Cast/Filmmakers
+
+**Showtime changes:**
+- I Play Rocky
+  - + AMC Lincoln Square 13 @ 2026-11-05T14:00:00 (Dolby Cinema at AMC)
+  - + AMC Lincoln Square 13 @ 2026-11-05T17:05:00 (Dolby Cinema at AMC)
+  - − AMC Lincoln Square 13 @ 2026-11-05T17:00:00 (Dolby Cinema at AMC)
+  - − AMC Lincoln Square 13 @ 2026-11-05T22:30:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-11-07T23:00:00 (Standard)
+- The Mosquito Bowl
+  - + AMC Lincoln Square 13 @ 2026-11-05T10:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-05T13:45:00 (Standard)
+- Ken Russell's The Devils
+  - + AMC 34th Street 14 @ 2026-10-28T22:45:00 (Standard)
+- Wicker
+  - + AMC Lincoln Square 13 @ 2026-11-05T10:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-05T13:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-05T22:15:00 (Standard)
+- Other Mommy
+  - − AMC 34th Street 14 @ 2026-10-28T22:45:00 (Standard)
+- Club Kid
+  - + AMC Lincoln Square 13 @ 2026-11-05T19:30:00 (Standard)
+- Sense and Sensibility
+  - + AMC Lincoln Square 13 @ 2026-11-05T10:45:00 (Standard)
+- Everest: The Other Side
+  - + AMC Lincoln Square 13 @ 2026-11-05T10:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-05T12:30:00 (Standard)
+- You Can See Everything
+  - + AMC 34th Street 14 @ 2026-10-28T22:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-05T22:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-07T11:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-07T15:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-07T18:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-07T19:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-07T21:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-08T11:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-08T15:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-08T18:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-08T19:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-09T11:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-09T15:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-09T19:30:00 (Standard)
+- Wildwood
+  - + AMC Lincoln Square 13 @ 2026-11-05T10:15:00 (Dolby Cinema at AMC)
+- The Only Living Pickpocket In New York
+  - + AMC Lincoln Square 13 @ 2026-11-05T10:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-05T13:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-05T22:30:00 (Standard)
+- Street Fighter
+  - + AMC Lincoln Square 13 @ 2026-11-05T13:00:00 (Standard)
+- Clayface
+  - + AMC Lincoln Square 13 @ 2026-11-05T10:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-05T22:45:00 (Standard)
+- Whalefall
+  - − AMC 34th Street 14 @ 2026-10-28T22:15:00 (Standard)
+
 ## 2026-10-28 05:30 AM CDT
 
 **Movies removed:**
