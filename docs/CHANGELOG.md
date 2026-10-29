@@ -1,3 +1,14 @@
+## 2026-10-28 08:42 PM CDT
+
+**Showtime changes:**
+- Hunger Games: Sunrise on the Reaping Early Access
+  - + AMC Lincoln Square 13 @ 2026-11-18T19:00:00 (IMAX at AMC)
+  - + AMC Lincoln Square 13 @ 2026-11-18T22:00:00 (Dolby Cinema at AMC)
+  - + AMC Lincoln Square 13 @ 2026-11-18T23:00:00 (IMAX at AMC)
+- Hunger Games: Sunrise on the Reaping
+  - + AMC 34th Street 14 @ 2026-11-19T18:20:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-19T19:15:00 (Standard)
+
 ## 2026-10-28 03:57 PM CDT
 
 **Movies added:**
