@@ -1,3 +1,80 @@
+## 2026-10-29 04:00 PM CDT
+
+**Movies added:**
+- Paper Tiger
+
+**Showtime changes:**
+- Street Fighter
+  - + AMC Lincoln Square 13 @ 2026-11-04T22:15:00 (Standard)
+- The Crow - Welcome to Horrorwood Series
+  - + AMC 34th Street 14 @ 2026-10-30T22:45:00 (Standard)
+- The Mosquito Bowl
+  - + AMC 34th Street 14 @ 2026-10-30T23:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-04T13:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-04T16:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-04T19:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-04T22:15:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-29T22:20:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-30T19:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-30T22:00:00 (Standard)
+- Wicker
+  - + AMC 34th Street 14 @ 2026-10-30T15:00:00 (Standard)
+- Everest: The Other Side
+  - + AMC Lincoln Square 13 @ 2026-11-04T12:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-04T15:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-04T18:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-04T23:00:00 (Standard)
+- Clayface
+  - + AMC Lincoln Square 13 @ 2026-11-04T10:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-04T13:45:00 (Dolby Cinema at AMC)
+  - + AMC Lincoln Square 13 @ 2026-11-04T16:45:00 (Dolby Cinema at AMC)
+  - + AMC Lincoln Square 13 @ 2026-11-04T19:45:00 (Dolby Cinema at AMC)
+  - + AMC Lincoln Square 13 @ 2026-11-04T22:45:00 (Dolby Cinema at AMC)
+- Hunger Games: Sunrise on the Reaping Early Access
+  - + AMC 34th Street 14 @ 2026-11-18T19:00:00 (IMAX at AMC)
+- Dune: Part Three
+  - + AMC Lincoln Square 13 @ 2026-12-17T15:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-12-17T16:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-12-17T19:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-12-17T23:00:00 (Standard)
+- The Social Reckoning
+  - + AMC Lincoln Square 13 @ 2026-11-04T13:00:00 (Standard)
+- You Can See Everything
+  - + AMC 34th Street 14 @ 2026-10-29T22:20:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-10-30T19:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-04T19:30:00 (Standard)
+- Godzilla Minus Zero - Godzilla Day IMAX Early Access
+  - + AMC Lincoln Square 13 @ 2026-11-04T12:30:00 (IMAX at AMC)
+- Avengers: Doomsday
+  - + AMC Lincoln Square 13 @ 2026-12-17T14:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-12-17T23:00:00 (Standard)
+- The Only Living Pickpocket In New York
+  - + AMC Lincoln Square 13 @ 2026-10-31T21:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-04T10:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-04T12:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-04T14:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-04T17:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-04T18:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-04T21:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-08T09:00:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-31T21:30:00 (Standard)
+- Klara and the Sun
+  - + AMC Lincoln Square 13 @ 2026-11-04T10:00:00 (Standard)
+- Christmas at the Kringles
+  - − AMC 34th Street 14 @ 2026-10-30T15:00:00 (Standard)
+- Sense and Sensibility
+  - + AMC Lincoln Square 13 @ 2026-11-04T10:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-04T15:45:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-30T22:45:00 (Standard)
+- Wildwood
+  - + AMC Lincoln Square 13 @ 2026-11-04T10:15:00 (Dolby Cinema at AMC)
+- Digger
+  - + AMC Lincoln Square 13 @ 2026-10-31T18:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-04T12:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-04T15:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-04T21:30:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-10-31T18:15:00 (Standard)
+
 ## 2026-10-29 05:50 AM CDT
 
 **Movies removed:**
