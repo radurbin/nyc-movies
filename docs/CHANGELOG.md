@@ -1,3 +1,15 @@
+## 2026-10-29 08:49 PM CDT
+
+**Movies added:**
+- The Only Living Pickpocket in New York: Q&A with Director Noah Segan & actor John Turturro
+
+**Showtime changes:**
+- The Only Living Pickpocket In New York
+  - − AMC Lincoln Square 13 @ 2026-10-31T15:30:00 (Standard)
+- Wicker
+  - + AMC 34th Street 14 @ 2026-10-30T14:50:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-10-30T15:00:00 (Standard)
+
 ## 2026-10-29 04:00 PM CDT
 
 **Movies added:**
