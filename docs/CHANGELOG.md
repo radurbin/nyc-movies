@@ -1,3 +1,35 @@
+## 2026-11-03 03:40 PM CST
+
+**Movies added:**
+- AMC Screen Unseen: November 16
+
+**Showtime changes:**
+- Wildwood
+  - + AMC 34th Street 14 @ 2026-11-03T18:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-03T19:30:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-03T22:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-04T22:15:00 (Standard)
+- You Can See Everything
+  - + AMC Lincoln Square 13 @ 2026-11-03T19:45:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-03T21:50:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-03T22:10:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-04T20:20:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-03T21:40:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-03T22:00:00 (Standard)
+- Street Fighter
+  - + AMC Lincoln Square 13 @ 2026-11-03T23:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-04T23:00:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-11-03T22:30:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-03T22:45:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-11-04T22:15:00 (Standard)
+- The Irregular at Magic High School The Movie -Yotsuba Succession Arc-
+  - − AMC 34th Street 14 @ 2026-11-03T19:00:00 (Standard)
+- Everest: The Other Side
+  - + AMC Lincoln Square 13 @ 2026-11-05T11:00:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-11-04T23:00:00 (Standard)
+- Resident Evil
+  - − AMC 34th Street 14 @ 2026-11-04T20:20:00 (Standard)
+
 ## 2026-11-03 05:48 AM CST
 
 **Movies added:**
