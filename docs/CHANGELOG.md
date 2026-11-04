@@ -1,3 +1,91 @@
+## 2026-11-03 08:06 PM CST
+
+**Movies added:**
+- Club Kid Special Q&A with Eldar Isgandarov
+
+**Movies removed:**
+- Club Kid with Q&A 
+
+**Showtime changes:**
+- I Play Rocky
+  - + AMC 34th Street 14 @ 2026-11-19T14:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-19T17:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-19T20:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-19T23:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-20T10:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-20T13:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-20T16:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-20T19:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-20T22:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-21T10:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-21T13:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-21T16:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-21T19:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-21T22:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-22T10:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-22T13:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-22T16:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-22T19:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-22T22:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-23T12:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-23T15:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-23T18:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-23T21:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-24T10:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-24T13:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-24T16:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-24T19:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-24T22:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-25T12:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-25T15:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-25T18:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-25T21:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-26T12:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-26T15:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-26T18:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-26T21:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-27T16:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-27T19:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-28T16:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-28T19:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-29T16:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-29T19:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-30T15:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-30T18:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-12-01T16:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-12-01T19:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-12-02T15:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-12-02T18:00:00 (Standard)
+- Dune: Part Three
+  - + AMC 34th Street 14 @ 2026-12-17T20:45:00 (IMAX at AMC)
+  - + AMC 34th Street 14 @ 2026-12-18T00:10:00 (IMAX at AMC)
+  - + AMC 34th Street 14 @ 2026-12-18T03:35:00 (IMAX at AMC)
+  - − AMC 34th Street 14 @ 2026-12-17T20:40:00 (IMAX at AMC)
+  - − AMC 34th Street 14 @ 2026-12-18T00:00:00 (IMAX at AMC)
+  - − AMC 34th Street 14 @ 2026-12-18T03:20:00 (IMAX at AMC)
+- How to Rob a Bank
+  - + AMC 34th Street 14 @ 2026-11-24T10:45:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-24T13:45:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-24T16:45:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-24T19:45:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-24T22:45:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-24T10:30:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-24T13:30:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-24T16:30:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-24T19:30:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-24T22:30:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-25T13:30:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-25T16:30:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-25T19:30:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-25T22:30:00 (Standard)
+- Dune: Part Three Insider Screenings
+  - + AMC 34th Street 14 @ 2026-12-15T22:10:00 (Dolby Cinema at AMC)
+  - + AMC 34th Street 14 @ 2026-12-16T01:00:00 (IMAX at AMC)
+  - + AMC 34th Street 14 @ 2026-12-16T01:35:00 (Dolby Cinema at AMC)
+  - − AMC 34th Street 14 @ 2026-12-15T22:00:00 (Dolby Cinema at AMC)
+  - − AMC 34th Street 14 @ 2026-12-16T00:50:00 (IMAX at AMC)
+  - − AMC 34th Street 14 @ 2026-12-16T01:20:00 (Dolby Cinema at AMC)
+
 ## 2026-11-03 03:40 PM CST
 
 **Movies added:**
