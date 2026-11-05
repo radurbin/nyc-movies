@@ -1,3 +1,51 @@
+## 2026-11-05 03:54 PM CST
+
+**Movies added:**
+- Elsinore Q&A with Andrew Scott
+- Elsinore
+- Everest: The Other Side Special Q&A with Director/Producer Chai Vasarhelyi
+- Focker In-Law
+- The Hunger Games: Sunrise on the Reaping Early Access
+- The Hunger Games: Sunrise on the Reaping
+
+**Movies removed:**
+- Hunger Games: Sunrise on the Reaping Early Access
+- Hunger Games: Sunrise on the Reaping
+
+**Showtime changes:**
+- The Cat in the Hat
+  - − AMC 34th Street 14 @ 2026-11-06T11:00:00 (Standard)
+- Josephine
+  - + AMC Lincoln Square 13 @ 2026-11-20T10:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-20T13:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-20T19:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-20T22:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-21T10:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-21T16:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-21T22:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-22T10:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-22T13:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-22T16:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-22T19:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-22T22:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-23T10:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-23T13:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-23T16:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-23T19:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-23T22:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-24T10:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-24T13:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-24T16:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-24T19:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-24T22:00:00 (Standard)
+- Everest: The Other Side
+  - − AMC Lincoln Square 13 @ 2026-11-07T14:00:00 (Standard)
+- The Mosquito Bowl
+  - − AMC 34th Street 14 @ 2026-11-06T12:45:00 (Standard)
+- Wild Horse Nine
+  - + AMC 34th Street 14 @ 2026-11-06T10:50:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-06T12:45:00 (Standard)
+
 ## 2026-11-05 06:07 AM CST
 
 **Movies removed:**
