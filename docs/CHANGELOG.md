@@ -1,3 +1,44 @@
+## 2026-11-04 08:11 PM CST
+
+**Movies added:**
+- Club Kid Special Q&A with Saturn Risin9, Hunter Harris and Peyton Dix
+
+**Showtime changes:**
+- Victorian Psycho
+  - + AMC 34th Street 14 @ 2026-11-13T11:40:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-13T14:20:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-13T17:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-13T22:25:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-14T11:40:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-14T14:20:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-14T17:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-14T22:25:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-15T11:40:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-15T14:20:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-15T17:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-15T22:25:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-16T12:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-16T14:40:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-16T17:20:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-16T22:40:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-17T11:40:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-17T14:20:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-17T17:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-17T22:25:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-18T12:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-18T14:40:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-18T17:20:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-18T22:40:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-19T13:20:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-19T16:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-19T18:40:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-19T21:20:00 (Standard)
+- Club Kid Special Q&A with Eldar Isgandarov & Saturn Risin9
+  - − AMC Lincoln Square 13 @ 2026-11-07T18:00:00 (Standard)
+- You Can See Everything
+  - + AMC 84th Street 6 @ 2026-11-05T22:05:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-11-05T22:15:00 (Standard)
+
 ## 2026-11-04 03:50 PM CST
 
 **Movies added:**
