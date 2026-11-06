@@ -1,3 +1,18 @@
+## 2026-11-05 08:12 PM CST
+
+**Showtime changes:**
+- Wicker
+  - − AMC 34th Street 14 @ 2026-11-06T22:20:00 (Standard)
+- Resident Evil
+  - − AMC 34th Street 14 @ 2026-11-06T15:20:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-06T17:25:00 (Standard)
+- Clayface
+  - + AMC 34th Street 14 @ 2026-11-06T17:20:00 (Standard)
+- You Can See Everything
+  - + AMC 34th Street 14 @ 2026-11-06T22:20:00 (Standard)
+- Wild Horse Nine
+  - + AMC 34th Street 14 @ 2026-11-06T15:10:00 (Standard)
+
 ## 2026-11-05 03:54 PM CST
 
 **Movies added:**
