@@ -1,3 +1,39 @@
+## 2026-11-06 03:26 PM CST
+
+**Showtime changes:**
+- The Cat in the Hat
+  - − AMC 34th Street 14 @ 2026-11-07T11:40:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-08T11:40:00 (Standard)
+- You Can See Everything
+  - + AMC 34th Street 14 @ 2026-11-07T11:35:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-08T11:00:00 (Standard)
+- Wildwood
+  - + AMC 34th Street 14 @ 2026-11-07T11:20:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-08T11:20:00 (Standard)
+- Resident Evil
+  - − AMC 34th Street 14 @ 2026-11-07T10:20:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-07T12:50:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-08T10:15:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-08T12:45:00 (Standard)
+- Ebenezer
+  - + AMC 34th Street 14 @ 2026-11-13T12:25:00 (Dolby Cinema at AMC)
+  - + AMC 34th Street 14 @ 2026-11-13T15:20:00 (Dolby Cinema at AMC)
+  - + AMC 34th Street 14 @ 2026-11-13T21:15:00 (Dolby Cinema at AMC)
+  - + AMC 34th Street 14 @ 2026-11-14T12:25:00 (Dolby Cinema at AMC)
+  - + AMC 34th Street 14 @ 2026-11-14T15:20:00 (Dolby Cinema at AMC)
+  - + AMC 34th Street 14 @ 2026-11-14T21:15:00 (Dolby Cinema at AMC)
+  - + AMC 34th Street 14 @ 2026-11-15T12:25:00 (Dolby Cinema at AMC)
+  - + AMC 34th Street 14 @ 2026-11-15T15:20:00 (Dolby Cinema at AMC)
+  - + AMC 34th Street 14 @ 2026-11-15T21:15:00 (Dolby Cinema at AMC)
+  - + AMC 34th Street 14 @ 2026-11-16T12:30:00 (Dolby Cinema at AMC)
+  - + AMC 34th Street 14 @ 2026-11-16T15:35:00 (Dolby Cinema at AMC)
+  - + AMC 34th Street 14 @ 2026-11-16T21:30:00 (Dolby Cinema at AMC)
+  - + AMC 34th Street 14 @ 2026-11-17T12:25:00 (Dolby Cinema at AMC)
+  - + AMC 34th Street 14 @ 2026-11-17T15:20:00 (Dolby Cinema at AMC)
+  - + AMC 34th Street 14 @ 2026-11-17T21:15:00 (Dolby Cinema at AMC)
+  - + AMC 34th Street 14 @ 2026-11-18T12:00:00 (Dolby Cinema at AMC)
+  - + AMC 34th Street 14 @ 2026-11-18T15:00:00 (Dolby Cinema at AMC)
+
 ## 2026-11-06 05:59 AM CST
 
 **Movies removed:**
