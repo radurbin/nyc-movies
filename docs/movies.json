@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "generated_at": "2026-11-06T15:26:43.725712-06:00",
+    "generated_at": "2026-11-06T19:46:54.511070-06:00",
     "movie_count": 55,
-    "showtime_count": 2854,
+    "showtime_count": 2895,
     "theaters": {
-      "AMC Lincoln Square 13": 947,
-      "AMC 34th Street 14": 1459,
-      "AMC 84th Street 6": 448
+      "AMC Lincoln Square 13": 988,
+      "AMC 34th Street 14": 1460,
+      "AMC 84th Street 6": 447
     }
   },
   "movies": [
@@ -25533,7 +25533,7 @@
           "auditorium": 7,
           "premium_format": "RealD 3D",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-20/lincolnsquare/all/145913567",
-          "sold_out": false,
+          "sold_out": true,
           "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
@@ -25648,7 +25648,7 @@
       "rotten_tomatoes": null,
       "metacritic": "59/100",
       "letterboxd_rating": 3.72,
-      "letterboxd_rating_count": 684335,
+      "letterboxd_rating_count": 689864,
       "letterboxd_url": "https://letterboxd.com/film/clayface/",
       "awards": "N/A",
       "language": "English",
@@ -26007,7 +26007,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-06/34thstreet/all/148473595",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -26246,48 +26246,6 @@
             {
               "type": "SENIOR",
               "price": 20.99,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 2102,
-          "theater": "AMC 84th Street 6",
-          "showtime_id": 148470347,
-          "datetime": "2026-11-06T23:00:00",
-          "datetime_utc": "2026-11-07T04:00:00Z",
-          "auditorium": 5,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-06/84thstreet/all/148470347",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Laser at AMC",
-            "AMC Signature Recliners",
-            "Reserved Seating",
-            "Thrills & Chills"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 23.49,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 20.49,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 21.99,
               "tax": 0.0
             }
           ]
@@ -28696,6 +28654,48 @@
         },
         {
           "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 148603224,
+          "datetime": "2026-11-11T21:45:00",
+          "datetime_utc": "2026-11-12T02:45:00Z",
+          "auditorium": 10,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-11/lincolnsquare/all/148603224",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Club Rockers",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "Reserved Seating",
+            "Thrills & Chills"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 22.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 19.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 20.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
           "theater_id": 2120,
           "theater": "AMC 34th Street 14",
           "showtime_id": 148473335,
@@ -28813,7 +28813,7 @@
       "rotten_tomatoes": "100%",
       "metacritic": "84/100",
       "letterboxd_rating": 4.37,
-      "letterboxd_rating_count": 27218,
+      "letterboxd_rating_count": 28184,
       "letterboxd_url": "https://letterboxd.com/film/club-kid/",
       "awards": "2 wins & 6 nominations total",
       "language": "English",
@@ -29428,7 +29428,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-07/lincolnsquare/all/148435874",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": true,
@@ -29682,7 +29682,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-07/lincolnsquare/all/147737551",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -30148,7 +30148,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-08/lincolnsquare/all/148435860",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -31022,6 +31022,384 @@
               "tax": 0.0
             }
           ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 148603203,
+          "datetime": "2026-11-11T10:00:00",
+          "datetime_utc": "2026-11-11T15:00:00Z",
+          "auditorium": 4,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-11/lincolnsquare/all/148603203",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Artisan Films",
+            "AMC Club Rockers",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 17.99,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 15.59,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 16.79,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 148603197,
+          "datetime": "2026-11-11T12:00:00",
+          "datetime_utc": "2026-11-11T17:00:00Z",
+          "auditorium": 2,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-11/lincolnsquare/all/148603197",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Artisan Films",
+            "AMC Club Rockers",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 17.99,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 15.59,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 16.79,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 148603202,
+          "datetime": "2026-11-11T13:00:00",
+          "datetime_utc": "2026-11-11T18:00:00Z",
+          "auditorium": 4,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-11/lincolnsquare/all/148603202",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Artisan Films",
+            "AMC Club Rockers",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 17.99,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 15.59,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 16.79,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 148603198,
+          "datetime": "2026-11-11T15:00:00",
+          "datetime_utc": "2026-11-11T20:00:00Z",
+          "auditorium": 2,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-11/lincolnsquare/all/148603198",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Artisan Films",
+            "AMC Club Rockers",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 17.99,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 15.59,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 16.79,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 148603201,
+          "datetime": "2026-11-11T16:00:00",
+          "datetime_utc": "2026-11-11T21:00:00Z",
+          "auditorium": 4,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-11/lincolnsquare/all/148603201",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "AMC Club Rockers",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 22.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 19.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 20.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 148603216,
+          "datetime": "2026-11-11T18:00:00",
+          "datetime_utc": "2026-11-11T23:00:00Z",
+          "auditorium": 8,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-11/lincolnsquare/all/148603216",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "AMC Club Rockers",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 22.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 19.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 20.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 148603199,
+          "datetime": "2026-11-11T19:00:00",
+          "datetime_utc": "2026-11-12T00:00:00Z",
+          "auditorium": 4,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-11/lincolnsquare/all/148603199",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "AMC Club Rockers",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 22.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 19.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 20.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 148603213,
+          "datetime": "2026-11-11T21:00:00",
+          "datetime_utc": "2026-11-12T02:00:00Z",
+          "auditorium": 8,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-11/lincolnsquare/all/148603213",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "AMC Club Rockers",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 22.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 19.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 20.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 148603200,
+          "datetime": "2026-11-11T22:00:00",
+          "datetime_utc": "2026-11-12T03:00:00Z",
+          "auditorium": 4,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-11/lincolnsquare/all/148603200",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "AMC Club Rockers",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 22.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 19.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 20.99,
+              "tax": 0.0
+            }
+          ]
         }
       ]
     },
@@ -31231,6 +31609,7 @@
           "attributes": [
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "RealD 3D",
             "AMC Signature Recliners",
@@ -31274,6 +31653,7 @@
             "AOneLive",
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "AMC Signature Recliners",
             "Reserved Seating"
@@ -31316,6 +31696,7 @@
             "AMC Club Rockers",
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "Reserved Seating"
           ],
@@ -31356,6 +31737,7 @@
           "attributes": [
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Dolby Cinema at AMC",
             "AMC Signature Recliners",
             "Reserved Seating"
@@ -31397,6 +31779,7 @@
           "attributes": [
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "RealD 3D",
             "AMC Signature Recliners",
@@ -31440,6 +31823,7 @@
             "AOneLive",
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "RealD 3D",
             "AMC Signature Recliners",
@@ -31483,6 +31867,7 @@
             "AMC Club Rockers",
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "RealD 3D",
             "Reserved Seating"
@@ -31524,6 +31909,7 @@
           "attributes": [
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "RealD 3D",
             "AMC Signature Recliners",
@@ -31567,6 +31953,7 @@
             "AOneLive",
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "AMC Signature Recliners",
             "Reserved Seating"
@@ -31608,6 +31995,7 @@
           "attributes": [
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "AMC Signature Recliners",
             "Reserved Seating"
@@ -31650,6 +32038,7 @@
             "AOneLive",
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "AMC Signature Recliners",
             "Reserved Seating"
@@ -31692,6 +32081,7 @@
             "AMC Club Rockers",
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "Reserved Seating"
           ],
@@ -31732,6 +32122,7 @@
           "attributes": [
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "AMC Signature Recliners",
             "Reserved Seating"
@@ -31772,6 +32163,7 @@
           "discount_message": "20% OFF",
           "attributes": [
             "AMC Club Rockers",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "Open Caption (On-screen Subtitles)",
             "Reserved Seating"
@@ -31814,6 +32206,7 @@
             "AOneLive",
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "AMC Signature Recliners",
             "Reserved Seating"
@@ -31855,6 +32248,7 @@
           "attributes": [
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "RealD 3D",
             "AMC Signature Recliners",
@@ -31898,6 +32292,7 @@
             "AOneLive",
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "RealD 3D",
             "AMC Signature Recliners",
@@ -31941,6 +32336,7 @@
             "AMC Club Rockers",
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "RealD 3D",
             "Reserved Seating"
@@ -31980,6 +32376,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "Open Caption (On-screen Subtitles)",
             "AMC Signature Recliners",
@@ -32022,6 +32419,7 @@
           "attributes": [
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Dolby Cinema at AMC",
             "AMC Signature Recliners",
             "Reserved Seating"
@@ -32063,6 +32461,7 @@
           "attributes": [
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "RealD 3D",
             "AMC Signature Recliners",
@@ -32104,6 +32503,7 @@
           "discount_message": null,
           "attributes": [
             "AOneLive",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "Open Caption (On-screen Subtitles)",
             "AMC Signature Recliners",
@@ -32147,6 +32547,7 @@
             "AMC Club Rockers",
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "Reserved Seating"
           ],
@@ -32187,6 +32588,7 @@
           "attributes": [
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "RealD 3D",
             "AMC Signature Recliners",
@@ -32230,6 +32632,7 @@
             "AOneLive",
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "AMC Signature Recliners",
             "Reserved Seating"
@@ -32272,6 +32675,7 @@
             "AMC Club Rockers",
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "Reserved Seating"
           ],
@@ -32313,6 +32717,7 @@
             "AOneLive",
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "RealD 3D",
             "AMC Signature Recliners",
@@ -32355,6 +32760,7 @@
           "attributes": [
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "AMC Signature Recliners",
             "Reserved Seating"
@@ -32397,6 +32803,7 @@
             "AMC Club Rockers",
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "Reserved Seating"
           ],
@@ -32438,6 +32845,7 @@
             "AOneLive",
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "AMC Signature Recliners",
             "Reserved Seating"
@@ -32479,6 +32887,7 @@
           "attributes": [
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "RealD 3D",
             "AMC Signature Recliners",
@@ -32522,6 +32931,7 @@
             "AOneLive",
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "RealD 3D",
             "AMC Signature Recliners",
@@ -32565,6 +32975,7 @@
             "AMC Club Rockers",
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "Reserved Seating"
           ],
@@ -32605,6 +33016,7 @@
           "attributes": [
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "RealD 3D",
             "AMC Signature Recliners",
@@ -32647,6 +33059,7 @@
           "attributes": [
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Dolby Cinema at AMC",
             "AMC Signature Recliners",
             "Reserved Seating"
@@ -32689,6 +33102,7 @@
             "AOneLive",
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "AMC Signature Recliners",
             "Reserved Seating"
@@ -32731,6 +33145,7 @@
             "AMC Club Rockers",
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "RealD 3D",
             "Reserved Seating"
@@ -32772,6 +33187,7 @@
           "attributes": [
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "RealD 3D",
             "AMC Signature Recliners",
@@ -32815,6 +33231,7 @@
             "AOneLive",
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "AMC Signature Recliners",
             "Reserved Seating"
@@ -32856,6 +33273,7 @@
           "attributes": [
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "RealD 3D",
             "AMC Signature Recliners",
@@ -32899,6 +33317,7 @@
             "AMC Club Rockers",
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "Reserved Seating"
           ],
@@ -32940,6 +33359,7 @@
             "AOneLive",
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "RealD 3D",
             "AMC Signature Recliners",
@@ -32982,6 +33402,7 @@
           "attributes": [
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "AMC Signature Recliners",
             "Reserved Seating"
@@ -33024,6 +33445,7 @@
             "AMC Club Rockers",
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "Reserved Seating"
           ],
@@ -33065,6 +33487,7 @@
             "AOneLive",
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "AMC Signature Recliners",
             "Reserved Seating"
@@ -33106,6 +33529,7 @@
           "attributes": [
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "RealD 3D",
             "AMC Signature Recliners",
@@ -33149,6 +33573,7 @@
             "AOneLive",
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "RealD 3D",
             "AMC Signature Recliners",
@@ -33192,6 +33617,7 @@
             "AMC Club Rockers",
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "RealD 3D",
             "Reserved Seating"
@@ -33231,6 +33657,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "Open Caption (On-screen Subtitles)",
             "AMC Signature Recliners",
@@ -33273,6 +33700,7 @@
           "attributes": [
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Dolby Cinema at AMC",
             "AMC Signature Recliners",
             "Reserved Seating"
@@ -33315,6 +33743,7 @@
             "AOneLive",
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "AMC Signature Recliners",
             "Reserved Seating"
@@ -33357,6 +33786,7 @@
             "AMC Club Rockers",
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "Reserved Seating"
           ],
@@ -33397,6 +33827,7 @@
           "attributes": [
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "RealD 3D",
             "AMC Signature Recliners",
@@ -33440,6 +33871,7 @@
             "AOneLive",
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "AMC Signature Recliners",
             "Reserved Seating"
@@ -33481,6 +33913,7 @@
           "attributes": [
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "RealD 3D",
             "AMC Signature Recliners",
@@ -33524,6 +33957,7 @@
             "AMC Club Rockers",
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "Reserved Seating"
           ],
@@ -33565,6 +33999,7 @@
             "AOneLive",
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "RealD 3D",
             "AMC Signature Recliners",
@@ -33607,6 +34042,7 @@
           "attributes": [
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "AMC Signature Recliners",
             "Reserved Seating"
@@ -33647,6 +34083,7 @@
           "discount_message": "20% OFF",
           "attributes": [
             "AMC Club Rockers",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "Open Caption (On-screen Subtitles)",
             "Reserved Seating"
@@ -33687,6 +34124,7 @@
           "discount_message": "20% OFF",
           "attributes": [
             "AOneLive",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "Open Caption (On-screen Subtitles)",
             "AMC Signature Recliners",
@@ -33729,6 +34167,7 @@
           "attributes": [
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "RealD 3D",
             "AMC Signature Recliners",
@@ -33772,6 +34211,7 @@
             "AOneLive",
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "RealD 3D",
             "AMC Signature Recliners",
@@ -33815,6 +34255,7 @@
             "AMC Club Rockers",
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "Reserved Seating"
           ],
@@ -33855,6 +34296,7 @@
           "attributes": [
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "RealD 3D",
             "AMC Signature Recliners",
@@ -33897,6 +34339,7 @@
           "attributes": [
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Dolby Cinema at AMC",
             "AMC Signature Recliners",
             "Reserved Seating"
@@ -33939,6 +34382,7 @@
             "AOneLive",
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "AMC Signature Recliners",
             "Reserved Seating"
@@ -33981,6 +34425,7 @@
             "AMC Club Rockers",
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "RealD 3D",
             "Reserved Seating"
@@ -34022,6 +34467,7 @@
           "attributes": [
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "RealD 3D",
             "AMC Signature Recliners",
@@ -34065,6 +34511,7 @@
             "AOneLive",
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "AMC Signature Recliners",
             "Reserved Seating"
@@ -34106,6 +34553,7 @@
           "attributes": [
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "RealD 3D",
             "AMC Signature Recliners",
@@ -34149,6 +34597,7 @@
             "AMC Club Rockers",
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "Reserved Seating"
           ],
@@ -34190,6 +34639,7 @@
             "AOneLive",
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "RealD 3D",
             "AMC Signature Recliners",
@@ -34232,6 +34682,7 @@
           "attributes": [
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "AMC Signature Recliners",
             "Reserved Seating"
@@ -34272,6 +34723,7 @@
           "discount_message": "20% OFF",
           "attributes": [
             "AMC Club Rockers",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "Open Caption (On-screen Subtitles)",
             "Reserved Seating"
@@ -34312,6 +34764,7 @@
           "discount_message": "20% OFF",
           "attributes": [
             "AOneLive",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "Open Caption (On-screen Subtitles)",
             "AMC Signature Recliners",
@@ -34354,6 +34807,7 @@
           "attributes": [
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "RealD 3D",
             "AMC Signature Recliners",
@@ -34397,6 +34851,7 @@
             "AOneLive",
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "RealD 3D",
             "AMC Signature Recliners",
@@ -34440,6 +34895,7 @@
             "AMC Club Rockers",
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "RealD 3D",
             "Reserved Seating"
@@ -34481,6 +34937,7 @@
           "attributes": [
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "RealD 3D",
             "AMC Signature Recliners",
@@ -34523,6 +34980,7 @@
           "attributes": [
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Dolby Cinema at AMC",
             "AMC Signature Recliners",
             "Reserved Seating"
@@ -34565,6 +35023,7 @@
             "AOneLive",
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "AMC Signature Recliners",
             "Reserved Seating"
@@ -34607,6 +35066,7 @@
             "AMC Club Rockers",
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "Reserved Seating"
           ],
@@ -34647,6 +35107,7 @@
           "attributes": [
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "RealD 3D",
             "AMC Signature Recliners",
@@ -34690,6 +35151,7 @@
             "AOneLive",
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "AMC Signature Recliners",
             "Reserved Seating"
@@ -34731,6 +35193,7 @@
           "attributes": [
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "RealD 3D",
             "AMC Signature Recliners",
@@ -34772,6 +35235,7 @@
           "discount_message": "20% OFF",
           "attributes": [
             "AMC Club Rockers",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "Open Caption (On-screen Subtitles)",
             "Reserved Seating"
@@ -34812,6 +35276,7 @@
           "discount_message": "20% OFF",
           "attributes": [
             "AOneLive",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "Open Caption (On-screen Subtitles)",
             "AMC Signature Recliners",
@@ -34854,6 +35319,7 @@
           "attributes": [
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "RealD 3D",
             "AMC Signature Recliners",
@@ -34897,6 +35363,7 @@
             "AOneLive",
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "RealD 3D",
             "AMC Signature Recliners",
@@ -34940,6 +35407,7 @@
             "AMC Club Rockers",
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "Reserved Seating"
           ],
@@ -34980,6 +35448,7 @@
           "attributes": [
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "RealD 3D",
             "AMC Signature Recliners",
@@ -35022,6 +35491,7 @@
           "attributes": [
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Dolby Cinema at AMC",
             "AMC Signature Recliners",
             "Reserved Seating"
@@ -35064,6 +35534,7 @@
             "AOneLive",
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "AMC Signature Recliners",
             "Reserved Seating"
@@ -35106,6 +35577,7 @@
             "AMC Club Rockers",
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "RealD 3D",
             "Reserved Seating"
@@ -35147,6 +35619,7 @@
           "attributes": [
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "RealD 3D",
             "AMC Signature Recliners",
@@ -35190,6 +35663,7 @@
             "AOneLive",
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "AMC Signature Recliners",
             "Reserved Seating"
@@ -35231,6 +35705,7 @@
           "attributes": [
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "RealD 3D",
             "AMC Signature Recliners",
@@ -35274,6 +35749,7 @@
             "AOneLive",
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "RealD 3D",
             "AMC Signature Recliners",
@@ -35317,6 +35793,7 @@
             "AMC Club Rockers",
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "RealD 3D",
             "Reserved Seating"
@@ -35359,6 +35836,7 @@
             "AOneLive",
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "AMC Signature Recliners",
             "Reserved Seating"
@@ -35400,6 +35878,7 @@
           "attributes": [
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "RealD 3D",
             "AMC Signature Recliners",
@@ -35443,6 +35922,7 @@
             "AOneLive",
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "RealD 3D",
             "AMC Signature Recliners",
@@ -35486,6 +35966,7 @@
             "AMC Club Rockers",
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "Reserved Seating"
           ],
@@ -35526,6 +36007,7 @@
           "attributes": [
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "RealD 3D",
             "AMC Signature Recliners",
@@ -35568,6 +36050,7 @@
           "attributes": [
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Dolby Cinema at AMC",
             "AMC Signature Recliners",
             "Reserved Seating"
@@ -35610,6 +36093,7 @@
             "AOneLive",
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "AMC Signature Recliners",
             "Reserved Seating"
@@ -35652,6 +36136,7 @@
             "AMC Club Rockers",
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "Reserved Seating"
           ],
@@ -35692,6 +36177,7 @@
           "attributes": [
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "RealD 3D",
             "AMC Signature Recliners",
@@ -35735,6 +36221,7 @@
             "AOneLive",
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "AMC Signature Recliners",
             "Reserved Seating"
@@ -35776,6 +36263,7 @@
           "attributes": [
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "RealD 3D",
             "AMC Signature Recliners",
@@ -35819,6 +36307,7 @@
             "AOneLive",
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "AMC Signature Recliners",
             "Reserved Seating"
@@ -35860,6 +36349,7 @@
           "attributes": [
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "RealD 3D",
             "AMC Signature Recliners",
@@ -35903,6 +36393,7 @@
             "AOneLive",
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "RealD 3D",
             "AMC Signature Recliners",
@@ -35943,6 +36434,7 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "Open Caption (On-screen Subtitles)",
             "AMC Signature Recliners",
@@ -35984,6 +36476,7 @@
           "discount_message": null,
           "attributes": [
             "AOneLive",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "Open Caption (On-screen Subtitles)",
             "AMC Signature Recliners",
@@ -36026,6 +36519,7 @@
           "attributes": [
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "RealD 3D",
             "AMC Signature Recliners",
@@ -36069,6 +36563,7 @@
             "AOneLive",
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "AMC Signature Recliners",
             "Reserved Seating"
@@ -36110,6 +36605,7 @@
           "attributes": [
             "Closed Caption",
             "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
             "Laser at AMC",
             "RealD 3D",
             "AMC Signature Recliners",
@@ -36485,6 +36981,48 @@
             {
               "type": "SENIOR",
               "price": 27.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 148603729,
+          "datetime": "2026-11-15T10:30:00",
+          "datetime_utc": "2026-11-15T15:30:00Z",
+          "auditorium": 13,
+          "premium_format": "IMAX at AMC",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-15/lincolnsquare/all/148603729",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "UP TO 15% OFF",
+          "attributes": [
+            "AMC Club Rockers",
+            "Closed Caption",
+            "Audio Description",
+            "IMAX at AMC",
+            "IMAX with Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 25.99,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 23.59,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 24.79,
               "tax": 0.0
             }
           ]
@@ -53193,6 +53731,47 @@
           "source": "AMC",
           "theater_id": 2120,
           "theater": "AMC 34th Street 14",
+          "showtime_id": 148602904,
+          "datetime": "2026-11-12T21:45:00",
+          "datetime_utc": "2026-11-13T02:45:00Z",
+          "auditorium": 8,
+          "premium_format": "Dolby Cinema at AMC",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-12/34thstreet/all/148602904",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Dolby Cinema at AMC",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 29.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 26.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 27.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
           "showtime_id": 148005609,
           "datetime": "2026-11-12T22:45:00",
           "datetime_utc": "2026-11-13T03:45:00Z",
@@ -57395,7 +57974,7 @@
       "rotten_tomatoes": "89%",
       "metacritic": null,
       "letterboxd_rating": 3.86,
-      "letterboxd_rating_count": 6263,
+      "letterboxd_rating_count": 6278,
       "letterboxd_url": "https://letterboxd.com/film/elsinore/",
       "awards": "N/A",
       "language": "English",
@@ -60760,7 +61339,7 @@
       "rotten_tomatoes": "85%",
       "metacritic": "65/100",
       "letterboxd_rating": 3.56,
-      "letterboxd_rating_count": 6451,
+      "letterboxd_rating_count": 6513,
       "letterboxd_url": "https://letterboxd.com/film/everest-the-other-side/",
       "awards": "N/A",
       "language": "English",
@@ -60975,6 +61554,48 @@
               "tax": 0.0
             }
           ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 148603206,
+          "datetime": "2026-11-11T11:30:00",
+          "datetime_utc": "2026-11-11T16:30:00Z",
+          "auditorium": 5,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-11/lincolnsquare/all/148603206",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Club Rockers",
+            "AOneLive",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 17.99,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 15.59,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 16.79,
+              "tax": 0.0
+            }
+          ]
         }
       ]
     },
@@ -61021,7 +61642,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-07/lincolnsquare/all/148437883",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": true,
@@ -69680,7 +70301,7 @@
       "rotten_tomatoes": "97%",
       "metacritic": null,
       "letterboxd_rating": 4.17,
-      "letterboxd_rating_count": 75195,
+      "letterboxd_rating_count": 84723,
       "letterboxd_url": "https://letterboxd.com/film/godzilla-minus-zero/",
       "awards": "N/A",
       "language": "Japanese",
@@ -70698,7 +71319,7 @@
           "premium_format": "IMAX at AMC",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-07/34thstreet/all/147447804",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": true,
@@ -71030,7 +71651,7 @@
           "premium_format": "IMAX at AMC",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-07/34thstreet/all/147447806",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -79139,7 +79760,7 @@
       "rotten_tomatoes": "84%",
       "metacritic": null,
       "letterboxd_rating": 3.66,
-      "letterboxd_rating_count": 9656,
+      "letterboxd_rating_count": 10189,
       "letterboxd_url": "https://letterboxd.com/film/i-play-rocky/",
       "awards": "N/A",
       "language": "English",
@@ -80633,6 +81254,48 @@
           "source": "AMC",
           "theater_id": 2116,
           "theater": "AMC Lincoln Square 13",
+          "showtime_id": 148603230,
+          "datetime": "2026-11-11T10:15:00",
+          "datetime_utc": "2026-11-11T15:15:00Z",
+          "auditorium": 12,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-11/lincolnsquare/all/148603230",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Artisan Films",
+            "AMC Club Rockers",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 17.99,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 15.59,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 16.79,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
           "showtime_id": 148580646,
           "datetime": "2026-11-11T12:15:00",
           "datetime_utc": "2026-11-11T17:15:00Z",
@@ -80675,6 +81338,48 @@
           "source": "AMC",
           "theater_id": 2116,
           "theater": "AMC Lincoln Square 13",
+          "showtime_id": 148603219,
+          "datetime": "2026-11-11T13:45:00",
+          "datetime_utc": "2026-11-11T18:45:00Z",
+          "auditorium": 9,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-11/lincolnsquare/all/148603219",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Artisan Films",
+            "AMC Club Rockers",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 17.99,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 15.59,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 16.79,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
           "showtime_id": 148580645,
           "datetime": "2026-11-11T15:30:00",
           "datetime_utc": "2026-11-11T20:30:00Z",
@@ -80709,6 +81414,90 @@
             {
               "type": "SENIOR",
               "price": 24.79,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 148603223,
+          "datetime": "2026-11-11T18:30:00",
+          "datetime_utc": "2026-11-11T23:30:00Z",
+          "auditorium": 10,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-11/lincolnsquare/all/148603223",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "AMC Club Rockers",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 22.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 19.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 20.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 148603196,
+          "datetime": "2026-11-11T22:15:00",
+          "datetime_utc": "2026-11-12T03:15:00Z",
+          "auditorium": 1,
+          "premium_format": "Dolby Cinema at AMC",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-11/lincolnsquare/all/148603196",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
+            "Dolby Cinema at AMC",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 30.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 27.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 28.99,
               "tax": 0.0
             }
           ]
@@ -82835,7 +83624,7 @@
       "rotten_tomatoes": "96%",
       "metacritic": null,
       "letterboxd_rating": 4.05,
-      "letterboxd_rating_count": 9817,
+      "letterboxd_rating_count": 9826,
       "letterboxd_url": "https://letterboxd.com/film/josephine-2026/",
       "awards": "1 nomination total",
       "language": "English",
@@ -84143,7 +84932,7 @@
       "rotten_tomatoes": "87%",
       "metacritic": "79/100",
       "letterboxd_rating": 3.44,
-      "letterboxd_rating_count": 12669,
+      "letterboxd_rating_count": 12772,
       "letterboxd_url": "https://letterboxd.com/film/paper-tiger-2026/",
       "awards": "1 win & 3 nominations total",
       "language": "English",
@@ -85312,7 +86101,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.67,
-      "letterboxd_rating_count": 13227,
+      "letterboxd_rating_count": 13917,
       "letterboxd_url": "https://letterboxd.com/film/ramayana-rise-of-a-legend/",
       "awards": "N/A",
       "language": "Hindi",
@@ -85501,7 +86290,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-06/34thstreet/all/147924029",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -86745,7 +87534,7 @@
       "rotten_tomatoes": "96%",
       "metacritic": null,
       "letterboxd_rating": 3.74,
-      "letterboxd_rating_count": 1831335,
+      "letterboxd_rating_count": 1837297,
       "letterboxd_url": "https://letterboxd.com/film/resident-evil-2026/",
       "awards": "N/A",
       "language": "English",
@@ -87797,7 +88586,7 @@
       "rotten_tomatoes": "84%",
       "metacritic": null,
       "letterboxd_rating": 3.66,
-      "letterboxd_rating_count": 9656,
+      "letterboxd_rating_count": 10189,
       "letterboxd_url": "https://letterboxd.com/film/i-play-rocky/",
       "awards": "N/A",
       "language": "English",
@@ -88028,7 +88817,7 @@
       "rotten_tomatoes": "79%",
       "metacritic": "72/100",
       "letterboxd_rating": 3.98,
-      "letterboxd_rating_count": 251554,
+      "letterboxd_rating_count": 253065,
       "letterboxd_url": "https://letterboxd.com/film/sense-and-sensibility-2026/",
       "awards": "N/A",
       "language": "English",
@@ -88207,6 +88996,49 @@
               "tax": 0.0
             }
           ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 148603209,
+          "datetime": "2026-11-11T11:45:00",
+          "datetime_utc": "2026-11-11T16:45:00Z",
+          "auditorium": 6,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-11/lincolnsquare/all/148603209",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Artisan Films",
+            "AMC Club Rockers",
+            "AOneLive",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 17.99,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 15.59,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 16.79,
+              "tax": 0.0
+            }
+          ]
         }
       ]
     },
@@ -88244,7 +89076,7 @@
       "rotten_tomatoes": null,
       "metacritic": "46/100",
       "letterboxd_rating": 2.77,
-      "letterboxd_rating_count": 185581,
+      "letterboxd_rating_count": 185878,
       "letterboxd_url": "https://letterboxd.com/film/street-fighter-2026/",
       "awards": "N/A",
       "language": "English",
@@ -88494,7 +89326,7 @@
       "rotten_tomatoes": null,
       "metacritic": "47/100",
       "letterboxd_rating": 3.22,
-      "letterboxd_rating_count": 2581,
+      "letterboxd_rating_count": 3047,
       "letterboxd_url": "https://letterboxd.com/film/the-cat-in-the-hat-2026/",
       "awards": "N/A",
       "language": "English",
@@ -88886,7 +89718,7 @@
           "premium_format": "RealD 3D",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-06/84thstreet/all/147786420",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -91766,6 +92598,47 @@
         },
         {
           "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 148603225,
+          "datetime": "2026-11-11T10:00:00",
+          "datetime_utc": "2026-11-11T15:00:00Z",
+          "auditorium": 11,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-11/lincolnsquare/all/148603225",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Club Rockers",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 17.99,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 15.59,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 16.79,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
           "theater_id": 2120,
           "theater": "AMC 34th Street 14",
           "showtime_id": 147785181,
@@ -91802,6 +92675,47 @@
             {
               "type": "SENIOR",
               "price": 21.49,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 148603221,
+          "datetime": "2026-11-11T12:30:00",
+          "datetime_utc": "2026-11-11T17:30:00Z",
+          "auditorium": 10,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-11/lincolnsquare/all/148603221",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Club Rockers",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 17.99,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 15.59,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 16.79,
               "tax": 0.0
             }
           ]
@@ -91926,6 +92840,46 @@
             {
               "type": "SENIOR",
               "price": 15.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 148603220,
+          "datetime": "2026-11-11T15:30:00",
+          "datetime_utc": "2026-11-11T20:30:00Z",
+          "auditorium": 10,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-11/lincolnsquare/all/148603220",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Club Rockers",
+            "Laser at AMC",
+            "Open Caption (On-screen Subtitles)",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 17.99,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 15.59,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 16.79,
               "tax": 0.0
             }
           ]
@@ -92172,6 +93126,48 @@
             {
               "type": "SENIOR",
               "price": 21.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 148603234,
+          "datetime": "2026-11-11T22:45:00",
+          "datetime_utc": "2026-11-12T03:45:00Z",
+          "auditorium": 12,
+          "premium_format": "RealD 3D",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-11/lincolnsquare/all/148603234",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Club Rockers",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "RealD 3D",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 27.99,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 24.99,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 26.49,
               "tax": 0.0
             }
           ]
@@ -96596,6 +97592,48 @@
             {
               "type": "SENIOR",
               "price": 30.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 148603728,
+          "datetime": "2026-11-19T18:15:00",
+          "datetime_utc": "2026-11-19T23:15:00Z",
+          "auditorium": 7,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-19/lincolnsquare/all/148603728",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Club Rockers",
+            "AOneLive",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 25.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 22.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 23.99,
               "tax": 0.0
             }
           ]
@@ -106491,7 +107529,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.22,
-      "letterboxd_rating_count": 2150,
+      "letterboxd_rating_count": 2174,
       "letterboxd_url": "https://letterboxd.com/film/the-mosquito-bowl/",
       "awards": "N/A",
       "language": "English",
@@ -106945,7 +107983,7 @@
       "rotten_tomatoes": "98%",
       "metacritic": null,
       "letterboxd_rating": 3.46,
-      "letterboxd_rating_count": 31874,
+      "letterboxd_rating_count": 32290,
       "letterboxd_url": "https://letterboxd.com/film/the-only-living-pickpocket-in-new-york/",
       "awards": "N/A",
       "language": "English",
@@ -107882,6 +108920,133 @@
               "tax": 0.0
             }
           ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 148603222,
+          "datetime": "2026-11-11T10:00:00",
+          "datetime_utc": "2026-11-11T15:00:00Z",
+          "auditorium": 10,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-11/lincolnsquare/all/148603222",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Artisan Films",
+            "AMC Club Rockers",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 17.99,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 15.59,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 16.79,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 148603204,
+          "datetime": "2026-11-11T14:45:00",
+          "datetime_utc": "2026-11-11T19:45:00Z",
+          "auditorium": 5,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-11/lincolnsquare/all/148603204",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Artisan Films",
+            "AMC Club Rockers",
+            "AOneLive",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 17.99,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 15.59,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 16.79,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 148603229,
+          "datetime": "2026-11-11T22:00:00",
+          "datetime_utc": "2026-11-12T03:00:00Z",
+          "auditorium": 11,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-11/lincolnsquare/all/148603229",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "AMC Club Rockers",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 22.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 19.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 20.99,
+              "tax": 0.0
+            }
+          ]
         }
       ]
     },
@@ -107993,7 +109158,7 @@
       "rotten_tomatoes": "81%",
       "metacritic": "52/100",
       "letterboxd_rating": 3.21,
-      "letterboxd_rating_count": 3332,
+      "letterboxd_rating_count": 3336,
       "letterboxd_url": "https://letterboxd.com/film/victorian-psycho/",
       "awards": "1 nomination total",
       "language": "English",
@@ -109623,7 +110788,7 @@
       "rotten_tomatoes": "92%",
       "metacritic": "70/100",
       "letterboxd_rating": 3.67,
-      "letterboxd_rating_count": 142318,
+      "letterboxd_rating_count": 144567,
       "letterboxd_url": "https://letterboxd.com/film/wicker/",
       "awards": "2 wins & 1 nomination total",
       "language": "English",
@@ -109856,7 +111021,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-06/34thstreet/all/148473356",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -111610,7 +112775,7 @@
       "rotten_tomatoes": "93%",
       "metacritic": null,
       "letterboxd_rating": 4.13,
-      "letterboxd_rating_count": 50083,
+      "letterboxd_rating_count": 55960,
       "letterboxd_url": "https://letterboxd.com/film/wild-horse-nine/",
       "awards": "N/A",
       "language": "English",
@@ -112777,7 +113942,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-08/lincolnsquare/all/147737505",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -113837,6 +115002,88 @@
         },
         {
           "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 148603218,
+          "datetime": "2026-11-11T10:15:00",
+          "datetime_utc": "2026-11-11T15:15:00Z",
+          "auditorium": 9,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-11/lincolnsquare/all/148603218",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Club Rockers",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 17.99,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 15.59,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 16.79,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 148603227,
+          "datetime": "2026-11-11T13:00:00",
+          "datetime_utc": "2026-11-11T18:00:00Z",
+          "auditorium": 11,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-11/lincolnsquare/all/148603227",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Club Rockers",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 17.99,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 15.59,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 16.79,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
           "theater_id": 2120,
           "theater": "AMC 34th Street 14",
           "showtime_id": 147607493,
@@ -113872,6 +115119,47 @@
             {
               "type": "SENIOR",
               "price": 15.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 148603226,
+          "datetime": "2026-11-11T16:00:00",
+          "datetime_utc": "2026-11-11T21:00:00Z",
+          "auditorium": 11,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-11/lincolnsquare/all/148603226",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Club Rockers",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 22.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 19.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 20.99,
               "tax": 0.0
             }
           ]
@@ -113919,6 +115207,47 @@
         },
         {
           "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 148603228,
+          "datetime": "2026-11-11T19:00:00",
+          "datetime_utc": "2026-11-12T00:00:00Z",
+          "auditorium": 11,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-11/lincolnsquare/all/148603228",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Club Rockers",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 22.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 19.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 20.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
           "theater_id": 2120,
           "theater": "AMC 34th Street 14",
           "showtime_id": 147607495,
@@ -113953,6 +115282,48 @@
             {
               "type": "SENIOR",
               "price": 19.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 148603205,
+          "datetime": "2026-11-11T21:45:00",
+          "datetime_utc": "2026-11-12T02:45:00Z",
+          "auditorium": 5,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-11/lincolnsquare/all/148603205",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Club Rockers",
+            "AOneLive",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 22.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 19.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 20.99,
               "tax": 0.0
             }
           ]
@@ -114034,7 +115405,7 @@
       "rotten_tomatoes": null,
       "metacritic": "88/100",
       "letterboxd_rating": 4.4,
-      "letterboxd_rating_count": 387705,
+      "letterboxd_rating_count": 392315,
       "letterboxd_url": "https://letterboxd.com/film/wildwood-2026/",
       "awards": "1 win total",
       "language": "English",
@@ -114178,7 +115549,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-06/lincolnsquare/all/148435887",
           "sold_out": false,
-          "almost_sold_out": true,
+          "almost_sold_out": false,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": true,
@@ -115041,7 +116412,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-08/lincolnsquare/all/148435897",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -115625,8 +116996,8 @@
             "AMC Artisan Films",
             "AMC Club Rockers",
             "AOneLive",
-            "Closed Caption",
             "Laser at AMC",
+            "Open Caption (On-screen Subtitles)",
             "Reserved Seating"
           ],
           "ticket_prices": [
@@ -115980,6 +117351,47 @@
         },
         {
           "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 148603237,
+          "datetime": "2026-11-11T13:30:00",
+          "datetime_utc": "2026-11-11T18:30:00Z",
+          "auditorium": 12,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-11/lincolnsquare/all/148603237",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Artisan Films",
+            "AMC Club Rockers",
+            "Closed Caption",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 17.99,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 15.59,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 16.79,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
           "theater_id": 2120,
           "theater": "AMC 34th Street 14",
           "showtime_id": 148473398,
@@ -116021,6 +117433,47 @@
         },
         {
           "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 148603236,
+          "datetime": "2026-11-11T16:30:00",
+          "datetime_utc": "2026-11-11T21:30:00Z",
+          "auditorium": 12,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-11/lincolnsquare/all/148603236",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "AMC Club Rockers",
+            "Closed Caption",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 22.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 19.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 20.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
           "theater_id": 2120,
           "theater": "AMC 34th Street 14",
           "showtime_id": 148473396,
@@ -116056,6 +117509,47 @@
             {
               "type": "SENIOR",
               "price": 19.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 148603235,
+          "datetime": "2026-11-11T19:30:00",
+          "datetime_utc": "2026-11-12T00:30:00Z",
+          "auditorium": 12,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-11/lincolnsquare/all/148603235",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "AMC Club Rockers",
+            "Closed Caption",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 22.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 19.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 20.99,
               "tax": 0.0
             }
           ]
@@ -116136,7 +117630,7 @@
       "rotten_tomatoes": "100%",
       "metacritic": "98/100",
       "letterboxd_rating": 4.58,
-      "letterboxd_rating_count": 672231,
+      "letterboxd_rating_count": 675199,
       "letterboxd_url": "https://letterboxd.com/film/you-can-see-everything/",
       "awards": "N/A",
       "language": "English",
@@ -116539,7 +118033,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-06/lincolnsquare/all/148435849",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": true,
@@ -116665,7 +118159,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-06/84thstreet/all/148470284",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -117518,26 +119012,27 @@
           "discount_matinee": true,
           "discount_message": "20% OFF",
           "attributes": [
+            "AMC Artisan Films",
+            "Closed Caption",
+            "Audio Description",
             "Laser at AMC",
-            "Open Caption (On-screen Subtitles)",
             "AMC Signature Recliners",
-            "Reserved Seating",
-            "Thrills & Chills"
+            "Reserved Seating"
           ],
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 18.79,
+              "price": 17.19,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 16.39,
+              "price": 14.79,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 17.59,
+              "price": 15.99,
               "tax": 0.0
             }
           ]
@@ -117721,7 +119216,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-07/34thstreet/all/148473498",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": true,
@@ -117975,7 +119470,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-07/lincolnsquare/all/148392652",
           "sold_out": false,
-          "almost_sold_out": true,
+          "almost_sold_out": false,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -121388,6 +122883,91 @@
         },
         {
           "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 148603215,
+          "datetime": "2026-11-11T10:00:00",
+          "datetime_utc": "2026-11-11T15:00:00Z",
+          "auditorium": 8,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-11/lincolnsquare/all/148603215",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Artisan Films",
+            "AMC Club Rockers",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 17.99,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 15.59,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 16.79,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 148603212,
+          "datetime": "2026-11-11T11:30:00",
+          "datetime_utc": "2026-11-11T16:30:00Z",
+          "auditorium": 7,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-11/lincolnsquare/all/148603212",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Artisan Films",
+            "AMC Club Rockers",
+            "AOneLive",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 17.99,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 15.59,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 16.79,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
           "theater_id": 2120,
           "theater": "AMC 34th Street 14",
           "showtime_id": 148473449,
@@ -121425,6 +123005,48 @@
             {
               "type": "SENIOR",
               "price": 15.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 148603214,
+          "datetime": "2026-11-11T14:00:00",
+          "datetime_utc": "2026-11-11T19:00:00Z",
+          "auditorium": 8,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-11/lincolnsquare/all/148603214",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Artisan Films",
+            "AMC Club Rockers",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 17.99,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 15.59,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 16.79,
               "tax": 0.0
             }
           ]
@@ -121600,6 +123222,49 @@
         },
         {
           "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 148603211,
+          "datetime": "2026-11-11T15:30:00",
+          "datetime_utc": "2026-11-11T20:30:00Z",
+          "auditorium": 7,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-11/lincolnsquare/all/148603211",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "AMC Artisan Films",
+            "AMC Club Rockers",
+            "AOneLive",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 17.99,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 15.59,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 16.79,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
           "theater_id": 2102,
           "theater": "AMC 84th Street 6",
           "showtime_id": 148259105,
@@ -121636,6 +123301,49 @@
             {
               "type": "SENIOR",
               "price": 21.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 148603207,
+          "datetime": "2026-11-11T18:30:00",
+          "datetime_utc": "2026-11-11T23:30:00Z",
+          "auditorium": 6,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-11/lincolnsquare/all/148603207",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "AMC Club Rockers",
+            "AOneLive",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 22.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 19.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 20.99,
               "tax": 0.0
             }
           ]
@@ -121727,6 +123435,49 @@
         },
         {
           "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 148603210,
+          "datetime": "2026-11-11T19:30:00",
+          "datetime_utc": "2026-11-12T00:30:00Z",
+          "auditorium": 7,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-11/lincolnsquare/all/148603210",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "AMC Club Rockers",
+            "AOneLive",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 22.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 19.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 20.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
           "theater_id": 2120,
           "theater": "AMC 34th Street 14",
           "showtime_id": 148473448,
@@ -121763,6 +123514,48 @@
             {
               "type": "SENIOR",
               "price": 19.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 148603217,
+          "datetime": "2026-11-11T21:30:00",
+          "datetime_utc": "2026-11-12T02:30:00Z",
+          "auditorium": 9,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-11/lincolnsquare/all/148603217",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "AMC Club Rockers",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 22.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 19.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 20.99,
               "tax": 0.0
             }
           ]
@@ -121889,6 +123682,49 @@
             {
               "type": "SENIOR",
               "price": 21.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 148603208,
+          "datetime": "2026-11-11T22:30:00",
+          "datetime_utc": "2026-11-12T03:30:00Z",
+          "auditorium": 6,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-11/lincolnsquare/all/148603208",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
+            "AMC Club Rockers",
+            "AOneLive",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 22.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 19.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 20.99,
               "tax": 0.0
             }
           ]

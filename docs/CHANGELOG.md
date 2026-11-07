@@ -1,3 +1,63 @@
+## 2026-11-06 07:46 PM CST
+
+**Showtime changes:**
+- Clayface
+  - + AMC Lincoln Square 13 @ 2026-11-11T21:45:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-11-06T23:00:00 (Standard)
+- Everest: The Other Side
+  - + AMC Lincoln Square 13 @ 2026-11-11T11:30:00 (Standard)
+- I Play Rocky
+  - + AMC Lincoln Square 13 @ 2026-11-11T10:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-11T13:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-11T18:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-11T22:15:00 (Dolby Cinema at AMC)
+- The Hunger Games: Sunrise on the Reaping
+  - + AMC Lincoln Square 13 @ 2026-11-19T18:15:00 (Standard)
+- Sense and Sensibility
+  - + AMC Lincoln Square 13 @ 2026-11-11T11:45:00 (Standard)
+- Ebenezer
+  - + AMC 34th Street 14 @ 2026-11-12T21:45:00 (Dolby Cinema at AMC)
+- Club Kid
+  - + AMC Lincoln Square 13 @ 2026-11-11T10:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-11T12:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-11T13:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-11T15:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-11T16:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-11T18:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-11T19:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-11T21:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-11T22:00:00 (Standard)
+- Wild Horse Nine
+  - + AMC Lincoln Square 13 @ 2026-11-11T10:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-11T13:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-11T16:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-11T19:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-11T21:45:00 (Standard)
+- The Cat in the Hat
+  - + AMC Lincoln Square 13 @ 2026-11-11T10:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-11T12:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-11T15:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-11T22:45:00 (RealD 3D)
+- The Only Living Pickpocket In New York
+  - + AMC Lincoln Square 13 @ 2026-11-11T10:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-11T14:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-11T22:00:00 (Standard)
+- Dune: Part One Reissue (2026)
+  - + AMC Lincoln Square 13 @ 2026-11-15T10:30:00 (IMAX at AMC)
+- Wildwood
+  - + AMC Lincoln Square 13 @ 2026-11-11T13:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-11T16:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-11T19:30:00 (Standard)
+- You Can See Everything
+  - + AMC Lincoln Square 13 @ 2026-11-11T10:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-11T11:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-11T14:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-11T15:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-11T18:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-11T19:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-11T21:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-11T22:30:00 (Standard)
+
 ## 2026-11-06 03:26 PM CST
 
 **Showtime changes:**
