@@ -1,3 +1,10 @@
+## 2026-11-07 02:08 PM CST
+
+**Showtime changes:**
+- Clayface
+  - + AMC Lincoln Square 13 @ 2026-11-07T17:15:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-11-07T17:00:00 (Standard)
+
 ## 2026-11-07 04:59 AM CST
 
 **Movies removed:**
