@@ -1,3 +1,17 @@
+## 2026-11-10 09:38 AM CST
+
+**Showtime changes:**
+- Wild Horse Nine
+  - + AMC 34th Street 14 @ 2026-11-10T13:00:00 (Standard)
+- Resident Evil
+  - − AMC 34th Street 14 @ 2026-11-10T21:40:00 (Standard)
+- Wildwood
+  - + AMC 34th Street 14 @ 2026-11-10T21:40:00 (Standard)
+- Heated Rivalry: Episode 5 & 6
+  - + AMC 34th Street 14 @ 2026-11-10T23:00:00 (Standard)
+- The Mosquito Bowl
+  - − AMC 34th Street 14 @ 2026-11-10T13:00:00 (Standard)
+
 ## 2026-11-10 06:27 AM CST
 
 **Movies added:**
