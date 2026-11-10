@@ -1,3 +1,41 @@
+## 2026-11-09 06:06 PM CST
+
+**Movies added:**
+- ELSINORE Q&A with Andrew Scott, Joe Locke, Simon Stone, & Stephen Beresford
+
+**Showtime changes:**
+- Wildwood
+  - + AMC 34th Street 14 @ 2026-11-09T21:10:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-10T11:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-11T15:10:00 (Standard)
+- Ebenezer
+  - − AMC 34th Street 14 @ 2026-11-16T13:30:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-16T16:30:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-16T22:25:00 (Standard)
+- You Can See Everything
+  - + AMC 84th Street 6 @ 2026-11-09T21:35:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-11-09T22:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-09T22:40:00 (Standard)
+- The Cat in the Hat
+  - + AMC 34th Street 14 @ 2026-11-09T13:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-09T22:40:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-09T13:20:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-09T16:10:00 (RealD 3D)
+  - − AMC 34th Street 14 @ 2026-11-09T21:10:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-10T11:10:00 (RealD 3D)
+  - − AMC 84th Street 6 @ 2026-11-11T13:00:00 (RealD 3D)
+  - − AMC 34th Street 14 @ 2026-11-11T15:10:00 (Standard)
+- Wild Horse Nine
+  - + AMC 34th Street 14 @ 2026-11-09T16:00:00 (Standard)
+- Elsinore Q&A with Andrew Scott
+  - − AMC Lincoln Square 13 @ 2026-11-17T19:15:00 (Dolby Cinema at AMC)
+- Godzilla Minus Zero
+  - + AMC 84th Street 6 @ 2026-11-09T22:15:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-11-09T22:30:00 (Standard)
+- Clayface
+  - + AMC 84th Street 6 @ 2026-11-09T22:45:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-11-09T23:00:00 (Standard)
+
 ## 2026-11-09 06:44 AM CST
 
 **Movies added:**
