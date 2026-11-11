@@ -1,3 +1,27 @@
+## 2026-11-11 04:36 PM CST
+
+**Movies added:**
+- Crunchyroll Anime Nights Sneak Peek - December '26
+
+**Showtime changes:**
+- Clayface
+  - − AMC 34th Street 14 @ 2026-11-13T23:10:00 (Standard)
+- Wicker
+  - + AMC 34th Street 14 @ 2026-11-11T22:30:00 (Standard)
+- Wildwood
+  - + AMC 34th Street 14 @ 2026-11-11T22:35:00 (Standard)
+- Ghost Soldier
+  - + AMC 34th Street 14 @ 2026-11-13T23:10:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-13T23:00:00 (Standard)
+- Resident Evil
+  - − AMC 34th Street 14 @ 2026-11-11T22:30:00 (Standard)
+- How to Rob a Bank
+  - + AMC 34th Street 14 @ 2026-11-13T13:10:00 (Standard)
+- Godzilla Minus Zero
+  - − AMC 34th Street 14 @ 2026-11-13T13:10:00 (Standard)
+- You Can See Everything
+  - − AMC 34th Street 14 @ 2026-11-11T22:35:00 (Standard)
+
 ## 2026-11-11 05:47 AM CST
 
 **Movies removed:**
