@@ -1,3 +1,21 @@
+## 2026-11-12 04:11 PM CST
+
+**Movies added:**
+- Violent Night 2
+
+**Showtime changes:**
+- Wild Horse Nine
+  - + AMC Lincoln Square 13 @ 2026-11-12T14:15:00 (Standard)
+- Paper Tiger
+  - + AMC Lincoln Square 13 @ 2026-11-12T20:15:00 (Standard)
+- Ghost Soldier
+  - − AMC 34th Street 14 @ 2026-11-12T22:00:00 (Standard)
+- Club Kid
+  - + AMC Lincoln Square 13 @ 2026-11-12T17:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-12T23:00:00 (Standard)
+- Wildwood
+  - + AMC 34th Street 14 @ 2026-11-12T22:00:00 (Standard)
+
 ## 2026-11-12 06:30 AM CST
 
 **Movies removed:**
