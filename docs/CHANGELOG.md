@@ -1,3 +1,22 @@
+## 2026-11-13 03:54 PM CST
+
+**Showtime changes:**
+- The Cat in the Hat
+  - − AMC 34th Street 14 @ 2026-11-13T21:20:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-11-13T23:00:00 (Standard)
+- Clayface
+  - − AMC 34th Street 14 @ 2026-11-15T23:10:00 (Standard)
+- Ghost Soldier
+  - + AMC 34th Street 14 @ 2026-11-15T23:10:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-15T20:30:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-15T23:00:00 (Standard)
+- You Can See Everything
+  - + AMC 34th Street 14 @ 2026-11-15T20:25:00 (Standard)
+- Paper Tiger
+  - + AMC Lincoln Square 13 @ 2026-11-13T19:00:00 (Standard)
+- Ramayana
+  - + AMC 34th Street 14 @ 2026-11-13T21:20:00 (Standard)
+
 ## 2026-11-13 06:03 AM CST
 
 **Movies removed:**
