@@ -1,3 +1,158 @@
+## 2026-11-13 06:03 AM CST
+
+**Movies removed:**
+- Everest: The Other Side
+- Heated Rivalry: Episode 1 & 2
+- Heated Rivalry: Episode 3 & 4
+- Heated Rivalry: Episode 5 & 6
+- JOSEPHINE With In-Person Q&A Featuring Filmmaker Beth de Araújo
+- The Mosquito Bowl
+
+**Showtime changes:**
+- The Only Living Pickpocket In New York
+  - − AMC Lincoln Square 13 @ 2026-11-12T10:00:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-11-12T16:00:00 (Standard)
+- Wildwood
+  - − AMC Lincoln Square 13 @ 2026-11-12T10:00:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-11-12T12:45:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-12T13:00:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-11-12T15:45:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-12T17:10:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-12T18:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-12T19:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-12T21:25:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-12T22:00:00 (Standard)
+- Resident Evil
+  - − AMC 34th Street 14 @ 2026-11-12T12:00:00 (Standard)
+- I Play Rocky
+  - − AMC Lincoln Square 13 @ 2026-11-12T10:00:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-11-12T11:30:00 (Dolby Cinema at AMC)
+  - − AMC Lincoln Square 13 @ 2026-11-12T13:05:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-11-12T15:00:00 (Dolby Cinema at AMC)
+  - − AMC Lincoln Square 13 @ 2026-11-12T18:30:00 (Dolby Cinema at AMC)
+  - − AMC Lincoln Square 13 @ 2026-11-12T22:00:00 (Dolby Cinema at AMC)
+- Wild Horse Nine
+  - − AMC Lincoln Square 13 @ 2026-11-12T11:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-12T12:35:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-11-12T13:00:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-11-12T14:15:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-12T15:30:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-11-12T17:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-12T18:30:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-11-12T20:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-12T22:30:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-11-12T23:00:00 (Standard)
+- Wicker
+  - − AMC 34th Street 14 @ 2026-11-12T16:10:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-11-12T19:30:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-12T19:45:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-11-12T22:15:00 (Standard)
+- Club Kid
+  - − AMC Lincoln Square 13 @ 2026-11-12T10:15:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-11-12T12:15:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-11-12T13:15:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-11-12T15:15:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-11-12T16:15:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-11-12T17:15:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-11-12T19:15:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-11-12T21:15:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-11-12T22:45:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-11-12T23:00:00 (Standard)
+- The Cat in the Hat
+  - + AMC 34th Street 14 @ 2026-11-13T15:40:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-11-12T10:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-12T12:35:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-11-12T13:00:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-11-12T13:45:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-12T15:25:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-11-12T16:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-12T18:15:00 (RealD 3D)
+  - − AMC 84th Street 6 @ 2026-11-12T18:15:00 (RealD 3D)
+  - − AMC 84th Street 6 @ 2026-11-12T21:45:00 (RealD 3D)
+  - − AMC 34th Street 14 @ 2026-11-13T15:40:00 (RealD 3D)
+- Clayface
+  - − AMC 34th Street 14 @ 2026-11-12T12:20:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-12T15:10:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-11-12T17:00:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-11-12T20:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-12T20:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-12T22:45:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-11-12T22:45:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-15T02:55:00 (Standard)
+- You Can See Everything
+  - − AMC Lincoln Square 13 @ 2026-11-12T10:30:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-11-12T11:30:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-12T12:15:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-12T13:15:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-11-12T15:00:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-11-12T15:30:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-12T16:10:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-11-12T19:00:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-11-12T19:30:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-12T20:15:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-12T21:10:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-11-12T21:15:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-11-12T21:45:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-12T22:10:00 (Standard)
+- Ramayana
+  - − AMC 34th Street 14 @ 2026-11-12T12:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-12T16:15:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-12T20:30:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-12T21:30:00 (Standard)
+- Victorian Psycho
+  - − AMC 34th Street 14 @ 2026-11-12T16:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-12T18:40:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-12T21:20:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-12T22:45:00 (Standard)
+- Paper Tiger
+  - − AMC Lincoln Square 13 @ 2026-11-12T14:00:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-11-12T16:45:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-11-12T18:45:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-11-12T19:45:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-11-12T20:15:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-11-12T21:45:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-11-12T22:45:00 (Standard)
+- Ghost Soldier
+  - − AMC 34th Street 14 @ 2026-11-12T12:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-12T14:30:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-11-12T16:45:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-12T17:00:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-11-12T19:15:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-12T19:30:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-11-12T23:00:00 (Standard)
+- Godzilla Minus Zero
+  - − AMC Lincoln Square 13 @ 2026-11-12T10:00:00 (IMAX at AMC)
+  - − AMC 34th Street 14 @ 2026-11-12T12:00:00 (Dolby Cinema at AMC)
+  - − AMC 34th Street 14 @ 2026-11-12T13:00:00 (IMAX at AMC)
+  - − AMC Lincoln Square 13 @ 2026-11-12T13:15:00 (IMAX at AMC)
+  - − AMC 34th Street 14 @ 2026-11-12T15:15:00 (Dolby Cinema at AMC)
+  - − AMC 34th Street 14 @ 2026-11-12T16:15:00 (IMAX at AMC)
+  - − AMC Lincoln Square 13 @ 2026-11-12T16:30:00 (IMAX at AMC)
+  - − AMC 34th Street 14 @ 2026-11-12T19:30:00 (IMAX at AMC)
+  - − AMC Lincoln Square 13 @ 2026-11-12T19:45:00 (IMAX at AMC)
+  - − AMC 34th Street 14 @ 2026-11-12T22:45:00 (IMAX at AMC)
+  - − AMC Lincoln Square 13 @ 2026-11-12T23:00:00 (IMAX at AMC)
+- How to Rob a Bank
+  - − AMC 34th Street 14 @ 2026-11-12T16:00:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-11-12T16:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-12T19:00:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-11-12T19:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-12T22:00:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-11-12T22:00:00 (Standard)
+- Ebenezer
+  - − AMC 84th Street 6 @ 2026-11-12T14:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-12T14:00:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-11-12T14:00:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-11-12T15:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-12T16:55:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-11-12T18:15:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-11-12T18:30:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-12T18:50:00 (Dolby Cinema at AMC)
+  - − AMC 34th Street 14 @ 2026-11-12T19:50:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-11-12T21:30:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-12T21:45:00 (Dolby Cinema at AMC)
+  - − AMC Lincoln Square 13 @ 2026-11-12T22:15:00 (Standard)
+
 ## 2026-11-12 04:11 PM CST
 
 **Movies added:**
