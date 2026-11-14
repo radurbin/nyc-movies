@@ -1,3 +1,108 @@
+## 2026-11-14 02:34 PM CST
+
+**Showtime changes:**
+- The Cat in the Hat
+  - + AMC 34th Street 14 @ 2026-11-16T12:20:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-16T15:10:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-16T18:00:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-11-14T21:45:00 (RealD 3D)
+  - − AMC Lincoln Square 13 @ 2026-11-14T23:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-15T21:20:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-11-15T23:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-16T12:30:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-16T15:25:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-16T18:15:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-16T21:10:00 (Standard)
+- Paper Tiger
+  - + AMC Lincoln Square 13 @ 2026-11-15T17:15:00 (Standard)
+- Ramayana
+  - + AMC 34th Street 14 @ 2026-11-15T10:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-15T21:20:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-16T20:45:00 (Standard)
+- Ghost Soldier
+  - + AMC 34th Street 14 @ 2026-11-17T23:10:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-11-14T23:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-15T10:30:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-16T20:30:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-17T20:30:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-17T23:00:00 (Standard)
+- Wild Horse Nine
+  - + AMC 34th Street 14 @ 2026-11-16T20:30:00 (Standard)
+- You Can See Everything
+  - + AMC Lincoln Square 13 @ 2026-11-14T20:00:00 (Standard)
+  - + AMC 84th Street 6 @ 2026-11-14T21:45:00 (Standard)
+  - + AMC 84th Street 6 @ 2026-11-14T22:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-20T11:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-20T15:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-20T19:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-21T11:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-21T15:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-21T19:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-22T11:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-22T15:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-22T19:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-23T11:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-23T15:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-23T19:30:00 (Standard)
+- I Play Rocky
+  - − AMC Lincoln Square 13 @ 2026-11-14T20:00:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-11-15T17:00:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-11-15T20:00:00 (Standard)
+- Victorian Psycho
+  - − AMC 34th Street 14 @ 2026-11-15T11:40:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-19T13:20:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-19T16:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-19T18:40:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-19T21:20:00 (Standard)
+- Clayface
+  - − AMC 34th Street 14 @ 2026-11-16T23:00:00 (Standard)
+- Wicker
+  - + AMC 34th Street 14 @ 2026-11-15T10:20:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-17T20:30:00 (Standard)
+- How to Rob a Bank
+  - − AMC 34th Street 14 @ 2026-11-19T19:30:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-19T22:30:00 (Standard)
+- The Hunger Games: Sunrise on the Reaping
+  - + AMC 34th Street 14 @ 2026-11-19T19:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-19T20:15:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-19T21:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-24T14:15:00 (Dolby Cinema at AMC)
+  - + AMC Lincoln Square 13 @ 2026-11-24T18:00:00 (Dolby Cinema at AMC)
+  - + AMC Lincoln Square 13 @ 2026-11-24T21:45:00 (Dolby Cinema at AMC)
+- Club Kid
+  - + AMC Lincoln Square 13 @ 2026-11-15T20:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-19T18:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-20T10:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-20T13:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-20T16:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-20T19:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-21T19:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-22T10:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-22T13:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-22T16:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-22T19:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-22T22:45:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-11-20T10:00:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-11-20T13:00:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-11-20T16:00:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-11-20T19:00:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-11-20T22:15:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-11-21T19:00:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-11-21T22:15:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-11-22T10:00:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-11-22T13:00:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-11-22T16:00:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-11-22T19:00:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-11-22T22:00:00 (Standard)
+- The Further Mis-Adventures Of Cliff Booth
+  - + AMC 34th Street 14 @ 2026-12-04T18:00:00 (IMAX at AMC)
+  - + AMC 34th Street 14 @ 2026-12-05T18:00:00 (IMAX at AMC)
+  - + AMC 34th Street 14 @ 2026-12-06T18:00:00 (IMAX at AMC)
+  - + AMC 34th Street 14 @ 2026-12-07T18:40:00 (IMAX at AMC)
+  - + AMC 34th Street 14 @ 2026-12-08T18:00:00 (IMAX at AMC)
+- Elsinore
+  - + AMC Lincoln Square 13 @ 2026-11-24T11:15:00 (Dolby Cinema at AMC)
+
 ## 2026-11-14 05:21 AM CST
 
 **Movies removed:**
