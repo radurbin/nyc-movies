@@ -1,3 +1,17 @@
+## 2026-11-14 07:43 PM CST
+
+**Showtime changes:**
+- Wicker
+  - + AMC 34th Street 14 @ 2026-11-14T23:10:00 (Standard)
+- Ramayana
+  - + AMC 34th Street 14 @ 2026-11-14T22:25:00 (Standard)
+- Victorian Psycho
+  - − AMC 34th Street 14 @ 2026-11-14T22:25:00 (Standard)
+- Clayface
+  - + AMC 34th Street 14 @ 2026-11-14T23:00:00 (Standard)
+- Ghost Soldier
+  - − AMC 34th Street 14 @ 2026-11-14T23:00:00 (Standard)
+
 ## 2026-11-14 02:34 PM CST
 
 **Showtime changes:**
