@@ -1,3 +1,10 @@
+## 2026-11-15 07:48 PM CST
+
+**Showtime changes:**
+- Clayface
+  - + AMC 84th Street 6 @ 2026-11-15T22:30:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-11-15T22:45:00 (Standard)
+
 ## 2026-11-15 02:58 PM CST
 
 **Showtime changes:**
