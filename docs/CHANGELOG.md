@@ -1,3 +1,14 @@
+## 2026-11-16 06:09 PM CST
+
+**Movies added:**
+- The Rings of Power S3 Ep7 - Forging the One Ring
+
+**Showtime changes:**
+- I Play Rocky
+  - − AMC Lincoln Square 13 @ 2026-11-16T18:45:00 (Standard)
+- Club Kid
+  - + AMC Lincoln Square 13 @ 2026-11-16T18:45:00 (Standard)
+
 ## 2026-11-16 06:36 AM CST
 
 **Showtime changes:**
