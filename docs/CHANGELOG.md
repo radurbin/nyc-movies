@@ -1,3 +1,38 @@
+## 2026-11-17 05:27 PM CST
+
+**Showtime changes:**
+- The Hunger Games: Sunrise on the Reaping
+  - − AMC Lincoln Square 13 @ 2026-11-20T22:15:00 (Standard)
+- The Only Living Pickpocket In New York
+  - + AMC Lincoln Square 13 @ 2026-11-17T12:15:00 (Standard)
+- Ghost Soldier
+  - − AMC 34th Street 14 @ 2026-11-17T18:00:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-11-18T13:45:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-18T18:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-18T20:30:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-18T23:00:00 (Standard)
+- The Cat in the Hat
+  - + AMC 34th Street 14 @ 2026-11-18T12:20:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-18T15:10:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-11-17T12:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-18T12:30:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-18T15:25:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-18T18:15:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-18T21:10:00 (Standard)
+- Ramayana
+  - + AMC 34th Street 14 @ 2026-11-18T18:00:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-18T22:10:00 (Standard)
+- Ebenezer
+  - − AMC 84th Street 6 @ 2026-11-18T12:30:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-11-18T15:30:00 (Standard)
+- Wicker
+  - + AMC 34th Street 14 @ 2026-11-17T17:50:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-18T18:00:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-11-18T16:30:00 (Standard)
+- You Can See Everything
+  - + AMC 34th Street 14 @ 2026-11-18T20:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-19T11:00:00 (Standard)
+
 ## 2026-11-17 07:03 AM CST
 
 **Movies removed:**
