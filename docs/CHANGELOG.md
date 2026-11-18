@@ -1,3 +1,17 @@
+## 2026-11-18 04:55 PM CST
+
+**Showtime changes:**
+- You Can See Everything
+  - + AMC 84th Street 6 @ 2026-11-20T18:00:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-11-25T09:00:00 (Standard)
+- Avengers: Doomsday
+  - + AMC Lincoln Square 13 @ 2026-12-24T11:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-12-24T15:30:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-12-24T19:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-12-24T23:00:00 (Standard)
+- I Play Rocky
+  - − AMC Lincoln Square 13 @ 2026-11-20T10:30:00 (Standard)
+
 ## 2026-11-18 06:55 AM CST
 
 **Movies added:**
