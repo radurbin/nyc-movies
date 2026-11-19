@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-11-19T06:47:19.366662-06:00",
+    "generated_at": "2026-11-19T17:00:03.106589-06:00",
     "movie_count": 35,
     "showtime_count": 2671,
     "theaters": {
@@ -9641,17 +9641,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 19.59,
+              "price": 20.39,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 17.19,
+              "price": 17.99,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 18.39,
+              "price": 19.19,
               "tax": 0.0
             }
           ]
@@ -9683,17 +9683,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 19.59,
+              "price": 20.39,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 17.19,
+              "price": 17.99,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 18.39,
+              "price": 19.19,
               "tax": 0.0
             }
           ]
@@ -9726,17 +9726,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 25.89,
+              "price": 26.69,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 23.49,
+              "price": 24.29,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 24.69,
+              "price": 25.49,
               "tax": 0.0
             }
           ]
@@ -9770,17 +9770,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 24.29,
+              "price": 25.09,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 21.89,
+              "price": 22.69,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 23.09,
+              "price": 23.89,
               "tax": 0.0
             }
           ]
@@ -9797,6 +9797,91 @@
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-21/lincolnsquare/all/145283752",
           "sold_out": false,
           "almost_sold_out": true,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "UP TO 15% OFF",
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
+            "Dolby Cinema at AMC",
+            "Infinity Vision",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 28.39,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 25.99,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 27.19,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2102,
+          "theater": "AMC 84th Street 6",
+          "showtime_id": 146188131,
+          "datetime": "2026-12-21T11:00:00",
+          "datetime_utc": "2026-12-21T16:00:00Z",
+          "auditorium": 5,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-21/84thstreet/all/146188131",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
+            "Laser at AMC",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 21.19,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 18.79,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 19.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
+          "showtime_id": 145283617,
+          "datetime": "2026-12-21T11:00:00",
+          "datetime_utc": "2026-12-21T16:00:00Z",
+          "auditorium": 8,
+          "premium_format": "Dolby Cinema at AMC",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-21/34thstreet/all/145283617",
+          "sold_out": false,
+          "almost_sold_out": false,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": true,
@@ -9830,91 +9915,6 @@
         },
         {
           "source": "AMC",
-          "theater_id": 2102,
-          "theater": "AMC 84th Street 6",
-          "showtime_id": 146188131,
-          "datetime": "2026-12-21T11:00:00",
-          "datetime_utc": "2026-12-21T16:00:00Z",
-          "auditorium": 5,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-21/84thstreet/all/146188131",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": true,
-          "discount_message": "20% OFF",
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Pay with Disney Rewards Redemption Card",
-            "Laser at AMC",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 20.39,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 17.99,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 19.19,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 2120,
-          "theater": "AMC 34th Street 14",
-          "showtime_id": 145283617,
-          "datetime": "2026-12-21T11:00:00",
-          "datetime_utc": "2026-12-21T16:00:00Z",
-          "auditorium": 8,
-          "premium_format": "Dolby Cinema at AMC",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-21/34thstreet/all/145283617",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": true,
-          "discount_message": "UP TO 15% OFF",
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Pay with Disney Rewards Redemption Card",
-            "Dolby Cinema at AMC",
-            "Infinity Vision",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 26.79,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 24.39,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 25.59,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
           "theater_id": 2116,
           "theater": "AMC Lincoln Square 13",
           "showtime_id": 146174190,
@@ -9940,17 +9940,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 19.59,
+              "price": 20.39,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 17.19,
+              "price": 17.99,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 18.39,
+              "price": 19.19,
               "tax": 0.0
             }
           ]
@@ -9981,17 +9981,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 18.79,
+              "price": 19.59,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 16.39,
+              "price": 17.19,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 17.59,
+              "price": 18.39,
               "tax": 0.0
             }
           ]
@@ -10023,17 +10023,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 19.59,
+              "price": 20.39,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 17.19,
+              "price": 17.99,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 18.39,
+              "price": 19.19,
               "tax": 0.0
             }
           ]
@@ -10066,17 +10066,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 18.79,
+              "price": 19.59,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 16.39,
+              "price": 17.19,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 17.59,
+              "price": 18.39,
               "tax": 0.0
             }
           ]
@@ -10108,17 +10108,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 19.59,
+              "price": 20.39,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 17.19,
+              "price": 17.99,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 18.39,
+              "price": 19.19,
               "tax": 0.0
             }
           ]
@@ -10151,17 +10151,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 25.89,
+              "price": 26.69,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 23.49,
+              "price": 24.29,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 24.69,
+              "price": 25.49,
               "tax": 0.0
             }
           ]
@@ -10195,17 +10195,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 24.29,
+              "price": 25.09,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 21.89,
+              "price": 22.69,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 23.09,
+              "price": 23.89,
               "tax": 0.0
             }
           ]
@@ -10220,6 +10220,49 @@
           "auditorium": 1,
           "premium_format": "Dolby Cinema at AMC",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-21/lincolnsquare/all/145283754",
+          "sold_out": false,
+          "almost_sold_out": true,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "UP TO 15% OFF",
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
+            "Dolby Cinema at AMC",
+            "Infinity Vision",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 28.39,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 25.99,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 27.19,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
+          "showtime_id": 145283618,
+          "datetime": "2026-12-21T14:45:00",
+          "datetime_utc": "2026-12-21T19:45:00Z",
+          "auditorium": 8,
+          "premium_format": "Dolby Cinema at AMC",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-21/34thstreet/all/145283618",
           "sold_out": false,
           "almost_sold_out": true,
           "cancelled": false,
@@ -10255,49 +10298,6 @@
         },
         {
           "source": "AMC",
-          "theater_id": 2120,
-          "theater": "AMC 34th Street 14",
-          "showtime_id": 145283618,
-          "datetime": "2026-12-21T14:45:00",
-          "datetime_utc": "2026-12-21T19:45:00Z",
-          "auditorium": 8,
-          "premium_format": "Dolby Cinema at AMC",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-21/34thstreet/all/145283618",
-          "sold_out": false,
-          "almost_sold_out": true,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": true,
-          "discount_message": "UP TO 15% OFF",
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Pay with Disney Rewards Redemption Card",
-            "Dolby Cinema at AMC",
-            "Infinity Vision",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 26.79,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 24.39,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 25.59,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
           "theater_id": 2102,
           "theater": "AMC 84th Street 6",
           "showtime_id": 146188144,
@@ -10323,17 +10323,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 20.39,
+              "price": 21.19,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 17.99,
+              "price": 18.79,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 19.19,
+              "price": 19.99,
               "tax": 0.0
             }
           ]
@@ -10366,17 +10366,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 19.59,
+              "price": 20.39,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 17.19,
+              "price": 17.99,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 18.39,
+              "price": 19.19,
               "tax": 0.0
             }
           ]
@@ -10408,17 +10408,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 18.79,
+              "price": 19.59,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 16.39,
+              "price": 17.19,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 17.59,
+              "price": 18.39,
               "tax": 0.0
             }
           ]
@@ -10450,17 +10450,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 24.49,
+              "price": 25.49,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 21.49,
+              "price": 22.49,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 22.99,
+              "price": 23.99,
               "tax": 0.0
             }
           ]
@@ -10493,17 +10493,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 23.49,
+              "price": 24.49,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 20.49,
+              "price": 21.49,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 21.99,
+              "price": 22.99,
               "tax": 0.0
             }
           ]
@@ -10535,17 +10535,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 24.49,
+              "price": 25.49,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 21.49,
+              "price": 22.49,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 22.99,
+              "price": 23.99,
               "tax": 0.0
             }
           ]
@@ -10578,17 +10578,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 30.99,
+              "price": 31.99,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 27.99,
+              "price": 28.99,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 29.49,
+              "price": 30.49,
               "tax": 0.0
             }
           ]
@@ -10622,17 +10622,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 28.99,
+              "price": 29.99,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 25.99,
+              "price": 26.99,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 27.49,
+              "price": 28.49,
               "tax": 0.0
             }
           ]
@@ -10647,6 +10647,49 @@
           "auditorium": 1,
           "premium_format": "Dolby Cinema at AMC",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-21/lincolnsquare/all/145283756",
+          "sold_out": false,
+          "almost_sold_out": true,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
+            "Dolby Cinema at AMC",
+            "Infinity Vision",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 33.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 30.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 31.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
+          "showtime_id": 145283619,
+          "datetime": "2026-12-21T18:30:00",
+          "datetime_utc": "2026-12-21T23:30:00Z",
+          "auditorium": 8,
+          "premium_format": "Dolby Cinema at AMC",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-21/34thstreet/all/145283619",
           "sold_out": false,
           "almost_sold_out": true,
           "cancelled": false,
@@ -10682,49 +10725,6 @@
         },
         {
           "source": "AMC",
-          "theater_id": 2120,
-          "theater": "AMC 34th Street 14",
-          "showtime_id": 145283619,
-          "datetime": "2026-12-21T18:30:00",
-          "datetime_utc": "2026-12-21T23:30:00Z",
-          "auditorium": 8,
-          "premium_format": "Dolby Cinema at AMC",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-21/34thstreet/all/145283619",
-          "sold_out": false,
-          "almost_sold_out": true,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Pay with Disney Rewards Redemption Card",
-            "Dolby Cinema at AMC",
-            "Infinity Vision",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 31.49,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 28.49,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 29.99,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
           "theater_id": 2102,
           "theater": "AMC 84th Street 6",
           "showtime_id": 146188147,
@@ -10749,17 +10749,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 25.49,
+              "price": 26.49,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 22.49,
+              "price": 23.49,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 23.99,
+              "price": 24.99,
               "tax": 0.0
             }
           ]
@@ -10792,17 +10792,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 24.49,
+              "price": 25.49,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 21.49,
+              "price": 22.49,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 22.99,
+              "price": 23.99,
               "tax": 0.0
             }
           ]
@@ -10834,17 +10834,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 23.49,
+              "price": 24.49,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 20.49,
+              "price": 21.49,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 21.99,
+              "price": 22.99,
               "tax": 0.0
             }
           ]
@@ -10876,17 +10876,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 24.49,
+              "price": 25.49,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 21.49,
+              "price": 22.49,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 22.99,
+              "price": 23.99,
               "tax": 0.0
             }
           ]
@@ -10919,17 +10919,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 23.49,
+              "price": 24.49,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 20.49,
+              "price": 21.49,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 21.99,
+              "price": 22.99,
               "tax": 0.0
             }
           ]
@@ -10961,17 +10961,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 24.49,
+              "price": 25.49,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 21.49,
+              "price": 22.49,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 22.99,
+              "price": 23.99,
               "tax": 0.0
             }
           ]
@@ -11005,17 +11005,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 28.99,
+              "price": 29.99,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 25.99,
+              "price": 26.99,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 27.49,
+              "price": 28.49,
               "tax": 0.0
             }
           ]
@@ -11048,17 +11048,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 30.99,
+              "price": 31.99,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 27.99,
+              "price": 28.99,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 29.49,
+              "price": 30.49,
               "tax": 0.0
             }
           ]
@@ -11091,17 +11091,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 32.49,
+              "price": 33.49,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 29.49,
+              "price": 30.49,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 30.99,
+              "price": 31.99,
               "tax": 0.0
             }
           ]
@@ -11134,17 +11134,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 31.49,
+              "price": 32.49,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 28.49,
+              "price": 29.49,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 29.99,
+              "price": 30.99,
               "tax": 0.0
             }
           ]
@@ -11177,17 +11177,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 24.49,
+              "price": 25.49,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 21.49,
+              "price": 22.49,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 22.99,
+              "price": 23.99,
               "tax": 0.0
             }
           ]
@@ -11219,17 +11219,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 25.49,
+              "price": 26.49,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 22.49,
+              "price": 23.49,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 23.99,
+              "price": 24.99,
               "tax": 0.0
             }
           ]
@@ -11261,17 +11261,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 24.49,
+              "price": 25.49,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 21.49,
+              "price": 22.49,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 22.99,
+              "price": 23.99,
               "tax": 0.0
             }
           ]
@@ -11303,17 +11303,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 24.49,
+              "price": 25.49,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 21.49,
+              "price": 22.49,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 22.99,
+              "price": 23.99,
               "tax": 0.0
             }
           ]
@@ -11346,17 +11346,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 32.49,
+              "price": 33.49,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 29.49,
+              "price": 30.49,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 30.99,
+              "price": 31.99,
               "tax": 0.0
             }
           ]
@@ -11388,17 +11388,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 19.59,
+              "price": 20.39,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 17.19,
+              "price": 17.99,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 18.39,
+              "price": 19.19,
               "tax": 0.0
             }
           ]
@@ -11431,17 +11431,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 19.59,
+              "price": 20.39,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 17.19,
+              "price": 17.99,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 18.39,
+              "price": 19.19,
               "tax": 0.0
             }
           ]
@@ -11474,17 +11474,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 25.89,
+              "price": 26.69,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 23.49,
+              "price": 24.29,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 24.69,
+              "price": 25.49,
               "tax": 0.0
             }
           ]
@@ -11518,17 +11518,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 24.29,
+              "price": 25.09,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 21.89,
+              "price": 22.69,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 23.09,
+              "price": 23.89,
               "tax": 0.0
             }
           ]
@@ -11545,6 +11545,91 @@
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-22/lincolnsquare/all/145283761",
           "sold_out": false,
           "almost_sold_out": true,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "UP TO 15% OFF",
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
+            "Dolby Cinema at AMC",
+            "Infinity Vision",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 28.39,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 25.99,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 27.19,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2102,
+          "theater": "AMC 84th Street 6",
+          "showtime_id": 146188130,
+          "datetime": "2026-12-22T11:00:00",
+          "datetime_utc": "2026-12-22T16:00:00Z",
+          "auditorium": 5,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-22/84thstreet/all/146188130",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
+            "Laser at AMC",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 21.19,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 18.79,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 19.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
+          "showtime_id": 145283621,
+          "datetime": "2026-12-22T11:00:00",
+          "datetime_utc": "2026-12-22T16:00:00Z",
+          "auditorium": 8,
+          "premium_format": "Dolby Cinema at AMC",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-22/34thstreet/all/145283621",
+          "sold_out": false,
+          "almost_sold_out": false,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": true,
@@ -11578,91 +11663,6 @@
         },
         {
           "source": "AMC",
-          "theater_id": 2102,
-          "theater": "AMC 84th Street 6",
-          "showtime_id": 146188130,
-          "datetime": "2026-12-22T11:00:00",
-          "datetime_utc": "2026-12-22T16:00:00Z",
-          "auditorium": 5,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-22/84thstreet/all/146188130",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": true,
-          "discount_message": "20% OFF",
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Pay with Disney Rewards Redemption Card",
-            "Laser at AMC",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 20.39,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 17.99,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 19.19,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 2120,
-          "theater": "AMC 34th Street 14",
-          "showtime_id": 145283621,
-          "datetime": "2026-12-22T11:00:00",
-          "datetime_utc": "2026-12-22T16:00:00Z",
-          "auditorium": 8,
-          "premium_format": "Dolby Cinema at AMC",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-22/34thstreet/all/145283621",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": true,
-          "discount_message": "UP TO 15% OFF",
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Pay with Disney Rewards Redemption Card",
-            "Dolby Cinema at AMC",
-            "Infinity Vision",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 26.79,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 24.39,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 25.59,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
           "theater_id": 2116,
           "theater": "AMC Lincoln Square 13",
           "showtime_id": 146174186,
@@ -11688,17 +11688,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 19.59,
+              "price": 20.39,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 17.19,
+              "price": 17.99,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 18.39,
+              "price": 19.19,
               "tax": 0.0
             }
           ]
@@ -11730,17 +11730,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 18.79,
+              "price": 19.59,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 16.39,
+              "price": 17.19,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 17.59,
+              "price": 18.39,
               "tax": 0.0
             }
           ]
@@ -11772,17 +11772,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 19.59,
+              "price": 20.39,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 17.19,
+              "price": 17.99,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 18.39,
+              "price": 19.19,
               "tax": 0.0
             }
           ]
@@ -11815,17 +11815,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 18.79,
+              "price": 19.59,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 16.39,
+              "price": 17.19,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 17.59,
+              "price": 18.39,
               "tax": 0.0
             }
           ]
@@ -11858,17 +11858,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 19.59,
+              "price": 20.39,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 17.19,
+              "price": 17.99,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 18.39,
+              "price": 19.19,
               "tax": 0.0
             }
           ]
@@ -11901,17 +11901,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 25.89,
+              "price": 26.69,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 23.49,
+              "price": 24.29,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 24.69,
+              "price": 25.49,
               "tax": 0.0
             }
           ]
@@ -11945,17 +11945,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 24.29,
+              "price": 25.09,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 21.89,
+              "price": 22.69,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 23.09,
+              "price": 23.89,
               "tax": 0.0
             }
           ]
@@ -11972,6 +11972,49 @@
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-22/lincolnsquare/all/145283762",
           "sold_out": false,
           "almost_sold_out": true,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "UP TO 15% OFF",
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
+            "Dolby Cinema at AMC",
+            "Infinity Vision",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 28.39,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 25.99,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 27.19,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
+          "showtime_id": 145283622,
+          "datetime": "2026-12-22T14:45:00",
+          "datetime_utc": "2026-12-22T19:45:00Z",
+          "auditorium": 8,
+          "premium_format": "Dolby Cinema at AMC",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-22/34thstreet/all/145283622",
+          "sold_out": false,
+          "almost_sold_out": false,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": true,
@@ -12005,49 +12048,6 @@
         },
         {
           "source": "AMC",
-          "theater_id": 2120,
-          "theater": "AMC 34th Street 14",
-          "showtime_id": 145283622,
-          "datetime": "2026-12-22T14:45:00",
-          "datetime_utc": "2026-12-22T19:45:00Z",
-          "auditorium": 8,
-          "premium_format": "Dolby Cinema at AMC",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-22/34thstreet/all/145283622",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": true,
-          "discount_message": "UP TO 15% OFF",
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Pay with Disney Rewards Redemption Card",
-            "Dolby Cinema at AMC",
-            "Infinity Vision",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 26.79,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 24.39,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 25.59,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
           "theater_id": 2102,
           "theater": "AMC 84th Street 6",
           "showtime_id": 146188139,
@@ -12073,17 +12073,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 20.39,
+              "price": 21.19,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 17.99,
+              "price": 18.79,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 19.19,
+              "price": 19.99,
               "tax": 0.0
             }
           ]
@@ -12116,17 +12116,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 19.59,
+              "price": 20.39,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 17.19,
+              "price": 17.99,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 18.39,
+              "price": 19.19,
               "tax": 0.0
             }
           ]
@@ -12158,17 +12158,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 18.79,
+              "price": 19.59,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 16.39,
+              "price": 17.19,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 17.59,
+              "price": 18.39,
               "tax": 0.0
             }
           ]
@@ -12200,17 +12200,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 24.49,
+              "price": 25.49,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 21.49,
+              "price": 22.49,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 22.99,
+              "price": 23.99,
               "tax": 0.0
             }
           ]
@@ -12243,17 +12243,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 23.49,
+              "price": 24.49,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 20.49,
+              "price": 21.49,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 21.99,
+              "price": 22.99,
               "tax": 0.0
             }
           ]
@@ -12286,17 +12286,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 24.49,
+              "price": 25.49,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 21.49,
+              "price": 22.49,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 22.99,
+              "price": 23.99,
               "tax": 0.0
             }
           ]
@@ -12329,17 +12329,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 30.99,
+              "price": 31.99,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 27.99,
+              "price": 28.99,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 29.49,
+              "price": 30.49,
               "tax": 0.0
             }
           ]
@@ -12373,17 +12373,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 28.99,
+              "price": 29.99,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 25.99,
+              "price": 26.99,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 27.49,
+              "price": 28.49,
               "tax": 0.0
             }
           ]
@@ -12398,6 +12398,49 @@
           "auditorium": 1,
           "premium_format": "Dolby Cinema at AMC",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-22/lincolnsquare/all/145283765",
+          "sold_out": false,
+          "almost_sold_out": true,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
+            "Dolby Cinema at AMC",
+            "Infinity Vision",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 33.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 30.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 31.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
+          "showtime_id": 145283623,
+          "datetime": "2026-12-22T18:30:00",
+          "datetime_utc": "2026-12-22T23:30:00Z",
+          "auditorium": 8,
+          "premium_format": "Dolby Cinema at AMC",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-22/34thstreet/all/145283623",
           "sold_out": false,
           "almost_sold_out": true,
           "cancelled": false,
@@ -12433,49 +12476,6 @@
         },
         {
           "source": "AMC",
-          "theater_id": 2120,
-          "theater": "AMC 34th Street 14",
-          "showtime_id": 145283623,
-          "datetime": "2026-12-22T18:30:00",
-          "datetime_utc": "2026-12-22T23:30:00Z",
-          "auditorium": 8,
-          "premium_format": "Dolby Cinema at AMC",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-22/34thstreet/all/145283623",
-          "sold_out": false,
-          "almost_sold_out": true,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Pay with Disney Rewards Redemption Card",
-            "Dolby Cinema at AMC",
-            "Infinity Vision",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 31.49,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 28.49,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 29.99,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
           "theater_id": 2102,
           "theater": "AMC 84th Street 6",
           "showtime_id": 146188145,
@@ -12501,17 +12501,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 25.49,
+              "price": 26.49,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 22.49,
+              "price": 23.49,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 23.99,
+              "price": 24.99,
               "tax": 0.0
             }
           ]
@@ -12544,17 +12544,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 24.49,
+              "price": 25.49,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 21.49,
+              "price": 22.49,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 22.99,
+              "price": 23.99,
               "tax": 0.0
             }
           ]
@@ -12586,17 +12586,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 23.49,
+              "price": 24.49,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 20.49,
+              "price": 21.49,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 21.99,
+              "price": 22.99,
               "tax": 0.0
             }
           ]
@@ -12628,17 +12628,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 24.49,
+              "price": 25.49,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 21.49,
+              "price": 22.49,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 22.99,
+              "price": 23.99,
               "tax": 0.0
             }
           ]
@@ -12671,17 +12671,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 23.49,
+              "price": 24.49,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 20.49,
+              "price": 21.49,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 21.99,
+              "price": 22.99,
               "tax": 0.0
             }
           ]
@@ -12714,17 +12714,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 24.49,
+              "price": 25.49,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 21.49,
+              "price": 22.49,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 22.99,
+              "price": 23.99,
               "tax": 0.0
             }
           ]
@@ -12758,17 +12758,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 28.99,
+              "price": 29.99,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 25.99,
+              "price": 26.99,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 27.49,
+              "price": 28.49,
               "tax": 0.0
             }
           ]
@@ -12801,17 +12801,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 30.99,
+              "price": 31.99,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 27.99,
+              "price": 28.99,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 29.49,
+              "price": 30.49,
               "tax": 0.0
             }
           ]
@@ -12844,17 +12844,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 32.49,
+              "price": 33.49,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 29.49,
+              "price": 30.49,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 30.99,
+              "price": 31.99,
               "tax": 0.0
             }
           ]
@@ -12887,17 +12887,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 31.49,
+              "price": 32.49,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 28.49,
+              "price": 29.49,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 29.99,
+              "price": 30.99,
               "tax": 0.0
             }
           ]
@@ -12930,17 +12930,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 24.49,
+              "price": 25.49,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 21.49,
+              "price": 22.49,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 22.99,
+              "price": 23.99,
               "tax": 0.0
             }
           ]
@@ -12972,17 +12972,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 25.49,
+              "price": 26.49,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 22.49,
+              "price": 23.49,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 23.99,
+              "price": 24.99,
               "tax": 0.0
             }
           ]
@@ -13014,17 +13014,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 24.49,
+              "price": 25.49,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 21.49,
+              "price": 22.49,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 22.99,
+              "price": 23.99,
               "tax": 0.0
             }
           ]
@@ -13057,17 +13057,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 24.49,
+              "price": 25.49,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 21.49,
+              "price": 22.49,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 22.99,
+              "price": 23.99,
               "tax": 0.0
             }
           ]
@@ -13100,17 +13100,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 32.49,
+              "price": 33.49,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 29.49,
+              "price": 30.49,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 30.99,
+              "price": 31.99,
               "tax": 0.0
             }
           ]
@@ -13142,17 +13142,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 19.59,
+              "price": 20.39,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 17.19,
+              "price": 17.99,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 18.39,
+              "price": 19.19,
               "tax": 0.0
             }
           ]
@@ -13185,17 +13185,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 19.59,
+              "price": 20.39,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 17.19,
+              "price": 17.99,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 18.39,
+              "price": 19.19,
               "tax": 0.0
             }
           ]
@@ -13228,17 +13228,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 25.89,
+              "price": 26.69,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 23.49,
+              "price": 24.29,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 24.69,
+              "price": 25.49,
               "tax": 0.0
             }
           ]
@@ -13272,17 +13272,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 24.29,
+              "price": 25.09,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 21.89,
+              "price": 22.69,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 23.09,
+              "price": 23.89,
               "tax": 0.0
             }
           ]
@@ -13297,6 +13297,91 @@
           "auditorium": 1,
           "premium_format": "Dolby Cinema at AMC",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-23/lincolnsquare/all/145283773",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "UP TO 15% OFF",
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
+            "Dolby Cinema at AMC",
+            "Infinity Vision",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 28.39,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 25.99,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 27.19,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2102,
+          "theater": "AMC 84th Street 6",
+          "showtime_id": 146188129,
+          "datetime": "2026-12-23T11:00:00",
+          "datetime_utc": "2026-12-23T16:00:00Z",
+          "auditorium": 5,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-23/84thstreet/all/146188129",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
+            "Laser at AMC",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 21.19,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 18.79,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 19.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
+          "showtime_id": 145283627,
+          "datetime": "2026-12-23T11:00:00",
+          "datetime_utc": "2026-12-23T16:00:00Z",
+          "auditorium": 8,
+          "premium_format": "Dolby Cinema at AMC",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-23/34thstreet/all/145283627",
           "sold_out": false,
           "almost_sold_out": false,
           "cancelled": false,
@@ -13332,91 +13417,6 @@
         },
         {
           "source": "AMC",
-          "theater_id": 2102,
-          "theater": "AMC 84th Street 6",
-          "showtime_id": 146188129,
-          "datetime": "2026-12-23T11:00:00",
-          "datetime_utc": "2026-12-23T16:00:00Z",
-          "auditorium": 5,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-23/84thstreet/all/146188129",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": true,
-          "discount_message": "20% OFF",
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Pay with Disney Rewards Redemption Card",
-            "Laser at AMC",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 20.39,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 17.99,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 19.19,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 2120,
-          "theater": "AMC 34th Street 14",
-          "showtime_id": 145283627,
-          "datetime": "2026-12-23T11:00:00",
-          "datetime_utc": "2026-12-23T16:00:00Z",
-          "auditorium": 8,
-          "premium_format": "Dolby Cinema at AMC",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-23/34thstreet/all/145283627",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": true,
-          "discount_message": "UP TO 15% OFF",
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Pay with Disney Rewards Redemption Card",
-            "Dolby Cinema at AMC",
-            "Infinity Vision",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 26.79,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 24.39,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 25.59,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
           "theater_id": 2116,
           "theater": "AMC Lincoln Square 13",
           "showtime_id": 146174179,
@@ -13443,17 +13443,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 19.59,
+              "price": 20.39,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 17.19,
+              "price": 17.99,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 18.39,
+              "price": 19.19,
               "tax": 0.0
             }
           ]
@@ -13485,17 +13485,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 18.79,
+              "price": 19.59,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 16.39,
+              "price": 17.19,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 17.59,
+              "price": 18.39,
               "tax": 0.0
             }
           ]
@@ -13527,17 +13527,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 19.59,
+              "price": 20.39,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 17.19,
+              "price": 17.99,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 18.39,
+              "price": 19.19,
               "tax": 0.0
             }
           ]
@@ -13570,17 +13570,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 18.79,
+              "price": 19.59,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 16.39,
+              "price": 17.19,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 17.59,
+              "price": 18.39,
               "tax": 0.0
             }
           ]
@@ -13613,17 +13613,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 19.59,
+              "price": 20.39,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 17.19,
+              "price": 17.99,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 18.39,
+              "price": 19.19,
               "tax": 0.0
             }
           ]
@@ -13656,17 +13656,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 25.89,
+              "price": 26.69,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 23.49,
+              "price": 24.29,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 24.69,
+              "price": 25.49,
               "tax": 0.0
             }
           ]
@@ -13700,17 +13700,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 24.29,
+              "price": 25.09,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 21.89,
+              "price": 22.69,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 23.09,
+              "price": 23.89,
               "tax": 0.0
             }
           ]
@@ -13727,6 +13727,49 @@
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-23/lincolnsquare/all/145283778",
           "sold_out": false,
           "almost_sold_out": true,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "UP TO 15% OFF",
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
+            "Dolby Cinema at AMC",
+            "Infinity Vision",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 28.39,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 25.99,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 27.19,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
+          "showtime_id": 145283629,
+          "datetime": "2026-12-23T14:45:00",
+          "datetime_utc": "2026-12-23T19:45:00Z",
+          "auditorium": 8,
+          "premium_format": "Dolby Cinema at AMC",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-23/34thstreet/all/145283629",
+          "sold_out": false,
+          "almost_sold_out": false,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": true,
@@ -13760,49 +13803,6 @@
         },
         {
           "source": "AMC",
-          "theater_id": 2120,
-          "theater": "AMC 34th Street 14",
-          "showtime_id": 145283629,
-          "datetime": "2026-12-23T14:45:00",
-          "datetime_utc": "2026-12-23T19:45:00Z",
-          "auditorium": 8,
-          "premium_format": "Dolby Cinema at AMC",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-23/34thstreet/all/145283629",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": true,
-          "discount_message": "UP TO 15% OFF",
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Pay with Disney Rewards Redemption Card",
-            "Dolby Cinema at AMC",
-            "Infinity Vision",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 26.79,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 24.39,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 25.59,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
           "theater_id": 2102,
           "theater": "AMC 84th Street 6",
           "showtime_id": 146188137,
@@ -13827,17 +13827,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 20.39,
+              "price": 21.19,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 17.99,
+              "price": 18.79,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 19.19,
+              "price": 19.99,
               "tax": 0.0
             }
           ]
@@ -13870,17 +13870,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 19.59,
+              "price": 20.39,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 17.19,
+              "price": 17.99,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 18.39,
+              "price": 19.19,
               "tax": 0.0
             }
           ]
@@ -13912,17 +13912,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 18.79,
+              "price": 19.59,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 16.39,
+              "price": 17.19,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 17.59,
+              "price": 18.39,
               "tax": 0.0
             }
           ]
@@ -13954,17 +13954,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 24.49,
+              "price": 25.49,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 21.49,
+              "price": 22.49,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 22.99,
+              "price": 23.99,
               "tax": 0.0
             }
           ]
@@ -13997,17 +13997,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 23.49,
+              "price": 24.49,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 20.49,
+              "price": 21.49,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 21.99,
+              "price": 22.99,
               "tax": 0.0
             }
           ]
@@ -14039,17 +14039,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 24.49,
+              "price": 25.49,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 21.49,
+              "price": 22.49,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 22.99,
+              "price": 23.99,
               "tax": 0.0
             }
           ]
@@ -14082,17 +14082,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 30.99,
+              "price": 31.99,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 27.99,
+              "price": 28.99,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 29.49,
+              "price": 30.49,
               "tax": 0.0
             }
           ]
@@ -14126,17 +14126,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 28.99,
+              "price": 29.99,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 25.99,
+              "price": 26.99,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 27.49,
+              "price": 28.49,
               "tax": 0.0
             }
           ]
@@ -14151,6 +14151,49 @@
           "auditorium": 1,
           "premium_format": "Dolby Cinema at AMC",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-23/lincolnsquare/all/145283781",
+          "sold_out": false,
+          "almost_sold_out": true,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
+            "Dolby Cinema at AMC",
+            "Infinity Vision",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 33.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 30.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 31.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
+          "showtime_id": 145283632,
+          "datetime": "2026-12-23T18:30:00",
+          "datetime_utc": "2026-12-23T23:30:00Z",
+          "auditorium": 8,
+          "premium_format": "Dolby Cinema at AMC",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-23/34thstreet/all/145283632",
           "sold_out": false,
           "almost_sold_out": true,
           "cancelled": false,
@@ -14186,49 +14229,6 @@
         },
         {
           "source": "AMC",
-          "theater_id": 2120,
-          "theater": "AMC 34th Street 14",
-          "showtime_id": 145283632,
-          "datetime": "2026-12-23T18:30:00",
-          "datetime_utc": "2026-12-23T23:30:00Z",
-          "auditorium": 8,
-          "premium_format": "Dolby Cinema at AMC",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-23/34thstreet/all/145283632",
-          "sold_out": false,
-          "almost_sold_out": true,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Pay with Disney Rewards Redemption Card",
-            "Dolby Cinema at AMC",
-            "Infinity Vision",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 31.49,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 28.49,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 29.99,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
           "theater_id": 2102,
           "theater": "AMC 84th Street 6",
           "showtime_id": 146188140,
@@ -14254,17 +14254,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 25.49,
+              "price": 26.49,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 22.49,
+              "price": 23.49,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 23.99,
+              "price": 24.99,
               "tax": 0.0
             }
           ]
@@ -14297,17 +14297,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 24.49,
+              "price": 25.49,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 21.49,
+              "price": 22.49,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 22.99,
+              "price": 23.99,
               "tax": 0.0
             }
           ]
@@ -14339,17 +14339,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 23.49,
+              "price": 24.49,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 20.49,
+              "price": 21.49,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 21.99,
+              "price": 22.99,
               "tax": 0.0
             }
           ]
@@ -14381,17 +14381,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 24.49,
+              "price": 25.49,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 21.49,
+              "price": 22.49,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 22.99,
+              "price": 23.99,
               "tax": 0.0
             }
           ]
@@ -14423,17 +14423,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 23.49,
+              "price": 24.49,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 20.49,
+              "price": 21.49,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 21.99,
+              "price": 22.99,
               "tax": 0.0
             }
           ]
@@ -14466,17 +14466,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 24.49,
+              "price": 25.49,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 21.49,
+              "price": 22.49,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 22.99,
+              "price": 23.99,
               "tax": 0.0
             }
           ]
@@ -14510,17 +14510,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 28.99,
+              "price": 29.99,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 25.99,
+              "price": 26.99,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 27.49,
+              "price": 28.49,
               "tax": 0.0
             }
           ]
@@ -14553,17 +14553,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 30.99,
+              "price": 31.99,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 27.99,
+              "price": 28.99,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 29.49,
+              "price": 30.49,
               "tax": 0.0
             }
           ]
@@ -14596,17 +14596,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 32.49,
+              "price": 33.49,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 29.49,
+              "price": 30.49,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 30.99,
+              "price": 31.99,
               "tax": 0.0
             }
           ]
@@ -14639,17 +14639,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 31.49,
+              "price": 32.49,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 28.49,
+              "price": 29.49,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 29.99,
+              "price": 30.99,
               "tax": 0.0
             }
           ]
@@ -14682,17 +14682,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 24.49,
+              "price": 25.49,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 21.49,
+              "price": 22.49,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 22.99,
+              "price": 23.99,
               "tax": 0.0
             }
           ]
@@ -14724,17 +14724,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 25.49,
+              "price": 26.49,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 22.49,
+              "price": 23.49,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 23.99,
+              "price": 24.99,
               "tax": 0.0
             }
           ]
@@ -14766,17 +14766,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 24.49,
+              "price": 25.49,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 21.49,
+              "price": 22.49,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 22.99,
+              "price": 23.99,
               "tax": 0.0
             }
           ]
@@ -14809,17 +14809,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 24.49,
+              "price": 25.49,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 21.49,
+              "price": 22.49,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 22.99,
+              "price": 23.99,
               "tax": 0.0
             }
           ]
@@ -14852,17 +14852,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 32.49,
+              "price": 33.49,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 29.49,
+              "price": 30.49,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 30.99,
+              "price": 31.99,
               "tax": 0.0
             }
           ]
@@ -14895,17 +14895,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 25.89,
+              "price": 26.69,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 23.49,
+              "price": 24.29,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 24.69,
+              "price": 25.49,
               "tax": 0.0
             }
           ]
@@ -14939,17 +14939,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 24.29,
+              "price": 25.09,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 21.89,
+              "price": 22.69,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 23.09,
+              "price": 23.89,
               "tax": 0.0
             }
           ]
@@ -14964,6 +14964,91 @@
           "auditorium": 1,
           "premium_format": "Dolby Cinema at AMC",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-24/lincolnsquare/all/145283789",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "UP TO 15% OFF",
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
+            "Dolby Cinema at AMC",
+            "Infinity Vision",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 28.39,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 25.99,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 27.19,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2102,
+          "theater": "AMC 84th Street 6",
+          "showtime_id": 146188127,
+          "datetime": "2026-12-24T11:00:00",
+          "datetime_utc": "2026-12-24T16:00:00Z",
+          "auditorium": 5,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-24/84thstreet/all/146188127",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "20% OFF",
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
+            "Laser at AMC",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 21.19,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 18.79,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 19.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
+          "showtime_id": 145283636,
+          "datetime": "2026-12-24T11:00:00",
+          "datetime_utc": "2026-12-24T16:00:00Z",
+          "auditorium": 8,
+          "premium_format": "Dolby Cinema at AMC",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-24/34thstreet/all/145283636",
           "sold_out": false,
           "almost_sold_out": false,
           "cancelled": false,
@@ -14999,91 +15084,6 @@
         },
         {
           "source": "AMC",
-          "theater_id": 2102,
-          "theater": "AMC 84th Street 6",
-          "showtime_id": 146188127,
-          "datetime": "2026-12-24T11:00:00",
-          "datetime_utc": "2026-12-24T16:00:00Z",
-          "auditorium": 5,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-24/84thstreet/all/146188127",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": true,
-          "discount_message": "20% OFF",
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Pay with Disney Rewards Redemption Card",
-            "Laser at AMC",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 20.39,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 17.99,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 19.19,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 2120,
-          "theater": "AMC 34th Street 14",
-          "showtime_id": 145283636,
-          "datetime": "2026-12-24T11:00:00",
-          "datetime_utc": "2026-12-24T16:00:00Z",
-          "auditorium": 8,
-          "premium_format": "Dolby Cinema at AMC",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-24/34thstreet/all/145283636",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": true,
-          "discount_message": "UP TO 15% OFF",
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Pay with Disney Rewards Redemption Card",
-            "Dolby Cinema at AMC",
-            "Infinity Vision",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 26.79,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 24.39,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 25.59,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
           "theater_id": 2116,
           "theater": "AMC Lincoln Square 13",
           "showtime_id": 148940198,
@@ -15110,17 +15110,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 19.59,
+              "price": 20.39,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 17.19,
+              "price": 17.99,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 18.39,
+              "price": 19.19,
               "tax": 0.0
             }
           ]
@@ -15153,17 +15153,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 18.79,
+              "price": 19.59,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 16.39,
+              "price": 17.19,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 17.59,
+              "price": 18.39,
               "tax": 0.0
             }
           ]
@@ -15195,17 +15195,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 18.79,
+              "price": 19.59,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 16.39,
+              "price": 17.19,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 17.59,
+              "price": 18.39,
               "tax": 0.0
             }
           ]
@@ -15238,17 +15238,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 25.89,
+              "price": 26.69,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 23.49,
+              "price": 24.29,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 24.69,
+              "price": 25.49,
               "tax": 0.0
             }
           ]
@@ -15282,17 +15282,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 24.29,
+              "price": 25.09,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 21.89,
+              "price": 22.69,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 23.09,
+              "price": 23.89,
               "tax": 0.0
             }
           ]
@@ -15307,6 +15307,49 @@
           "auditorium": 1,
           "premium_format": "Dolby Cinema at AMC",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-24/lincolnsquare/all/145283793",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "UP TO 15% OFF",
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
+            "Dolby Cinema at AMC",
+            "Infinity Vision",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 28.39,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 25.99,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 27.19,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
+          "showtime_id": 145283638,
+          "datetime": "2026-12-24T14:45:00",
+          "datetime_utc": "2026-12-24T19:45:00Z",
+          "auditorium": 8,
+          "premium_format": "Dolby Cinema at AMC",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-24/34thstreet/all/145283638",
           "sold_out": false,
           "almost_sold_out": false,
           "cancelled": false,
@@ -15342,49 +15385,6 @@
         },
         {
           "source": "AMC",
-          "theater_id": 2120,
-          "theater": "AMC 34th Street 14",
-          "showtime_id": 145283638,
-          "datetime": "2026-12-24T14:45:00",
-          "datetime_utc": "2026-12-24T19:45:00Z",
-          "auditorium": 8,
-          "premium_format": "Dolby Cinema at AMC",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-24/34thstreet/all/145283638",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": true,
-          "discount_message": "UP TO 15% OFF",
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Pay with Disney Rewards Redemption Card",
-            "Dolby Cinema at AMC",
-            "Infinity Vision",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 26.79,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 24.39,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 25.59,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
           "theater_id": 2102,
           "theater": "AMC 84th Street 6",
           "showtime_id": 146188134,
@@ -15410,17 +15410,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 20.39,
+              "price": 21.19,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 17.99,
+              "price": 18.79,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 19.19,
+              "price": 19.99,
               "tax": 0.0
             }
           ]
@@ -15453,17 +15453,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 19.59,
+              "price": 20.39,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 17.19,
+              "price": 17.99,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 18.39,
+              "price": 19.19,
               "tax": 0.0
             }
           ]
@@ -15496,17 +15496,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 18.79,
+              "price": 19.59,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 16.39,
+              "price": 17.19,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 17.59,
+              "price": 18.39,
               "tax": 0.0
             }
           ]
@@ -15538,17 +15538,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 23.49,
+              "price": 24.49,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 20.49,
+              "price": 21.49,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 21.99,
+              "price": 22.99,
               "tax": 0.0
             }
           ]
@@ -15581,17 +15581,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 30.99,
+              "price": 31.99,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 27.99,
+              "price": 28.99,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 29.49,
+              "price": 30.49,
               "tax": 0.0
             }
           ]
@@ -15625,17 +15625,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 28.99,
+              "price": 29.99,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 25.99,
+              "price": 26.99,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 27.49,
+              "price": 28.49,
               "tax": 0.0
             }
           ]
@@ -15652,6 +15652,49 @@
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-24/lincolnsquare/all/145283796",
           "sold_out": false,
           "almost_sold_out": true,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
+            "Dolby Cinema at AMC",
+            "Infinity Vision",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 33.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 30.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 31.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
+          "showtime_id": 145283640,
+          "datetime": "2026-12-24T18:30:00",
+          "datetime_utc": "2026-12-24T23:30:00Z",
+          "auditorium": 8,
+          "premium_format": "Dolby Cinema at AMC",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-24/34thstreet/all/145283640",
+          "sold_out": false,
+          "almost_sold_out": false,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -15685,49 +15728,6 @@
         },
         {
           "source": "AMC",
-          "theater_id": 2120,
-          "theater": "AMC 34th Street 14",
-          "showtime_id": 145283640,
-          "datetime": "2026-12-24T18:30:00",
-          "datetime_utc": "2026-12-24T23:30:00Z",
-          "auditorium": 8,
-          "premium_format": "Dolby Cinema at AMC",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-24/34thstreet/all/145283640",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Pay with Disney Rewards Redemption Card",
-            "Dolby Cinema at AMC",
-            "Infinity Vision",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 31.49,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 28.49,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 29.99,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
           "theater_id": 2102,
           "theater": "AMC 84th Street 6",
           "showtime_id": 146188138,
@@ -15753,17 +15753,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 25.49,
+              "price": 26.49,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 22.49,
+              "price": 23.49,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 23.99,
+              "price": 24.99,
               "tax": 0.0
             }
           ]
@@ -15796,17 +15796,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 24.49,
+              "price": 25.49,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 21.49,
+              "price": 22.49,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 22.99,
+              "price": 23.99,
               "tax": 0.0
             }
           ]
@@ -15839,17 +15839,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 23.49,
+              "price": 24.49,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 20.49,
+              "price": 21.49,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 21.99,
+              "price": 22.99,
               "tax": 0.0
             }
           ]
@@ -15881,17 +15881,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 23.49,
+              "price": 24.49,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 20.49,
+              "price": 21.49,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 21.99,
+              "price": 22.99,
               "tax": 0.0
             }
           ]
@@ -15925,17 +15925,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 28.99,
+              "price": 29.99,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 25.99,
+              "price": 26.99,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 27.49,
+              "price": 28.49,
               "tax": 0.0
             }
           ]
@@ -15968,17 +15968,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 30.99,
+              "price": 31.99,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 27.99,
+              "price": 28.99,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 29.49,
+              "price": 30.49,
               "tax": 0.0
             }
           ]
@@ -15993,6 +15993,49 @@
           "auditorium": 1,
           "premium_format": "Dolby Cinema at AMC",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-24/lincolnsquare/all/146204090",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
+            "Dolby Cinema at AMC",
+            "Infinity Vision",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 33.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 30.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 31.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
+          "showtime_id": 145971054,
+          "datetime": "2026-12-24T22:15:00",
+          "datetime_utc": "2026-12-25T03:15:00Z",
+          "auditorium": 8,
+          "premium_format": "Dolby Cinema at AMC",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-24/34thstreet/all/145971054",
           "sold_out": false,
           "almost_sold_out": false,
           "cancelled": false,
@@ -16028,49 +16071,6 @@
         },
         {
           "source": "AMC",
-          "theater_id": 2120,
-          "theater": "AMC 34th Street 14",
-          "showtime_id": 145971054,
-          "datetime": "2026-12-24T22:15:00",
-          "datetime_utc": "2026-12-25T03:15:00Z",
-          "auditorium": 8,
-          "premium_format": "Dolby Cinema at AMC",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-24/34thstreet/all/145971054",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Pay with Disney Rewards Redemption Card",
-            "Dolby Cinema at AMC",
-            "Infinity Vision",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 31.49,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 28.49,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 29.99,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
           "theater_id": 2116,
           "theater": "AMC Lincoln Square 13",
           "showtime_id": 148940199,
@@ -16097,17 +16097,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 24.49,
+              "price": 25.49,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 21.49,
+              "price": 22.49,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 22.99,
+              "price": 23.99,
               "tax": 0.0
             }
           ]
@@ -16139,17 +16139,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 25.49,
+              "price": 26.49,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 22.49,
+              "price": 23.49,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 23.99,
+              "price": 24.99,
               "tax": 0.0
             }
           ]
@@ -17939,17 +17939,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 27.59,
+              "price": 28.39,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 25.19,
+              "price": 25.99,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 26.39,
+              "price": 27.19,
               "tax": 0.0
             }
           ]
@@ -17981,17 +17981,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 20.39,
+              "price": 21.19,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 17.99,
+              "price": 18.79,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 19.19,
+              "price": 19.99,
               "tax": 0.0
             }
           ]
@@ -18025,17 +18025,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 24.29,
+              "price": 25.09,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 21.89,
+              "price": 22.69,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 23.09,
+              "price": 23.89,
               "tax": 0.0
             }
           ]
@@ -18050,6 +18050,49 @@
           "auditorium": 1,
           "premium_format": "Dolby Cinema at AMC",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-27/lincolnsquare/all/146204095",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "UP TO 15% OFF",
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
+            "Dolby Cinema at AMC",
+            "Infinity Vision",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 28.39,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 25.99,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 27.19,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
+          "showtime_id": 145971050,
+          "datetime": "2026-12-27T11:00:00",
+          "datetime_utc": "2026-12-27T16:00:00Z",
+          "auditorium": 8,
+          "premium_format": "Dolby Cinema at AMC",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-27/34thstreet/all/145971050",
           "sold_out": false,
           "almost_sold_out": false,
           "cancelled": false,
@@ -18087,49 +18130,6 @@
           "source": "AMC",
           "theater_id": 2120,
           "theater": "AMC 34th Street 14",
-          "showtime_id": 145971050,
-          "datetime": "2026-12-27T11:00:00",
-          "datetime_utc": "2026-12-27T16:00:00Z",
-          "auditorium": 8,
-          "premium_format": "Dolby Cinema at AMC",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-27/34thstreet/all/145971050",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": true,
-          "discount_message": "UP TO 15% OFF",
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Pay with Disney Rewards Redemption Card",
-            "Dolby Cinema at AMC",
-            "Infinity Vision",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 26.79,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 24.39,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 25.59,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 2120,
-          "theater": "AMC 34th Street 14",
           "showtime_id": 145971118,
           "datetime": "2026-12-27T12:00:00",
           "datetime_utc": "2026-12-27T17:00:00Z",
@@ -18152,17 +18152,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 18.79,
+              "price": 19.59,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 16.39,
+              "price": 17.19,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 17.59,
+              "price": 18.39,
               "tax": 0.0
             }
           ]
@@ -18195,17 +18195,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 25.89,
+              "price": 26.69,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 23.49,
+              "price": 24.29,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 24.69,
+              "price": 25.49,
               "tax": 0.0
             }
           ]
@@ -18239,17 +18239,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 24.29,
+              "price": 25.09,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 21.89,
+              "price": 22.69,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 23.09,
+              "price": 23.89,
               "tax": 0.0
             }
           ]
@@ -18266,6 +18266,49 @@
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-27/lincolnsquare/all/145283813",
           "sold_out": false,
           "almost_sold_out": true,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": true,
+          "discount_message": "UP TO 15% OFF",
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
+            "Dolby Cinema at AMC",
+            "Infinity Vision",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 28.39,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 25.99,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 27.19,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
+          "showtime_id": 145283652,
+          "datetime": "2026-12-27T14:45:00",
+          "datetime_utc": "2026-12-27T19:45:00Z",
+          "auditorium": 8,
+          "premium_format": "Dolby Cinema at AMC",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-27/34thstreet/all/145283652",
+          "sold_out": false,
+          "almost_sold_out": false,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": true,
@@ -18301,49 +18344,6 @@
           "source": "AMC",
           "theater_id": 2120,
           "theater": "AMC 34th Street 14",
-          "showtime_id": 145283652,
-          "datetime": "2026-12-27T14:45:00",
-          "datetime_utc": "2026-12-27T19:45:00Z",
-          "auditorium": 8,
-          "premium_format": "Dolby Cinema at AMC",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-27/34thstreet/all/145283652",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": true,
-          "discount_message": "UP TO 15% OFF",
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Pay with Disney Rewards Redemption Card",
-            "Dolby Cinema at AMC",
-            "Infinity Vision",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 26.79,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 24.39,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 25.59,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 2120,
-          "theater": "AMC 34th Street 14",
           "showtime_id": 145971117,
           "datetime": "2026-12-27T15:45:00",
           "datetime_utc": "2026-12-27T20:45:00Z",
@@ -18367,17 +18367,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 18.79,
+              "price": 19.59,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 16.39,
+              "price": 17.19,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 17.59,
+              "price": 18.39,
               "tax": 0.0
             }
           ]
@@ -18408,17 +18408,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 25.49,
+              "price": 26.49,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 22.49,
+              "price": 23.49,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 23.99,
+              "price": 24.99,
               "tax": 0.0
             }
           ]
@@ -18452,17 +18452,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 28.99,
+              "price": 29.99,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 25.99,
+              "price": 26.99,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 27.49,
+              "price": 28.49,
               "tax": 0.0
             }
           ]
@@ -18477,6 +18477,49 @@
           "auditorium": 1,
           "premium_format": "Dolby Cinema at AMC",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-27/lincolnsquare/all/145283817",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Pay with Disney Rewards Redemption Card",
+            "Dolby Cinema at AMC",
+            "Infinity Vision",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 33.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 30.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 31.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
+          "showtime_id": 145283655,
+          "datetime": "2026-12-27T18:30:00",
+          "datetime_utc": "2026-12-27T23:30:00Z",
+          "auditorium": 8,
+          "premium_format": "Dolby Cinema at AMC",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-27/34thstreet/all/145283655",
           "sold_out": false,
           "almost_sold_out": false,
           "cancelled": false,
@@ -18514,49 +18557,6 @@
           "source": "AMC",
           "theater_id": 2120,
           "theater": "AMC 34th Street 14",
-          "showtime_id": 145283655,
-          "datetime": "2026-12-27T18:30:00",
-          "datetime_utc": "2026-12-27T23:30:00Z",
-          "auditorium": 8,
-          "premium_format": "Dolby Cinema at AMC",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-27/34thstreet/all/145283655",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Pay with Disney Rewards Redemption Card",
-            "Dolby Cinema at AMC",
-            "Infinity Vision",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 31.49,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 28.49,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 29.99,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 2120,
-          "theater": "AMC 34th Street 14",
           "showtime_id": 145971116,
           "datetime": "2026-12-27T19:30:00",
           "datetime_utc": "2026-12-28T00:30:00Z",
@@ -18580,17 +18580,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 23.49,
+              "price": 24.49,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 20.49,
+              "price": 21.49,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 21.99,
+              "price": 22.99,
               "tax": 0.0
             }
           ]
@@ -18624,17 +18624,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 28.99,
+              "price": 29.99,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 25.99,
+              "price": 26.99,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 27.49,
+              "price": 28.49,
               "tax": 0.0
             }
           ]
@@ -18667,17 +18667,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 30.99,
+              "price": 31.99,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 27.99,
+              "price": 28.99,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 29.49,
+              "price": 30.49,
               "tax": 0.0
             }
           ]
@@ -18710,17 +18710,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 32.49,
+              "price": 33.49,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 29.49,
+              "price": 30.49,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 30.99,
+              "price": 31.99,
               "tax": 0.0
             }
           ]
@@ -18753,17 +18753,17 @@
           "ticket_prices": [
             {
               "type": "ADULT",
-              "price": 31.49,
+              "price": 32.49,
               "tax": 0.0
             },
             {
               "type": "CHILD",
-              "price": 28.49,
+              "price": 29.49,
               "tax": 0.0
             },
             {
               "type": "SENIOR",
-              "price": 29.99,
+              "price": 30.99,
               "tax": 0.0
             }
           ]
@@ -26730,7 +26730,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.54,
-      "letterboxd_rating_count": 7466,
+      "letterboxd_rating_count": 7502,
       "letterboxd_url": "https://letterboxd.com/film/behemoth-2026/",
       "awards": "N/A",
       "language": "English",
@@ -28809,7 +28809,7 @@
       "rotten_tomatoes": null,
       "metacritic": "59/100",
       "letterboxd_rating": 3.71,
-      "letterboxd_rating_count": 860975,
+      "letterboxd_rating_count": 863062,
       "letterboxd_url": "https://letterboxd.com/film/clayface/",
       "awards": "N/A",
       "language": "English",
@@ -29150,7 +29150,7 @@
       "rotten_tomatoes": null,
       "metacritic": "84/100",
       "letterboxd_rating": 4.44,
-      "letterboxd_rating_count": 96180,
+      "letterboxd_rating_count": 98292,
       "letterboxd_url": "https://letterboxd.com/film/club-kid/",
       "awards": "2 wins & 6 nominations total",
       "language": "English",
@@ -29517,6 +29517,48 @@
           "attributes": [
             "AMC Artisan Films",
             "AOneLive",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 21.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 18.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 19.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2120,
+          "theater": "AMC 34th Street 14",
+          "showtime_id": 148784325,
+          "datetime": "2026-11-19T22:30:00",
+          "datetime_utc": "2026-11-20T03:30:00Z",
+          "auditorium": 11,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-19/34thstreet/all/148784325",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Artisan Films",
             "Closed Caption",
             "Audio Description",
             "Laser at AMC",
@@ -44064,7 +44106,7 @@
           "premium_format": "IMAX at AMC",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-20/34thstreet/all/145971295",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -52110,7 +52152,7 @@
           "auditorium": 13,
           "premium_format": "70MM at AMC",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-02/lincolnsquare/all/146172055",
-          "sold_out": false,
+          "sold_out": true,
           "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
@@ -55241,7 +55283,7 @@
           "premium_format": "70MM at AMC",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2027-01-12/lincolnsquare/all/147743053",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -55890,7 +55932,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.25,
-      "letterboxd_rating_count": 68853,
+      "letterboxd_rating_count": 71463,
       "letterboxd_url": "https://letterboxd.com/film/ebenezer-2026/",
       "awards": "N/A",
       "language": "N/A",
@@ -60105,7 +60147,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.86,
-      "letterboxd_rating_count": 8251,
+      "letterboxd_rating_count": 8336,
       "letterboxd_url": "https://letterboxd.com/film/elsinore/",
       "awards": "N/A",
       "language": "English",
@@ -71378,7 +71420,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 4.18,
-      "letterboxd_rating_count": 4538,
+      "letterboxd_rating_count": 4581,
       "letterboxd_url": "https://letterboxd.com/film/george-michael-the-faith-tour/",
       "awards": "N/A",
       "language": "English",
@@ -72113,7 +72155,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 4,
-      "letterboxd_rating_count": 377282,
+      "letterboxd_rating_count": 379987,
       "letterboxd_url": "https://letterboxd.com/film/godzilla-minus-zero/",
       "awards": "N/A",
       "language": "Japanese",
@@ -73636,7 +73678,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.08,
-      "letterboxd_rating_count": 49146,
+      "letterboxd_rating_count": 50464,
       "letterboxd_url": "https://letterboxd.com/film/how-to-rob-a-bank-2026/",
       "awards": "N/A",
       "language": "English",
@@ -73943,7 +73985,7 @@
           "auditorium": 2,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-20/34thstreet/all/148005685",
-          "sold_out": false,
+          "sold_out": true,
           "almost_sold_out": false,
           "cancelled": false,
           "has_trailers": false,
@@ -73970,48 +74012,6 @@
             {
               "type": "SENIOR",
               "price": 19.99,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 2116,
-          "theater": "AMC Lincoln Square 13",
-          "showtime_id": 148778414,
-          "datetime": "2026-11-20T23:00:00",
-          "datetime_utc": "2026-11-21T04:00:00Z",
-          "auditorium": 5,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-20/lincolnsquare/all/148778414",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "AMC Club Rockers",
-            "AOneLive",
-            "Closed Caption",
-            "Audio Description",
-            "Laser at AMC",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 22.49,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 19.49,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 20.99,
               "tax": 0.0
             }
           ]
@@ -75116,7 +75116,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.78,
-      "letterboxd_rating_count": 42979,
+      "letterboxd_rating_count": 44199,
       "letterboxd_url": "https://letterboxd.com/film/i-play-rocky/",
       "awards": "N/A",
       "language": "English",
@@ -79642,7 +79642,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 4.04,
-      "letterboxd_rating_count": 11620,
+      "letterboxd_rating_count": 11699,
       "letterboxd_url": "https://letterboxd.com/film/josephine-2026/",
       "awards": "1 nomination total",
       "language": "English",
@@ -79868,7 +79868,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-20/lincolnsquare/all/148593699",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -80832,7 +80832,7 @@
       "rotten_tomatoes": null,
       "metacritic": "79/100",
       "letterboxd_rating": 3.38,
-      "letterboxd_rating_count": 24231,
+      "letterboxd_rating_count": 24487,
       "letterboxd_url": "https://letterboxd.com/film/paper-tiger-2026/",
       "awards": "1 win & 3 nominations total",
       "language": "English",
@@ -81947,8 +81947,8 @@
       "imdb_votes": "N/A",
       "rotten_tomatoes": null,
       "metacritic": null,
-      "letterboxd_rating": 3.57,
-      "letterboxd_rating_count": 61785,
+      "letterboxd_rating": 3.56,
+      "letterboxd_rating_count": 62504,
       "letterboxd_url": "https://letterboxd.com/film/ramayana-rise-of-a-legend/",
       "awards": "N/A",
       "language": "Hindi",
@@ -82616,7 +82616,7 @@
       "rotten_tomatoes": null,
       "metacritic": "47/100",
       "letterboxd_rating": 3.08,
-      "letterboxd_rating_count": 18551,
+      "letterboxd_rating_count": 18741,
       "letterboxd_url": "https://letterboxd.com/film/the-cat-in-the-hat-2026/",
       "awards": "N/A",
       "language": "English",
@@ -82705,47 +82705,6 @@
             {
               "type": "SENIOR",
               "price": 23.09,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 2102,
-          "theater": "AMC 84th Street 6",
-          "showtime_id": 148789697,
-          "datetime": "2026-11-19T22:45:00",
-          "datetime_utc": "2026-11-20T03:45:00Z",
-          "auditorium": 5,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-19/84thstreet/all/148789697",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "Closed Caption",
-            "Audio Description",
-            "Laser at AMC",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 23.49,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 20.49,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 21.99,
               "tax": 0.0
             }
           ]
@@ -86402,8 +86361,8 @@
       "imdb_votes": "N/A",
       "rotten_tomatoes": null,
       "metacritic": null,
-      "letterboxd_rating": 4.12,
-      "letterboxd_rating_count": 116072,
+      "letterboxd_rating": 4.1,
+      "letterboxd_rating_count": 160963,
       "letterboxd_url": "https://letterboxd.com/film/the-hunger-games-sunrise-on-the-reaping/",
       "awards": "N/A",
       "language": "English",
@@ -86424,7 +86383,7 @@
           "premium_format": "IMAX at AMC",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-19/lincolnsquare/all/148174837",
           "sold_out": false,
-          "almost_sold_out": true,
+          "almost_sold_out": false,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": true,
@@ -87378,7 +87337,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-19/34thstreet/all/148400460",
           "sold_out": false,
-          "almost_sold_out": true,
+          "almost_sold_out": false,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -88412,6 +88371,47 @@
           "auditorium": 3,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-19/84thstreet/all/148001631",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "AMC Signature Recliners",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 26.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 23.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 24.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2102,
+          "theater": "AMC 84th Street 6",
+          "showtime_id": 148956362,
+          "datetime": "2026-11-19T22:45:00",
+          "datetime_utc": "2026-11-20T03:45:00Z",
+          "auditorium": 5,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-19/84thstreet/all/148956362",
           "sold_out": false,
           "almost_sold_out": false,
           "cancelled": false,
@@ -89865,7 +89865,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-20/34thstreet/all/148784239",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -90072,7 +90072,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-20/84thstreet/all/148001698",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -90139,6 +90139,48 @@
             {
               "type": "SENIOR",
               "price": 30.99,
+              "tax": 0.0
+            }
+          ]
+        },
+        {
+          "source": "AMC",
+          "theater_id": 2116,
+          "theater": "AMC Lincoln Square 13",
+          "showtime_id": 148956703,
+          "datetime": "2026-11-20T22:30:00",
+          "datetime_utc": "2026-11-21T03:30:00Z",
+          "auditorium": 5,
+          "premium_format": "Standard",
+          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-20/lincolnsquare/all/148956703",
+          "sold_out": false,
+          "almost_sold_out": false,
+          "cancelled": false,
+          "has_trailers": false,
+          "discount_matinee": false,
+          "discount_message": null,
+          "attributes": [
+            "AMC Club Rockers",
+            "AOneLive",
+            "Closed Caption",
+            "Audio Description",
+            "Laser at AMC",
+            "Reserved Seating"
+          ],
+          "ticket_prices": [
+            {
+              "type": "ADULT",
+              "price": 25.49,
+              "tax": 0.0
+            },
+            {
+              "type": "CHILD",
+              "price": 22.49,
+              "tax": 0.0
+            },
+            {
+              "type": "SENIOR",
+              "price": 23.99,
               "tax": 0.0
             }
           ]
@@ -92809,7 +92851,7 @@
           "premium_format": "Dolby Cinema at AMC",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-22/34thstreet/all/148005887",
           "sold_out": false,
-          "almost_sold_out": true,
+          "almost_sold_out": false,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": true,
@@ -94879,7 +94921,7 @@
           "premium_format": "Dolby Cinema at AMC",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-23/lincolnsquare/all/148174727",
           "sold_out": false,
-          "almost_sold_out": true,
+          "almost_sold_out": false,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -102522,7 +102564,7 @@
       "rotten_tomatoes": null,
       "metacritic": "88/100",
       "letterboxd_rating": 4.33,
-      "letterboxd_rating_count": 4825044,
+      "letterboxd_rating_count": 4829316,
       "letterboxd_url": "https://letterboxd.com/film/the-odyssey-2026/",
       "awards": "4 wins total",
       "language": "English, Greek",
@@ -102543,7 +102585,7 @@
           "premium_format": "70MM at AMC",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-11/lincolnsquare/all/148939694",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": true,
@@ -102881,7 +102923,7 @@
           "auditorium": 13,
           "premium_format": "70MM at AMC",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-12-14/lincolnsquare/all/148939701",
-          "sold_out": true,
+          "sold_out": false,
           "almost_sold_out": false,
           "cancelled": false,
           "has_trailers": false,
@@ -103116,7 +103158,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 3.45,
-      "letterboxd_rating_count": 45486,
+      "letterboxd_rating_count": 45737,
       "letterboxd_url": "https://letterboxd.com/film/the-only-living-pickpocket-in-new-york/",
       "awards": "N/A",
       "language": "English",
@@ -105661,7 +105703,7 @@
       "rotten_tomatoes": null,
       "metacritic": "70/100",
       "letterboxd_rating": 3.65,
-      "letterboxd_rating_count": 224837,
+      "letterboxd_rating_count": 225934,
       "letterboxd_url": "https://letterboxd.com/film/wicker/",
       "awards": "2 wins & 1 nomination total",
       "language": "English",
@@ -105961,7 +106003,7 @@
       "rotten_tomatoes": null,
       "metacritic": null,
       "letterboxd_rating": 4.15,
-      "letterboxd_rating_count": 281566,
+      "letterboxd_rating_count": 286235,
       "letterboxd_url": "https://letterboxd.com/film/wild-horse-nine/",
       "awards": "N/A",
       "language": "English",
@@ -106229,7 +106271,7 @@
           "auditorium": 7,
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-20/34thstreet/all/148784154",
-          "sold_out": false,
+          "sold_out": true,
           "almost_sold_out": false,
           "cancelled": false,
           "has_trailers": false,
@@ -108153,7 +108195,7 @@
       "rotten_tomatoes": null,
       "metacritic": "88/100",
       "letterboxd_rating": 4.38,
-      "letterboxd_rating_count": 605807,
+      "letterboxd_rating_count": 609283,
       "letterboxd_url": "https://letterboxd.com/film/wildwood-2026/",
       "awards": "1 win total",
       "language": "English",
@@ -108257,7 +108299,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-19/34thstreet/all/148784089",
           "sold_out": false,
-          "almost_sold_out": true,
+          "almost_sold_out": false,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": false,
@@ -109205,7 +109247,7 @@
       "rotten_tomatoes": null,
       "metacritic": "98/100",
       "letterboxd_rating": 4.58,
-      "letterboxd_rating_count": 858703,
+      "letterboxd_rating_count": 865487,
       "letterboxd_url": "https://letterboxd.com/film/you-can-see-everything/",
       "awards": "N/A",
       "language": "English",
@@ -109676,48 +109718,6 @@
             {
               "type": "SENIOR",
               "price": 21.99,
-              "tax": 0.0
-            }
-          ]
-        },
-        {
-          "source": "AMC",
-          "theater_id": 2120,
-          "theater": "AMC 34th Street 14",
-          "showtime_id": 148784325,
-          "datetime": "2026-11-19T22:30:00",
-          "datetime_utc": "2026-11-20T03:30:00Z",
-          "auditorium": 11,
-          "premium_format": "Standard",
-          "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-19/34thstreet/all/148784325",
-          "sold_out": true,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [
-            "AMC Artisan Films",
-            "Closed Caption",
-            "Audio Description",
-            "Laser at AMC",
-            "AMC Signature Recliners",
-            "Reserved Seating"
-          ],
-          "ticket_prices": [
-            {
-              "type": "ADULT",
-              "price": 21.49,
-              "tax": 0.0
-            },
-            {
-              "type": "CHILD",
-              "price": 18.49,
-              "tax": 0.0
-            },
-            {
-              "type": "SENIOR",
-              "price": 19.99,
               "tax": 0.0
             }
           ]
@@ -111203,7 +111203,7 @@
           "premium_format": "Standard",
           "purchase_url": "https://www.amctheatres.com/showtimes/all/2026-11-22/lincolnsquare/all/148749581",
           "sold_out": false,
-          "almost_sold_out": false,
+          "almost_sold_out": true,
           "cancelled": false,
           "has_trailers": false,
           "discount_matinee": true,

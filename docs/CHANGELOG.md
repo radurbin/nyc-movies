@@ -1,3 +1,18 @@
+## 2026-11-19 05:00 PM CST
+
+**Showtime changes:**
+- The Hunger Games: Sunrise on the Reaping
+  - + AMC 84th Street 6 @ 2026-11-19T22:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-20T22:30:00 (Standard)
+- The Cat in the Hat
+  - − AMC 84th Street 6 @ 2026-11-19T22:45:00 (Standard)
+- You Can See Everything
+  - − AMC 34th Street 14 @ 2026-11-19T22:30:00 (Standard)
+- How to Rob a Bank
+  - − AMC Lincoln Square 13 @ 2026-11-20T23:00:00 (Standard)
+- Club Kid
+  - + AMC 34th Street 14 @ 2026-11-19T22:30:00 (Standard)
+
 ## 2026-11-19 06:47 AM CST
 
 **Movies removed:**
