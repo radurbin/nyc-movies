@@ -1,3 +1,9 @@
+## 2026-11-20 04:36 PM CST
+
+**Showtime changes:**
+- Ebenezer
+  - − AMC 84th Street 6 @ 2026-11-20T23:15:00 (Standard)
+
 ## 2026-11-20 06:42 AM CST
 
 **Movies added:**
