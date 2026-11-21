@@ -1,3 +1,24 @@
+## 2026-11-21 03:34 PM CST
+
+**Showtime changes:**
+- The Hunger Games: Sunrise on the Reaping
+  - + AMC 34th Street 14 @ 2026-11-23T19:40:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-23T19:40:00 (RealD 3D)
+- Club Kid
+  - + AMC Lincoln Square 13 @ 2026-11-23T11:00:00 (Standard)
+- Dune: Part Three
+  - + AMC Lincoln Square 13 @ 2026-12-19T12:30:00 (70MM at AMC)
+  - + AMC Lincoln Square 13 @ 2026-12-19T16:00:00 (70MM at AMC)
+  - + AMC Lincoln Square 13 @ 2026-12-19T19:30:00 (70MM at AMC)
+  - + AMC Lincoln Square 13 @ 2026-12-19T23:00:00 (70MM at AMC)
+  - + AMC Lincoln Square 13 @ 2026-12-20T09:15:00 (70MM at AMC)
+  - + AMC Lincoln Square 13 @ 2026-12-20T12:30:00 (70MM at AMC)
+  - + AMC Lincoln Square 13 @ 2026-12-20T16:00:00 (70MM at AMC)
+  - + AMC Lincoln Square 13 @ 2026-12-20T19:30:00 (70MM at AMC)
+  - + AMC Lincoln Square 13 @ 2026-12-20T23:00:00 (70MM at AMC)
+  - + AMC Lincoln Square 13 @ 2026-12-22T19:30:00 (70MM at AMC)
+  - + AMC Lincoln Square 13 @ 2026-12-27T12:30:00 (70MM at AMC)
+
 ## 2026-11-21 06:24 AM CST
 
 **Showtime changes:**
