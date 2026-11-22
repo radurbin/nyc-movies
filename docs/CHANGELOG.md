@@ -1,3 +1,17 @@
+## 2026-11-22 03:40 PM CST
+
+**Showtime changes:**
+- Ebenezer
+  - + AMC 34th Street 14 @ 2026-11-23T23:00:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-23T22:00:00 (Standard)
+- Club Kid
+  - + AMC 34th Street 14 @ 2026-11-23T22:00:00 (Standard)
+- The Hunger Games: Sunrise on the Reaping
+  - + AMC 34th Street 14 @ 2026-11-23T19:25:00 (Standard)
+- How to Rob a Bank
+  - − AMC 34th Street 14 @ 2026-11-23T19:30:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-23T22:30:00 (Standard)
+
 ## 2026-11-22 06:27 AM CST
 
 **Movies removed:**
