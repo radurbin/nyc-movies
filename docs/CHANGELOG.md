@@ -1,3 +1,23 @@
+## 2026-11-22 08:28 PM CST
+
+**Showtime changes:**
+- Ebenezer
+  - + AMC 84th Street 6 @ 2026-11-23T23:00:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-11-23T23:15:00 (Standard)
+- You Can See Everything
+  - + AMC 84th Street 6 @ 2026-11-22T22:00:00 (Standard)
+  - + AMC 84th Street 6 @ 2026-11-23T22:10:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-11-22T22:15:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-11-23T22:45:00 (Standard)
+- The Hunger Games: Sunrise on the Reaping
+  - + AMC 84th Street 6 @ 2026-11-22T22:30:00 (RealD 3D)
+  - + AMC 84th Street 6 @ 2026-11-23T22:35:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-11-22T22:45:00 (RealD 3D)
+  - − AMC 84th Street 6 @ 2026-11-23T23:00:00 (Standard)
+- The Cat in the Hat
+  - + AMC 84th Street 6 @ 2026-11-23T22:30:00 (RealD 3D)
+  - − AMC 84th Street 6 @ 2026-11-23T22:45:00 (RealD 3D)
+
 ## 2026-11-22 03:40 PM CST
 
 **Showtime changes:**
