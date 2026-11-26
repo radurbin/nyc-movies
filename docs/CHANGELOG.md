@@ -1,3 +1,58 @@
+## 2026-11-25 06:08 PM CST
+
+**Movies added:**
+- Prince 3121 Las Vegas Live
+
+**Showtime changes:**
+- I Play Rocky
+  - + AMC Lincoln Square 13 @ 2026-11-26T09:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-26T21:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-27T09:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-27T21:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-28T09:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-28T21:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-29T09:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-29T21:15:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-30T10:45:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-30T22:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-12-01T10:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-12-01T22:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-12-02T10:30:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-11-26T23:00:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-11-27T23:00:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-11-28T23:00:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-11-29T23:00:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-12-01T22:30:00 (Standard)
+- Paper Tiger
+  - + AMC Lincoln Square 13 @ 2026-11-29T23:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-12-01T22:30:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-11-26T09:15:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-11-27T09:15:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-11-28T09:15:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-11-29T21:15:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-11-30T22:30:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-12-01T22:00:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-12-02T10:30:00 (Standard)
+- Focker In-Law
+  - + AMC 84th Street 6 @ 2026-11-25T23:00:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-11-25T23:15:00 (Standard)
+- Josephine
+  - + AMC Lincoln Square 13 @ 2026-11-26T23:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-27T23:00:00 (Standard)
+  - + AMC Lincoln Square 13 @ 2026-11-28T23:00:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-11-26T21:45:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-11-27T21:45:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-11-28T21:45:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-11-29T09:15:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-11-30T10:00:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-12-01T10:00:00 (Standard)
+- Elsinore
+  - + AMC Lincoln Square 13 @ 2026-11-30T22:30:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-11-30T22:00:00 (Standard)
+- Ebenezer
+  - + AMC Lincoln Square 13 @ 2026-11-30T10:00:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-11-30T11:00:00 (Standard)
+
 ## 2026-11-25 08:07 AM CST
 
 **Movies removed:**
