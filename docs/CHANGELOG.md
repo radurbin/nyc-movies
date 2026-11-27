@@ -1,3 +1,18 @@
+## 2026-11-26 06:30 PM CST
+
+**Showtime changes:**
+- The Cat in the Hat
+  - − AMC 84th Street 6 @ 2026-11-26T16:00:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-11-26T19:15:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-11-27T12:45:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-11-27T19:15:00 (Standard)
+- The Hunger Games: Sunrise on the Reaping
+  - + AMC 84th Street 6 @ 2026-11-26T15:30:00 (RealD 3D)
+- Focker In-Law
+  - + AMC 84th Street 6 @ 2026-11-26T19:15:00 (Standard)
+  - + AMC 84th Street 6 @ 2026-11-27T12:45:00 (Standard)
+  - + AMC 84th Street 6 @ 2026-11-27T19:15:00 (Standard)
+
 ## 2026-11-26 07:44 AM CST
 
 **Showtime changes:**
