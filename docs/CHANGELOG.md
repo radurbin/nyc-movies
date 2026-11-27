@@ -1,3 +1,45 @@
+## 2026-11-27 05:59 PM CST
+
+**Showtime changes:**
+- Club Kid
+  - + AMC Lincoln Square 13 @ 2026-12-01T18:15:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-12-01T16:15:00 (Standard)
+- Ebenezer
+  - + AMC 84th Street 6 @ 2026-11-27T23:00:00 (Standard)
+  - + AMC 84th Street 6 @ 2026-11-28T23:00:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-11-27T23:15:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-11-28T23:15:00 (Standard)
+- The Cat in the Hat
+  - − AMC 84th Street 6 @ 2026-11-28T12:45:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-11-28T19:15:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-11-29T12:45:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-11-29T19:15:00 (Standard)
+- Wild Horse Nine
+  - + AMC Lincoln Square 13 @ 2026-12-01T21:45:00 (Standard)
+  - − AMC Lincoln Square 13 @ 2026-12-01T22:15:00 (Standard)
+- The Hunger Games: Sunrise on the Reaping
+  - + AMC 84th Street 6 @ 2026-11-27T22:20:00 (RealD 3D)
+  - + AMC 34th Street 14 @ 2026-11-28T17:00:00 (Standard)
+  - + AMC 84th Street 6 @ 2026-11-28T22:20:00 (RealD 3D)
+  - − AMC 84th Street 6 @ 2026-11-27T22:30:00 (RealD 3D)
+  - − AMC 34th Street 14 @ 2026-11-28T17:00:00 (RealD 3D)
+  - − AMC 84th Street 6 @ 2026-11-28T22:30:00 (RealD 3D)
+- You Can See Everything
+  - + AMC 84th Street 6 @ 2026-11-27T22:00:00 (Standard)
+  - + AMC 84th Street 6 @ 2026-11-28T22:00:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-11-27T22:15:00 (Standard)
+  - − AMC 84th Street 6 @ 2026-11-28T22:15:00 (Standard)
+- Focker In-Law
+  - + AMC 34th Street 14 @ 2026-11-27T19:40:00 (Standard)
+  - + AMC 34th Street 14 @ 2026-11-27T23:00:00 (Standard)
+  - + AMC 84th Street 6 @ 2026-11-28T12:45:00 (Standard)
+  - + AMC 84th Street 6 @ 2026-11-28T19:15:00 (Standard)
+  - + AMC 84th Street 6 @ 2026-11-29T12:45:00 (Standard)
+  - + AMC 84th Street 6 @ 2026-11-29T19:15:00 (Standard)
+- Paper Tiger
+  - − AMC 34th Street 14 @ 2026-11-27T19:45:00 (Standard)
+  - − AMC 34th Street 14 @ 2026-11-27T23:00:00 (Standard)
+
 ## 2026-11-27 07:41 AM CST
 
 **Showtime changes:**
